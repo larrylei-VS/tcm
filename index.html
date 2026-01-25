@@ -2,19 +2,52 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>中医方剂笔记</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  
+  <style>
+    /* 2. 程序员专属：强制手机端布局优化 */
+    @media screen and (max-width: 768px) {
+      /* 让侧边栏默认隐藏，点击汉堡菜单才弹出 */
+      .sidebar {
+        left: -300px; /* 初始位置在屏幕外 */
+        transition: transform 250ms ease-out;
+      }
+      /* 当侧边栏激活时显示 */
+      body.close .sidebar {
+        transform: translateX(300px);
+      }
+      /* 强制主体文字占据 100% 宽度，不再被挤压 */
+      .content {
+        left: 0 !important;
+        margin: 0 !important;
+        width: 100% !important;
+        position: static !important;
+      }
+      /* 调大手机端字号，方便在圣凯瑟琳学习时查阅 */
+      .markdown-section {
+        font-size: 16px !important;
+        padding: 15px !important;
+      }
+    }
+  </style>
 </head>
 <body>
   <div id="app">加载中...</div>
   <script>
     window.$docsify = {
       name: '方剂库',
-      repo: '',
-      loadSidebar: false, // 开启侧边栏
-      subMaxLevel: 2
+      loadSidebar: true,
+      subMaxLevel: 2,
+      // 添加搜索功能
+      search: {
+        paths: 'auto',
+        placeholder: '搜索方剂...',
+        noData: '未找到结果',
+        depth: 6
+      }
     }
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
