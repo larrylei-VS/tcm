@@ -58,7 +58,7 @@ Schließlich gibt _Great Compendium of Acupuncture and Moxibustion_ spezifisch
 - Fright palpitations with diminished qi: Le 5 Ligou, [He 7 Shenmen](https://app.amanualofacupuncture.com/point/HE-7) and [Ren 14 Juque](https://app.amanualofacupuncture.com/point/REN-14) (_Supplementing Life_).
 - Swelling of the lower abdomen: Le 5 Ligou, [Gb 25 Jingmen](https://app.amanualofacupuncture.com/point/GB-25) and [Le 4 Zhongfeng](https://app.amanualofacupuncture.com/point/LIV-4) (_Supplementing Life_).
 
-### 1. [LIV5 蠡沟](point/LIV5.md)
+### 1. [LIV5 蠡沟](/point/LIV5.md)
 
 #### 1.1. Woodworm Canal 蠡溝
 
@@ -70,7 +70,7 @@ Schließlich gibt _Great Compendium of Acupuncture and Moxibustion_ spezifisch
 
 #### 1.3. 定位说明
 
-将内踝尖至腘横纹的距离分为三等分，[LIV5 蠡沟](point/LIV5.md)位于下三分之一与上三分之二的交界处。
+将内踝尖至腘横纹的距离分为三等分，[LIV5 蠡沟](/point/LIV5.md)位于下三分之一与上三分之二的交界处。
 
 #### 1.4. 针刺方法
 
@@ -94,17 +94,17 @@ ii. 向近端朝腹部斜刺，深1至2寸。
 
 #### 1.7. 论述
 
-《灵枢》称：“肝主筋。”《素问》谓：“生殖器为筋之汇。”肝经原经环绕生殖器，肝经筋脉及[LIV5 蠡沟](point/LIV5.md)的络脉上行至生殖器。
+《灵枢》称：“肝主筋。”《素问》谓：“生殖器为筋之汇。”肝经原经环绕生殖器，肝经筋脉及[LIV5 蠡沟](/point/LIV5.md)的络脉上行至生殖器。
 
-[LIV5 蠡沟](point/LIV5.md)是肝经的络穴，是治疗此区域疾患的主穴，适用于肝气郁滞或肝经湿热引起的生殖器瘙痒、肿痛及突发睾丸肿痛，也用于持续勃起（阴茎异常勃起）。肝属木，对应春季，体现生长、疏泄及升发的能量。肝受托相火，其源在肾。正常勃起依赖肾之充盛及肝之和谐。青春期持续勃起可因肾精过盛及肝气亢盛而起，虽令人不安但非病态。病理性持续勃起则由肝火炽盛扰动阴茎所致，此为病态且影响功能。[LIV5 蠡沟](point/LIV5.md)是为数不多专治此症的穴位之一。
+[LIV5 蠡沟](/point/LIV5.md)是肝经的络穴，是治疗此区域疾患的主穴，适用于肝气郁滞或肝经湿热引起的生殖器瘙痒、肿痛及突发睾丸肿痛，也用于持续勃起（阴茎异常勃起）。肝属木，对应春季，体现生长、疏泄及升发的能量。肝受托相火，其源在肾。正常勃起依赖肾之充盛及肝之和谐。青春期持续勃起可因肾精过盛及肝气亢盛而起，虽令人不安但非病态。病理性持续勃起则由肝火炽盛扰动阴茎所致，此为病态且影响功能。[LIV5 蠡沟](/point/LIV5.md)是为数不多专治此症的穴位之一。
 
-[LIV5 蠡沟](point/LIV5.md)疏肝气及清湿热的作用扩展至整个下焦，适用于赤白带下、疝病、下腹胀满、脐下气聚如石、子宫脱垂、尿难及尿潴留。如大多数络穴（尤其是阴经络穴），[LIV5 蠡沟](point/LIV5.md)能治疗多种心理情绪疾患。肝经上行至咽喉，多部经典如《针灸大成》指[LIV5 蠡沟](point/LIV5.md)用于“忧郁压抑、咽中如有息肉阻塞感”，即中医所谓梅核气（咽中梗阻感），此症常因肝气郁滞及痰积引起，其强弱随情绪波动。[LIV5 蠡沟](point/LIV5.md)还用于抑郁、惊悸及恐惧惊骇，与《灵枢》“肝气虚则恐”之说相符。
+[LIV5 蠡沟](/point/LIV5.md)疏肝气及清湿热的作用扩展至整个下焦，适用于赤白带下、疝病、下腹胀满、脐下气聚如石、子宫脱垂、尿难及尿潴留。如大多数络穴（尤其是阴经络穴），[LIV5 蠡沟](/point/LIV5.md)能治疗多种心理情绪疾患。肝经上行至咽喉，多部经典如《针灸大成》指[LIV5 蠡沟](/point/LIV5.md)用于“忧郁压抑、咽中如有息肉阻塞感”，即中医所谓梅核气（咽中梗阻感），此症常因肝气郁滞及痰积引起，其强弱随情绪波动。[LIV5 蠡沟](/point/LIV5.md)还用于抑郁、惊悸及恐惧惊骇，与《灵枢》“肝气虚则恐”之说相符。
 
-肝藏血，血的顺畅依赖肝气的自由流动，肝与月经周期密切相关。[LIV5 蠡沟](point/LIV5.md)能治疗气滞血瘀引起的痛经及月经不调，因其治抑郁的能力，特别适用于伴随月经失调的抑郁症。
+肝藏血，血的顺畅依赖肝气的自由流动，肝与月经周期密切相关。[LIV5 蠡沟](/point/LIV5.md)能治疗气滞血瘀引起的痛经及月经不调，因其治抑郁的能力，特别适用于伴随月经失调的抑郁症。
 
-肝既疏气又养筋。[LIV5 蠡沟](point/LIV5.md)与其他肝经穴位一样，用于背僵及腰痛，反映肝病理在这些区域的临床重要性（见[LIV2 行间](point/LIV2.md)）。
+肝既疏气又养筋。[LIV5 蠡沟](/point/LIV5.md)与其他肝经穴位一样，用于背僵及腰痛，反映肝病理在这些区域的临床重要性（见[LIV2 行间](/point/LIV2.md)）。
 
-《针灸大成》为络穴的虚实提供具体指征，对[LIV5 蠡沟](point/LIV5.md)，实为持续勃起，虚为突发生殖器瘙痒。
+《针灸大成》为络穴的虚实提供具体指征，对[LIV5 蠡沟](/point/LIV5.md)，实为持续勃起，虚为突发生殖器瘙痒。
 
 #### 1.8. 临床应用总结
 
@@ -115,8 +115,8 @@ ii. 向近端朝腹部斜刺，深1至2寸。
 
 #### 1.9. 配伍
 
-- 尿难及遗精：[LIV5 蠡沟](point/LIV5.md) + [SP7 漏谷](point/SP7.md) + [REN3 中极](point/REN3.md) + [BL36 承扶](point/BL36.md) + [BL67 至阴](point/BL67.md)（《补命》）。
-- 月经不调：[LIV5 蠡沟](point/LIV5.md) + [LIV9 阴包](point/LIV9.md)（《补命》）。
-- 喉中气滞如息肉阻塞：[LIV5 蠡沟](point/LIV5.md) + [HE8 少府](point/HE8.md)（《千金方》）。
-- 惊悸伴气虚：[LIV5 蠡沟](point/LIV5.md) + [HE7 神门](point/HE7.md) + [REN14 巨阙](point/REN14.md)（《补命》）。
-- 下腹肿：[LIV5 蠡沟](point/LIV5.md) + [GB25 京门](point/GB25.md) + [LIV4 中封](point/LIV4.md)（《补命》）。
+- 尿难及遗精：[LIV5 蠡沟](/point/LIV5.md) + [SP7 漏谷](/point/SP7.md) + [REN3 中极](/point/REN3.md) + [BL36 承扶](/point/BL36.md) + [BL67 至阴](/point/BL67.md)（《补命》）。
+- 月经不调：[LIV5 蠡沟](/point/LIV5.md) + [LIV9 阴包](/point/LIV9.md)（《补命》）。
+- 喉中气滞如息肉阻塞：[LIV5 蠡沟](/point/LIV5.md) + [HE8 少府](/point/HE8.md)（《千金方》）。
+- 惊悸伴气虚：[LIV5 蠡沟](/point/LIV5.md) + [HE7 神门](/point/HE7.md) + [REN14 巨阙](/point/REN14.md)（《补命》）。
+- 下腹肿：[LIV5 蠡沟](/point/LIV5.md) + [GB25 京门](/point/GB25.md) + [LIV4 中封](/point/LIV4.md)（《补命》）。

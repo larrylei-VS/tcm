@@ -35,7 +35,7 @@ Transverse insertion 0.5 to 1 cun.
 
 
 ---
-### **[BL8 络却](point/BL8.md)** (LUÒQUÈ)
+### **[BL8 络却](/point/BL8.md)** (LUÒQUÈ)
 
 * **英文名称：** Declining Connection
 * **中文名称：** 络却
@@ -43,12 +43,12 @@ Transverse insertion 0.5 to 1 cun.
 
 #### **定位 (Location)**
 
-位于**[BL7 通天](point/BL7.md)** 后方1.5寸，前发际内5.5寸，距中线旁开1.5寸。
+位于**[BL7 通天](/point/BL7.md)** 后方1.5寸，前发际内5.5寸，距中线旁开1.5寸。
 
 * **定位要点 (Location Notes):**
-    * **[BL8 络却](point/BL8.md)** 最易定位在**[DU20 百会](point/DU20.md)** 旁开1.5寸，后方0.5寸处；
-    * 如果前发际不明显，请参见**[BL3 眉冲](point/BL3.md)** 的定位要点；
-    * 请注意，中线前发际到**[DU20 百会](point/DU20.md)** 的距离为5寸。
+    * **[BL8 络却](/point/BL8.md)** 最易定位在**[DU20 百会](/point/DU20.md)** 旁开1.5寸，后方0.5寸处；
+    * 如果前发际不明显，请参见**[BL3 眉冲](/point/BL3.md)** 的定位要点；
+    * 请注意，中线前发际到**[DU20 百会](/point/DU20.md)** 的距离为5寸。
 
 #### **针刺方法 (Needling)**
 
@@ -66,9 +66,9 @@ Transverse insertion 0.5 to 1 cun.
 
 #### **阐释 (Commentary)**
 
-**[BL8 络却](point/BL8.md)** 临床上较少使用。其名称“络却”可能暗示其在经络气血运行受阻时，对头部和七窍的治疗作用。
+**[BL8 络却](/point/BL8.md)** 临床上较少使用。其名称“络却”可能暗示其在经络气血运行受阻时，对头部和七窍的治疗作用。
 
-此穴主要作用于头部和七窍，能够宣利七窍，平息风邪，化痰宁神。它主治眩晕、耳鸣、鼻塞、口歪和视物模糊等症状。此外，**[BL8 络却](point/BL8.md)** 也辅助治疗癫狂、循衣摸床、癫痫、神志不清和瘿瘤等精神情志及颈部病症。其对呕吐、腹胀和昏厥的治疗也显示了其调气降逆的功效。
+此穴主要作用于头部和七窍，能够宣利七窍，平息风邪，化痰宁神。它主治眩晕、耳鸣、鼻塞、口歪和视物模糊等症状。此外，**[BL8 络却](/point/BL8.md)** 也辅助治疗癫狂、循衣摸床、癫痫、神志不清和瘿瘤等精神情志及颈部病症。其对呕吐、腹胀和昏厥的治疗也显示了其调气降逆的功效。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -77,8 +77,8 @@ Transverse insertion 0.5 to 1 cun.
 
 #### **穴位组合 (Combinations)**
 
-* 狂病伴呕吐：**[BL8 络却](point/BL8.md)**，**[KID9 筑宾](point/KID9.md)**，**[SI5 阳谷](point/SI5.md)**，**[DU19 后顶](point/DU19.md)**，**[DU18 强间](point/DU18.md)**，**[DU17 脑户](point/DU17.md)** 和 **[BL9 玉枕](point/BL9.md)**（《千金方》）。
-* 突然站立时昏厥：**[BL8 络却](point/BL8.md)** 和 **[BL7 通天](point/BL7.md)**（《千金方》）。
-* 耳鸣：**[BL8 络却](point/BL8.md)**，**[SI19 听宫](point/SI19.md)**，**[GB2 听会](point/GB2.md)**，**[SJ21 耳门](point/SJ21.md)**，**[DU20 百会](point/DU20.md)**，**[LI5 阳溪](point/LI5.md)**，**[SI2 前谷](point/SI2.md)**，**[SI3 后溪](point/SI3.md)**，**[SI4 腕骨](point/SI4.md)**，**[SJ3 中渚](point/SJ3.md)**，**[SJ2 液门](point/SJ2.md)**，**[LI1 商阳](point/LI1.md)** 和 **[BL23 肾俞](point/BL23.md)**（《针灸大成》）。
+* 狂病伴呕吐：**[BL8 络却](/point/BL8.md)**，**[KID9 筑宾](/point/KID9.md)**，**[SI5 阳谷](/point/SI5.md)**，**[DU19 后顶](/point/DU19.md)**，**[DU18 强间](/point/DU18.md)**，**[DU17 脑户](/point/DU17.md)** 和 **[BL9 玉枕](/point/BL9.md)**（《千金方》）。
+* 突然站立时昏厥：**[BL8 络却](/point/BL8.md)** 和 **[BL7 通天](/point/BL7.md)**（《千金方》）。
+* 耳鸣：**[BL8 络却](/point/BL8.md)**，**[SI19 听宫](/point/SI19.md)**，**[GB2 听会](/point/GB2.md)**，**[SJ21 耳门](/point/SJ21.md)**，**[DU20 百会](/point/DU20.md)**，**[LI5 阳溪](/point/LI5.md)**，**[SI2 前谷](/point/SI2.md)**，**[SI3 后溪](/point/SI3.md)**，**[SI4 腕骨](/point/SI4.md)**，**[SJ3 中渚](/point/SJ3.md)**，**[SJ2 液门](/point/SJ2.md)**，**[LI1 商阳](/point/LI1.md)** 和 **[BL23 肾俞](/point/BL23.md)**（《针灸大成》）。
 
 ---

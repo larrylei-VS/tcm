@@ -29,7 +29,7 @@ Perpendicular-oblique superior insertion 0.5 to 1 cun.
 - Rarely used.
 - Indicated for pain of the lumbar region and back, abdominal fullness, no desire to eat, jaundice, amenorrhoea.
 
-### 1. [DU7 中枢](point/DU7.md)
+### 1. [DU7 中枢](/point/DU7.md)
 
 #### 1.1. Central Pivot 中樞
 

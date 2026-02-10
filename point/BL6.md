@@ -38,7 +38,7 @@ Transverse insertion 0.5 to 1 cun.
 
 
 ---
-### **[BL6 承光](point/BL6.md)** (CHÉNGGUĀNG)
+### **[BL6 承光](/point/BL6.md)** (CHÉNGGUĀNG)
 
 * **英文名称：** Receiving Light
 * **中文名称：** 承光
@@ -46,11 +46,11 @@ Transverse insertion 0.5 to 1 cun.
 
 #### **定位 (Location)**
 
-位于**[BL5 五处](point/BL5.md)** 后方1.5寸，前发际内2.5寸，距中线旁开1.5寸。
+位于**[BL5 五处](/point/BL5.md)** 后方1.5寸，前发际内2.5寸，距中线旁开1.5寸。
 
 * **定位要点 (Location Notes):**
-    * 如果前发际不明显，请参见**[BL3 眉冲](point/BL3.md)** 的定位要点；
-    * 请注意，中线前发际到**[DU20 百会](point/DU20.md)** 的距离为5寸。
+    * 如果前发际不明显，请参见**[BL3 眉冲](/point/BL3.md)** 的定位要点；
+    * 请注意，中线前发际到**[DU20 百会](/point/DU20.md)** 的距离为5寸。
 
 #### **针刺方法 (Needling)**
 
@@ -70,9 +70,9 @@ Transverse insertion 0.5 to 1 cun.
 
 #### **阐释 (Commentary)**
 
-**[BL6 承光](point/BL6.md)** 临床上较少使用。其名称“承光”意为承受光明，暗示其在明目和清利头面部的作用。
+**[BL6 承光](/point/BL6.md)** 临床上较少使用。其名称“承光”意为承受光明，暗示其在明目和清利头面部的作用。
 
-此穴主要作用于头部，能够祛风清热，清头利窍。它主治头顶痛、头风眩晕，以及外障眼病、视物模糊、近视等眼部疾病。同时，它对鼻部疾患如鼻流清涕量多、鼻塞、不辨香臭也有疗效。此外，**[BL6 承光](point/BL6.md)** 也辅助治疗心烦伴呕吐和热病无汗等全身症状，这可能与其清热、调气降逆的功效有关。
+此穴主要作用于头部，能够祛风清热，清头利窍。它主治头顶痛、头风眩晕，以及外障眼病、视物模糊、近视等眼部疾病。同时，它对鼻部疾患如鼻流清涕量多、鼻塞、不辨香臭也有疗效。此外，**[BL6 承光](/point/BL6.md)** 也辅助治疗心烦伴呕吐和热病无汗等全身症状，这可能与其清热、调气降逆的功效有关。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -82,9 +82,9 @@ Transverse insertion 0.5 to 1 cun.
 
 #### **穴位组合 (Combinations)**
 
-* 头风：**[BL6 承光](point/BL6.md)**，**[BL2 攒竹](point/BL2.md)**，**[BL23 肾俞](point/BL23.md)**，**[SJ18 瘛脉](point/SJ18.md)**，**[SJ23 丝竹空](point/SJ23.md)** 和 **[SJ22 耳和髎](point/SJ22.md)**（《千金方》）。
-* 鼻塞不辨香臭：**[BL6 承光](point/BL6.md)**，**[DU23 上星](point/DU23.md)**，**[DU20 百会](point/DU20.md)** 和 **[DU22 囟会](point/DU22.md)**（《资生经》）。
-* 呕吐：**[BL6 承光](point/BL6.md)** 和 **[SP2 大都](point/SP2.md)**（《资生经》）。
-* 心烦：**[BL6 承光](point/BL6.md)**，**[DU20 百会](point/DU20.md)** 和 **[DU18 强间](point/DU18.md)**（《资生经》）。
+* 头风：**[BL6 承光](/point/BL6.md)**，**[BL2 攒竹](/point/BL2.md)**，**[BL23 肾俞](/point/BL23.md)**，**[SJ18 瘛脉](/point/SJ18.md)**，**[SJ23 丝竹空](/point/SJ23.md)** 和 **[SJ22 耳和髎](/point/SJ22.md)**（《千金方》）。
+* 鼻塞不辨香臭：**[BL6 承光](/point/BL6.md)**，**[DU23 上星](/point/DU23.md)**，**[DU20 百会](/point/DU20.md)** 和 **[DU22 囟会](/point/DU22.md)**（《资生经》）。
+* 呕吐：**[BL6 承光](/point/BL6.md)** 和 **[SP2 大都](/point/SP2.md)**（《资生经》）。
+* 心烦：**[BL6 承光](/point/BL6.md)**，**[DU20 百会](/point/DU20.md)** 和 **[DU18 强间](/point/DU18.md)**（《资生经》）。
 
 ---

@@ -63,12 +63,12 @@ Finally, the emotion associated with the Kidneys is fear, and when the Kidneys a
 - Cold of the lower extremities: Rángǔ KID-2, [Shènshū BL-23](https://app.amanualofacupuncture.com/point/BL-23) and [Jīnggǔ BL-64](https://app.amanualofacupuncture.com/point/BL-64) (Supplementing Life).
 
 
-### **[KID2 然谷](point/KID2.md)** (Rángǔ)
+### **[KID2 然谷](/point/KID2.md)** (Rángǔ)
 
 * **英文名称：** Blazing Valley
 * **中文名称：** 然谷
 * **国际代码：** KID-2
-* **穴位属性：** **[KID2 然谷](point/KID2.md)** 是肾经的荥穴和火穴。
+* **穴位属性：** **[KID2 然谷](/point/KID2.md)** 是肾经的荥穴和火穴。
 
 #### **定位 (Location)**
 
@@ -95,15 +95,15 @@ Finally, the emotion associated with the Kidneys is fear, and when the Kidneys a
 
 #### **阐释 (Commentary)**
 
-**[KID2 然谷](point/KID2.md)** (Blazing Valley) 是肾经的荥穴和火穴。根据《难经》记载，荥穴主治“身热”，对于大多数荥穴而言，其作用重点是清泻实热和火邪。然而，肾脏独特之处在于它不受实证困扰，因为肾藏真阴真阳，它们永远不会处于真正的过盛状态。因此，**[KID2 然谷](point/KID2.md)** 是清泻肾阴不足所生虚热的主要肾经穴位。
+**[KID2 然谷](/point/KID2.md)** (Blazing Valley) 是肾经的荥穴和火穴。根据《难经》记载，荥穴主治“身热”，对于大多数荥穴而言，其作用重点是清泻实热和火邪。然而，肾脏独特之处在于它不受实证困扰，因为肾藏真阴真阳，它们永远不会处于真正的过盛状态。因此，**[KID2 然谷](/point/KID2.md)** 是清泻肾阴不足所生虚热的主要肾经穴位。
 
-肾是身体阴阳之根本。肾阴具有滋养濡润以及平衡和制约命门之火的功能。当肾阴不足时，其滋养濡润功能将受损，此外命门之火可能炽盛失控。**[KID2 然谷](point/KID2.md)** 的特长，正如其名称所示，是清泻这种虚热，而非滋养肾阴。当此类热邪：i. 沿肾经上行至咽喉，引起咽喉肿痛、口干唾液不足和不能言语；ii. 夜间浮于体表引起盗汗；iii. 扰乱肺脏引起呼吸困难和咳血时，此穴皆可主治。阴虚发热也可能表现为消渴病和足底灼热烦躁不安。
+肾是身体阴阳之根本。肾阴具有滋养濡润以及平衡和制约命门之火的功能。当肾阴不足时，其滋养濡润功能将受损，此外命门之火可能炽盛失控。**[KID2 然谷](/point/KID2.md)** 的特长，正如其名称所示，是清泻这种虚热，而非滋养肾阴。当此类热邪：i. 沿肾经上行至咽喉，引起咽喉肿痛、口干唾液不足和不能言语；ii. 夜间浮于体表引起盗汗；iii. 扰乱肺脏引起呼吸困难和咳血时，此穴皆可主治。阴虚发热也可能表现为消渴病和足底灼热烦躁不安。
 
-**[KID2 然谷](point/KID2.md)** 对下焦有特殊作用。阴虚所致热邪可能引起生殖器瘙痒。当肾阴不能滋养任脉和冲脉时，女性可能出现月经不调和不孕症。当虚热扰动男性精关时，可能出现遗精或梦遗（无论是否伴梦）。男女都可能出现性欲亢进。如果肾气不足，可能出现子宫脱垂。
+**[KID2 然谷](/point/KID2.md)** 对下焦有特殊作用。阴虚所致热邪可能引起生殖器瘙痒。当肾阴不能滋养任脉和冲脉时，女性可能出现月经不调和不孕症。当虚热扰动男性精关时，可能出现遗精或梦遗（无论是否伴梦）。男女都可能出现性欲亢进。如果肾气不足，可能出现子宫脱垂。
 
-根据《景岳全书》记载：“阴阳一源……火者，水之主也，水者，火之源也……”肾阴和肾阳不足都不会孤立存在，这反映在**[KID2 然谷](point/KID2.md)** 明确具有补益肾阳的作用。这部分通过传统主治得到体现，但最清楚地反映在各种经典组合中（见下文）。因此，**[KID2 然谷](point/KID2.md)** 也可用于艾灸治疗自汗、手足寒冷、寒泻、水肿和阳痿等症。
+根据《景岳全书》记载：“阴阳一源……火者，水之主也，水者，火之源也……”肾阴和肾阳不足都不会孤立存在，这反映在**[KID2 然谷](/point/KID2.md)** 明确具有补益肾阳的作用。这部分通过传统主治得到体现，但最清楚地反映在各种经典组合中（见下文）。因此，**[KID2 然谷](/point/KID2.md)** 也可用于艾灸治疗自汗、手足寒冷、寒泻、水肿和阳痿等症。
 
-最后，与肾脏相关的情志是恐惧，当肾虚时，可能出现易恐惧惊吓和持续的警觉感，仿佛“将要被逮捕”。**[KID2 然谷](point/KID2.md)** 主治这些各种不祥的预感。
+最后，与肾脏相关的情志是恐惧，当肾虚时，可能出现易恐惧惊吓和持续的警觉感，仿佛“将要被逮捕”。**[KID2 然谷](/point/KID2.md)** 主治这些各种不祥的预感。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -112,21 +112,21 @@ Finally, the emotion associated with the Kidneys is fear, and when the Kidneys a
 
 #### **穴位组合 (Combinations)**
 
-* 咽喉内侧肿胀：**[KID2 然谷](point/KID2.md)** 和 **[KID3 太溪](point/KID3.md)**（《资生经》）。
-* 咽喉肿痛伴恶寒发热：**[KID2 然谷](point/KID2.md)** 和 **[KID1 涌泉](point/KID1.md)**（《千金方》）。
-* 失音：**[KID2 然谷](point/KID2.md)**，**[REN22 天突](point/REN22.md)**，**[HE4 灵道](point/HE4.md)**，**[KID10 阴谷](point/KID10.md)**，**[KID7 复溜](point/KID7.md)** 和 **[ST40 丰隆](point/ST40.md)**（《图翼》）。
-* 舌强：**[KID2 然谷](point/KID2.md)**，**[KID10 阴谷](point/KID10.md)**，**[DU15 哑门](point/DU15.md)**，**[LU11 少商](point/LU11.md)**，**[LU10 鱼际](point/LU10.md)**，**[LI2 二间](point/LI2.md)** 和 **[PC9 中冲](point/PC9.md)**（《针灸大成》）。
-* 流涎：**[KID2 然谷](point/KID2.md)** 和 **[KID7 复溜](point/KID7.md)**（《资生经》）。
-* 消渴病伴大渴：**[KID2 然谷](point/KID2.md)**，**[BL49 意舍](point/BL49.md)** 和 **[SJ1 关冲](point/SJ1.md)**（《资生经》）。
-* 消渴病伴大渴：**[KID2 然谷](point/KID2.md)**，**[BL49 意舍](point/BL49.md)**，**[REN24 承浆](point/REN24.md)** 和 **[SJ1 关冲](point/SJ1.md)**（《千金方》）。
-* 消渴病：**[KID2 然谷](point/KID2.md)**，**[REN24 承浆](point/REN24.md)**，金津（经外穴 **[MHN20 金津](point/MHN20.md)**），玉液（经外穴 **[MHN20 玉液](point/MHN20.md)**），**[DU26 人中](point/DU26.md)**，**[REN23 廉泉](point/REN23.md)**，**[LI11 曲池](point/LI11.md)**，**[PC8 劳宫](point/PC8.md)**，**[LIV3 太冲](point/LIV3.md)**，**[LIV2 行间](point/LIV2.md)**，**[SP5 商丘](point/SP5.md)** 和 **[SP1 隐白](point/SP1.md)**（《针灸大成》）。
-* 热病烦躁，足冷，大汗出：先针 **[KID2 然谷](point/KID2.md)**，后针 **[KID3 太溪](point/KID3.md)**（《针灸甲乙经》）。
-* 心痛如刺：**[KID2 然谷](point/KID2.md)**，**[SJ6 支沟](point/SJ6.md)** 和 **[KID3 太溪](point/KID3.md)**（《千金方》）。
-* 恐惧不安如将受捕：**[KID2 然谷](point/KID2.md)** 和 **[GB34 阳陵泉](point/GB34.md)**（《千金方》）。
-* 上腹部石水（水肿）：灸 **[KID2 然谷](point/KID2.md)**，**[ST30 气冲](point/ST30.md)**，**[KID14 四满](point/KID14.md)** 和 **[LIV13 章门](point/LIV13.md)** 三十壮（《千金方》）。
-* 遗精伴阴茎缩引：**[KID2 然谷](point/KID2.md)** 和 **[KID12 大赫](point/KID12.md)**（《资生经》）。
-* 阳痿：**[KID2 然谷](point/KID2.md)**，**[DU4 命门](point/DU4.md)**，**[BL23 肾俞](point/BL23.md)** 和 **[REN6 气海](point/REN6.md)**（《图翼》）。
-* 寒湿泻下完谷不化：**[KID2 然谷](point/KID2.md)**，**[GB25 京门](point/GB25.md)** 和 **[SP9 阴陵泉](point/SP9.md)**（《千金方》）。
-* 下肢寒冷：**[KID2 然谷](point/KID2.md)**，**[BL23 肾俞](point/BL23.md)** 和 **[BL64 京骨](point/BL64.md)**（《资生经》）。
+* 咽喉内侧肿胀：**[KID2 然谷](/point/KID2.md)** 和 **[KID3 太溪](/point/KID3.md)**（《资生经》）。
+* 咽喉肿痛伴恶寒发热：**[KID2 然谷](/point/KID2.md)** 和 **[KID1 涌泉](/point/KID1.md)**（《千金方》）。
+* 失音：**[KID2 然谷](/point/KID2.md)**，**[REN22 天突](/point/REN22.md)**，**[HE4 灵道](/point/HE4.md)**，**[KID10 阴谷](/point/KID10.md)**，**[KID7 复溜](/point/KID7.md)** 和 **[ST40 丰隆](/point/ST40.md)**（《图翼》）。
+* 舌强：**[KID2 然谷](/point/KID2.md)**，**[KID10 阴谷](/point/KID10.md)**，**[DU15 哑门](/point/DU15.md)**，**[LU11 少商](/point/LU11.md)**，**[LU10 鱼际](/point/LU10.md)**，**[LI2 二间](/point/LI2.md)** 和 **[PC9 中冲](/point/PC9.md)**（《针灸大成》）。
+* 流涎：**[KID2 然谷](/point/KID2.md)** 和 **[KID7 复溜](/point/KID7.md)**（《资生经》）。
+* 消渴病伴大渴：**[KID2 然谷](/point/KID2.md)**，**[BL49 意舍](/point/BL49.md)** 和 **[SJ1 关冲](/point/SJ1.md)**（《资生经》）。
+* 消渴病伴大渴：**[KID2 然谷](/point/KID2.md)**，**[BL49 意舍](/point/BL49.md)**，**[REN24 承浆](/point/REN24.md)** 和 **[SJ1 关冲](/point/SJ1.md)**（《千金方》）。
+* 消渴病：**[KID2 然谷](/point/KID2.md)**，**[REN24 承浆](/point/REN24.md)**，金津（经外穴 **[MHN20 金津](/point/MHN20.md)**），玉液（经外穴 **[MHN20 玉液](/point/MHN20.md)**），**[DU26 人中](/point/DU26.md)**，**[REN23 廉泉](/point/REN23.md)**，**[LI11 曲池](/point/LI11.md)**，**[PC8 劳宫](/point/PC8.md)**，**[LIV3 太冲](/point/LIV3.md)**，**[LIV2 行间](/point/LIV2.md)**，**[SP5 商丘](/point/SP5.md)** 和 **[SP1 隐白](/point/SP1.md)**（《针灸大成》）。
+* 热病烦躁，足冷，大汗出：先针 **[KID2 然谷](/point/KID2.md)**，后针 **[KID3 太溪](/point/KID3.md)**（《针灸甲乙经》）。
+* 心痛如刺：**[KID2 然谷](/point/KID2.md)**，**[SJ6 支沟](/point/SJ6.md)** 和 **[KID3 太溪](/point/KID3.md)**（《千金方》）。
+* 恐惧不安如将受捕：**[KID2 然谷](/point/KID2.md)** 和 **[GB34 阳陵泉](/point/GB34.md)**（《千金方》）。
+* 上腹部石水（水肿）：灸 **[KID2 然谷](/point/KID2.md)**，**[ST30 气冲](/point/ST30.md)**，**[KID14 四满](/point/KID14.md)** 和 **[LIV13 章门](/point/LIV13.md)** 三十壮（《千金方》）。
+* 遗精伴阴茎缩引：**[KID2 然谷](/point/KID2.md)** 和 **[KID12 大赫](/point/KID12.md)**（《资生经》）。
+* 阳痿：**[KID2 然谷](/point/KID2.md)**，**[DU4 命门](/point/DU4.md)**，**[BL23 肾俞](/point/BL23.md)** 和 **[REN6 气海](/point/REN6.md)**（《图翼》）。
+* 寒湿泻下完谷不化：**[KID2 然谷](/point/KID2.md)**，**[GB25 京门](/point/GB25.md)** 和 **[SP9 阴陵泉](/point/SP9.md)**（《千金方》）。
+* 下肢寒冷：**[KID2 然谷](/point/KID2.md)**，**[BL23 肾俞](/point/BL23.md)** 和 **[BL64 京骨](/point/BL64.md)**（《资生经》）。
 
 ---

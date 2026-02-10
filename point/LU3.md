@@ -52,15 +52,15 @@ Tiānfǔ LU-3 is also indicated for _'floating corpse ghost talk'_. This term 
 - Kropf, Halstumor und geschwollener Hals: Lu 3 Tianfu, [Ma 11 Qishe](https://app.amanualofacupuncture.com/point/ST-11) und [Dü 13 Quyuan](https://app.amanualofacupuncture.com/point/SI-13) (Supplementing Life).
 - Schmerzhafte Blockade mit Schwierigkeit den Ellbogen zu beugen und zu strecken, Schmerz und Schwere des Arms mit akutem Schmerz der Axilla: Lu 3 Tianfu, [Dü 13 Quyuan](https://app.amanualofacupuncture.com/point/SI-13) und [Ma 11 Qishe](https://app.amanualofacupuncture.com/point/ST-11) (Thousand Ducat Formulas).
 
-### 1. [LU3 天府](point/LU3.md)
+### 1. [LU3 天府](/point/LU3.md)
 
 #### 1.2. 定位
 
-位于上臂前外侧，腋窝褶下3寸，[LU5 尺泽](point/LU5.md)上6寸，肱二头肌外侧缘与肱骨干之间的凹陷处。
+位于上臂前外侧，腋窝褶下3寸，[LU5 尺泽](/point/LU5.md)上6寸，肱二头肌外侧缘与肱骨干之间的凹陷处。
 
 #### 1.3. 定位说明
 
-将腋窝褶至肘窝分为三等分，[LU3 天府](point/LU3.md)位于上三分之一与中三分之一交界处。
+将腋窝褶至肘窝分为三等分，[LU3 天府](/point/LU3.md)位于上三分之一与中三分之一交界处。
 
 #### 1.4. 针刺方法
 
@@ -81,13 +81,13 @@ Tiānfǔ LU-3 is also indicated for _'floating corpse ghost talk'_. This term 
 
 #### 1.7. 论述
 
-《医源论》称：“肺为娇脏，寒热皆不宜……过热则火熔金，血动。”《灵枢》早指[LU3 天府](point/LU3.md)用于“暴渴内逆，肝肺相争，血溢口鼻”，明确指肝火犯肺。肝经支脉穿过膈膜散于肺，肝火上冲灼肺，伤血脉（口鼻血溢）及津液（渴），常伴阵发性剧咳、面红，或哮喘、呼吸困难，受挫怒诱发或加重。  
+《医源论》称：“肺为娇脏，寒热皆不宜……过热则火熔金，血动。”《灵枢》早指[LU3 天府](/point/LU3.md)用于“暴渴内逆，肝肺相争，血溢口鼻”，明确指肝火犯肺。肝经支脉穿过膈膜散于肺，肝火上冲灼肺，伤血脉（口鼻血溢）及津液（渴），常伴阵发性剧咳、面红，或哮喘、呼吸困难，受挫怒诱发或加重。  
 
-《灵枢》列[LU3 天府](point/LU3.md)为五“天窗”穴之一，与此类穴共能：1. 治颈部气痰瘀滞之瘿病，2. 降肺气，3. 利感官（眼部，视眩、近视）。其治瘿病及眼疾与上臂三穴（[LU3 天府](point/LU3.md)、[LI14 臂臑](point/LI14.md)、[SI13 曲垣](point/SI13.md)）相同，无明确原因，多为经验观察。  
+《灵枢》列[LU3 天府](/point/LU3.md)为五“天窗”穴之一，与此类穴共能：1. 治颈部气痰瘀滞之瘿病，2. 降肺气，3. 利感官（眼部，视眩、近视）。其治瘿病及眼疾与上臂三穴（[LU3 天府](/point/LU3.md)、[LI14 臂臑](/point/LI14.md)、[SI13 曲垣](/point/SI13.md)）相同，无明确原因，多为经验观察。  
 
-中医谓肺藏魄，为精神五态之一。[LU3 天府](point/LU3.md)（天府）用于悲伤、哭泣、神志迷乱健忘、嗜睡、失眠等精神疾患。  
+中医谓肺藏魄，为精神五态之一。[LU3 天府](/point/LU3.md)（天府）用于悲伤、哭泣、神志迷乱健忘、嗜睡、失眠等精神疾患。  
 
-[LU3 天府](point/LU3.md)亦用于“浮尸鬼语”，或指肺结核末期谵语。孙思邈《千金方》特指“悲泣鬼语”，他将肺结核（时称“飞尸”）定为肺病而非鬼神病。另一解释为鬼神附体致胡言乱语，当代民俗书称鬼神渐影响者初悲敏感退缩，后如梦中，言鬼事或与鬼对话。  
+[LU3 天府](/point/LU3.md)亦用于“浮尸鬼语”，或指肺结核末期谵语。孙思邈《千金方》特指“悲泣鬼语”，他将肺结核（时称“飞尸”）定为肺病而非鬼神病。另一解释为鬼神附体致胡言乱语，当代民俗书称鬼神渐影响者初悲敏感退缩，后如梦中，言鬼事或与鬼对话。  
 
 #### 1.8. 临床应用总结
 
@@ -97,10 +97,10 @@ Tiānfǔ LU-3 is also indicated for _'floating corpse ghost talk'_. This term 
 
 #### 1.9. 配伍
 
-- 气逆喘息不能呼吸：[LU3 天府](point/LU3.md) + [KID27 俞府](point/KID27.md) + [KID25 神藏](point/KID25.md)（《补命》）。  
-- 气逆喘息、举肩呼吸、食无味：[LU3 天府](point/LU3.md) + [ST13 气户](point/ST13.md) + [LU2 云门](point/LU2.md) + [HE7 神门](point/HE7.md)（《千金方》）。  
-- 鼻衄：[LU3 天府](point/LU3.md) + [LI4 合谷](point/LI4.md)（《百症赋》）。  
-- 瘿病、喉肿：[LU3 天府](point/LU3.md) + [SI13 曲垣](point/SI13.md)（《千金方》）。  
-- 瘿病、喉肿：[LU3 天府](point/LU3.md) + [ST11 气舍](point/ST11.md) + [SI13 曲垣](point/SI13.md)（《补命》）。  
-- 痹痛难屈伸肘、臂痛重伴腋急痛：[LU3 天府](point/LU3.md) + [SI13 曲垣](point/SI13.md) + [ST11 气舍](point/ST11.md)（《千金方》）。
-- 紫白风斑（癣）：[LU3 天府](point/LU3.md) + [LU4 侠白](point/LU4.md)（《经穴探》）。
+- 气逆喘息不能呼吸：[LU3 天府](/point/LU3.md) + [KID27 俞府](/point/KID27.md) + [KID25 神藏](/point/KID25.md)（《补命》）。  
+- 气逆喘息、举肩呼吸、食无味：[LU3 天府](/point/LU3.md) + [ST13 气户](/point/ST13.md) + [LU2 云门](/point/LU2.md) + [HE7 神门](/point/HE7.md)（《千金方》）。  
+- 鼻衄：[LU3 天府](/point/LU3.md) + [LI4 合谷](/point/LI4.md)（《百症赋》）。  
+- 瘿病、喉肿：[LU3 天府](/point/LU3.md) + [SI13 曲垣](/point/SI13.md)（《千金方》）。  
+- 瘿病、喉肿：[LU3 天府](/point/LU3.md) + [ST11 气舍](/point/ST11.md) + [SI13 曲垣](/point/SI13.md)（《补命》）。  
+- 痹痛难屈伸肘、臂痛重伴腋急痛：[LU3 天府](/point/LU3.md) + [SI13 曲垣](/point/SI13.md) + [ST11 气舍](/point/ST11.md)（《千金方》）。
+- 紫白风斑（癣）：[LU3 天府](/point/LU3.md) + [LU4 侠白](/point/LU4.md)（《经穴探》）。

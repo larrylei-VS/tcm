@@ -34,7 +34,7 @@ Transverse insertion directed superiorly or inferiorly along the channel, 0.5 to
 
 
 
-### 1. [REN20 华盖](point/REN20.md)
+### 1. [REN20 华盖](/point/REN20.md)
 
 #### 1.1. Magnificent Canopy 華蓋
 
@@ -67,5 +67,5 @@ Transverse insertion directed superiorly or inferiorly along the channel, 0.5 to
 
 #### 1.8. 配伍
 
-- 气短难续不能言：[REN20 华盖](point/REN20.md) + [REN17 膻中](point/REN17.md)（《千金方》）。  
-- 慢性胁痛：[REN20 华盖](point/REN20.md) + [ST13 气户](point/ST13.md)（《百症赋》）。  
+- 气短难续不能言：[REN20 华盖](/point/REN20.md) + [REN17 膻中](/point/REN17.md)（《千金方》）。  
+- 慢性胁痛：[REN20 华盖](/point/REN20.md) + [ST13 气户](/point/ST13.md)（《百症赋》）。  

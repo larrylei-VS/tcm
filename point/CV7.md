@@ -46,7 +46,7 @@ Finally, like several points which affect the Penetrating vessel, Yīnjiāo CV-
 - Cracked and bleeding tongue: Yīnjiāo CV-7, [Nèiguān PC-6](https://app.amanualofacupuncture.com/point/PC-6) and [Tàichōng LIV-3](https://app.amanualofacupuncture.com/point/LIV-3) (Miscellaneous Diseases).
 
 
-### 1. [CV7 阴交](point/CV7.md)
+### 1. [CV7 阴交](/point/CV7.md)
 
 #### 1.1. Yin Intersection 陰交
 
@@ -76,11 +76,11 @@ Finally, like several points which affect the Penetrating vessel, Yīnjiāo CV-
 
 #### 1.6. 论述
 
-[CV7 阴交](point/CV7.md)是任脉、冲脉与肾经的交会穴，三者皆与子宫密切相关。任脉称“阴脉之海”，冲脉称“血海”，在女性均起于子宫，其成熟依赖肾的充盛。《素问》称：“女子二七，天癸至，任脉通，冲脉盛，月事以时下，故能孕。”月经疾患可为实或虚、寒或热、外感或内乱所致。因[CV7 阴交](point/CV7.md)与子宫的密切关系，可用于治疗任何病因引起的月经不调、闭经、子宫出血、恶露不尽或不孕症。  
+[CV7 阴交](/point/CV7.md)是任脉、冲脉与肾经的交会穴，三者皆与子宫密切相关。任脉称“阴脉之海”，冲脉称“血海”，在女性均起于子宫，其成熟依赖肾的充盛。《素问》称：“女子二七，天癸至，任脉通，冲脉盛，月事以时下，故能孕。”月经疾患可为实或虚、寒或热、外感或内乱所致。因[CV7 阴交](/point/CV7.md)与子宫的密切关系，可用于治疗任何病因引起的月经不调、闭经、子宫出血、恶露不尽或不孕症。  
 
-任脉起于会阴，升经生殖区；冲脉起于[ST30 气冲](point/ST30.md)，上行下腹。二脉对下腹及生殖区影响强烈，[CV7 阴交](point/CV7.md)适用于生殖器痛、上缩、瘙痒、出汗、疝病及腹脐痛等疾患。  
+任脉起于会阴，升经生殖区；冲脉起于[ST30 气冲](/point/ST30.md)，上行下腹。二脉对下腹及生殖区影响强烈，[CV7 阴交](/point/CV7.md)适用于生殖器痛、上缩、瘙痒、出汗、疝病及腹脐痛等疾患。  
 
-如影响冲脉的多个穴位，[CV7 阴交](point/CV7.md)也用于奔豚气（详见[ST30 气冲](point/ST30.md)）。  
+如影响冲脉的多个穴位，[CV7 阴交](/point/CV7.md)也用于奔豚气（详见[ST30 气冲](/point/ST30.md)）。  
 
 #### 1.7. 临床应用总结
 
@@ -89,8 +89,8 @@ Finally, like several points which affect the Penetrating vessel, Yīnjiāo CV-
 
 #### 1.8. 配伍
 
-- 子宫出血不止：[CV7 阴交](point/CV7.md) + [CV5 石门](point/CV5.md)（《补命》）。  
-- 不孕症：[CV7 阴交](point/CV7.md) + [CV5 石门](point/CV5.md)（《百症赋》）。  
-- 生殖器瘙痒：[CV7 阴交](point/CV7.md) + [LIV8 曲泉](point/LIV8.md)（《补命》）。  
-- 下腹硬痛放射至生殖器伴尿不出：[CV7 阴交](point/CV7.md) + [CV5 石门](point/CV5.md) + [BL39 委阳](point/BL39.md)（《补命》）。  
-- 舌裂出血：[CV7 阴交](point/CV7.md) + [PC6 内关](point/PC6.md) + [LIV3 太冲](point/LIV3.md)（《杂病》）。  
+- 子宫出血不止：[CV7 阴交](/point/CV7.md) + [CV5 石门](/point/CV5.md)（《补命》）。  
+- 不孕症：[CV7 阴交](/point/CV7.md) + [CV5 石门](/point/CV5.md)（《百症赋》）。  
+- 生殖器瘙痒：[CV7 阴交](/point/CV7.md) + [LIV8 曲泉](/point/LIV8.md)（《补命》）。  
+- 下腹硬痛放射至生殖器伴尿不出：[CV7 阴交](/point/CV7.md) + [CV5 石门](/point/CV5.md) + [BL39 委阳](/point/BL39.md)（《补命》）。  
+- 舌裂出血：[CV7 阴交](/point/CV7.md) + [PC6 内关](/point/PC6.md) + [LIV3 太冲](/point/LIV3.md)（《杂病》）。  

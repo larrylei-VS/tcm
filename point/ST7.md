@@ -44,23 +44,23 @@ In the treatment of facial pain and trigeminal neuralgia Xiàguān ST-7 is som
 - Yawning and pain of the lower teeth: Xiàguān ST-7, [Dàyíng ST-5](https://app.amanualofacupuncture.com/point/ST-5) and [Yìfēng SJ-17](https://app.amanualofacupuncture.com/point/SJ-17) (Thousand Ducat Formulas).
 
 ---
-### [ST7 下关](point/ST7.md) (XIÀGUĀN)
+### [ST7 下关](/point/ST7.md) (XIÀGUĀN)
 
 * **英文名称：** Below the Joint
 * **中文名称：** 下关
 * **国际代码：** ST-7
-* **穴位属性：** [ST7 下关](point/ST7.md) 是胃经与胆经的交会穴。
+* **穴位属性：** [ST7 下关](/point/ST7.md) 是胃经与胆经的交会穴。
 
 #### 定位 (Location)
 
 位于颧弓下缘，下颌骨髁状突前方的凹陷中。
 
 * **定位要点 (Location Notes):**
-    * 闭口时定位此穴，但请患者张口以更好地找到下颌骨髁状突。当手指停留在张口时的髁状突上，闭口时手指会落入[ST7 下关](point/ST7.md) 的位置。
+    * 闭口时定位此穴，但请患者张口以更好地找到下颌骨髁状突。当手指停留在张口时的髁状突上，闭口时手指会落入[ST7 下关](/point/ST7.md) 的位置。
 
 #### 针刺方法 (Needling)
 
-i. 垂直针刺，稍向下，0.5至1寸； ii. 横刺透向[SI19 听宫](point/SI19.md)、[ST6 颊车](point/ST6.md)、[SI18 颧髎](point/SI18.md) 等穴，治疗耳、牙齿、面部和下颌疾病。
+i. 垂直针刺，稍向下，0.5至1寸； ii. 横刺透向[SI19 听宫](/point/SI19.md)、[ST6 颊车](/point/ST6.md)、[SI18 颧髎](/point/SI18.md) 等穴，治疗耳、牙齿、面部和下颌疾病。
 
 #### 作用 (Actions)
 
@@ -75,9 +75,9 @@ i. 垂直针刺，稍向下，0.5至1寸； ii. 横刺透向[SI19 听宫](point/
 
 #### 阐释 (Commentary)
 
-[ST7 下关](point/ST7.md) 是治疗影响耳部（耳聋、耳鸣、耳痛、流脓）、面颊（疼痛、肿胀）、牙齿（牙痛、牙龈肿痛）和下颌（牙关紧闭、脱位）等局部疾病的重要常用穴位。其治疗耳部疾病的能力，既可由其位置解释，也可由胆经（入耳）与胃经在此穴交会的事实来解释。
+[ST7 下关](/point/ST7.md) 是治疗影响耳部（耳聋、耳鸣、耳痛、流脓）、面颊（疼痛、肿胀）、牙齿（牙痛、牙龈肿痛）和下颌（牙关紧闭、脱位）等局部疾病的重要常用穴位。其治疗耳部疾病的能力，既可由其位置解释，也可由胆经（入耳）与胃经在此穴交会的事实来解释。
 
-在治疗面部疼痛和三叉神经痛时，[ST7 下关](point/ST7.md) 有时会针刺在其教科书位置前0.5寸处。
+在治疗面部疼痛和三叉神经痛时，[ST7 下关](/point/ST7.md) 有时会针刺在其教科书位置前0.5寸处。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -85,10 +85,10 @@ i. 垂直针刺，稍向下，0.5至1寸； ii. 横刺透向[SI19 听宫](point/
 
 #### 穴位组合 (Combinations)
 
-* 耳鸣耳聋：[ST7 下关](point/ST7.md)，[LI5 阳溪](point/LI5.md)，[SJ1 关冲](point/SJ1.md)，[SJ2 液门](point/SJ2.md) 和[SI5 阳谷](point/SI5.md)（《针灸甲乙经》）。
-* 耳聋：[ST7 下关](point/ST7.md)，[SJ7 会宗](point/SJ7.md) 和[SJ17 翳风](point/SJ17.md)（《针灸甲乙经》）。
-* 牙痛和龋齿：[ST7 下关](point/ST7.md)，[ST5 大迎](point/ST5.md)，[SJ17 翳风](point/SJ17.md) 和[SI4 腕骨](point/SI4.md)（《资生经》）。
-* 半身不遂伴口眼歪斜：[ST7 下关](point/ST7.md) 和[GB3 上关](point/GB3.md)（《资生经》）。
-* 呵欠和下颌牙痛：[ST7 下关](point/ST7.md)，[ST5 大迎](point/ST5.md) 和[SJ17 翳风](point/SJ17.md)（《千金方》）。
+* 耳鸣耳聋：[ST7 下关](/point/ST7.md)，[LI5 阳溪](/point/LI5.md)，[SJ1 关冲](/point/SJ1.md)，[SJ2 液门](/point/SJ2.md) 和[SI5 阳谷](/point/SI5.md)（《针灸甲乙经》）。
+* 耳聋：[ST7 下关](/point/ST7.md)，[SJ7 会宗](/point/SJ7.md) 和[SJ17 翳风](/point/SJ17.md)（《针灸甲乙经》）。
+* 牙痛和龋齿：[ST7 下关](/point/ST7.md)，[ST5 大迎](/point/ST5.md)，[SJ17 翳风](/point/SJ17.md) 和[SI4 腕骨](/point/SI4.md)（《资生经》）。
+* 半身不遂伴口眼歪斜：[ST7 下关](/point/ST7.md) 和[GB3 上关](/point/GB3.md)（《资生经》）。
+* 呵欠和下颌牙痛：[ST7 下关](/point/ST7.md)，[ST5 大迎](/point/ST5.md) 和[SJ17 翳风](/point/SJ17.md)（《千金方》）。
 
 ---

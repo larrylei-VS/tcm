@@ -58,12 +58,12 @@ Finally, Qūzé PC-3 is also widely used for disorders of the Pericardium chan
 - Absence of sweating: Qūzé PC-3, [Fùliū KID-7](https://app.amanualofacupuncture.com/manual/points/KID/173), [Yújì LU-10](https://app.amanualofacupuncture.com/manual/points/LU/211), [Shàozé SI-1](https://app.amanualofacupuncture.com/manual/points/SI/289), [Shàngxīng DU-23](https://app.amanualofacupuncture.com/manual/points/DU/83), [Qūquán LIV-8](https://app.amanualofacupuncture.com/manual/points/LIV/208), [Kūnlún BL-60](https://app.amanualofacupuncture.com/manual/points/BL/57), [Xiáxī GB-43](https://app.amanualofacupuncture.com/manual/points/GB/133) and [Zúqiàoyīn GB-44](https://app.amanualofacupuncture.com/manual/points/GB/134) (Great Compendium).
 
 
-### **[PC3 曲泽](point/PC3.md)** (Qūzé)
+### **[PC3 曲泽](/point/PC3.md)** (Qūzé)
 
 * **英文名称：** Marsh at the Crook
 * **中文名称：** 曲泽
 * **国际代码：** PC-3
-* **穴位属性：** **[PC3 曲泽](point/PC3.md)** 是心包经的合穴和水穴。
+* **穴位属性：** **[PC3 曲泽](/point/PC3.md)** 是心包经的合穴和水穴。
 
 #### **定位 (Location)**
 
@@ -93,14 +93,14 @@ Finally, Qūzé PC-3 is also widely used for disorders of the Pericardium chan
 
 #### **阐释 (Commentary)**
 
-公元三世纪，张仲景在《伤寒论》中根据病邪传变通过六经（太阳、阳明、少阳、太阴、少阴和厥阴）来分类发热。这一理论（认为寒邪通过皮肤侵袭并进入身体）主导了中医，直到十七世纪初“温病学说”的发展（主要由吴又可、叶天士和吴鞠通发展）。温病学派强调因热邪侵袭（通过口鼻进入身体）引起的热病，并根据深浅将发热分为四个层次：卫分、气分、营分和血分。卫分和气分大致分别对应《伤寒论》的太阳病和阳明病阶段。当病理性热邪进一步深入身体时，首先进入营分，灼伤津液和阴液，扰乱心包和神志，然后进入血分，引起妄行出血。**[PC3 曲泽](point/PC3.md)**，作为心包火经的水穴，能够清热，可针刺或点刺出血治疗气分热，表现为高热、烦躁、口渴等，或治疗热邪已入营分和血分，引起烦躁不安、口干以及肺胃出血。
+公元三世纪，张仲景在《伤寒论》中根据病邪传变通过六经（太阳、阳明、少阳、太阴、少阴和厥阴）来分类发热。这一理论（认为寒邪通过皮肤侵袭并进入身体）主导了中医，直到十七世纪初“温病学说”的发展（主要由吴又可、叶天士和吴鞠通发展）。温病学派强调因热邪侵袭（通过口鼻进入身体）引起的热病，并根据深浅将发热分为四个层次：卫分、气分、营分和血分。卫分和气分大致分别对应《伤寒论》的太阳病和阳明病阶段。当病理性热邪进一步深入身体时，首先进入营分，灼伤津液和阴液，扰乱心包和神志，然后进入血分，引起妄行出血。**[PC3 曲泽](/point/PC3.md)**，作为心包火经的水穴，能够清热，可针刺或点刺出血治疗气分热，表现为高热、烦躁、口渴等，或治疗热邪已入营分和血分，引起烦躁不安、口干以及肺胃出血。
 
-根据《难经》记载：“合治逆气而泄”，而《灵枢·本输》记载：“病在胃，及以饮食不节，邪在肠胃，皆调于合”。这些理论在**[PC3 曲泽](point/PC3.md)** 中得到了清楚的体现，它具有调和胃肠，止呕止泻的功能，特别是当这些症状是急性且由热邪引起时。
-值得注意的是，心包经的内部循行向下通过膈膜至下腹部，连接上、中、下三焦，这有助于解释此穴对这些疾病的强大作用。**[PC3 曲泽](point/PC3.md)** 调和胃肠和清泻热邪的双重作用，使其特别适合治疗中暑（热射病或日射病）等夏季热病，其特点是发热、出汗、呕吐和腹泻。
+根据《难经》记载：“合治逆气而泄”，而《灵枢·本输》记载：“病在胃，及以饮食不节，邪在肠胃，皆调于合”。这些理论在**[PC3 曲泽](/point/PC3.md)** 中得到了清楚的体现，它具有调和胃肠，止呕止泻的功能，特别是当这些症状是急性且由热邪引起时。
+值得注意的是，心包经的内部循行向下通过膈膜至下腹部，连接上、中、下三焦，这有助于解释此穴对这些疾病的强大作用。**[PC3 曲泽](/point/PC3.md)** 调和胃肠和清泻热邪的双重作用，使其特别适合治疗中暑（热射病或日射病）等夏季热病，其特点是发热、出汗、呕吐和腹泻。
 
-根据《灵枢·本输》记载：“厥阴经多血少气……[因此适宜]点刺厥阴放血……”这一理论解释了点刺**[PC3 曲泽](point/PC3.md)** 放血在热性出血病例中降低血热的作用。有趣的是，《灵枢》中这段经文提到的另外两条“多血少气”的经脉之一是太阳经，这可能有助于解释**[PC3 曲泽](point/PC3.md)**（心包厥阴经的合穴，位于肘关节屈侧）与**[BL40 委中](point/BL40.md)**（膀胱太阳经的合穴，位于膝关节屈侧）之间的某些相似之处。这两个穴位（分别位于下肢和上肢的屈侧）都可以点刺放血以清泻血分之热，用于治疗中暑和伴有四肢发热、口渴不止、呕吐腹泻的霍乱吐泻。
+根据《灵枢·本输》记载：“厥阴经多血少气……[因此适宜]点刺厥阴放血……”这一理论解释了点刺**[PC3 曲泽](/point/PC3.md)** 放血在热性出血病例中降低血热的作用。有趣的是，《灵枢》中这段经文提到的另外两条“多血少气”的经脉之一是太阳经，这可能有助于解释**[PC3 曲泽](/point/PC3.md)**（心包厥阴经的合穴，位于肘关节屈侧）与**[BL40 委中](/point/BL40.md)**（膀胱太阳经的合穴，位于膝关节屈侧）之间的某些相似之处。这两个穴位（分别位于下肢和上肢的屈侧）都可以点刺放血以清泻血分之热，用于治疗中暑和伴有四肢发热、口渴不止、呕吐腹泻的霍乱吐泻。
 
-最后，**[PC3 曲泽](point/PC3.md)** 也广泛用于治疗心包经疾病，如肘、臂和手部的疼痛。它主治头颤，并像其邻近穴位**[HE3 少海](point/HE3.md)** 一样，主治手和手臂颤抖。
+最后，**[PC3 曲泽](/point/PC3.md)** 也广泛用于治疗心包经疾病，如肘、臂和手部的疼痛。它主治头颤，并像其邻近穴位**[HE3 少海](/point/HE3.md)** 一样，主治手和手臂颤抖。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -110,14 +110,14 @@ Finally, Qūzé PC-3 is also widely used for disorders of the Pericardium chan
 
 #### **穴位组合 (Combinations)**
 
-* 呕血：**[PC3 曲泽](point/PC3.md)**，**[HE7 神门](point/HE7.md)** 和 **[LU10 鱼际](point/LU10.md)**（《针灸大成》）。
-* 咯血：**[PC3 曲泽](point/PC3.md)**，**[LU6 孔最](point/LU6.md)** 和 **[BL13 肺俞](point/BL13.md)**（《资生经》）。
-* 心下动悸伴易受惊吓：**[PC3 曲泽](point/PC3.md)** 和 **[PC7 大陵](point/PC7.md)**（《千金方》）。
-* 心胸疼痛：**[PC3 曲泽](point/PC3.md)**，**[PC6 内关](point/PC6.md)** 和 **[PC7 大陵](point/PC7.md)**（《针灸大成》）。
-* 心痛：**[PC3 曲泽](point/PC3.md)**，**[PC4 郄门](point/PC4.md)** 和 **[PC7 大陵](point/PC7.md)**（《千金方》）。
-* 口干：**[PC3 曲泽](point/PC3.md)** 和 **[LIV13 章门](point/LIV13.md)**（《千金方》）。
-* 血虚口渴：**[PC3 曲泽](point/PC3.md)** 和 **[LU11 少商](point/LU11.md)**（《百症赋》）。
-* 无汗：**[PC3 曲泽](point/PC3.md)**，**[KID7 复溜](point/KID7.md)**，**[LU10 鱼际](point/LU10.md)**，**[SI1 少泽](point/SI1.md)**，**[DU23 上星](point/DU23.md)**，**[LIV8 曲泉](point/LIV8.md)**，**[BL60 昆仑](point/BL60.md)**，**[GB43 侠溪](point/GB43.md)** 和 **[GB44 足窍阴](point/GB44.md)**（《针灸大成》）。
+* 呕血：**[PC3 曲泽](/point/PC3.md)**，**[HE7 神门](/point/HE7.md)** 和 **[LU10 鱼际](/point/LU10.md)**（《针灸大成》）。
+* 咯血：**[PC3 曲泽](/point/PC3.md)**，**[LU6 孔最](/point/LU6.md)** 和 **[BL13 肺俞](/point/BL13.md)**（《资生经》）。
+* 心下动悸伴易受惊吓：**[PC3 曲泽](/point/PC3.md)** 和 **[PC7 大陵](/point/PC7.md)**（《千金方》）。
+* 心胸疼痛：**[PC3 曲泽](/point/PC3.md)**，**[PC6 内关](/point/PC6.md)** 和 **[PC7 大陵](/point/PC7.md)**（《针灸大成》）。
+* 心痛：**[PC3 曲泽](/point/PC3.md)**，**[PC4 郄门](/point/PC4.md)** 和 **[PC7 大陵](/point/PC7.md)**（《千金方》）。
+* 口干：**[PC3 曲泽](/point/PC3.md)** 和 **[LIV13 章门](/point/LIV13.md)**（《千金方》）。
+* 血虚口渴：**[PC3 曲泽](/point/PC3.md)** 和 **[LU11 少商](/point/LU11.md)**（《百症赋》）。
+* 无汗：**[PC3 曲泽](/point/PC3.md)**，**[KID7 复溜](/point/KID7.md)**，**[LU10 鱼际](/point/LU10.md)**，**[SI1 少泽](/point/SI1.md)**，**[DU23 上星](/point/DU23.md)**，**[LIV8 曲泉](/point/LIV8.md)**，**[BL60 昆仑](/point/BL60.md)**，**[GB43 侠溪](/point/GB43.md)** 和 **[GB44 足窍阴](/point/GB44.md)**（《针灸大成》）。
 
 ---
 

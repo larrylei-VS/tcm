@@ -53,12 +53,12 @@ Guānchōng SJ-1 is indicated in two other conditions. Firstly, acute disharmon
 - Wasting and thirsting disorder with great desire to drink: Guānchōng SJ-1, [Chéngjiāng REN-24](https://app.amanualofacupuncture.com/point/REN-24), [Rángǔ KID-2](https://app.amanualofacupuncture.com/point/KID-2) and [Yìshè BL-49](https://app.amanualofacupuncture.com/point/BL-49) (Thousand Ducat Formulas).
 - Heat sensation of the shoulder with inability to turn the head: Guānchōng SJ-1, [Jiānzhēn SI-9](https://app.amanualofacupuncture.com/point/SI-9) and [Jiānyú LI-15](https://app.amanualofacupuncture.com/point/LI-15) (Thousand Ducat Formulas).
 
-### **[SJ1 关冲](point/SJ1.md)** (GUĀNCHŌNG)
+### **[SJ1 关冲](/point/SJ1.md)** (GUĀNCHŌNG)
 
 * **英文名称：** Rushing Pass
 * **中文名称：** 关冲
 * **国际代码：** SJ-1
-* **穴位属性：** **[SJ1 关冲](point/SJ1.md)** 是三焦经的井穴和金穴。
+* **穴位属性：** **[SJ1 关冲](/point/SJ1.md)** 是三焦经的井穴和金穴。
 
 #### **定位 (Location)**
 
@@ -83,16 +83,16 @@ Guānchōng SJ-1 is indicated in two other conditions. Firstly, acute disharmon
 
 #### **阐释 (Commentary)**
 
-作为井穴，**[SJ1 关冲](point/SJ1.md)** 是三焦经的末端穴位，与其他井穴一样，对经络另一端（头部）有最强大的影响。**[SJ1 关冲](point/SJ1.md)** 的主要作用是清泻影响**上焦的热邪**，作为井穴，它主要用于**急性症状**。此作用体现在两个主要方面：i. 清泻经络热邪；ii. 治疗外感热病。
+作为井穴，**[SJ1 关冲](/point/SJ1.md)** 是三焦经的末端穴位，与其他井穴一样，对经络另一端（头部）有最强大的影响。**[SJ1 关冲](/point/SJ1.md)** 的主要作用是清泻影响**上焦的热邪**，作为井穴，它主要用于**急性症状**。此作用体现在两个主要方面：i. 清泻经络热邪；ii. 治疗外感热病。
 
-《玉龙歌》推荐**[SJ1 关冲](point/SJ1.md)** 治疗“三焦热结于上焦”，并说“点刺此穴可泻毒血”。三焦经上部起于胸中，经颈部上行至耳、颞部、眼睛下缘和外眼角。如果外感热邪（主要是风热）或内热（主要是肝热传导至足少阳胆经，再传导至手少阳三焦经）阻滞三焦经，可能出现耳鸣、耳聋、耳痛、头痛、眩晕、眼睛红赤、咽喉肿痛等。三焦经筋上行至舌根，**[SJ1 关冲](point/SJ1.md)** 对此区域有特殊亲和力。它主治舌强（通常因热邪伤津）、舌卷（通常因心火过盛或不足）和舌裂（通常因热邪灼伤津液），以及舌根疼痛。
+《玉龙歌》推荐**[SJ1 关冲](/point/SJ1.md)** 治疗“三焦热结于上焦”，并说“点刺此穴可泻毒血”。三焦经上部起于胸中，经颈部上行至耳、颞部、眼睛下缘和外眼角。如果外感热邪（主要是风热）或内热（主要是肝热传导至足少阳胆经，再传导至手少阳三焦经）阻滞三焦经，可能出现耳鸣、耳聋、耳痛、头痛、眩晕、眼睛红赤、咽喉肿痛等。三焦经筋上行至舌根，**[SJ1 关冲](/point/SJ1.md)** 对此区域有特殊亲和力。它主治舌强（通常因热邪伤津）、舌卷（通常因心火过盛或不足）和舌裂（通常因热邪灼伤津液），以及舌根疼痛。
 
 中医学中区分发热有三个主要系统：i. 根据六经，ii. 根据四层，以及 iii. 根据三焦。三焦理论将身体分为上、中、下三部分。根据吴鞠通在《温病条辨》中阐发的这种区分发热的方法，上焦对应肺和心包。
-《温病条辨》解释：“温邪上受，首先犯肺；继而传心包。”就外感热邪侵袭肺脏而言，这分别对应六经辨证的太阳病阶段和四层辨证的卫分，是发热最表层、最浅表的阶段，表现为恶寒发热、头痛、咽喉肿痛和眼睛红赤。如果外感热邪进一步深入侵袭心包，热邪凝结津液形成痰。痰热随后阻滞心包，扰乱心神，引起高热伴烦躁、心痛、口干伴口苦、舌强或舌卷等症状。由于**[SJ1 关冲](point/SJ1.md)** 能够清泻整个上焦，特别是其互为表里的心包经的热邪和风热，因此它能够治疗这两种证型。
+《温病条辨》解释：“温邪上受，首先犯肺；继而传心包。”就外感热邪侵袭肺脏而言，这分别对应六经辨证的太阳病阶段和四层辨证的卫分，是发热最表层、最浅表的阶段，表现为恶寒发热、头痛、咽喉肿痛和眼睛红赤。如果外感热邪进一步深入侵袭心包，热邪凝结津液形成痰。痰热随后阻滞心包，扰乱心神，引起高热伴烦躁、心痛、口干伴口苦、舌强或舌卷等症状。由于**[SJ1 关冲](/point/SJ1.md)** 能够清泻整个上焦，特别是其互为表里的心包经的热邪和风热，因此它能够治疗这两种证型。
 
-有趣的是，总的来说，三焦经的穴位治疗卫气和气分的热病以及肺部病症，而心包经的穴位治疗营分和血分的热病以及心包病症（参见“讨论”）。由于卫分、气分和肺部病症相对更浅表和阳性，这反映了这对阴阳经脉的表里关系。然而，作为三焦经的井穴，心包之气入三焦之处，**[SJ1 关冲](point/SJ1.md)** 特别适合治疗肺部和心包病症。
+有趣的是，总的来说，三焦经的穴位治疗卫气和气分的热病以及肺部病症，而心包经的穴位治疗营分和血分的热病以及心包病症（参见“讨论”）。由于卫分、气分和肺部病症相对更浅表和阳性，这反映了这对阴阳经脉的表里关系。然而，作为三焦经的井穴，心包之气入三焦之处，**[SJ1 关冲](/point/SJ1.md)** 特别适合治疗肺部和心包病症。
 
-**[SJ1 关冲](point/SJ1.md)** 还主治另外两种情况。首先，胃肠急性不和，表现为霍乱吐泻、呕吐酸水和食欲不振，这反映了三焦经正经通向中焦和下焦的内部循行。其次，它出现在一些经典组合中，用于治疗消渴病，这反映了其清热润燥，宣利口唇的能力。
+**[SJ1 关冲](/point/SJ1.md)** 还主治另外两种情况。首先，胃肠急性不和，表现为霍乱吐泻、呕吐酸水和食欲不振，这反映了三焦经正经通向中焦和下焦的内部循行。其次，它出现在一些经典组合中，用于治疗消渴病，这反映了其清热润燥，宣利口唇的能力。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -101,13 +101,13 @@ Guānchōng SJ-1 is indicated in two other conditions. Firstly, acute disharmon
 
 #### **穴位组合 (Combinations)**
 
-* 耳聋：**[SJ1 关冲](point/SJ1.md)** 和 **[GB44 足窍阴](point/GB44.md)**（《灵枢》）。
-* 耳鸣耳聋：**[SJ1 关冲](point/SJ1.md)**，**[ST7 下关](point/ST7.md)**，**[LI5 阳溪](point/LI5.md)**，**[SJ2 液门](point/SJ2.md)** 和 **[SI5 阳谷](point/SI5.md)**（《针灸甲乙经》）。
-* 耳痛，耳聋耳鸣：**[SJ1 关冲](point/SJ1.md)**，**[SJ2 液门](point/SJ2.md)**，**[SJ3 中渚](point/SJ3.md)**，**[SI16 天窗](point/SI16.md)** 和 **[LI5 阳溪](point/LI5.md)**（《千金方》）。
-* 头风眩晕：**[SJ1 关冲](point/SJ1.md)**，**[BL60 昆仑](point/BL60.md)**，**[SJ16 天牖](point/SJ16.md)**，**[BL12 风门](point/BL12.md)** 和 **[REN4 关元](point/REN4.md)**（《千金方》）。
-* 咽喉肿痛，舌卷口干：**[SJ1 关冲](point/SJ1.md)**，**[GB44 足窍阴](point/GB44.md)** 和 **[SI1 少泽](point/SI1.md)**（《千金方》）。
-* 舌软不能言语：**[SJ1 关冲](point/SJ1.md)** 和 **[DU15 哑门](point/DU15.md)**（《百症赋》）。
-* 消渴病伴大渴：**[SJ1 关冲](point/SJ1.md)**，**[REN24 承浆](point/REN24.md)**，**[KID2 然谷](point/KID2.md)** 和 **[BL49 意舍](point/BL49.md)**（《千金方》）。
-* 肩部灼热感伴头不能转动：**[SJ1 关冲](point/SJ1.md)**，**[SI9 肩贞](point/SI9.md)** 和 **[LI15 肩髃](point/LI15.md)**（《千金方》）。
+* 耳聋：**[SJ1 关冲](/point/SJ1.md)** 和 **[GB44 足窍阴](/point/GB44.md)**（《灵枢》）。
+* 耳鸣耳聋：**[SJ1 关冲](/point/SJ1.md)**，**[ST7 下关](/point/ST7.md)**，**[LI5 阳溪](/point/LI5.md)**，**[SJ2 液门](/point/SJ2.md)** 和 **[SI5 阳谷](/point/SI5.md)**（《针灸甲乙经》）。
+* 耳痛，耳聋耳鸣：**[SJ1 关冲](/point/SJ1.md)**，**[SJ2 液门](/point/SJ2.md)**，**[SJ3 中渚](/point/SJ3.md)**，**[SI16 天窗](/point/SI16.md)** 和 **[LI5 阳溪](/point/LI5.md)**（《千金方》）。
+* 头风眩晕：**[SJ1 关冲](/point/SJ1.md)**，**[BL60 昆仑](/point/BL60.md)**，**[SJ16 天牖](/point/SJ16.md)**，**[BL12 风门](/point/BL12.md)** 和 **[REN4 关元](/point/REN4.md)**（《千金方》）。
+* 咽喉肿痛，舌卷口干：**[SJ1 关冲](/point/SJ1.md)**，**[GB44 足窍阴](/point/GB44.md)** 和 **[SI1 少泽](/point/SI1.md)**（《千金方》）。
+* 舌软不能言语：**[SJ1 关冲](/point/SJ1.md)** 和 **[DU15 哑门](/point/DU15.md)**（《百症赋》）。
+* 消渴病伴大渴：**[SJ1 关冲](/point/SJ1.md)**，**[REN24 承浆](/point/REN24.md)**，**[KID2 然谷](/point/KID2.md)** 和 **[BL49 意舍](/point/BL49.md)**（《千金方》）。
+* 肩部灼热感伴头不能转动：**[SJ1 关冲](/point/SJ1.md)**，**[SI9 肩贞](/point/SI9.md)** 和 **[LI15 肩髃](/point/LI15.md)**（《千金方》）。
 
 ---

@@ -40,13 +40,13 @@ Yan Zheng-shi of the Ming dynasty, in Investigation of Points Along the Channel
 - Neck pain, joint pain and sweating: Hànyàn GB-4, [Fēiyáng BL-58](https://app.amanualofacupuncture.com/point/BL-58) and [Yǒngquǎn KID-1](https://app.amanualofacupuncture.com/point/KID-1) (Thousand Ducat Formulas).
 
 
-### 1. [GB4 颔厌](point/GB4.md)
+### 1. [GB4 颔厌](/point/GB4.md)
 
 - 胆经、三焦经和胃经的交会穴
 
 #### 1.2. 定位
 
-位于颞区，发际内，在[ST8 头维](point/ST8.md)与[GB7 曲鬓](point/GB7.md)之间四分之一处。
+位于颞区，发际内，在[ST8 头维](/point/ST8.md)与[GB7 曲鬓](/point/GB7.md)之间四分之一处。
 
 #### 1.3. 针刺方法
 
@@ -60,22 +60,22 @@ Yan Zheng-shi of the Ming dynasty, in Investigation of Points Along the Channel
 
 #### 1.5. 主治
 
-- 偏头痛、头风（双侧[MHN9 太阳](point/MHN9.md)疼痛）、身热伴头痛、视觉眩晕、外眦痛红。
+- 偏头痛、头风（双侧[MHN9 太阳](/point/MHN9.md)疼痛）、身热伴头痛、视觉眩晕、外眦痛红。
 - 耳鸣、耳痛。
 - 痉挛、牙关紧闭、癫痫、口眼歪斜、牙痛、喷嚏。
 - 颈痛、腕痛、腕不能屈、关节风伴出汗。
 
 #### 1.6. 论述
 
-明代严正氏在《经穴考》中特别推荐[GB4 颔厌](point/GB4.md)治疗头风，尤其是双侧[MHN9 太阳](point/MHN9.md)区域的疼痛。临床上，对于偏头痛，应始终按压[GB4 颔厌](point/GB4.md)，若有压痛则针刺。作为头部穴位，[GB4 颔厌](point/GB4.md)在《针灸大成》中还被指用于腕部疼痛僵硬及“关节风”（即痛痹）伴出汗的情况，这一点较为罕见。
+明代严正氏在《经穴考》中特别推荐[GB4 颔厌](/point/GB4.md)治疗头风，尤其是双侧[MHN9 太阳](/point/MHN9.md)区域的疼痛。临床上，对于偏头痛，应始终按压[GB4 颔厌](/point/GB4.md)，若有压痛则针刺。作为头部穴位，[GB4 颔厌](/point/GB4.md)在《针灸大成》中还被指用于腕部疼痛僵硬及“关节风”（即痛痹）伴出汗的情况，这一点较为罕见。
 
 #### 1.7. 临床应用总结
 
-- 用于偏头痛，尤其是双侧[MHN9 太阳](point/MHN9.md)疼痛。
+- 用于偏头痛，尤其是双侧[MHN9 太阳](/point/MHN9.md)疼痛。
 
 #### 1.8. 配伍
 
-- 偏头痛：[GB4 颔厌](point/GB4.md) + [GB5 悬颅](point/GB5.md)（《百症赋》）。
-- 风眩及偏头痛：[GB4 颔厌](point/GB4.md) + [DU21 前顶](point/DU21.md) + [DU19 后顶](point/DU19.md)（《千金方》）。
-- 风眩：[GB4 颔厌](point/GB4.md) + [DU19 后顶](point/DU19.md) + [BL9 玉枕](point/BL9.md)（《补命》）。
-- 颈痛、关节痛及出汗：[GB4 颔厌](point/GB4.md) + [BL58 飞阳](point/BL58.md) + [KID1 涌泉](point/KID1.md)（《千金方》）。
+- 偏头痛：[GB4 颔厌](/point/GB4.md) + [GB5 悬颅](/point/GB5.md)（《百症赋》）。
+- 风眩及偏头痛：[GB4 颔厌](/point/GB4.md) + [DU21 前顶](/point/DU21.md) + [DU19 后顶](/point/DU19.md)（《千金方》）。
+- 风眩：[GB4 颔厌](/point/GB4.md) + [DU19 后顶](/point/DU19.md) + [BL9 玉枕](/point/BL9.md)（《补命》）。
+- 颈痛、关节痛及出汗：[GB4 颔厌](/point/GB4.md) + [BL58 飞阳](/point/BL58.md) + [KID1 涌泉](/point/KID1.md)（《千金方》）。

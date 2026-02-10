@@ -48,20 +48,20 @@ Finally the Great Compendium of Acupuncture and Moxibustion gives specific ind
 - Dry throat: Piānlì LI-6, [Jíquán HE-1](https://app.amanualofacupuncture.com/point/HE-1), [Tàiyuān LU-9](https://app.amanualofacupuncture.com/point/LU-9), [Tàichōng LIV-3](https://app.amanualofacupuncture.com/point/LIV-3) and [Tiāntú REN-22](https://app.amanualofacupuncture.com/point/REN-22) (Supplementing Life).
 - Soreness and pain of the elbow and forearm with difficulty in extending and flexing: Piānlì LI-6 and [Shǒusānlǐ LI-10](https://app.amanualofacupuncture.com/point/LI-10) (Supplementing Life).
 
-### [LI6 偏历](point/LI6.md) (PIĀNLÌ)
+### [LI6 偏历](/point/LI6.md) (PIĀNLÌ)
 
 - **英文名称：** Veering Passage
 - **中文名称：** 偏历
 - **国际代码：** LI-6
-- **穴位属性：** [LI6 偏历](point/LI6.md) 是大肠经的络穴。
+- **穴位属性：** [LI6 偏历](/point/LI6.md) 是大肠经的络穴。
 
 #### 定位 (Location)
 
-在[LI5 阳溪](point/LI5.md) 上方3寸，在连接[LI5 阳溪](point/LI5.md) 与[LI11 曲池](point/LI11.md) 的连线上。
+在[LI5 阳溪](/point/LI5.md) 上方3寸，在连接[LI5 阳溪](/point/LI5.md) 与[LI11 曲池](/point/LI11.md) 的连线上。
 
 - **定位要点 (Location Notes):**
     - 屈肘，手臂桡侧向上时取穴；
-    - 将[LI5 阳溪](point/LI5.md) 和[LI11 曲池](point/LI11.md) 之间的距离分成两半，然后取此中点与[LI5 阳溪](point/LI5.md) 之间距离的一半处。
+    - 将[LI5 阳溪](/point/LI5.md) 和[LI11 曲池](/point/LI11.md) 之间的距离分成两半，然后取此中点与[LI5 阳溪](/point/LI5.md) 之间距离的一半处。
 
 #### 针刺方法 (Needling)
 
@@ -84,11 +84,11 @@ Finally the Great Compendium of Acupuncture and Moxibustion gives specific ind
 
 #### 阐释 (Commentary)
 
-[LI6 偏历](point/LI6.md) 是大肠经的络穴，络脉由此分支，因此得名“偏历”。从这个穴位，络脉上行至下颌和耳朵，而大肠经正经则经过下颌、鼻子和面部，然后与连接眼睛的胃经相交。和许多大肠经远端穴位一样，[LI6 偏历](point/LI6.md) 能有效清泻这些区域的风热（如牙痛、眼睛红肿疼痛、鼻出血、鼻炎等），特别适用于因外邪风热侵袭导致的耳部疾病，如耳鸣和耳聋。
+[LI6 偏历](/point/LI6.md) 是大肠经的络穴，络脉由此分支，因此得名“偏历”。从这个穴位，络脉上行至下颌和耳朵，而大肠经正经则经过下颌、鼻子和面部，然后与连接眼睛的胃经相交。和许多大肠经远端穴位一样，[LI6 偏历](/point/LI6.md) 能有效清泻这些区域的风热（如牙痛、眼睛红肿疼痛、鼻出血、鼻炎等），特别适用于因外邪风热侵袭导致的耳部疾病，如耳鸣和耳聋。
 
-从[LI6 偏历](point/LI6.md) 分出的络脉与互为表里的肺经相连。《针灸大成》记载“络穴位于两经之间……如果针刺它们，可以治疗互为表里的经脉的病症”。阳明大肠经可视为其表里阴经肺经的外在反映，其穴位常用于解散肺系统外部的邪气。当外邪风邪扰乱肺调理水道的功能时，可能出现急性水肿，特别是上半身，伴有无汗和小便不利。[LI6 偏历](point/LI6.md) 是大肠经上通调水道的主要穴位，因此可治疗小便不利、水肿、腹水和肠鸣音亢进伴水肿等症状。
+从[LI6 偏历](/point/LI6.md) 分出的络脉与互为表里的肺经相连。《针灸大成》记载“络穴位于两经之间……如果针刺它们，可以治疗互为表里的经脉的病症”。阳明大肠经可视为其表里阴经肺经的外在反映，其穴位常用于解散肺系统外部的邪气。当外邪风邪扰乱肺调理水道的功能时，可能出现急性水肿，特别是上半身，伴有无汗和小便不利。[LI6 偏历](/point/LI6.md) 是大肠经上通调水道的主要穴位，因此可治疗小便不利、水肿、腹水和肠鸣音亢进伴水肿等症状。
 
-最后，《针灸大成》列出了络穴虚实证的具体主治。[LI6 偏历](point/LI6.md) 在实证时主治龋齿和耳聋；虚证时主治齿寒和膈肌阻塞感。
+最后，《针灸大成》列出了络穴虚实证的具体主治。[LI6 偏历](/point/LI6.md) 在实证时主治龋齿和耳聋；虚证时主治齿寒和膈肌阻塞感。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -98,16 +98,16 @@ Finally the Great Compendium of Acupuncture and Moxibustion gives specific ind
 
 #### 穴位组合 (Combinations)
 
-耳鸣：[LI6 偏历](point/LI6.md)，[LI5 阳溪](point/LI5.md)，[LI1 商阳](point/LI1.md)，[BL8 络却](point/BL8.md)，[SI4 腕骨](point/SI4.md) 和[SI2 前谷](point/SI2.md)（《资生经》）。
+耳鸣：[LI6 偏历](/point/LI6.md)，[LI5 阳溪](/point/LI5.md)，[LI1 商阳](/point/LI1.md)，[BL8 络却](/point/BL8.md)，[SI4 腕骨](/point/SI4.md) 和[SI2 前谷](/point/SI2.md)（《资生经》）。
 
-耳聋：[LI6 偏历](point/LI6.md)，[SI2 前谷](point/SI2.md) 和[SI3 后溪](point/SI3.md)（《资生经》）。
+耳聋：[LI6 偏历](/point/LI6.md)，[SI2 前谷](/point/SI2.md) 和[SI3 后溪](/point/SI3.md)（《资生经》）。
 
-肾虚耳聋：[LI6 偏历](point/LI6.md)，[BL23 肾俞](point/BL23.md) 和[GB2 听会](point/GB2.md)（《图翼》）。
+肾虚耳聋：[LI6 偏历](/point/LI6.md)，[BL23 肾俞](/point/BL23.md) 和[GB2 听会](/point/GB2.md)（《图翼》）。
 
-鼻炎伴鼻出血：[LI6 偏历](point/LI6.md)，[LI4 合谷](point/LI4.md)，[LI3 三间](point/LI3.md)，[BL60 昆仑](point/BL60.md) 和[BL66 足通谷](point/BL66.md)（《资生经》）。
+鼻炎伴鼻出血：[LI6 偏历](/point/LI6.md)，[LI4 合谷](/point/LI4.md)，[LI3 三间](/point/LI3.md)，[BL60 昆仑](/point/BL60.md) 和[BL66 足通谷](/point/BL66.md)（《资生经》）。
 
-咽喉干燥：[LI6 偏历](point/LI6.md)，[HE1 极泉](point/HE1.md)，[LU9 太渊](point/LU9.md)，[LIV3 太冲](point/LIV3.md) 和[REN22 天突](point/REN22.md)（《资生经》）。
+咽喉干燥：[LI6 偏历](/point/LI6.md)，[HE1 极泉](/point/HE1.md)，[LU9 太渊](/point/LU9.md)，[LIV3 太冲](/point/LIV3.md) 和[REN22 天突](/point/REN22.md)（《资生经》）。
 
-肘部和前臂酸痛，屈伸不利：[LI6 偏历](point/LI6.md) 和[LI10 手三里](point/LI10.md)（《资生经》）。
+肘部和前臂酸痛，屈伸不利：[LI6 偏历](/point/LI6.md) 和[LI10 手三里](/point/LI10.md)（《资生经》）。
 
 ---

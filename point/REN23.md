@@ -43,7 +43,7 @@ Liánquán REN-23, a meeting point of the Conception vessel with the Yin Linking
 
 
 
-### 1. [REN23 廉泉](point/REN23.md)
+### 1. [REN23 廉泉](/point/REN23.md)
 
 #### 1.1. Corner Spring 廉泉
 
@@ -60,7 +60,7 @@ Liánquán REN-23, a meeting point of the Conception vessel with the Yin Linking
 
 #### 1.4. 针刺方法
 
-向[DU20 百会](point/DU20.md)方向斜刺，深0.5至1.2寸。  
+向[DU20 百会](/point/DU20.md)方向斜刺，深0.5至1.2寸。  
 **注意：** 多部现代文献认为此穴禁灸。
 
 #### 1.5. 作用
@@ -75,7 +75,7 @@ Liánquán REN-23, a meeting point of the Conception vessel with the Yin Linking
 
 #### 1.7. 论述
 
-[REN23 廉泉](point/REN23.md)为任脉与阴维脉交会穴，位于舌根，临床多用于治疗中风后失音及舌僵硬。它亦可调节口中津液，治多涎或口干渴。为此，针可交替指向舌下奇穴[MHN20 金津](point/MHN20.md)与[MHN20 玉液](point/MHN20.md)。  
+[REN23 廉泉](/point/REN23.md)为任脉与阴维脉交会穴，位于舌根，临床多用于治疗中风后失音及舌僵硬。它亦可调节口中津液，治多涎或口干渴。为此，针可交替指向舌下奇穴[MHN20 金津](/point/MHN20.md)与[MHN20 玉液](/point/MHN20.md)。  
 
 #### 1.8. 临床应用总结
 
@@ -84,7 +84,7 @@ Liánquán REN-23, a meeting point of the Conception vessel with the Yin Linking
 
 #### 1.9. 配伍
 
-- 舌下肿伴言语难、舌外伸流涎：[REN23 廉泉](point/REN23.md) + [KID2 然谷](point/KID2.md) + [KID10 阴谷](point/KID10.md)（《千金方》）。  
-- 舌下肿痛：[REN23 廉泉](point/REN23.md) + [PC9 中冲](point/PC9.md)（《百症赋》）。  
-- 舌肿难言：[REN23 廉泉](point/REN23.md) + [MHN20 金津](point/MHN20.md) + [MHN20 玉液](point/MHN20.md)（《大成》）。  
-- 咳嗽伴气逆、呼吸困难、吐泡沫及牙关紧闭：[REN23 廉泉](point/REN23.md) + [LI18 扶突](point/LI18.md) + [SI17 天容](point/SI17.md) + [BL42 魄户](point/BL42.md) + [ST11 气舍](point/ST11.md) + [BL45 噫嘻](point/BL45.md)（《千金方》）。  
+- 舌下肿伴言语难、舌外伸流涎：[REN23 廉泉](/point/REN23.md) + [KID2 然谷](/point/KID2.md) + [KID10 阴谷](/point/KID10.md)（《千金方》）。  
+- 舌下肿痛：[REN23 廉泉](/point/REN23.md) + [PC9 中冲](/point/PC9.md)（《百症赋》）。  
+- 舌肿难言：[REN23 廉泉](/point/REN23.md) + [MHN20 金津](/point/MHN20.md) + [MHN20 玉液](/point/MHN20.md)（《大成》）。  
+- 咳嗽伴气逆、呼吸困难、吐泡沫及牙关紧闭：[REN23 廉泉](/point/REN23.md) + [LI18 扶突](/point/LI18.md) + [SI17 天容](/point/SI17.md) + [BL42 魄户](/point/BL42.md) + [ST11 气舍](/point/ST11.md) + [BL45 噫嘻](/point/BL45.md)（《千金方》）。  

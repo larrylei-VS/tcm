@@ -40,12 +40,12 @@ Jīngmíng BL-1 (Bright Eyes) is the meeting point of all the yang channels (ex
 - Superficial visual obstruction: Jīngmíng BL-1, [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4) and [Sìbái ST-2](https://app.amanualofacupuncture.com/point/ST-2) (Great Compendium).
 - Internal eye obstruction: Jīngmíng BL-1, [Tóngzǐliáo GB-1](https://app.amanualofacupuncture.com/point/GB-1), [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4) and [Zúlínqì GB-41](https://app.amanualofacupuncture.com/point/GB-41) (Great Compendium).
 ---
-### **[BL1 睛明](point/BL1.md)** (JĪNGMÍNG)
+### **[BL1 睛明](/point/BL1.md)** (JĪNGMÍNG)
 
 * **英文名称：** Bright Eyes
 * **中文名称：** 睛明
 * **国际代码：** BL-1
-* **穴位属性：** **[BL1 睛明](point/BL1.md)** 是膀胱经、小肠经、胃经、胆经和三焦经与督脉、阴跷脉、阳跷脉的交会穴。
+* **穴位属性：** **[BL1 睛明](/point/BL1.md)** 是膀胱经、小肠经、胃经、胆经和三焦经与督脉、阴跷脉、阳跷脉的交会穴。
 
 #### **定位 (Location)**
 
@@ -53,7 +53,7 @@ Jīngmíng BL-1 (Bright Eyes) is the meeting point of all the yang channels (ex
 
 #### **针刺方法 (Needling)**
 
-i. 垂直刺0.2至0.3寸； ii. 注意：以下针刺方法不应由未受适当临床指导者尝试：请患者闭眼并尽可能将眼睛转向欲针刺的一侧（例如，针刺左侧**[BL1 睛明](point/BL1.md)** 时，患者应看向左侧，反之亦然）。用一只手的食指轻轻将眼球推向外侧并稳固。用另一只手缓慢垂直进针，不提插、不捻转、不转动，进针深度0.5至1寸。拔针后立即用棉球球用力按压约一分钟以防止血肿。
+i. 垂直刺0.2至0.3寸； ii. 注意：以下针刺方法不应由未受适当临床指导者尝试：请患者闭眼并尽可能将眼睛转向欲针刺的一侧（例如，针刺左侧**[BL1 睛明](/point/BL1.md)** 时，患者应看向左侧，反之亦然）。用一只手的食指轻轻将眼球推向外侧并稳固。用另一只手缓慢垂直进针，不提插、不捻转、不转动，进针深度0.5至1寸。拔针后立即用棉球球用力按压约一分钟以防止血肿。
 
 * **注意 (Note):** 根据几部经典和现代文献，此穴禁灸。
 
@@ -68,7 +68,7 @@ i. 垂直刺0.2至0.3寸； ii. 注意：以下针刺方法不应由未受适当
 
 #### **阐释 (Commentary)**
 
-**[BL1 睛明](point/BL1.md)** (Bright Eyes) 是所有阳经（大肠经除外）以及督脉、阳跷脉和阴跷脉的交会穴。尽管眼部疾病的病理复杂多样，但可归纳为：i. 外邪（主要是风热）侵袭，或 ii. 内在失调的虚证或实证。阳主表，由于其位置以及大多数阳经在此穴交会，**[BL1 睛明](point/BL1.md)** 是治疗几乎所有外源性眼部疾病的主要局部穴位。传统上，它主治眼睛红肿、疼痛、流泪、瘙痒和视物模糊。同样，**[BL1 睛明](point/BL1.md)** 是治疗各种病理的内在失调引起的眼部疾病的关键局部穴位，传统上主治夜盲、畏光、视物模糊、视物眩晕等，现代则用于青光眼、视神经萎缩、翼状胬肉、散光、视神经炎、视网膜出血和早期白内障。
+**[BL1 睛明](/point/BL1.md)** (Bright Eyes) 是所有阳经（大肠经除外）以及督脉、阳跷脉和阴跷脉的交会穴。尽管眼部疾病的病理复杂多样，但可归纳为：i. 外邪（主要是风热）侵袭，或 ii. 内在失调的虚证或实证。阳主表，由于其位置以及大多数阳经在此穴交会，**[BL1 睛明](/point/BL1.md)** 是治疗几乎所有外源性眼部疾病的主要局部穴位。传统上，它主治眼睛红肿、疼痛、流泪、瘙痒和视物模糊。同样，**[BL1 睛明](/point/BL1.md)** 是治疗各种病理的内在失调引起的眼部疾病的关键局部穴位，传统上主治夜盲、畏光、视物模糊、视物眩晕等，现代则用于青光眼、视神经萎缩、翼状胬肉、散光、视神经炎、视网膜出血和早期白内障。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -76,11 +76,11 @@ i. 垂直刺0.2至0.3寸； ii. 注意：以下针刺方法不应由未受适当
 
 #### **穴位组合 (Combinations)**
 
-* 肝气夜盲：**[BL1 睛明](point/BL1.md)** 和 **[LIV2 行间](point/LIV2.md)**（《百症赋》）。
-* 双眼红肿疼痛难以忍受伴畏光：针刺 **[BL1 睛明](point/BL1.md)** 和鱼腰（经外穴 **[MHN7 鱼腰](point/MHN7.md)**），点刺太阳（经外穴 **[MHN9 太阳](point/MHN9.md)**）出血（《玉龙歌》）。
-* **[BL1 睛明](point/BL1.md)** 治疗眼疾无效时，可合用 **[LI4 合谷](point/LI4.md)** 和 **[GB37 光明](point/GB37.md)**（《席弘赋》）。
-* 迎风流泪：**[BL1 睛明](point/BL1.md)**，**[ST8 头维](point/ST8.md)**，**[GB20 风池](point/GB20.md)** 和 **[GB15 头临泣](point/GB15.md)**（《针灸大成》）。
-* 外障眼病（翳膜）：**[BL1 睛明](point/BL1.md)**，**[LI4 合谷](point/LI4.md)** 和 **[ST2 四白](point/ST2.md)**（《针灸大成》）。
-* 内障眼病：**[BL1 睛明](point/BL1.md)**，**[GB1 瞳子髎](point/GB1.md)**，**[LI4 合谷](point/LI4.md)** 和 **[GB41 足临泣](point/GB41.md)**（《针灸大成》）。
+* 肝气夜盲：**[BL1 睛明](/point/BL1.md)** 和 **[LIV2 行间](/point/LIV2.md)**（《百症赋》）。
+* 双眼红肿疼痛难以忍受伴畏光：针刺 **[BL1 睛明](/point/BL1.md)** 和鱼腰（经外穴 **[MHN7 鱼腰](/point/MHN7.md)**），点刺太阳（经外穴 **[MHN9 太阳](/point/MHN9.md)**）出血（《玉龙歌》）。
+* **[BL1 睛明](/point/BL1.md)** 治疗眼疾无效时，可合用 **[LI4 合谷](/point/LI4.md)** 和 **[GB37 光明](/point/GB37.md)**（《席弘赋》）。
+* 迎风流泪：**[BL1 睛明](/point/BL1.md)**，**[ST8 头维](/point/ST8.md)**，**[GB20 风池](/point/GB20.md)** 和 **[GB15 头临泣](/point/GB15.md)**（《针灸大成》）。
+* 外障眼病（翳膜）：**[BL1 睛明](/point/BL1.md)**，**[LI4 合谷](/point/LI4.md)** 和 **[ST2 四白](/point/ST2.md)**（《针灸大成》）。
+* 内障眼病：**[BL1 睛明](/point/BL1.md)**，**[GB1 瞳子髎](/point/GB1.md)**，**[LI4 合谷](/point/LI4.md)** 和 **[GB41 足临泣](/point/GB41.md)**（《针灸大成》）。
 
 ---

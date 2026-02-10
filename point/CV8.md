@@ -45,7 +45,7 @@ Shénquè CV-8 has two principal actions. Firstly it is an important point to w
 - Oedema with qi distention and fullness: Shénquè CV-8 and [Fùliū KID-7](https://app.amanualofacupuncture.com/point/KID-7) (Great Compendium).
 
 
-### 1. [CV8 神阙](point/CV8.md)
+### 1. [CV8 神阙](/point/CV8.md)
 
 #### 1.1. Spirit Gate 神闕
 
@@ -71,11 +71,11 @@ Shénquè CV-8 has two principal actions. Firstly it is an important point to w
 
 #### 1.6. 论述
 
-[CV8 神阙](point/CV8.md)位于脐中央。“神”译为精神，“阙”指城门上的瞭望塔。此穴别名“气舍”或“气合”，反映脐的重要性：一是精神出入之所，二是胎儿营养来源，三是后期救气或阳的重要穴位。  
+[CV8 神阙](/point/CV8.md)位于脐中央。“神”译为精神，“阙”指城门上的瞭望塔。此穴别名“气舍”或“气合”，反映脐的重要性：一是精神出入之所，二是胎儿营养来源，三是后期救气或阳的重要穴位。  
 
-[CV8 神阙](point/CV8.md)是当前临床仅有的两个禁针穴之一（另一为[ST17 乳中](point/ST17.md)），专用强灸或按摩治疗。灸法可用艾条间接灸，或以大艾炷置于盐堆、姜片、附子饼等上。  
+[CV8 神阙](/point/CV8.md)是当前临床仅有的两个禁针穴之一（另一为[ST17 乳中](/point/ST17.md)），专用强灸或按摩治疗。灸法可用艾条间接灸，或以大艾炷置于盐堆、姜片、附子饼等上。  
 
-[CV8 神阙](point/CV8.md)有两大主要作用。一为温阳救逆，用于极寒或阳气突竭引起的衰竭，如虚证中风或休克。二为温“虚寒腹”，用于脾阳虚引起的腹泻不止、哺乳婴儿腹泻、老人及虚人腹泻、肠鸣、脐痛及直肠脱垂。  
+[CV8 神阙](/point/CV8.md)有两大主要作用。一为温阳救逆，用于极寒或阳气突竭引起的衰竭，如虚证中风或休克。二为温“虚寒腹”，用于脾阳虚引起的腹泻不止、哺乳婴儿腹泻、老人及虚人腹泻、肠鸣、脐痛及直肠脱垂。  
 
 #### 1.7. 临床应用总结
 
@@ -84,11 +84,11 @@ Shénquè CV-8 has two principal actions. Firstly it is an important point to w
 
 #### 1.8. 配伍
 
-- 肠鸣腹泻：[CV8 神阙](point/CV8.md) + [CV9 水分](point/CV9.md) + [LI3 三间](point/LI3.md)（《大成》）。  
-- 泻稀：[CV8 神阙](point/CV8.md) + [LIV3 太冲](point/LIV3.md) + [SP6 三阴交](point/SP6.md)（《大成》）。  
-- 直肠脱垂：[CV8 神阙](point/CV8.md) + [DU20 百会](point/DU20.md) + [BL28 膀胱俞](point/BL28.md)（《汇编》）。  
-- 脐周疝病：[CV8 神阙](point/CV8.md) + [ST25 天枢](point/ST25.md) + [CV5 石门](point/CV5.md)（《补命》）。  
-- 脐周痛：[CV8 神阙](point/CV8.md) + [CV9 水分](point/CV9.md) + [LIV4 中封](point/LIV4.md)（《补命》）。  
-- 脐周痛：[CV8 神阙](point/CV8.md) + [CV9 水分](point/CV9.md) + [CV6 气海](point/CV6.md)（《大成》）。  
-- 下腹疝病：[CV8 神阙](point/CV8.md) + [CV5 石门](point/CV5.md) + [ST25 天枢](point/ST25.md) + [CV6 气海](point/CV6.md)（《千金方》）。  
-- 水肿伴气胀满：[CV8 神阙](point/CV8.md) + [KID7 复溜](point/KID7.md)（《大成》）。  
+- 肠鸣腹泻：[CV8 神阙](/point/CV8.md) + [CV9 水分](/point/CV9.md) + [LI3 三间](/point/LI3.md)（《大成》）。  
+- 泻稀：[CV8 神阙](/point/CV8.md) + [LIV3 太冲](/point/LIV3.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
+- 直肠脱垂：[CV8 神阙](/point/CV8.md) + [DU20 百会](/point/DU20.md) + [BL28 膀胱俞](/point/BL28.md)（《汇编》）。  
+- 脐周疝病：[CV8 神阙](/point/CV8.md) + [ST25 天枢](/point/ST25.md) + [CV5 石门](/point/CV5.md)（《补命》）。  
+- 脐周痛：[CV8 神阙](/point/CV8.md) + [CV9 水分](/point/CV9.md) + [LIV4 中封](/point/LIV4.md)（《补命》）。  
+- 脐周痛：[CV8 神阙](/point/CV8.md) + [CV9 水分](/point/CV9.md) + [CV6 气海](/point/CV6.md)（《大成》）。  
+- 下腹疝病：[CV8 神阙](/point/CV8.md) + [CV5 石门](/point/CV5.md) + [ST25 天枢](/point/ST25.md) + [CV6 气海](/point/CV6.md)（《千金方》）。  
+- 水肿伴气胀满：[CV8 神阙](/point/CV8.md) + [KID7 复溜](/point/KID7.md)（《大成》）。  

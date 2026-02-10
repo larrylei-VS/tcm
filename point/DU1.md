@@ -64,7 +64,7 @@ According to qigong theory, there are three important gates or passes (sanguan) 
 - Pain of the Heart with shortness of breath: Chángqiáng DU-1, [Qímén LIV-14](https://app.amanualofacupuncture.com/point/LIV-14), [Tiāntú REN-22](https://app.amanualofacupuncture.com/point/REN-22), [Xiábái LU-4](https://app.amanualofacupuncture.com/point/LU-4) and [Zhōngchōng PC-9](https://app.amanualofacupuncture.com/point/PC-9) (Thousand Ducat Formulas).
 
 
-### 1. [DU1 长强](point/DU1.md)
+### 1. [DU1 长强](/point/DU1.md)
 
 #### 1.1. Long Strong 長強
 
@@ -102,15 +102,15 @@ According to qigong theory, there are three important gates or passes (sanguan) 
 
 #### 1.7. 论述
 
-[DU1 长强](point/DU1.md)是督脉起点及络穴，其所有指征反映督脉主脉及络脉的路径与功能。  
+[DU1 长强](/point/DU1.md)是督脉起点及络穴，其所有指征反映督脉主脉及络脉的路径与功能。  
 
-督脉绕肛，[DU1 长强](point/DU1.md)是治疗痔疮、直肠脱垂及排便疾患的重要局部穴。督脉入肾，前径绕生殖器，故[DU1 长强](point/DU1.md)也用于尿病如五淋、尿难、尿潴留，及性劳与惊恐致遗精（惊恐传统认为伤肾心）。  
+督脉绕肛，[DU1 长强](/point/DU1.md)是治疗痔疮、直肠脱垂及排便疾患的重要局部穴。督脉入肾，前径绕生殖器，故[DU1 长强](/point/DU1.md)也用于尿病如五淋、尿难、尿潴留，及性劳与惊恐致遗精（惊恐传统认为伤肾心）。  
 
-督脉沿脊柱全长上升入脑，其络脉散布枕部。除腰骶痛及脊柱僵硬外，[DU1 长强](point/DU1.md)适用于头部沉重。《灵枢》为督脉络病指定指征：实则脊柱僵硬，虚则头重头摇。  
+督脉沿脊柱全长上升入脑，其络脉散布枕部。除腰骶痛及脊柱僵硬外，[DU1 长强](/point/DU1.md)适用于头部沉重。《灵枢》为督脉络病指定指征：实则脊柱僵硬，虚则头重头摇。  
 
-虽心常被视为神之居所，中医自早期即同时认为头脑亦影响神志（见引论）。《素问》称：“头为精明之府。”孙思邈《千金方》谓：“头为至尊，人神聚处。”因督脉入脑，前径升经心，[DU1 长强](point/DU1.md)适用于躁狂、狂走、惊痫及心痛等神志失调表现。  
+虽心常被视为神之居所，中医自早期即同时认为头脑亦影响神志（见引论）。《素问》称：“头为精明之府。”孙思邈《千金方》谓：“头为至尊，人神聚处。”因督脉入脑，前径升经心，[DU1 长强](/point/DU1.md)适用于躁狂、狂走、惊痫及心痛等神志失调表现。  
 
-气功理论认为，督脉气循有三大关：尾闾关（[DU1 长强](point/DU1.md)区）、夹脊关（[DU4 命门](point/DU4.md)区）、玉枕关（[BL9 玉枕](point/BL9.md)区）。[DU1 长强](point/DU1.md)有诸多别名，最著名为“长强”，指督脉（此为其首穴）长而强，或此穴能使阴茎长强。其他别名包括“龙虎穴”“朝天巅”“上天梯”。  
+气功理论认为，督脉气循有三大关：尾闾关（[DU1 长强](/point/DU1.md)区）、夹脊关（[DU4 命门](/point/DU4.md)区）、玉枕关（[BL9 玉枕](/point/BL9.md)区）。[DU1 长强](/point/DU1.md)有诸多别名，最著名为“长强”，指督脉（此为其首穴）长而强，或此穴能使阴茎长强。其他别名包括“龙虎穴”“朝天巅”“上天梯”。  
 
 #### 1.8. 临床应用总结
 
@@ -121,15 +121,15 @@ According to qigong theory, there are three important gates or passes (sanguan) 
 
 #### 1.9. 配伍
 
-- 五种痔疮：[DU1 长强](point/DU1.md) + [BL40 委中](point/BL40.md) + [BL57 承山](point/BL57.md) + [BL58 飞阳](point/BL58.md) + [GB38 阳辅](point/GB38.md) + [KID7 复溜](point/KID7.md) + [LIV3 太冲](point/LIV3.md) + [GB43 侠溪](point/GB43.md) + [REN6 气海](point/REN6.md) + [REN1 会阴](point/REN1.md)（《大成》）。  
-- 九种痔疮（伴出血）：[DU1 长强](point/DU1.md) + [BL57 承山](point/BL57.md)（《玉龙颂》）。  
-- 慢性痔疮：[DU1 长强](point/DU1.md) + [MUE29 二白](point/MUE29.md) + [BL57 承山](point/BL57.md)（《大成》）。  
-- 直肠脱垂及痔疮：[DU1 长强](point/DU1.md) + [MUE29 二白](point/MUE29.md) + [DU20 百会](point/DU20.md) + [BL52 志室](point/BL52.md)（《大成》）。  
-- 直肠脱垂及痔疮：[DU1 长强](point/DU1.md) + [BL25 大肠俞](point/BL25.md) + [DU20 百会](point/DU20.md) + [GB21 肩井](point/GB21.md) + [LI4 合谷](point/LI4.md) + [ST30 气冲](point/ST30.md)（《汇编》）。  
-- 小儿直肠脱垂：[DU1 长强](point/DU1.md) + [DU20 百会](point/DU20.md) + [BL25 大肠俞](point/BL25.md)（《大成》）。  
-- 尿便困难、尿滴沥潴留：[DU1 长强](point/DU1.md) + [BL27 小肠俞](point/BL27.md)（《千金方》）。  
-- 热便秘、气便秘：先针[DU1 长强](point/DU1.md)，再针[LIV1 大敦](point/LIV1.md) + [GB34 阳陵泉](point/GB34.md)（《穴歌》）。  
-- 肠风（便血）：[DU1 长强](point/DU1.md) + [BL57 承山](point/BL57.md)（《百症赋》）。  
-- 小儿惊痫：[DU1 长强](point/DU1.md) + [DU12 身柱](point/DU12.md)（《补命》）。  
-- 小儿癫痫抽搐、呕吐腹泻、惊恐：[DU1 长强](point/DU1.md) + [SJ18 翳脉](point/SJ18.md)（《系统经典》）。  
-- 心痛伴气短：[DU1 长强](point/DU1.md) + [LIV14 期门](point/LIV14.md) + [REN22 天突](point/REN22.md) + [LU4 侠白](point/LU4.md) + [PC9 中冲](point/PC9.md)（《千金方》）。  
+- 五种痔疮：[DU1 长强](/point/DU1.md) + [BL40 委中](/point/BL40.md) + [BL57 承山](/point/BL57.md) + [BL58 飞阳](/point/BL58.md) + [GB38 阳辅](/point/GB38.md) + [KID7 复溜](/point/KID7.md) + [LIV3 太冲](/point/LIV3.md) + [GB43 侠溪](/point/GB43.md) + [REN6 气海](/point/REN6.md) + [REN1 会阴](/point/REN1.md)（《大成》）。  
+- 九种痔疮（伴出血）：[DU1 长强](/point/DU1.md) + [BL57 承山](/point/BL57.md)（《玉龙颂》）。  
+- 慢性痔疮：[DU1 长强](/point/DU1.md) + [MUE29 二白](/point/MUE29.md) + [BL57 承山](/point/BL57.md)（《大成》）。  
+- 直肠脱垂及痔疮：[DU1 长强](/point/DU1.md) + [MUE29 二白](/point/MUE29.md) + [DU20 百会](/point/DU20.md) + [BL52 志室](/point/BL52.md)（《大成》）。  
+- 直肠脱垂及痔疮：[DU1 长强](/point/DU1.md) + [BL25 大肠俞](/point/BL25.md) + [DU20 百会](/point/DU20.md) + [GB21 肩井](/point/GB21.md) + [LI4 合谷](/point/LI4.md) + [ST30 气冲](/point/ST30.md)（《汇编》）。  
+- 小儿直肠脱垂：[DU1 长强](/point/DU1.md) + [DU20 百会](/point/DU20.md) + [BL25 大肠俞](/point/BL25.md)（《大成》）。  
+- 尿便困难、尿滴沥潴留：[DU1 长强](/point/DU1.md) + [BL27 小肠俞](/point/BL27.md)（《千金方》）。  
+- 热便秘、气便秘：先针[DU1 长强](/point/DU1.md)，再针[LIV1 大敦](/point/LIV1.md) + [GB34 阳陵泉](/point/GB34.md)（《穴歌》）。  
+- 肠风（便血）：[DU1 长强](/point/DU1.md) + [BL57 承山](/point/BL57.md)（《百症赋》）。  
+- 小儿惊痫：[DU1 长强](/point/DU1.md) + [DU12 身柱](/point/DU12.md)（《补命》）。  
+- 小儿癫痫抽搐、呕吐腹泻、惊恐：[DU1 长强](/point/DU1.md) + [SJ18 翳脉](/point/SJ18.md)（《系统经典》）。  
+- 心痛伴气短：[DU1 长强](/point/DU1.md) + [LIV14 期门](/point/LIV14.md) + [REN22 天突](/point/REN22.md) + [LU4 侠白](/point/LU4.md) + [PC9 中冲](/point/PC9.md)（《千金方》）。  

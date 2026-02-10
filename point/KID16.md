@@ -34,16 +34,16 @@ Huāngshū KID-16 lies on the same level as [Shénquè REN-8](https://app.aman
 - The five types of painful urinary dysfunction from chronic accumulation: Huāngshū KID-16 and [Hénggǔ KID-11](https://app.amanualofacupuncture.com/point/KID-11) (One Hundred Symptoms).
 
 ---
-### **[KID16 肓俞](point/KID16.md)** (HUĀNGSHŪ)
+### **[KID16 肓俞](/point/KID16.md)** (HUĀNGSHŪ)
 
 * **英文名称：** Vitals Shu
 * **中文名称：** 肓俞
 * **国际代码：** KID-16
-* **穴位属性：** **[KID16 肓俞](point/KID16.md)** 是肾经与冲脉的交会穴。
+* **穴位属性：** **[KID16 肓俞](/point/KID16.md)** 是肾经与冲脉的交会穴。
 
 ####   **定位 (Location)**
 
-位于腹部，脐中央旁开0.5寸。请参阅**[KID11 横骨](point/KID11.md)** 的定位要点。
+位于腹部，脐中央旁开0.5寸。请参阅**[KID11 横骨](/point/KID11.md)** 的定位要点。
 
 ####   **针刺方法 (Needling)**
 
@@ -63,15 +63,15 @@ Huāngshū KID-16 lies on the same level as [Shénquè REN-8](https://app.aman
 
 ####   **阐释 (Commentary)**
 
-**[KID16 肓俞](point/KID16.md)** 与**[REN8 神阙](point/REN8.md)**、**[ST25 天枢](point/ST25.md)** 和**[SP15 大横](point/SP15.md)** 位于同一水平，这些穴位都对肠道有强大作用。各种经典推荐**[KID16 肓俞](point/KID16.md)** 治疗大便干结，而《针灸甲乙经》则明确推荐其治疗大肠寒积导致大便干结和腹部绞痛。
+**[KID16 肓俞](/point/KID16.md)** 与**[REN8 神阙](/point/REN8.md)**、**[ST25 天枢](/point/ST25.md)** 和**[SP15 大横](/point/SP15.md)** 位于同一水平，这些穴位都对肠道有强大作用。各种经典推荐**[KID16 肓俞](/point/KID16.md)** 治疗大便干结，而《针灸甲乙经》则明确推荐其治疗大肠寒积导致大便干结和腹部绞痛。
 需要记住，便秘可能由寒积引起，无论是源于肾阳不足的虚寒（常见于老年或体弱者），还是实寒（通常由饮食因素引起）。在前一种情况中，大便可能干燥，并非由于常见原因（热或津血阴液不足），而是由于肾阳不足未能运行津液所致。
 
 ####   **临床应用总结 (Summary of clinical application)**
 
-* 与**[ST25 天枢](point/ST25.md)** 和**[SP15 大横](point/SP15.md)** 平齐；调理肠道：便秘（特别是寒性或虚寒性），大便干结，肠鸣，腹泻。
+* 与**[ST25 天枢](/point/ST25.md)** 和**[SP15 大横](/point/SP15.md)** 平齐；调理肠道：便秘（特别是寒性或虚寒性），大便干结，肠鸣，腹泻。
 
 ####   **穴位组合 (Combinations)**
 
-* 慢性积聚引起的五淋（小便涩痛）：**[KID16 肓俞](point/KID16.md)** 和 **[KID11 横骨](point/KID11.md)**（《百症赋》）。
+* 慢性积聚引起的五淋（小便涩痛）：**[KID16 肓俞](/point/KID16.md)** 和 **[KID11 横骨](/point/KID11.md)**（《百症赋》）。
 
 ---

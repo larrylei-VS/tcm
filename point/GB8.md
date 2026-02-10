@@ -44,7 +44,7 @@ Shuàigǔ GB-8 is also indicated for accumulation of phlegm in the diaphragm an
 - One-sided or generalised wind headache that is difficult to cure: join [Sīzhúkōng SJ-23](https://app.amanualofacupuncture.com/point/SJ-23) subcutaneously with Shuàigǔ GB-8 (Song of the Jade Dragon).
 - Cold phlegm in the diaphragm and Stomach: Shuàigǔ GB-8 and [Géshū BL-17](https://app.amanualofacupuncture.com/point/BL-17) (Supplementing Life).
 
-### 1. [GB8 率谷](point/GB8.md)
+### 1. [GB8 率谷](/point/GB8.md)
 
 #### 1.1. Leading Valley 率谷
 
@@ -60,7 +60,7 @@ Shuàigǔ GB-8 is also indicated for accumulation of phlegm in the diaphragm an
 
 #### 1.4. 针刺方法
 
-横刺，深0.5至1.5寸。可通过通针连接至[MHN9 太阳](point/MHN9.md)。参见[GB4 颔厌](point/GB4.md)的针刺说明。
+横刺，深0.5至1.5寸。可通过通针连接至[MHN9 太阳](/point/MHN9.md)。参见[GB4 颔厌](/point/GB4.md)的针刺说明。
 
 #### 1.5. 作用
 
@@ -70,16 +70,16 @@ Shuàigǔ GB-8 is also indicated for accumulation of phlegm in the diaphragm an
 
 #### 1.6. 主治
 
-- 偏头痛、头重、头风、前额角痛（[ST8 头维](point/ST8.md)区域）、口眼歪斜、急慢性小儿惊风、眩晕、眼疾。
+- 偏头痛、头重、头风、前额角痛（[ST8 头维](/point/ST8.md)区域）、口眼歪斜、急慢性小儿惊风、眩晕、眼疾。
 - 持续呕吐、胃寒、痰气膈痛、不能食、食饮后烦满、酒伤伴呕吐、痰眩、水肿。
 
 #### 1.7. 论述
 
-[GB8 率谷](point/GB8.md)是治疗顶侧或颞部头痛及头重的重要穴位，尤其是单侧头痛，常在此处发现压痛。胆经原经和筋经经过头部侧面，胆经与肝经为表里关系。[GB8 率谷](point/GB8.md)特别适用于外风侵袭头部，或肝火、肝阳、肝风沿胆经上扰头部，导致剧烈的偏头痛。
+[GB8 率谷](/point/GB8.md)是治疗顶侧或颞部头痛及头重的重要穴位，尤其是单侧头痛，常在此处发现压痛。胆经原经和筋经经过头部侧面，胆经与肝经为表里关系。[GB8 率谷](/point/GB8.md)特别适用于外风侵袭头部，或肝火、肝阳、肝风沿胆经上扰头部，导致剧烈的偏头痛。
 
-根据《铜人腧穴针灸图经》，[GB8 率谷](point/GB8.md)尤其适用于“膈胃寒痰、酒伤、风引起两脑角剧烈顽固性疼痛、不能食饮、烦满伴持续呕吐”。这显然指偏头痛。由于[GB8 率谷](point/GB8.md)能和膈胃，它是头部治疗因肝气犯胃或胆胃痰热引起的头痛伴呕吐的主要穴位。酒精可能通过加重肝热、扰乱肝胃和谐，或诱发/加重胆胃湿热，从而引发偏头痛和呕吐。因此，许多经典推荐此穴治疗酒精引起的头痛和呕吐。
+根据《铜人腧穴针灸图经》，[GB8 率谷](/point/GB8.md)尤其适用于“膈胃寒痰、酒伤、风引起两脑角剧烈顽固性疼痛、不能食饮、烦满伴持续呕吐”。这显然指偏头痛。由于[GB8 率谷](/point/GB8.md)能和膈胃，它是头部治疗因肝气犯胃或胆胃痰热引起的头痛伴呕吐的主要穴位。酒精可能通过加重肝热、扰乱肝胃和谐，或诱发/加重胆胃湿热，从而引发偏头痛和呕吐。因此，许多经典推荐此穴治疗酒精引起的头痛和呕吐。
 
-[GB8 率谷](point/GB8.md)还适用于膈胃痰积，导致持续呕吐和“痰气膈痛”。临床上，胃痰或痰热常与胆郁热并存。当这些症状伴有偏头痛时，[GB8 率谷](point/GB8.md)尤为适用。
+[GB8 率谷](/point/GB8.md)还适用于膈胃痰积，导致持续呕吐和“痰气膈痛”。临床上，胃痰或痰热常与胆郁热并存。当这些症状伴有偏头痛时，[GB8 率谷](/point/GB8.md)尤为适用。
 
 #### 1.8. 临床应用总结
 
@@ -89,5 +89,5 @@ Shuàigǔ GB-8 is also indicated for accumulation of phlegm in the diaphragm an
 
 #### 1.9. 配伍
 
-- 单侧或全身难治的风头痛：[SJ23 丝竹空](point/SJ23.md)皮下连接[GB8 率谷](point/GB8.md)（《玉龙歌》）。
-- 膈胃寒痰：[GB8 率谷](point/GB8.md) + [BL17 膈俞](point/BL17.md)（《补命》）。
+- 单侧或全身难治的风头痛：[SJ23 丝竹空](/point/SJ23.md)皮下连接[GB8 率谷](/point/GB8.md)（《玉龙歌》）。
+- 膈胃寒痰：[GB8 率谷](/point/GB8.md) + [BL17 膈俞](/point/BL17.md)（《补命》）。

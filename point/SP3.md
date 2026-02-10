@@ -64,12 +64,12 @@ Finally, Tàibái SP-3 is frequently used for disorders of the joints of the b
 - Lumbar pain with inability to bend and extend: Tàibái SP-3, [Wěiyáng BL-39](https://app.amanualofacupuncture.com/point/BL-39), [Yīnmén BL-37](https://app.amanualofacupuncture.com/point/BL-37), [Yīnlíngquán SP-9](https://app.amanualofacupuncture.com/point/SP-9) and [Xíngjiān LIV-2](https://app.amanualofacupuncture.com/point/LIV-2) (Thousand Ducat Formulas).
 
 ---
-### [SP3 太白](point/SP3.md) (TÀIBÁI)
+### [SP3 太白](/point/SP3.md) (TÀIBÁI)
 
 * **英文名称：** Supreme White
 * **中文名称：** 太白
 * **国际代码：** SP-3
-* **穴位属性：** [SP3 太白](point/SP3.md) 是脾经的输穴、原穴和土穴。
+* **穴位属性：** [SP3 太白](/point/SP3.md) 是脾经的输穴、原穴和土穴。
 
 #### 定位 (Location)
 
@@ -97,15 +97,15 @@ Finally, Tàibái SP-3 is frequently used for disorders of the joints of the b
 
 #### 阐释 (Commentary)
 
-[SP3 太白](point/SP3.md) 是脾土经的输穴、原穴和土穴，对健运和调理脾胃之气有强大作用。《灵枢》第六篇推荐输穴用于治疗脏腑疾病，而第一篇则说“五脏有疾，取十二原穴”。《玉龙歌》明确指出[SP3 太白](point/SP3.md) 主治“脾胃虚弱”。由于这些脏腑虚弱易导致湿邪过盛并继发气机阻滞，[SP3 太白](point/SP3.md) 是治疗原发性虚证和随之产生的过盛之邪的重要穴位。
+[SP3 太白](/point/SP3.md) 是脾土经的输穴、原穴和土穴，对健运和调理脾胃之气有强大作用。《灵枢》第六篇推荐输穴用于治疗脏腑疾病，而第一篇则说“五脏有疾，取十二原穴”。《玉龙歌》明确指出[SP3 太白](/point/SP3.md) 主治“脾胃虚弱”。由于这些脏腑虚弱易导致湿邪过盛并继发气机阻滞，[SP3 太白](/point/SP3.md) 是治疗原发性虚证和随之产生的过盛之邪的重要穴位。
 
-《素问·异法方宜论》记载：“湿、肿、满，皆属于脾”，又曰“脾病则生湿”。胃和脾共同主导水谷的消化吸收，以及水谷精微和津液在全身的输布。当脾胃虚弱时，这些运化功能受损，导致湿邪积聚。[SP3 太白](point/SP3.md) 主治一系列反映这种虚实兼夹的症状，如肠鸣腹泻、大便完谷不化、身体沉重、四肢倦怠沉重等。虽然脾虚最常见引起腹泻和便溏，但[SP3 太白](point/SP3.md) 也被纳入一些经典组合中治疗便秘和排便困难。这种便秘可能发生在气虚不足以推动肠道时。
+《素问·异法方宜论》记载：“湿、肿、满，皆属于脾”，又曰“脾病则生湿”。胃和脾共同主导水谷的消化吸收，以及水谷精微和津液在全身的输布。当脾胃虚弱时，这些运化功能受损，导致湿邪积聚。[SP3 太白](/point/SP3.md) 主治一系列反映这种虚实兼夹的症状，如肠鸣腹泻、大便完谷不化、身体沉重、四肢倦怠沉重等。虽然脾虚最常见引起腹泻和便溏，但[SP3 太白](/point/SP3.md) 也被纳入一些经典组合中治疗便秘和排便困难。这种便秘可能发生在气虚不足以推动肠道时。
 
-外湿或湿热，当脾虚或内湿存在时最易侵袭，可能以三种主要方式损伤身体，[SP3 太白](point/SP3.md) 皆可主治。首先，它们可能与风寒或风热结合，引起热病伴胀满憋闷不能平卧，以及始发时头重的热病。其次，它们可能直接侵袭脾胃，引起痢疾、泻下脓血、呕吐，以及身热伴烦躁胀满。第三，以风湿的形式，它们可能进入经络，引起痹证，表现为身体沉重伴骨痛、关节疼痛、膝腿疼痛或腰痛。[SP3 太白](point/SP3.md) 在后一种证型中的应用反映了《难经》中“输穴主治体重节痛”的论述。除了治疗这些外感湿邪证型外，[SP3 太白](point/SP3.md) 也可用于治疗湿热下注导致的腿气，以及因湿邪或脾虚导致的痿证。这种证型在《素问·脉要精微论》中有所讨论，其中记载“久伤于湿，则肌肉不仁；久伤于湿，则为痿”，又曰“脾病则不能为胃行其津液，四肢不得禀水谷气，故不强也。不能从其筋骨肌肉，故不为用也”（此引用为意译，原文略有不同）。
+外湿或湿热，当脾虚或内湿存在时最易侵袭，可能以三种主要方式损伤身体，[SP3 太白](/point/SP3.md) 皆可主治。首先，它们可能与风寒或风热结合，引起热病伴胀满憋闷不能平卧，以及始发时头重的热病。其次，它们可能直接侵袭脾胃，引起痢疾、泻下脓血、呕吐，以及身热伴烦躁胀满。第三，以风湿的形式，它们可能进入经络，引起痹证，表现为身体沉重伴骨痛、关节疼痛、膝腿疼痛或腰痛。[SP3 太白](/point/SP3.md) 在后一种证型中的应用反映了《难经》中“输穴主治体重节痛”的论述。除了治疗这些外感湿邪证型外，[SP3 太白](/point/SP3.md) 也可用于治疗湿热下注导致的腿气，以及因湿邪或脾虚导致的痿证。这种证型在《素问·脉要精微论》中有所讨论，其中记载“久伤于湿，则肌肉不仁；久伤于湿，则为痿”，又曰“脾病则不能为胃行其津液，四肢不得禀水谷气，故不强也。不能从其筋骨肌肉，故不为用也”（此引用为意译，原文略有不同）。
 
-需要注意的是，[SP3 太白](point/SP3.md) 也强烈主治腹部、胃脘、胸部、心和胁肋部各种以胀痛为特征的症状。这些是由于气滞所致，气滞可能源于气虚，即气不足以维持顺畅循环，或者当浊湿积聚阻碍气机顺畅运行时。在前一种情况下，脉象和舌象将仅反映虚证，治疗原则是补[SP3 太白](point/SP3.md)，根据“治以反佐”的理论，此处为“满者泻之”。在后一种情况下，脉象和舌象将显示实证，治疗原则是泻[SP3 太白](point/SP3.md)。
+需要注意的是，[SP3 太白](/point/SP3.md) 也强烈主治腹部、胃脘、胸部、心和胁肋部各种以胀痛为特征的症状。这些是由于气滞所致，气滞可能源于气虚，即气不足以维持顺畅循环，或者当浊湿积聚阻碍气机顺畅运行时。在前一种情况下，脉象和舌象将仅反映虚证，治疗原则是补[SP3 太白](/point/SP3.md)，根据“治以反佐”的理论，此处为“满者泻之”。在后一种情况下，脉象和舌象将显示实证，治疗原则是泻[SP3 太白](/point/SP3.md)。
 
-最后，[SP3 太白](point/SP3.md) 常用于治疗足大趾关节和第一跖骨头疾病。
+最后，[SP3 太白](/point/SP3.md) 常用于治疗足大趾关节和第一跖骨头疾病。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -117,18 +117,18 @@ Finally, Tàibái SP-3 is frequently used for disorders of the joints of the b
 
 #### 穴位组合 (Combinations)
 
-* 大便完谷不化：[SP3 太白](point/SP3.md) 和[SP16 腹哀](point/SP16.md)（《资生经》）。
-* 肠鸣：[SP3 太白](point/SP3.md)，[SP4 公孙](point/SP4.md)，大肠俞[BL25 大肠俞](point/BL25.md) 和三焦俞[BL22 三焦俞](point/BL22.md)（《资生经》）。
-* 霍乱吐泻：[SP3 太白](point/SP3.md)，[SP9 阴陵泉](point/SP9.md)，[BL57 承山](point/BL57.md) 和[ST41 解溪](point/ST41.md)（《针灸大成》）。
-* 腹泻痢疾伴脓血：[SP3 太白](point/SP3.md)，[ST39 下巨虚](point/ST39.md) 和[KID21 幽门](point/KID21.md)（《资生经》）。
-* 便血：[SP3 太白](point/SP3.md)，[BL57 承山](point/BL57.md)，[KID7 复溜](point/KID7.md) 和[LIV3 太冲](point/LIV3.md)（《针灸大成》）。
-* 便秘：[SP3 太白](point/SP3.md)，[KID6 照海](point/KID6.md) 和[LIV13 章门](point/LIV13.md)（《针灸大成》）。
-* 便秘：[SP3 太白](point/SP3.md)，[KID6 照海](point/KID6.md)，[LIV13 章门](point/LIV13.md) 和[SJ6 支沟](point/SJ6.md)（《针灸大成》）。
-* 排便困难：[SP3 太白](point/SP3.md) 和[KID15 中注](point/KID15.md)（《针灸甲乙经》）。
-* 肠痈疼痛：[SP3 太白](point/SP3.md)，[ST43 陷谷](point/ST43.md) 和[BL25 大肠俞](point/BL25.md)（《针灸大成》）。
-* 腹胀，大便完谷不化，鼓胀胀满：[SP3 太白](point/SP3.md) 和[SP4 公孙](point/SP4.md)（《千金方》）。
-* 腹胀导致背痛：[SP3 太白](point/SP3.md) 和[LIV3 太冲](point/LIV3.md)（《针灸大成》）。
-* 鼓胀：[SP3 太白](point/SP3.md)，[KID7 复溜](point/KID7.md)，[SP4 公孙](point/SP4.md)，[LIV4 中封](point/LIV4.md) 和[REN9 水分](point/REN9.md)（《铜人》）。
-* 腰痛不能屈伸：[SP3 太白](point/SP3.md)，[BL39 委阳](point/BL39.md)，[BL37 殷门](point/BL37.md)，[SP9 阴陵泉](point/SP9.md) 和[LIV2 行间](point/LIV2.md)（《千金方》）。
+* 大便完谷不化：[SP3 太白](/point/SP3.md) 和[SP16 腹哀](/point/SP16.md)（《资生经》）。
+* 肠鸣：[SP3 太白](/point/SP3.md)，[SP4 公孙](/point/SP4.md)，大肠俞[BL25 大肠俞](/point/BL25.md) 和三焦俞[BL22 三焦俞](/point/BL22.md)（《资生经》）。
+* 霍乱吐泻：[SP3 太白](/point/SP3.md)，[SP9 阴陵泉](/point/SP9.md)，[BL57 承山](/point/BL57.md) 和[ST41 解溪](/point/ST41.md)（《针灸大成》）。
+* 腹泻痢疾伴脓血：[SP3 太白](/point/SP3.md)，[ST39 下巨虚](/point/ST39.md) 和[KID21 幽门](/point/KID21.md)（《资生经》）。
+* 便血：[SP3 太白](/point/SP3.md)，[BL57 承山](/point/BL57.md)，[KID7 复溜](/point/KID7.md) 和[LIV3 太冲](/point/LIV3.md)（《针灸大成》）。
+* 便秘：[SP3 太白](/point/SP3.md)，[KID6 照海](/point/KID6.md) 和[LIV13 章门](/point/LIV13.md)（《针灸大成》）。
+* 便秘：[SP3 太白](/point/SP3.md)，[KID6 照海](/point/KID6.md)，[LIV13 章门](/point/LIV13.md) 和[SJ6 支沟](/point/SJ6.md)（《针灸大成》）。
+* 排便困难：[SP3 太白](/point/SP3.md) 和[KID15 中注](/point/KID15.md)（《针灸甲乙经》）。
+* 肠痈疼痛：[SP3 太白](/point/SP3.md)，[ST43 陷谷](/point/ST43.md) 和[BL25 大肠俞](/point/BL25.md)（《针灸大成》）。
+* 腹胀，大便完谷不化，鼓胀胀满：[SP3 太白](/point/SP3.md) 和[SP4 公孙](/point/SP4.md)（《千金方》）。
+* 腹胀导致背痛：[SP3 太白](/point/SP3.md) 和[LIV3 太冲](/point/LIV3.md)（《针灸大成》）。
+* 鼓胀：[SP3 太白](/point/SP3.md)，[KID7 复溜](/point/KID7.md)，[SP4 公孙](/point/SP4.md)，[LIV4 中封](/point/LIV4.md) 和[REN9 水分](/point/REN9.md)（《铜人》）。
+* 腰痛不能屈伸：[SP3 太白](/point/SP3.md)，[BL39 委阳](/point/BL39.md)，[BL37 殷门](/point/BL37.md)，[SP9 阴陵泉](/point/SP9.md) 和[LIV2 行间](/point/LIV2.md)（《千金方》）。
 
 ---

@@ -32,7 +32,7 @@ Transverse insertion, directed superiorly or inferiorly along the midline, 0.5 c
 - Oesophageal constriction, with difficult ingestion and vomiting: Zhōngtíng REN-16 and [Zhōngfǔ LU-1](https://app.amanualofacupuncture.com/point/LU-1) (Thousand Ducat Formulas).
 - Difficult ingestion: Zhōngtíng REN-16, Zigong REN‑19 and [Dǎnshū BL-19](https://app.amanualofacupuncture.com/point/BL-19) (Thousand Ducat Formulas).
 
-### 1. [REN16 中庭](point/REN16.md)
+### 1. [REN16 中庭](/point/REN16.md)
 
 #### 1.1. Central Courtyard 中庭
 
@@ -65,6 +65,6 @@ Transverse insertion, directed superiorly or inferiorly along the midline, 0.5 c
 
 #### 1.8. 配伍
 
-- 呕吐：[REN16 中庭](point/REN16.md) + [KID27 俞府](point/KID27.md) + [BL49 意舍](point/BL49.md)（《补命》）。  
-- 食管痉挛伴吞咽难及呕吐：[REN16 中庭](point/REN16.md) + [LU1 中府](point/LU1.md)（《千金方》）。  
-- 吞咽难：[REN16 中庭](point/REN16.md) + [REN19 紫宫](point/REN19.md) + [BL19 胆俞](point/BL19.md)（《千金方》）。  
+- 呕吐：[REN16 中庭](/point/REN16.md) + [KID27 俞府](/point/KID27.md) + [BL49 意舍](/point/BL49.md)（《补命》）。  
+- 食管痉挛伴吞咽难及呕吐：[REN16 中庭](/point/REN16.md) + [LU1 中府](/point/LU1.md)（《千金方》）。  
+- 吞咽难：[REN16 中庭](/point/REN16.md) + [REN19 紫宫](/point/REN19.md) + [BL19 胆俞](/point/BL19.md)（《千金方》）。  

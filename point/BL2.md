@@ -48,7 +48,7 @@ The sphere of action of Zǎnzhú BL-2 is not confined to the treatment of eye 
 
 
 ---
-### **[BL2 攒竹](point/BL2.md)** (ZǍNZHÚ)
+### **[BL2 攒竹](/point/BL2.md)** (ZǍNZHÚ)
 
 * **英文名称：** Gathered Bamboo
 * **中文名称：** 攒竹
@@ -59,11 +59,11 @@ The sphere of action of Zǎnzhú BL-2 is not confined to the treatment of eye 
 位于内眼角上方，眉毛内侧端凹陷中。
 
 * **定位要点 (Location Notes):**
-    * 沿眉毛内侧端向外侧触诊，感觉在**[BL1 睛明](point/BL1.md)** 正上方的凹陷。此穴触诊时常有压痛。
+    * 沿眉毛内侧端向外侧触诊，感觉在**[BL1 睛明](/point/BL1.md)** 正上方的凹陷。此穴触诊时常有压痛。
 
 #### **针刺方法 (Needling)**
 
-i. 横斜刺，向下（朝向**[BL1 睛明](point/BL1.md)**）治疗眼部疾病； ii. 横刺，向外侧透刺**[MHN6 鱼腰](point/MHN6.md)** (经外穴) 治疗眶上疼痛； iii. 点刺出血治疗热证。
+i. 横斜刺，向下（朝向**[BL1 睛明](/point/BL1.md)**）治疗眼部疾病； ii. 横刺，向外侧透刺**[MHN6 鱼腰](/point/MHN6.md)** (经外穴) 治疗眶上疼痛； iii. 点刺出血治疗热证。
 
 * **注意 (Note):** 根据几部经典文献，此穴禁灸。
 
@@ -81,9 +81,9 @@ i. 横斜刺，向下（朝向**[BL1 睛明](point/BL1.md)**）治疗眼部疾�
 
 #### **阐释 (Commentary)**
 
-**[BL2 攒竹](point/BL2.md)** 是治疗眼部及周围区域疾病的重要常用局部穴位。它可以替代**[BL1 睛明](point/BL1.md)** 治疗多种眼部疾病（主要由外邪侵袭引起），特别是对于针刺眼球附近穴位经验不足的医生。为此，可透刺至**[BL1 睛明](point/BL1.md)**，或在热证时点刺出血。其对眼睛红肿瘙痒的作用，结合其治疗鼻炎和喷嚏的能力，使其特别适合治疗花粉症。
+**[BL2 攒竹](/point/BL2.md)** 是治疗眼部及周围区域疾病的重要常用局部穴位。它可以替代**[BL1 睛明](/point/BL1.md)** 治疗多种眼部疾病（主要由外邪侵袭引起），特别是对于针刺眼球附近穴位经验不足的医生。为此，可透刺至**[BL1 睛明](/point/BL1.md)**，或在热证时点刺出血。其对眼睛红肿瘙痒的作用，结合其治疗鼻炎和喷嚏的能力，使其特别适合治疗花粉症。
 
-然而，**[BL2 攒竹](point/BL2.md)** 的作用范围不仅限于眼部疾病，它常作为局部穴位用于治疗前额头痛、眉棱骨痛、鼻窦痛和面瘫，更广泛地（参见下述组合）用于偏头痛或全头风，以及酒醉后头痛。膀胱经别绕行肛门，**[BL2 攒竹](point/BL2.md)** 主治痔疮疼痛，这是“取上治下”原则的一个例证。
+然而，**[BL2 攒竹](/point/BL2.md)** 的作用范围不仅限于眼部疾病，它常作为局部穴位用于治疗前额头痛、眉棱骨痛、鼻窦痛和面瘫，更广泛地（参见下述组合）用于偏头痛或全头风，以及酒醉后头痛。膀胱经别绕行肛门，**[BL2 攒竹](/point/BL2.md)** 主治痔疮疼痛，这是“取上治下”原则的一个例证。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -92,12 +92,12 @@ i. 横斜刺，向下（朝向**[BL1 睛明](point/BL1.md)**）治疗眼部疾�
 
 #### **穴位组合 (Combinations)**
 
-* 头风：**[BL2 攒竹](point/BL2.md)**，**[BL6 承光](point/BL6.md)**，**[BL23 肾俞](point/BL23.md)**，**[SJ18 瘛脉](point/SJ18.md)**，**[SJ23 丝竹空](point/SJ23.md)** 和 **[SJ22 耳和髎](point/SJ22.md)**（《千金方》）。
-* 头痛伴眼痛：**[BL2 攒竹](point/BL2.md)** 和 **[ST8 头维](point/ST8.md)**（《玉龙歌》）。
-* 偏头痛或全头风：**[BL2 攒竹](point/BL2.md)**，**[DU20 百会](point/DU20.md)**，**[DU21 前顶](point/DU21.md)**，**[DU24 神庭](point/DU24.md)**，**[DU23 上星](point/DU23.md)**，**[SJ23 丝竹空](point/SJ23.md)**，**[GB20 风池](point/GB20.md)**，**[LI4 合谷](point/LI4.md)** 和 **[ST8 头维](point/ST8.md)**（《针灸大成》）。
-* 酒醉后头风：**[BL2 攒竹](point/BL2.md)**，印堂（经外穴 **[MHN3 印堂](point/MHN3.md)**）和 **[ST36 足三里](point/ST36.md)**（《针灸大成》）。
-* 眉棱骨痛：**[BL2 攒竹](point/BL2.md)** 和 **[ST8 头维](point/ST8.md)**（《玉龙歌》）。
-* 眼睑跳动：**[BL2 攒竹](point/BL2.md)** 和 **[ST8 头维](point/ST8.md)**（《针灸大成》）。
-* 鼻炎清涕：**[BL2 攒竹](point/BL2.md)**，**[BL12 风门](point/BL12.md)**，**[DU24 神庭](point/DU24.md)**，**[LI4 合谷](point/LI4.md)**，**[LI20 迎香](point/LI20.md)**，**[BL67 至阴](point/BL67.md)** 和 **[KID20 腹通谷](point/KID20.md)**（《千金方》）。
+* 头风：**[BL2 攒竹](/point/BL2.md)**，**[BL6 承光](/point/BL6.md)**，**[BL23 肾俞](/point/BL23.md)**，**[SJ18 瘛脉](/point/SJ18.md)**，**[SJ23 丝竹空](/point/SJ23.md)** 和 **[SJ22 耳和髎](/point/SJ22.md)**（《千金方》）。
+* 头痛伴眼痛：**[BL2 攒竹](/point/BL2.md)** 和 **[ST8 头维](/point/ST8.md)**（《玉龙歌》）。
+* 偏头痛或全头风：**[BL2 攒竹](/point/BL2.md)**，**[DU20 百会](/point/DU20.md)**，**[DU21 前顶](/point/DU21.md)**，**[DU24 神庭](/point/DU24.md)**，**[DU23 上星](/point/DU23.md)**，**[SJ23 丝竹空](/point/SJ23.md)**，**[GB20 风池](/point/GB20.md)**，**[LI4 合谷](/point/LI4.md)** 和 **[ST8 头维](/point/ST8.md)**（《针灸大成》）。
+* 酒醉后头风：**[BL2 攒竹](/point/BL2.md)**，印堂（经外穴 **[MHN3 印堂](/point/MHN3.md)**）和 **[ST36 足三里](/point/ST36.md)**（《针灸大成》）。
+* 眉棱骨痛：**[BL2 攒竹](/point/BL2.md)** 和 **[ST8 头维](/point/ST8.md)**（《玉龙歌》）。
+* 眼睑跳动：**[BL2 攒竹](/point/BL2.md)** 和 **[ST8 头维](/point/ST8.md)**（《针灸大成》）。
+* 鼻炎清涕：**[BL2 攒竹](/point/BL2.md)**，**[BL12 风门](/point/BL12.md)**，**[DU24 神庭](/point/DU24.md)**，**[LI4 合谷](/point/LI4.md)**，**[LI20 迎香](/point/LI20.md)**，**[BL67 至阴](/point/BL67.md)** 和 **[KID20 腹通谷](/point/KID20.md)**（《千金方》）。
 
 ---

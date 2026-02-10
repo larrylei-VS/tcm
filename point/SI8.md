@@ -41,12 +41,12 @@ Finally it is worth noting that despite being the he-sea point of the Small Inte
 - Epileptic convulsions, mad walking, inability to sleep, agitation of the Heart: Xiǎohǎi SI-8, [Hòuxī SI-3](https://app.amanualofacupuncture.com/point/SI-3), [Zǎnzhú BL-2](https://app.amanualofacupuncture.com/point/BL-2) and [Qiángjiān DU-18](https://app.amanualofacupuncture.com/point/DU-18) (Thousand Ducat Formulas).
 
 ---
-### **[SI8 小海](point/SI8.md)** (XIǍOHǍI)
+### **[SI8 小海](/point/SI8.md)** (XIǍOHǍI)
 
 * **英文名称：** Small Sea
 * **中文名称：** 小海
 * **国际代码：** SI-8
-* **穴位属性：** **[SI8 小海](point/SI8.md)** 是小肠经的合穴和土穴。
+* **穴位属性：** **[SI8 小海](/point/SI8.md)** 是小肠经的合穴和土穴。
 
 #### **定位 (Location)**
 
@@ -72,9 +72,9 @@ i. 斜刺，向远端或近端，0.5至1寸； ii. 垂直刺0.3至0.5寸。
 
 #### **阐释 (Commentary)**
 
-**[SI8 小海](point/SI8.md)** 是小肠经的合穴和土穴。尽管具有这些重要特性，它是一个相对不常用的穴位，这体现在其很少出现在经典组合中。它主治多种肿胀，包括牙龈、咽喉、面颊、肘部和腋窝的肿胀，以及颈部或腋窝的瘰疬。然而，临床上它主要用于治疗肩胛和肩部后外侧、手臂和肘部的疼痛。与 **[SI7 支正](point/SI7.md)** 类似，**[SI8 小海](point/SI8.md)** 也能调理其相表里的心藏，主治癫痫、舌体强硬（舌头反复伸出嘴外，如同蛇信）、循衣摸床（或行走无度）和心烦等疾病。
+**[SI8 小海](/point/SI8.md)** 是小肠经的合穴和土穴。尽管具有这些重要特性，它是一个相对不常用的穴位，这体现在其很少出现在经典组合中。它主治多种肿胀，包括牙龈、咽喉、面颊、肘部和腋窝的肿胀，以及颈部或腋窝的瘰疬。然而，临床上它主要用于治疗肩胛和肩部后外侧、手臂和肘部的疼痛。与 **[SI7 支正](/point/SI7.md)** 类似，**[SI8 小海](/point/SI8.md)** 也能调理其相表里的心藏，主治癫痫、舌体强硬（舌头反复伸出嘴外，如同蛇信）、循衣摸床（或行走无度）和心烦等疾病。
 
-最后值得注意的是，尽管 **[SI8 小海](point/SI8.md)** 是小肠经的合穴，但它对其各自的腑（小肠）没有显著作用。这反映了一个根本性矛盾：小肠和大肠腑都位于下焦，但它们的经脉却循行于上肢。因此，这些经脉上的穴位对其腑的作用相对较小，小肠的疾病更多地通过 **[ST39 下巨虚](point/ST39.md)** 或 **[BL27 小肠俞](point/BL27.md)**（分别是小肠的下合穴和背俞穴）来治疗。
+最后值得注意的是，尽管 **[SI8 小海](/point/SI8.md)** 是小肠经的合穴，但它对其各自的腑（小肠）没有显著作用。这反映了一个根本性矛盾：小肠和大肠腑都位于下焦，但它们的经脉却循行于上肢。因此，这些经脉上的穴位对其腑的作用相对较小，小肠的疾病更多地通过 **[ST39 下巨虚](/point/ST39.md)** 或 **[BL27 小肠俞](/point/BL27.md)**（分别是小肠的下合穴和背俞穴）来治疗。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -83,8 +83,8 @@ i. 斜刺，向远端或近端，0.5至1寸； ii. 垂直刺0.3至0.5寸。
 
 #### **穴位组合 (Combinations)**
 
-* 肘部挛缩：**[SI8 小海](point/SI8.md)**，**[LU5 尺泽](point/LU5.md)**，**[LI15 肩髃](point/LI15.md)**，**[PC5 间使](point/PC5.md)**，**[PC7 大陵](point/PC7.md)**，**[SI3 后溪](point/SI3.md)** 和 **[LU10 鱼际](point/LU10.md)**（《针灸大成》）。
-* 牙龈疼痛：**[SI8 小海](point/SI8.md)** 和 **[SJ20 角孙](point/SJ20.md)**（《针灸大成》）。
-* 癫痫抽搐，循衣摸床（或行走无度），不能入睡，心烦：**[SI8 小海](point/SI8.md)**，**[SI3 后溪](point/SI3.md)**，**[BL2 攒竹](point/BL2.md)** 和 **[DU18 强间](point/DU18.md)**（《千金方》）。
+* 肘部挛缩：**[SI8 小海](/point/SI8.md)**，**[LU5 尺泽](/point/LU5.md)**，**[LI15 肩髃](/point/LI15.md)**，**[PC5 间使](/point/PC5.md)**，**[PC7 大陵](/point/PC7.md)**，**[SI3 后溪](/point/SI3.md)** 和 **[LU10 鱼际](/point/LU10.md)**（《针灸大成》）。
+* 牙龈疼痛：**[SI8 小海](/point/SI8.md)** 和 **[SJ20 角孙](/point/SJ20.md)**（《针灸大成》）。
+* 癫痫抽搐，循衣摸床（或行走无度），不能入睡，心烦：**[SI8 小海](/point/SI8.md)**，**[SI3 后溪](/point/SI3.md)**，**[BL2 攒竹](/point/BL2.md)** 和 **[DU18 强间](/point/DU18.md)**（《千金方》）。
 
 ---

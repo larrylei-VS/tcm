@@ -39,16 +39,16 @@ The name of this point (Siman) is translated as 'Four Fullnesses'. Although ther
 
 
 ---
-### **[KID14 四满](point/KID14.md)** (SÌMǍN)
+### **[KID14 四满](/point/KID14.md)** (SÌMǍN)
 
 * **英文名称：** Four Fullnesses
 * **中文名称：** 四满
 * **国际代码：** KID-14
-* **穴位属性：** **[KID14 四满](point/KID14.md)** 是肾经与冲脉的交会穴。
+* **穴位属性：** **[KID14 四满](/point/KID14.md)** 是肾经与冲脉的交会穴。
 
 #### **定位 (Location)**
 
-位于下腹部，脐下2寸，耻骨联合上缘上方3寸，距中线旁开0.5寸（**[REN5 石门](point/REN5.md)** 旁开0.5寸）。请参阅**[KID11 横骨](point/KID11.md)** 的定位要点。
+位于下腹部，脐下2寸，耻骨联合上缘上方3寸，距中线旁开0.5寸（**[REN5 石门](/point/REN5.md)** 旁开0.5寸）。请参阅**[KID11 横骨](/point/KID11.md)** 的定位要点。
 
 #### **针刺方法 (Needling)**
 
@@ -78,8 +78,8 @@ The name of this point (Siman) is translated as 'Four Fullnesses'. Although ther
 
 #### **穴位组合 (Combinations)**
 
-* 上腹部石水（水肿）：灸**[KID14 四满](point/KID14.md)**、**[KID2 然谷](point/KID2.md)**、**[ST30 气冲](point/ST30.md)** 和 **[LIV13 章门](point/LIV13.md)**（《千金方》）。
-* 上腹部石水（水肿）：**[KID14 四满](point/KID14.md)** 和 **[KID2 然谷](point/KID2.md)**（《资生经》）。
-* 子宫恶血，内逆胀痛：**[KID14 四满](point/KID14.md)** 和 **[KID18 石关](point/KID18.md)**（《资生经》）。
+* 上腹部石水（水肿）：灸**[KID14 四满](/point/KID14.md)**、**[KID2 然谷](/point/KID2.md)**、**[ST30 气冲](/point/ST30.md)** 和 **[LIV13 章门](/point/LIV13.md)**（《千金方》）。
+* 上腹部石水（水肿）：**[KID14 四满](/point/KID14.md)** 和 **[KID2 然谷](/point/KID2.md)**（《资生经》）。
+* 子宫恶血，内逆胀痛：**[KID14 四满](/point/KID14.md)** 和 **[KID18 石关](/point/KID18.md)**（《资生经》）。
 
 ---

@@ -43,7 +43,7 @@ The Classic of the Jade Dragon recommends Zhōngdū LIV-6 for numbness of th
 - Cold-damp shan disorder: Zhōngdū LIV-6, [Daju ST‑27](https://app.amanualofacupuncture.com/point/ST-27) and [Dìjī SP-8](https://app.amanualofacupuncture.com/point/SP-8) (Systematic Classic).
 
 
-### 1. [LIV6 中都](point/LIV6.md)
+### 1. [LIV6 中都](/point/LIV6.md)
 
 #### 1.1. Central Capital 中都
 
@@ -55,7 +55,7 @@ The Classic of the Jade Dragon recommends Zhōngdū LIV-6 for numbness of th
 
 #### 1.3. 定位说明
 
-将内踝尖至腘横纹的距离分为两等分，[LIV6 中都](point/LIV6.md)位于中点下方0.5寸处。
+将内踝尖至腘横纹的距离分为两等分，[LIV6 中都](/point/LIV6.md)位于中点下方0.5寸处。
 
 #### 1.4. 针刺方法
 
@@ -75,9 +75,9 @@ ii. 向近端朝腹部斜刺，深1至2寸。
 
 #### 1.7. 论述
 
-[LIV6 中都](point/LIV6.md)是肝经的郄穴。郄穴是气血从井穴沿经脉较浅层流动后聚集并深入之处。郄穴通常用于治疗急性病症和疼痛，阴经的郄穴还额外治疗血病。然而，尽管[LIV6 中都](point/LIV6.md)是郄穴，除治疗恶露不尽及子宫出血外，其血病指征较少。  
+[LIV6 中都](/point/LIV6.md)是肝经的郄穴。郄穴是气血从井穴沿经脉较浅层流动后聚集并深入之处。郄穴通常用于治疗急性病症和疼痛，阴经的郄穴还额外治疗血病。然而，尽管[LIV6 中都](/point/LIV6.md)是郄穴，除治疗恶露不尽及子宫出血外，其血病指征较少。  
 
-《玉龙经》推荐[LIV6 中都](point/LIV6.md)用于身体麻木及手足麻木，《经穴考》用于腿软消瘦，《千金方》用于足底热感，这些共同反映湿热引起的萎症临床表现。然而，在现代临床中，[LIV6 中都](point/LIV6.md)使用较少，从经典配伍的稀少来看，历史上似乎也是如此。  
+《玉龙经》推荐[LIV6 中都](/point/LIV6.md)用于身体麻木及手足麻木，《经穴考》用于腿软消瘦，《千金方》用于足底热感，这些共同反映湿热引起的萎症临床表现。然而，在现代临床中，[LIV6 中都](/point/LIV6.md)使用较少，从经典配伍的稀少来看，历史上似乎也是如此。  
 
 #### 1.8. 临床应用总结
 
@@ -87,6 +87,6 @@ ii. 向近端朝腹部斜刺，深1至2寸。
 
 #### 1.9. 配伍
 
-- 四肢水肿：[LIV6 中都](point/LIV6.md) + [LI4 合谷](point/LI4.md) + [LI11 曲池](point/LI11.md) + [SJ3 中渚](point/SJ3.md) + [SJ2 液门](point/SJ2.md) + [LIV2 行间](point/LIV2.md) + [ST44 内庭](point/ST44.md) + [SP6 三阴交](point/SP6.md) + [SP9 阴陵泉](point/SP9.md)（《大成》）。  
-- 寒湿疝病：[LIV6 中都](point/LIV6.md) + [ST27 大巨](point/ST27.md) + [SP8 地机](point/SP8.md)（《系统经典》）。  
+- 四肢水肿：[LIV6 中都](/point/LIV6.md) + [LI4 合谷](/point/LI4.md) + [LI11 曲池](/point/LI11.md) + [SJ3 中渚](/point/SJ3.md) + [SJ2 液门](/point/SJ2.md) + [LIV2 行间](/point/LIV2.md) + [ST44 内庭](/point/ST44.md) + [SP6 三阴交](/point/SP6.md) + [SP9 阴陵泉](/point/SP9.md)（《大成》）。  
+- 寒湿疝病：[LIV6 中都](/point/LIV6.md) + [ST27 大巨](/point/ST27.md) + [SP8 地机](/point/SP8.md)（《系统经典》）。  
 `

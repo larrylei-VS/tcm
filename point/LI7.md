@@ -49,20 +49,20 @@ The action of Wēnliū LI-7 on clearing yangming fire and calming the spirit, 
 - Manic raving, seeing ghosts: Wēnliū LI-7, [Yángxī LI-5](https://app.amanualofacupuncture.com/point/LI-5) and [Púcān BL-61](https://app.amanualofacupuncture.com/point/BL-61) (Supplementing Life).
 - Stiffness of the nape of the neck due to injury by cold: Wēnliū LI-7 and [Qímén LIV-14](https://app.amanualofacupuncture.com/point/LIV-14) (One Hundred Symptoms).
 
-### [LI7 温溜](point/LI7.md) (WĒNLIŪ)
+### [LI7 温溜](/point/LI7.md) (WĒNLIŪ)
 
 - **英文名称：** Warm Flow
 - **中文名称：** 温溜
 - **国际代码：** LI-7
-- **穴位属性：** [LI7 温溜](point/LI7.md) 是大肠经的郄穴。
+- **穴位属性：** [LI7 温溜](/point/LI7.md) 是大肠经的郄穴。
 
 #### 定位 (Location)
 
-在[LI5 阳溪](point/LI5.md) 上方5寸，在连接[LI5 阳溪](point/LI5.md) 与[LI11 曲池](point/LI11.md) 的连线上。
+在[LI5 阳溪](/point/LI5.md) 上方5寸，在连接[LI5 阳溪](/point/LI5.md) 与[LI11 曲池](/point/LI11.md) 的连线上。
 
 - **定位要点 (Location Notes):**
     - 屈肘，手臂桡侧向上时取穴；
-    - 将[LI5 阳溪](point/LI5.md) 和[LI11 曲池](point/LI11.md) 之间的距离平均分成两份，然后取此中点下方1寸处。
+    - 将[LI5 阳溪](/point/LI5.md) 和[LI11 曲池](/point/LI11.md) 之间的距离平均分成两份，然后取此中点下方1寸处。
 
 #### 针刺方法 (Needling)
 
@@ -87,11 +87,11 @@ The action of Wēnliū LI-7 on clearing yangming fire and calming the spirit, 
 
 #### 阐释 (Commentary)
 
-[LI7 温溜](point/LI7.md) 是大肠经的郄穴。郄穴是气血从井穴沿经脉浅层流注到此聚集并深入的地方。一般来说，郄穴主治急性病症和疼痛，这体现在[LI7 温溜](point/LI7.md) 具有清热解毒的作用，可用于治疗疔疮、痈、疖，咽喉肿痛，以及面部红肿热痛。疔疮是一种小的、硬的、根深蒂固的、丁香状的化脓性病变。它们主要是由于饮食不节或外部风火毒侵袭肌表所致。病情发展迅速，伴有严重的局部疼痛、红肿，常伴发热。
+[LI7 温溜](/point/LI7.md) 是大肠经的郄穴。郄穴是气血从井穴沿经脉浅层流注到此聚集并深入的地方。一般来说，郄穴主治急性病症和疼痛，这体现在[LI7 温溜](/point/LI7.md) 具有清热解毒的作用，可用于治疗疔疮、痈、疖，咽喉肿痛，以及面部红肿热痛。疔疮是一种小的、硬的、根深蒂固的、丁香状的化脓性病变。它们主要是由于饮食不节或外部风火毒侵袭肌表所致。病情发展迅速，伴有严重的局部疼痛、红肿，常伴发热。
 
-手部阳经（大肠经、三焦经和小肠经）的一个显著特点是，很少有穴位主治其相应腑的病症。就大肠经而言，[LI7 温溜](point/LI7.md) 及其下方的[LI8 下廉](point/LI8.md) 和[LI9 上廉](point/LI9.md) 却主治肠胃病症（[LI7 温溜](point/LI7.md) 主治肠鸣腹痛、腹胀、呕吐清水泡沫）。这符合所有阳经的一般原则，在足阳经上看得最清楚，即穴位越接近肘关节或膝关节，对相应腑的作用越大。然而，需要注意的是，在临床实践中，大肠经穴位很少用于治疗肠道疾病，主要经典著作中也没有[LI7 温溜](point/LI7.md) 用于此目的的组合，印证了这一点。
+手部阳经（大肠经、三焦经和小肠经）的一个显著特点是，很少有穴位主治其相应腑的病症。就大肠经而言，[LI7 温溜](/point/LI7.md) 及其下方的[LI8 下廉](/point/LI8.md) 和[LI9 上廉](/point/LI9.md) 却主治肠胃病症（[LI7 温溜](/point/LI7.md) 主治肠鸣腹痛、腹胀、呕吐清水泡沫）。这符合所有阳经的一般原则，在足阳经上看得最清楚，即穴位越接近肘关节或膝关节，对相应腑的作用越大。然而，需要注意的是，在临床实践中，大肠经穴位很少用于治疗肠道疾病，主要经典著作中也没有[LI7 温溜](/point/LI7.md) 用于此目的的组合，印证了这一点。
 
-[LI7 温溜](point/LI7.md) 清泻阳明火、宁心安神，从而治疗喜笑无常、狂言语、见鬼的作用，与[LI5 阳溪](point/LI5.md) 相似。
+[LI7 温溜](/point/LI7.md) 清泻阳明火、宁心安神，从而治疗喜笑无常、狂言语、见鬼的作用，与[LI5 阳溪](/point/LI5.md) 相似。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -105,12 +105,12 @@ The action of Wēnliū LI-7 on clearing yangming fire and calming the spirit, 
 
 #### 穴位组合 (Combinations)
 
-咽喉肿痛失音：[LI7 温溜](point/LI7.md) 和[LI11 曲池](point/LI11.md)（《针灸甲乙经》）。
+咽喉肿痛失音：[LI7 温溜](/point/LI7.md) 和[LI11 曲池](/point/LI11.md)（《针灸甲乙经》）。
 
-舌强硬，舌乱动：[LI7 温溜](point/LI7.md)，[ST24 滑肉门](point/ST24.md) 和[HE3 少海](point/HE3.md)（《资生经》）。
+舌强硬，舌乱动：[LI7 温溜](/point/LI7.md)，[ST24 滑肉门](/point/ST24.md) 和[HE3 少海](/point/HE3.md)（《资生经》）。
 
-狂言语，见鬼：[LI7 温溜](point/LI7.md)，[LI5 阳溪](point/LI5.md) 和[BL61 仆参](point/BL61.md)（《资生经》）。
+狂言语，见鬼：[LI7 温溜](/point/LI7.md)，[LI5 阳溪](/point/LI5.md) 和[BL61 仆参](/point/BL61.md)（《资生经》）。
 
-伤寒后颈项强直：[LI7 温溜](point/LI7.md) 和[LIV14 期门](point/LIV14.md)（《百症赋》）。
+伤寒后颈项强直：[LI7 温溜](/point/LI7.md) 和[LIV14 期门](/point/LIV14.md)（《百症赋》）。
 
 ---

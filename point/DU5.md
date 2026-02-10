@@ -32,11 +32,11 @@ Caution**:** the spinal canal lies between 1.25 and 1.75 cun deep to the skin s
 
 - Undigested food (in the stool): Xuánshū DU-5, [Zúsānlǐ ST-36](https://app.amanualofacupuncture.com/point/ST-36), [Dàchángshū BL-25](https://app.amanualofacupuncture.com/point/BL-25), [Sānyīnjiāo SP-6](https://app.amanualofacupuncture.com/point/SP-6), [Xiàwǎn REN-10](https://app.amanualofacupuncture.com/point/REN-10), [Sānjiāoshu BL-22](https://app.amanualofacupuncture.com/point/BL-22) and [Liángmén ST-21](https://app.amanualofacupuncture.com/point/ST-21) (Supplementing Life).
 
-以下是按照您要求的格式，将穴位改为 `[穴位名](point/穴位名.md)` 并加上标题号的翻译版本：
+以下是按照您要求的格式，将穴位改为 `[穴位名](/point/穴位名.md)` 并加上标题号的翻译版本：
 
 ---
 
-# 1. [DU5 悬枢](point/DU5.md)
+# 1. [DU5 悬枢](/point/DU5.md)
 
 ## 1.1. Suspended Pivot 懸樞
 
@@ -70,4 +70,4 @@ Caution**:** the spinal canal lies between 1.25 and 1.75 cun deep to the skin s
 
 ### 1.8. 配伍
 
-- 泻下未消化食物：[DU5 悬枢](point/DU5.md) + [ST36 足三里](point/ST36.md) + [BL25 大肠俞](point/BL25.md) + [SP6 三阴交](point/SP6.md) + [REN10 下脘](point/REN10.md) + [BL22 三焦俞](point/BL22.md) + [ST21 梁门](point/ST21.md)（《补命》）。  
+- 泻下未消化食物：[DU5 悬枢](/point/DU5.md) + [ST36 足三里](/point/ST36.md) + [BL25 大肠俞](/point/BL25.md) + [SP6 三阴交](/point/SP6.md) + [REN10 下脘](/point/REN10.md) + [BL22 三焦俞](/point/BL22.md) + [ST21 梁门](/point/ST21.md)（《补命》）。  

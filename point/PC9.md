@@ -97,12 +97,12 @@ The Pericardium primary and divergent channels traverse all three jiao and the P
 - 体内热气如火，头痛欲裂：中冲P-9和[命门DU-4](https://app.amanualofacupuncture.com/manual/points/DU/90) （补生命）。
 
 ---
-### **[PC9 中冲](point/PC9.md)** (ZHŌNGCHŌNG)
+### **[PC9 中冲](/point/PC9.md)** (ZHŌNGCHŌNG)
 
 * **英文名称：** Middle Rushing
 * **中文名称：** 中冲
 * **国际代码：** PC-9
-* **穴位属性：** **[PC9 中冲](point/PC9.md)** 是心包经的井穴和木穴。
+* **穴位属性：** **[PC9 中冲](/point/PC9.md)** 是心包经的井穴和木穴。
 
 #### **定位 (Location)**
 
@@ -127,13 +127,13 @@ The Pericardium primary and divergent channels traverse all three jiao and the P
 
 #### **阐释 (Commentary)**
 
-**[PC9 中冲](point/PC9.md)** 是心包经的井穴，与许多井穴一样（经脉的末端和最具活力的穴位），具有强大的开窍醒神作用。然而，**[PC9 中冲](point/PC9.md)** 与其他井穴有一些特殊区别。首先，它位于中指尖，是所有井穴中最远端的穴位，也是唯一一个位于指尖中央而非指甲角处的穴位。其次，作为心包经的穴位，**[PC9 中冲](point/PC9.md)** 尤其适合开窍醒神，这发生在心神离位时。
+**[PC9 中冲](/point/PC9.md)** 是心包经的井穴，与许多井穴一样（经脉的末端和最具活力的穴位），具有强大的开窍醒神作用。然而，**[PC9 中冲](/point/PC9.md)** 与其他井穴有一些特殊区别。首先，它位于中指尖，是所有井穴中最远端的穴位，也是唯一一个位于指尖中央而非指甲角处的穴位。其次，作为心包经的穴位，**[PC9 中冲](/point/PC9.md)** 尤其适合开窍醒神，这发生在心神离位时。
 
-热病过程中，热邪夹痰内陷心包，可能引起昏厥伴舌强。**[PC9 中冲](point/PC9.md)** 对舌的亲和力，体现在舌根疼痛、舌强和不能言语等经典主治中，这突出了心包与心之间存在的密切关系，因为心开窍于舌，且心（络）脉而非心包经循行至舌根。
+热病过程中，热邪夹痰内陷心包，可能引起昏厥伴舌强。**[PC9 中冲](/point/PC9.md)** 对舌的亲和力，体现在舌根疼痛、舌强和不能言语等经典主治中，这突出了心包与心之间存在的密切关系，因为心开窍于舌，且心（络）脉而非心包经循行至舌根。
 
-像心包经的几个穴位一样，**[PC9 中冲](point/PC9.md)** 也治疗中暑，其特点是发热、烦躁、呕吐、腹泻和昏厥。
+像心包经的几个穴位一样，**[PC9 中冲](/point/PC9.md)** 也治疗中暑，其特点是发热、烦躁、呕吐、腹泻和昏厥。
 
-心包经正经和经别都循行于三焦，心包经与三焦经互为表里。因此，像心包经的许多穴位一样，**[PC9 中冲](point/PC9.md)** 对中焦也有强大作用，主治呕吐腹泻、胃脘痛和霍乱吐泻。在治疗儿科疾病方面，它可用于小儿夜啼和小儿疳积。除了其他证型，前者可能由心热积聚引起，后者由中焦热邪和阻滞引起。
+心包经正经和经别都循行于三焦，心包经与三焦经互为表里。因此，像心包经的许多穴位一样，**[PC9 中冲](/point/PC9.md)** 对中焦也有强大作用，主治呕吐腹泻、胃脘痛和霍乱吐泻。在治疗儿科疾病方面，它可用于小儿夜啼和小儿疳积。除了其他证型，前者可能由心热积聚引起，后者由中焦热邪和阻滞引起。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -143,11 +143,11 @@ The Pericardium primary and divergent channels traverse all three jiao and the P
 
 #### **穴位组合 (Combinations)**
 
-* 中风昏厥：**[PC9 中冲](point/PC9.md)**，**[DU26 人中](point/DU26.md)** 和 **[LI4 合谷](point/LI4.md)**。若无效，针刺 **[DU15 哑门](point/DU15.md)** 和 **[LIV1 大敦](point/LIV1.md)**（《针灸大成》）。
-* 舌下肿痛：**[PC9 中冲](point/PC9.md)** 和 **[REN23 廉泉](point/REN23.md)**（《百症赋》）。
-* 舌强：**[PC9 中冲](point/PC9.md)**，**[LU11 少商](point/LU11.md)**，**[LU10 鱼际](point/LU10.md)**，**[DU15 哑门](point/DU15.md)**，**[LI2 二间](point/LI2.md)**，**[KID10 阴谷](point/KID10.md)** 和 **[KID2 然谷](point/KID2.md)**（《针灸大成》）。
-* 心痛伴胀满烦躁和舌强：**[PC9 中冲](point/PC9.md)** 和 **[HE6 阴郄](point/HE6.md)**（《资生经》）。
-* 心痛伴气短：**[PC9 中冲](point/PC9.md)**，**[LIV14 期门](point/LIV14.md)**，**[DU1 长强](point/DU1.md)**，**[REN22 天突](point/REN22.md)** 和 **[LU4 侠白](point/LU4.md)**（《千金方》）。
-* 身热如火伴偏头痛：**[PC9 中冲](point/PC9.md)** 和 **[DU4 命门](point/DU4.md)**（《资生经》）。
+* 中风昏厥：**[PC9 中冲](/point/PC9.md)**，**[DU26 人中](/point/DU26.md)** 和 **[LI4 合谷](/point/LI4.md)**。若无效，针刺 **[DU15 哑门](/point/DU15.md)** 和 **[LIV1 大敦](/point/LIV1.md)**（《针灸大成》）。
+* 舌下肿痛：**[PC9 中冲](/point/PC9.md)** 和 **[REN23 廉泉](/point/REN23.md)**（《百症赋》）。
+* 舌强：**[PC9 中冲](/point/PC9.md)**，**[LU11 少商](/point/LU11.md)**，**[LU10 鱼际](/point/LU10.md)**，**[DU15 哑门](/point/DU15.md)**，**[LI2 二间](/point/LI2.md)**，**[KID10 阴谷](/point/KID10.md)** 和 **[KID2 然谷](/point/KID2.md)**（《针灸大成》）。
+* 心痛伴胀满烦躁和舌强：**[PC9 中冲](/point/PC9.md)** 和 **[HE6 阴郄](/point/HE6.md)**（《资生经》）。
+* 心痛伴气短：**[PC9 中冲](/point/PC9.md)**，**[LIV14 期门](/point/LIV14.md)**，**[DU1 长强](/point/DU1.md)**，**[REN22 天突](/point/REN22.md)** 和 **[LU4 侠白](/point/LU4.md)**（《千金方》）。
+* 身热如火伴偏头痛：**[PC9 中冲](/point/PC9.md)** 和 **[DU4 命门](/point/DU4.md)**（《资生经》）。
 
 ---

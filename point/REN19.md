@@ -34,7 +34,7 @@ Transverse insertion directed superiorly or inferiorly along the channel, 0.5 to
 - Bone pain: Zǐgōng REN-19, [Yùtáng REN-18](https://app.amanualofacupuncture.com/point/REN-18) and [Géshū BL-17](https://app.amanualofacupuncture.com/point/BL-17) (Supplementing Life).
 
 
-### 1. [REN19 紫宫](point/REN19.md)
+### 1. [REN19 紫宫](/point/REN19.md)
 
 #### 1.1. Purple Palace 紫宮
 
@@ -67,6 +67,6 @@ Transverse insertion directed superiorly or inferiorly along the channel, 0.5 to
 
 #### 1.8. 配伍
 
-- 咳嗽伴气逆及烦躁：[REN19 紫宫](point/REN19.md) + [REN18 玉堂](point/REN18.md) + [KID3 太溪](point/KID3.md)（《千金方》）。  
-- 吞咽难：[REN19 紫宫](point/REN19.md) + [REN16 中庭](point/REN16.md) + [BL19 胆俞](point/BL19.md)（《千金方》）。  
-- 骨痛：[REN19 紫宫](point/REN19.md) + [REN18 玉堂](point/REN18.md) + [BL17 膈俞](point/BL17.md)（《补命》）。  
+- 咳嗽伴气逆及烦躁：[REN19 紫宫](/point/REN19.md) + [REN18 玉堂](/point/REN18.md) + [KID3 太溪](/point/KID3.md)（《千金方》）。  
+- 吞咽难：[REN19 紫宫](/point/REN19.md) + [REN16 中庭](/point/REN16.md) + [BL19 胆俞](/point/BL19.md)（《千金方》）。  
+- 骨痛：[REN19 紫宫](/point/REN19.md) + [REN18 玉堂](/point/REN18.md) + [BL17 膈俞](/point/BL17.md)（《补命》）。  

@@ -39,12 +39,12 @@ As the name 'Container of Tears' suggests, Chéngqì ST-1 is especially import
 - Short-sightedness: Chéngqì ST-1, [Jīngmíng BL-1](https://app.amanualofacupuncture.com/point/BL-1), [Fēngchí GB-20](https://app.amanualofacupuncture.com/point/GB-20), [Guāngmíng GB-37](https://app.amanualofacupuncture.com/point/GB-37), [Tàichōng LIV-3](https://app.amanualofacupuncture.com/point/LIV-3) and [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4).
 - Redness, swelling and pain of the eye: Chéngqì ST-1, [Zǎnzhú BL-2](https://app.amanualofacupuncture.com/point/BL-2), [Fēngchí GB-20](https://app.amanualofacupuncture.com/point/GB-20), [Tàiyáng M-HN-9](https://app.amanualofacupuncture.com/point/M-HN-9), [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4) and [Xíngjiān LIV-2](https://app.amanualofacupuncture.com/point/LIV-2).
 
-### [ST1 承泣](point/ST1.md) (CHÉNGQÌ)
+### [ST1 承泣](/point/ST1.md) (CHÉNGQÌ)
 
 - **英文名称：** Container of Tears
 - **中文名称：** 承泣
 - **国际代码：** ST-1
-- **穴位属性：** [ST1 承泣](point/ST1.md) 是胃经与阳跷脉、任脉的交会穴。
+- **穴位属性：** [ST1 承泣](/point/ST1.md) 是胃经与阳跷脉、任脉的交会穴。
 
 #### 定位 (Location)
 
@@ -74,22 +74,22 @@ As the name 'Container of Tears' suggests, Chéngqì ST-1 is especially import
 
 #### 阐释 (Commentary)
 
-[ST1 承泣](point/ST1.md) 是治疗眼部疾病的两大主要局部穴位之一（另一个是[BL1 睛明](point/BL1.md)），是多条经脉的交会点。胃经正经在[BL1 睛明](point/BL1.md) 处与膀胱经交会，然后沿眶下缘下行至[ST1 承泣](point/ST1.md)。胃经别连接眼睛，胃经筋与膀胱经筋交会，在眼周形成肌络网。
+[ST1 承泣](/point/ST1.md) 是治疗眼部疾病的两大主要局部穴位之一（另一个是[BL1 睛明](/point/BL1.md)），是多条经脉的交会点。胃经正经在[BL1 睛明](/point/BL1.md) 处与膀胱经交会，然后沿眶下缘下行至[ST1 承泣](/point/ST1.md)。胃经别连接眼睛，胃经筋与膀胱经筋交会，在眼周形成肌络网。
 
-眼部疾病的病因病机复杂多样，但可简化为：i. 外邪风热或风寒侵袭，ii. 内在失调（主要是肝火上炎、肝阳上亢或肝阴肝血不足），或 iii. 内在失调与外邪兼有。[ST1 承泣](point/ST1.md) 不仅能驱散风、寒、热等邪气，更能强烈激发和促进局部气血运行，因此适用于各种内在失调引起的眼部疾病，主治范围涵盖了所有眼部疾病。包括传统分类的红肿疼痛、流泪、外障眼病、视物模糊、近视、夜盲、眼睛瘙痒、眼睛向上直视、视物眩晕和眼睑跳动。现代疾病分类中，[ST1 承泣](point/ST1.md) 主治急慢性结膜炎、近视、青光眼、散光、色盲、视神经炎、角膜炎和眼睑痉挛。
+眼部疾病的病因病机复杂多样，但可简化为：i. 外邪风热或风寒侵袭，ii. 内在失调（主要是肝火上炎、肝阳上亢或肝阴肝血不足），或 iii. 内在失调与外邪兼有。[ST1 承泣](/point/ST1.md) 不仅能驱散风、寒、热等邪气，更能强烈激发和促进局部气血运行，因此适用于各种内在失调引起的眼部疾病，主治范围涵盖了所有眼部疾病。包括传统分类的红肿疼痛、流泪、外障眼病、视物模糊、近视、夜盲、眼睛瘙痒、眼睛向上直视、视物眩晕和眼睑跳动。现代疾病分类中，[ST1 承泣](/point/ST1.md) 主治急慢性结膜炎、近视、青光眼、散光、色盲、视神经炎、角膜炎和眼睑痉挛。
 
-正如其名称“承泣”所示，[ST1 承泣](point/ST1.md) 在治疗泪液过多方面尤为重要。泪液过多在传统上细分为冷泪和热泪两种，两者皆常伴有外风。冷泪可能由于肝经虚寒或肝肾亏虚所致，热泪可能由于肝经风热或肝阴亏虚伴热所致。
+正如其名称“承泣”所示，[ST1 承泣](/point/ST1.md) 在治疗泪液过多方面尤为重要。泪液过多在传统上细分为冷泪和热泪两种，两者皆常伴有外风。冷泪可能由于肝经虚寒或肝肾亏虚所致，热泪可能由于肝经风热或肝阴亏虚伴热所致。
 
 #### 临床应用总结 (Summary of clinical application)
 
-治疗所有眼部疾病的两大主要局部穴位之一（与[BL1 睛明](point/BL1.md) 并列）：红肿疼痛，外障眼病，视物模糊，远视不能，夜盲，眼睛瘙痒，眼睛向上直视，眼睑跳动，急慢性结膜炎，近视，青光眼，散光，色盲，视神经炎，角膜炎和眼睑痉挛。特别适用于流泪过多。
+治疗所有眼部疾病的两大主要局部穴位之一（与[BL1 睛明](/point/BL1.md) 并列）：红肿疼痛，外障眼病，视物模糊，远视不能，夜盲，眼睛瘙痒，眼睛向上直视，眼睑跳动，急慢性结膜炎，近视，青光眼，散光，色盲，视神经炎，角膜炎和眼睑痉挛。特别适用于流泪过多。
 
 #### 穴位组合 (Combinations)
 
-口歪不能言语：[ST1 承泣](point/ST1.md)，[ST2 四白](point/ST2.md)，[ST3 巨髎](point/ST3.md)，[LI19 口禾髎](point/LI19.md)，[GB3 上关](point/GB3.md)，[ST5 大迎](point/ST5.md)，[SI18 颧髎](point/SI18.md)，[DU18 强间](point/DU18.md)，[GB20 风池](point/GB20.md)，[LI20 迎香](point/LI20.md) 和[DU26 人中](point/DU26.md)（《资生经》）。
+口歪不能言语：[ST1 承泣](/point/ST1.md)，[ST2 四白](/point/ST2.md)，[ST3 巨髎](/point/ST3.md)，[LI19 口禾髎](/point/LI19.md)，[GB3 上关](/point/GB3.md)，[ST5 大迎](/point/ST5.md)，[SI18 颧髎](/point/SI18.md)，[DU18 强间](/point/DU18.md)，[GB20 风池](/point/GB20.md)，[LI20 迎香](/point/LI20.md) 和[DU26 人中](/point/DU26.md)（《资生经》）。
 
-近视：[ST1 承泣](point/ST1.md)，[BL1 睛明](point/BL1.md)，[GB20 风池](point/GB20.md)，[GB37 光明](point/GB37.md)，[LIV3 太冲](point/LIV3.md) 和[LI4 合谷](point/LI4.md)。
+近视：[ST1 承泣](/point/ST1.md)，[BL1 睛明](/point/BL1.md)，[GB20 风池](/point/GB20.md)，[GB37 光明](/point/GB37.md)，[LIV3 太冲](/point/LIV3.md) 和[LI4 合谷](/point/LI4.md)。
 
-眼睛红肿疼痛：[ST1 承泣](point/ST1.md)，[BL2 攒竹](point/BL2.md)，[GB20 风池](point/GB20.md)，[MHN9 太阳](point/MHN9.md) (经外穴)，[LI4 合谷](point/LI4.md) 和[LIV2 行间](point/LIV2.md)。
+眼睛红肿疼痛：[ST1 承泣](/point/ST1.md)，[BL2 攒竹](/point/BL2.md)，[GB20 风池](/point/GB20.md)，[MHN9 太阳](/point/MHN9.md) (经外穴)，[LI4 合谷](/point/LI4.md) 和[LIV2 行间](/point/LIV2.md)。
 
 ---

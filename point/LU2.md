@@ -42,7 +42,7 @@ According to the Essential Questions[](https://app.amanualofacupuncture.com/boo
 - Throat painful obstruction: Yúnmén LU-2, [Zhōngfǔ LU-1](https://app.amanualofacupuncture.com/point/LU-1), [Jiānyú LI-15](https://app.amanualofacupuncture.com/point/LI-15), [Wěizhōng BL-40](https://app.amanualofacupuncture.com/point/BL-40), [Fùliū KID-7](https://app.amanualofacupuncture.com/point/KID-7) and [Fúbái GB-10](https://app.amanualofacupuncture.com/point/GB-10) (Supplementing Life).
 
 
-### 1. [LU2 云门](point/LU2.md)
+### 1. [LU2 云门](/point/LU2.md)
 
 #### 1.2. 定位
 
@@ -50,7 +50,7 @@ According to the Essential Questions[](https://app.amanualofacupuncture.com/boo
 
 #### 1.3. 定位说明
 
-患者前伸手，你施阻力于手，突出三角肌胸三角，[LU2 云门](point/LU2.md)位于三角中央。
+患者前伸手，你施阻力于手，突出三角肌胸三角，[LU2 云门](/point/LU2.md)位于三角中央。
 
 #### 1.4. 针刺方法
 
@@ -70,7 +70,7 @@ According to the Essential Questions[](https://app.amanualofacupuncture.com/boo
 
 #### 1.7. 论述
 
-《素问》将[LU2 云门](point/LU2.md)列为“八穴泻四肢热”之一（实列七穴，因[DU2 腰俞](point/DU2.md)在中线），包括[LU2 云门](point/LU2.md)、[LI15 肩髃](point/LI15.md)、[BL40 委中](point/BL40.md)、[DU2 腰俞](point/DU2.md)。《针灸大成》指其用于“寒伤致四肢持续发热”。  
+《素问》将[LU2 云门](/point/LU2.md)列为“八穴泻四肢热”之一（实列七穴，因[DU2 腰俞](/point/DU2.md)在中线），包括[LU2 云门](/point/LU2.md)、[LI15 肩髃](/point/LI15.md)、[BL40 委中](/point/BL40.md)、[DU2 腰俞](/point/DU2.md)。《针灸大成》指其用于“寒伤致四肢持续发热”。  
 
 #### 1.8. 临床应用总结
 
@@ -78,7 +78,7 @@ According to the Essential Questions[](https://app.amanualofacupuncture.com/boo
 
 #### 1.9. 配伍
 
-- 胸痛：[LU2 云门](point/LU2.md) + [LU1 中府](point/LU1.md) + [SP1 隐白](point/SP1.md) + [LIV14 期门](point/LIV14.md) + [BL13 肺俞](point/BL13.md) + [BL47 魂门](point/BL47.md) + [PC7 大陵](point/PC7.md)（《千金方》）。  
-- 肩痛不能举臂：[LU2 云门](point/LU2.md) + [SI12 秉风](point/SI12.md)（《补命》）。  
-- 气逆喘息、举肩呼吸、食无味：[LU2 云门](point/LU2.md) + [ST13 气户](point/ST13.md) + [LU3 天府](point/LU3.md) + [HE7 神门](point/HE7.md)（《千金方》）。  
-- 喉痹：[LU2 云门](point/LU2.md) + [LU1 中府](point/LU1.md) + [LI15 肩髃](point/LI15.md) + [BL40 委中](point/BL40.md) + [KID7 复溜](point/KID7.md) + [GB10 浮白](point/GB10.md)（《补命》）。
+- 胸痛：[LU2 云门](/point/LU2.md) + [LU1 中府](/point/LU1.md) + [SP1 隐白](/point/SP1.md) + [LIV14 期门](/point/LIV14.md) + [BL13 肺俞](/point/BL13.md) + [BL47 魂门](/point/BL47.md) + [PC7 大陵](/point/PC7.md)（《千金方》）。  
+- 肩痛不能举臂：[LU2 云门](/point/LU2.md) + [SI12 秉风](/point/SI12.md)（《补命》）。  
+- 气逆喘息、举肩呼吸、食无味：[LU2 云门](/point/LU2.md) + [ST13 气户](/point/ST13.md) + [LU3 天府](/point/LU3.md) + [HE7 神门](/point/HE7.md)（《千金方》）。  
+- 喉痹：[LU2 云门](/point/LU2.md) + [LU1 中府](/point/LU1.md) + [LI15 肩髃](/point/LI15.md) + [BL40 委中](/point/BL40.md) + [KID7 复溜](/point/KID7.md) + [GB10 浮白](/point/GB10.md)（《补命》）。

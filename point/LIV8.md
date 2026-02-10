@@ -64,7 +64,7 @@ Seminal emission: Qūquán LIV-8, [Zhìyīn BL-67](https://app.amanualofacupun
 - Pain of the medial aspect of the knee: Qūquán LIV-8 and [Xīguān LIV-7](https://app.amanualofacupuncture.com/point/LIV-7) (Supplementing Life).
 - Contraction of the sinews and difficulty in flexing and extending the knee, with inability to walk: Qūquán LIV-8, [Liángqiū ST-34](https://app.amanualofacupuncture.com/point/ST-34) and [Xīyángguān GB-33](https://app.amanualofacupuncture.com/point/GB-33) (Thousand Ducat Formulas).
 
-### 1. [LIV8 曲泉](point/LIV8.md)
+### 1. [LIV8 曲泉](/point/LIV8.md)
 
 #### 1.1. Spring at the Crook 曲泉
 
@@ -72,7 +72,7 @@ Seminal emission: Qūquán LIV-8, [Zhìyīn BL-67](https://app.amanualofacupun
 
 #### 1.2. 定位
 
-位于腘横纹内侧端上方，在半腱肌腱和半膜肌腱前方凹陷处，约在[KID10 阴谷](point/KID10.md)前方1寸。
+位于腘横纹内侧端上方，在半腱肌腱和半膜肌腱前方凹陷处，约在[KID10 阴谷](/point/KID10.md)前方1寸。
 
 #### 1.3. 定位说明
 
@@ -101,17 +101,17 @@ ii. 半腱肌腱位于半膜肌腱后方，是两者中最明显的腱。
 
 #### 1.7. 论述
 
-[LIV8 曲泉](point/LIV8.md)是肝经的合穴和水穴。三条腿部阴经的合穴均为水穴，共同特性是从下焦泻湿及湿热。[KID10 阴谷](point/KID10.md)主要清泌尿生殖系统（肾主）的湿热，[SP9 阴陵泉](point/SP9.md)因脾与湿的密切关系，能治下焦所有湿病。[LIV8 曲泉](point/LIV8.md)因肝经与生殖器的密切联系，主要泻肝经湿热下注此区域。  
+[LIV8 曲泉](/point/LIV8.md)是肝经的合穴和水穴。三条腿部阴经的合穴均为水穴，共同特性是从下焦泻湿及湿热。[KID10 阴谷](/point/KID10.md)主要清泌尿生殖系统（肾主）的湿热，[SP9 阴陵泉](/point/SP9.md)因脾与湿的密切关系，能治下焦所有湿病。[LIV8 曲泉](/point/LIV8.md)因肝经与生殖器的密切联系，主要泻肝经湿热下注此区域。  
 
-肝经湿热可能由以下原因引起：i. 肝郁热与脾湿结合；ii. 外感湿热入侵；iii. 过食油腻及酒精。当湿热下注肝经，可致生殖器肿痒及疼痛。若湿热扰“精关”，可引起遗精。肝主筋，《素问》称：“生殖器为筋之汇。”湿热下注生殖区可因软弱导致阳痿，类似湿热引起的萎症。[LIV8 曲泉](point/LIV8.md)主要用于湿热引起的遗精及阳痿，但因其滋肝的次要作用（见下文），也可用于虚证，如《针灸大成》推荐其治疗性劳遗精。  
+肝经湿热可能由以下原因引起：i. 肝郁热与脾湿结合；ii. 外感湿热入侵；iii. 过食油腻及酒精。当湿热下注肝经，可致生殖器肿痒及疼痛。若湿热扰“精关”，可引起遗精。肝主筋，《素问》称：“生殖器为筋之汇。”湿热下注生殖区可因软弱导致阳痿，类似湿热引起的萎症。[LIV8 曲泉](/point/LIV8.md)主要用于湿热引起的遗精及阳痿，但因其滋肝的次要作用（见下文），也可用于虚证，如《针灸大成》推荐其治疗性劳遗精。  
 
-[LIV8 曲泉](point/LIV8.md)的泻湿热作用扩展至膀胱（尿难或尿潴留）及肠道（泻下未消化食物及血脓泻）。  
+[LIV8 曲泉](/point/LIV8.md)的泻湿热作用扩展至膀胱（尿难或尿潴留）及肠道（泻下未消化食物及血脓泻）。  
 
-肝藏血，血流入任脉及冲脉至子宫成为经血，肝气负责月经顺畅流动。肝气郁滞可致经血瘀滞。[LIV8 曲泉](point/LIV8.md)在多部经典中用于子宫血瘀引起的不孕、腹中瘕块及闭经。临床上，湿热与血瘀常共存，因瘀血可生热，湿热可阻血。[LIV8 曲泉](point/LIV8.md)对此双重病机尤为适用。子宫脱垂多由气虚或湿热引起，[LIV8 曲泉](point/LIV8.md)特别适用于后者。  
+肝藏血，血流入任脉及冲脉至子宫成为经血，肝气负责月经顺畅流动。肝气郁滞可致经血瘀滞。[LIV8 曲泉](/point/LIV8.md)在多部经典中用于子宫血瘀引起的不孕、腹中瘕块及闭经。临床上，湿热与血瘀常共存，因瘀血可生热，湿热可阻血。[LIV8 曲泉](/point/LIV8.md)对此双重病机尤为适用。子宫脱垂多由气虚或湿热引起，[LIV8 曲泉](/point/LIV8.md)特别适用于后者。  
 
-作为肝经水穴，[LIV8 曲泉](point/LIV8.md)连接肝与其“母”肾，具有“以水制木”及滋肝阴血的次要作用，可用于降肝阳引起的头痛及视觉眩晕，以及滋阴血治疗月经失调。不同针灸师对[LIV8 曲泉](point/LIV8.md)滋肝重要性的看法差异较大，但传统指征及配伍显示其主要用于实证。  
+作为肝经水穴，[LIV8 曲泉](/point/LIV8.md)连接肝与其“母”肾，具有“以水制木”及滋肝阴血的次要作用，可用于降肝阳引起的头痛及视觉眩晕，以及滋阴血治疗月经失调。不同针灸师对[LIV8 曲泉](/point/LIV8.md)滋肝重要性的看法差异较大，但传统指征及配伍显示其主要用于实证。  
 
-最后，[LIV8 曲泉](point/LIV8.md)用于局部疾患，如膝关节及周围的肿胀、疼痛及冷感。  
+最后，[LIV8 曲泉](/point/LIV8.md)用于局部疾患，如膝关节及周围的肿胀、疼痛及冷感。  
 
 #### 1.8. 临床应用总结
 
@@ -121,17 +121,17 @@ ii. 半腱肌腱位于半膜肌腱后方，是两者中最明显的腱。
 
 #### 1.9. 配伍
 
-- 生殖器瘙痒：[LIV8 曲泉](point/LIV8.md) + [REN7 阴交](point/REN7.md)（《补命》）。  
-- 尿潴留及阴茎痛：[LIV8 曲泉](point/LIV8.md) + [LIV2 行间](point/LIV2.md)（《补命》）。  
-- 遗精：[LIV8 曲泉](point/LIV8.md) + [BL67 至阴](point/BL67.md) + [REN3 中极](point/REN3.md)（《补命》）。  
-- 有梦遗精：[LIV8 曲泉](point/LIV8.md)（灸百壮）+ [LIV4 中封](point/LIV4.md) + [LIV3 太冲](point/LIV3.md) + [BL67 至阴](point/BL67.md) + [BL17 膈俞](point/BL17.md) + [BL20 脾俞](point/BL20.md) + [SP6 三阴交](point/SP6.md) + [BL23 肾俞](point/BL23.md) + [REN4 关元](point/REN4.md) + [BL22 三焦俞](point/BL22.md)（《大成》）。  
-- 子宫脱垂：[LIV8 曲泉](point/LIV8.md) + [KID5 水泉](point/KID5.md) + [KID6 照海](point/KID6.md) + [BL62 申脉](point/BL62.md)（《补命》）。  
-- 子宫脱垂：[LIV8 曲泉](point/LIV8.md) + [KID6 照海](point/KID6.md) + [LIV1 大敦](point/LIV1.md)（《大成》）。  
-- 子宫脱垂：[LIV8 曲泉](point/LIV8.md) + [LIV3 太冲](point/LIV3.md) + [KID6 照海](point/KID6.md) + [HE8 少府](point/HE8.md)（《大成》）。  
-- 七种疝病引起的下腹痛：[LIV8 曲泉](point/LIV8.md) + [KID6 照海](point/KID6.md) + [SP6 三阴交](point/SP6.md)（《西弘赋》）。  
-- 脐区痛：[LIV8 曲泉](point/LIV8.md) + [LIV4 中封](point/LIV4.md) + [REN9 水分](point/REN9.md)（《大成》）。  
-- 稀便泻及血痢：[LIV8 曲泉](point/LIV8.md) + [LIV3 太冲](point/LIV3.md)（《千金方》）。  
-- 头痛及眩晕：[LIV8 曲泉](point/LIV8.md) + [BL60 昆仑](point/BL60.md) + [BL58 飞阳](point/BL58.md) + [SI2 前谷](point/SI2.md) + [SI1 少泽](point/SI1.md) + [HE5 通里](point/HE5.md)（《千金方》）。  
-- 一切风、痹、萎及厥病：[LIV8 曲泉](point/LIV8.md) + [BL11 大杼](point/BL11.md)（《袖珍歌》）。  
-- 膝内侧痛：[LIV8 曲泉](point/LIV8.md) + [LIV7 膝关](point/LIV7.md)（《补命》）。  
-- 筋挛及膝屈伸困难不能行走：[LIV8 曲泉](point/LIV8.md) + [ST34 梁丘](point/ST34.md) + [GB33 膝阳关](point/GB33.md)（《千金方》）。  
+- 生殖器瘙痒：[LIV8 曲泉](/point/LIV8.md) + [REN7 阴交](/point/REN7.md)（《补命》）。  
+- 尿潴留及阴茎痛：[LIV8 曲泉](/point/LIV8.md) + [LIV2 行间](/point/LIV2.md)（《补命》）。  
+- 遗精：[LIV8 曲泉](/point/LIV8.md) + [BL67 至阴](/point/BL67.md) + [REN3 中极](/point/REN3.md)（《补命》）。  
+- 有梦遗精：[LIV8 曲泉](/point/LIV8.md)（灸百壮）+ [LIV4 中封](/point/LIV4.md) + [LIV3 太冲](/point/LIV3.md) + [BL67 至阴](/point/BL67.md) + [BL17 膈俞](/point/BL17.md) + [BL20 脾俞](/point/BL20.md) + [SP6 三阴交](/point/SP6.md) + [BL23 肾俞](/point/BL23.md) + [REN4 关元](/point/REN4.md) + [BL22 三焦俞](/point/BL22.md)（《大成》）。  
+- 子宫脱垂：[LIV8 曲泉](/point/LIV8.md) + [KID5 水泉](/point/KID5.md) + [KID6 照海](/point/KID6.md) + [BL62 申脉](/point/BL62.md)（《补命》）。  
+- 子宫脱垂：[LIV8 曲泉](/point/LIV8.md) + [KID6 照海](/point/KID6.md) + [LIV1 大敦](/point/LIV1.md)（《大成》）。  
+- 子宫脱垂：[LIV8 曲泉](/point/LIV8.md) + [LIV3 太冲](/point/LIV3.md) + [KID6 照海](/point/KID6.md) + [HE8 少府](/point/HE8.md)（《大成》）。  
+- 七种疝病引起的下腹痛：[LIV8 曲泉](/point/LIV8.md) + [KID6 照海](/point/KID6.md) + [SP6 三阴交](/point/SP6.md)（《西弘赋》）。  
+- 脐区痛：[LIV8 曲泉](/point/LIV8.md) + [LIV4 中封](/point/LIV4.md) + [REN9 水分](/point/REN9.md)（《大成》）。  
+- 稀便泻及血痢：[LIV8 曲泉](/point/LIV8.md) + [LIV3 太冲](/point/LIV3.md)（《千金方》）。  
+- 头痛及眩晕：[LIV8 曲泉](/point/LIV8.md) + [BL60 昆仑](/point/BL60.md) + [BL58 飞阳](/point/BL58.md) + [SI2 前谷](/point/SI2.md) + [SI1 少泽](/point/SI1.md) + [HE5 通里](/point/HE5.md)（《千金方》）。  
+- 一切风、痹、萎及厥病：[LIV8 曲泉](/point/LIV8.md) + [BL11 大杼](/point/BL11.md)（《袖珍歌》）。  
+- 膝内侧痛：[LIV8 曲泉](/point/LIV8.md) + [LIV7 膝关](/point/LIV7.md)（《补命》）。  
+- 筋挛及膝屈伸困难不能行走：[LIV8 曲泉](/point/LIV8.md) + [ST34 梁丘](/point/ST34.md) + [GB33 膝阳关](/point/GB33.md)（《千金方》）。  

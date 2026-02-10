@@ -42,7 +42,7 @@ Although not a major point, Sìbái ST-2 may be used in the following three cl
 
 
 
-### [ST2 四白](point/ST2.md) (SÌBÁI)
+### [ST2 四白](/point/ST2.md) (SÌBÁI)
 
 - **英文名称：** Four Whites
 - **中文名称：** 四白
@@ -57,7 +57,7 @@ Although not a major point, Sìbái ST-2 may be used in the following three cl
 
 #### 针刺方法 (Needling)
 
-i. 垂直刺0.2至0.4寸； ii. 横刺透向[SI18 颧髎](point/SI18.md)、[LI20 迎香](point/LI20.md) 等相邻穴位； iii. 斜刺稍偏外侧进入眶下孔，0.3至0.5寸。
+i. 垂直刺0.2至0.4寸； ii. 横刺透向[SI18 颧髎](/point/SI18.md)、[LI20 迎香](/point/LI20.md) 等相邻穴位； iii. 斜刺稍偏外侧进入眶下孔，0.3至0.5寸。
 
 - **注意 (Note):** 根据几部经典文献，此穴禁灸。
 - **注意 (Caution):**
@@ -76,16 +76,16 @@ i. 垂直刺0.2至0.4寸； ii. 横刺透向[SI18 颧髎](point/SI18.md)、[LI20
 
 #### 阐释 (Commentary)
 
-尽管[ST2 四白](point/ST2.md) 不是一个主要穴位，但可在以下三种临床情况中使用：i. 作为[ST1 承泣](point/ST1.md) 的替代穴位，治疗眼部疾病，适用于那些尚未掌握[ST1 承泣](point/ST1.md) 更复杂针刺技巧的医生；ii. 作为局部穴位——常与相邻穴位透刺——用于面部疼痛和麻痹；iii. 用于治疗胆道蛔虫症（参见[LI20 迎香](point/LI20.md)）。
+尽管[ST2 四白](/point/ST2.md) 不是一个主要穴位，但可在以下三种临床情况中使用：i. 作为[ST1 承泣](/point/ST1.md) 的替代穴位，治疗眼部疾病，适用于那些尚未掌握[ST1 承泣](/point/ST1.md) 更复杂针刺技巧的医生；ii. 作为局部穴位——常与相邻穴位透刺——用于面部疼痛和麻痹；iii. 用于治疗胆道蛔虫症（参见[LI20 迎香](/point/LI20.md)）。
 
 #### 临床应用总结 (Summary of clinical application)
 
-- 在治疗眼部疾病时可替代[ST1 承泣](point/ST1.md)，特别是对于不熟悉针刺[ST1 承泣](point/ST1.md) 的医生。
+- 在治疗眼部疾病时可替代[ST1 承泣](/point/ST1.md)，特别是对于不熟悉针刺[ST1 承泣](/point/ST1.md) 的医生。
 - 治疗面部疼痛和麻痹的局部穴位。
-- 与[LI20 迎香](point/LI20.md) 透刺，用于缓解胆道蛔虫症引起的疼痛。
+- 与[LI20 迎香](/point/LI20.md) 透刺，用于缓解胆道蛔虫症引起的疼痛。
 
 #### 穴位组合 (Combinations)
 
-外障眼病：[ST2 四白](point/ST2.md)，[BL1 睛明](point/BL1.md) 和[LI4 合谷](point/LI4.md)（《针灸大成》）。
-头痛眩晕：[ST2 四白](point/ST2.md)，[KID1 涌泉](point/KID1.md) 和[BL11 大杼](point/BL11.md)（《资生经》）。
+外障眼病：[ST2 四白](/point/ST2.md)，[BL1 睛明](/point/BL1.md) 和[LI4 合谷](/point/LI4.md)（《针灸大成》）。
+头痛眩晕：[ST2 四白](/point/ST2.md)，[KID1 涌泉](/point/KID1.md) 和[BL11 大杼](/point/BL11.md)（《资生经》）。
 

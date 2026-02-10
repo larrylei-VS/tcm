@@ -66,7 +66,7 @@ Located midway between the breasts, Shānzhōng REN-17 is a principal point in
 - Absence of lactation: Shānzhōng REN-17, [Shàozé SI-1](https://app.amanualofacupuncture.com/point/SI-1) and [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4) (Great Compendium).
 
 
-### 1. [REN17 膻中](point/REN17.md)
+### 1. [REN17 膻中](/point/REN17.md)
 
 #### 1.1. Chest Centre 膻中
 
@@ -106,15 +106,15 @@ Located midway between the breasts, Shānzhōng REN-17 is a principal point in
 
 #### 1.7. 论述
 
-[REN17 膻中](point/REN17.md)别名“上气海”及“丹中”（心包别名），反映其为气会穴及心包前募穴的地位。“募”意为聚集，前募穴为脏腑之气在前胸腹壁聚集处。  
+[REN17 膻中](/point/REN17.md)别名“上气海”及“丹中”（心包别名），反映其为气会穴及心包前募穴的地位。“募”意为聚集，前募穴为脏腑之气在前胸腹壁聚集处。  
 
-《灵枢》称[REN17 膻中](point/REN17.md)为“气海”（与[DU14 大椎](point/DU14.md)、[DU15 哑门](point/DU15.md)、[ST9 人迎](point/ST9.md)相连），谓：“气海有余，胸满、喘急、面色赤；气海不足，气少不足以言。”此指征反映[REN17 膻中](point/REN17.md)调胸气及治疗气短不能言的能力。  
+《灵枢》称[REN17 膻中](/point/REN17.md)为“气海”（与[DU14 大椎](/point/DU14.md)、[DU15 哑门](/point/DU15.md)、[ST9 人迎](/point/ST9.md)相连），谓：“气海有余，胸满、喘急、面色赤；气海不足，气少不足以言。”此指征反映[REN17 膻中](/point/REN17.md)调胸气及治疗气短不能言的能力。  
 
-《灵枢》称宗气聚于“上气海”，下行至[ST30 气冲](point/ST30.md)，上入呼吸道。[REN17 膻中](point/REN17.md)居胸中央，强效于宗气，宗气主肺之司气与控呼吸言语及心之主血与血脉。《类经图翼》称[REN17 膻中](point/REN17.md)治“诸气上逆及呼吸困难”。肺不降气或控呼吸，无论因外感或内乱，可致气积或逆，如咳嗽、呼吸困难、喘鸣、哮喘、胸满闷，[REN17 膻中](point/REN17.md)是缓解胸气积及降肺气逆的重要局部穴。宗气虚则肺心气虚，肺现气短，心气不运胸血脉则胸痹及心胸痛伴满闷，[REN17 膻中](point/REN17.md)是调宗气的主穴之一。  
+《灵枢》称宗气聚于“上气海”，下行至[ST30 气冲](/point/ST30.md)，上入呼吸道。[REN17 膻中](/point/REN17.md)居胸中央，强效于宗气，宗气主肺之司气与控呼吸言语及心之主血与血脉。《类经图翼》称[REN17 膻中](/point/REN17.md)治“诸气上逆及呼吸困难”。肺不降气或控呼吸，无论因外感或内乱，可致气积或逆，如咳嗽、呼吸困难、喘鸣、哮喘、胸满闷，[REN17 膻中](/point/REN17.md)是缓解胸气积及降肺气逆的重要局部穴。宗气虚则肺心气虚，肺现气短，心气不运胸血脉则胸痹及心胸痛伴满闷，[REN17 膻中](/point/REN17.md)是调宗气的主穴之一。  
 
-[REN17 膻中](point/REN17.md)降逆作用延至中焦，能和胃，治吞咽难、反酸、食管痉挛及呕吐。  
+[REN17 膻中](/point/REN17.md)降逆作用延至中焦，能和胃，治吞咽难、反酸、食管痉挛及呕吐。  
 
-位于两乳正中，[REN17 膻中](point/REN17.md)是治疗乳汁不足的主穴。张景岳《妇人规》称：“女子任冲之气血，下为经血，上为乳汁；产后乳迟或不足，因气血虚。”《儒门事亲》谓：“啜泣悲怒郁致乳道不通。”此述乳汁不足的两大模式：1.气虚，2.血气瘀滞。无论何种，[REN17 膻中](point/REN17.md)可配他穴用，常与[SI1 少泽](point/SI1.md)见于经典配伍。同理，[REN17 膻中](point/REN17.md)常用于临床治疗乳房胀痛及乳痈。若乳病单侧，针[REN17 膻中](point/REN17.md)可朝患侧引气感；若双侧，可先刺一侧再刺另一侧。  
+位于两乳正中，[REN17 膻中](/point/REN17.md)是治疗乳汁不足的主穴。张景岳《妇人规》称：“女子任冲之气血，下为经血，上为乳汁；产后乳迟或不足，因气血虚。”《儒门事亲》谓：“啜泣悲怒郁致乳道不通。”此述乳汁不足的两大模式：1.气虚，2.血气瘀滞。无论何种，[REN17 膻中](/point/REN17.md)可配他穴用，常与[SI1 少泽](/point/SI1.md)见于经典配伍。同理，[REN17 膻中](/point/REN17.md)常用于临床治疗乳房胀痛及乳痈。若乳病单侧，针[REN17 膻中](/point/REN17.md)可朝患侧引气感；若双侧，可先刺一侧再刺另一侧。  
 
 #### 1.8. 临床应用总结
 
@@ -124,15 +124,15 @@ Located midway between the breasts, Shānzhōng REN-17 is a principal point in
 
 #### 1.9. 配伍
 
-- 呼吸困难及咳嗽：[REN17 膻中](point/REN17.md) + [REN22 天突](point/REN22.md)（《玉龙颂》）。  
-- 咳嗽：[REN17 膻中](point/REN17.md) + [ST12 缺盆](point/ST12.md) + [REN14 巨阙](point/REN14.md)（《千金方》）。  
-- 气逆咳嗽：[REN17 膻中](point/REN17.md) + [PC1 天池](point/PC1.md) + [REN22 天突](point/REN22.md) + [ST41 解溪](point/ST41.md) + [SI15 肩中俞](point/SI15.md)（《补命》）。  
-- 哮喘、夜不能寐、心神不安：[REN17 膻中](point/REN17.md) + [REN22 天突](point/REN22.md)（《玉龙颂》）。  
-- 气短难续、不能言：[REN17 膻中](point/REN17.md) + [REN20 华盖](point/REN20.md)（《千金方》）。  
-- 腹满、气短伴喉鸣：灸[REN17 膻中](point/REN17.md) + [LU1 中府](point/LU1.md) + [REN8 神阙](point/REN8.md)（《千金方》）。  
-- 胸痹、心痛及心腹满：[REN17 膻中](point/REN17.md) + [SJ10 天井](point/SJ10.md)（《补命》）。  
-- 积液致膈痛难忍：[REN17 膻中](point/REN17.md) + [REN14 巨阙](point/REN14.md)（《百症赋》）。  
-- 吐痰水涎、眩晕不止：[REN17 膻中](point/REN17.md) + [LI5 阳溪](point/LI5.md) + [SP4 公孙](point/SP4.md) + [ST40 丰隆](point/ST40.md)（《全集》）。  
-- 吐清水：[REN17 膻中](point/REN17.md) + [REN12 中脘](point/REN12.md) + [PC7 大陵](point/PC7.md) + [PC8 劳宫](point/PC8.md)（《大成》）。  
-- 无乳：灸[REN17 膻中](point/REN17.md) + 补[SI1 少泽](point/SI1.md)（《大成》）。  
-- 无乳：[REN17 膻中](point/REN17.md) + [SI1 少泽](point/SI1.md) + [LI4 合谷](point/LI4.md)（《大成》）。  
+- 呼吸困难及咳嗽：[REN17 膻中](/point/REN17.md) + [REN22 天突](/point/REN22.md)（《玉龙颂》）。  
+- 咳嗽：[REN17 膻中](/point/REN17.md) + [ST12 缺盆](/point/ST12.md) + [REN14 巨阙](/point/REN14.md)（《千金方》）。  
+- 气逆咳嗽：[REN17 膻中](/point/REN17.md) + [PC1 天池](/point/PC1.md) + [REN22 天突](/point/REN22.md) + [ST41 解溪](/point/ST41.md) + [SI15 肩中俞](/point/SI15.md)（《补命》）。  
+- 哮喘、夜不能寐、心神不安：[REN17 膻中](/point/REN17.md) + [REN22 天突](/point/REN22.md)（《玉龙颂》）。  
+- 气短难续、不能言：[REN17 膻中](/point/REN17.md) + [REN20 华盖](/point/REN20.md)（《千金方》）。  
+- 腹满、气短伴喉鸣：灸[REN17 膻中](/point/REN17.md) + [LU1 中府](/point/LU1.md) + [REN8 神阙](/point/REN8.md)（《千金方》）。  
+- 胸痹、心痛及心腹满：[REN17 膻中](/point/REN17.md) + [SJ10 天井](/point/SJ10.md)（《补命》）。  
+- 积液致膈痛难忍：[REN17 膻中](/point/REN17.md) + [REN14 巨阙](/point/REN14.md)（《百症赋》）。  
+- 吐痰水涎、眩晕不止：[REN17 膻中](/point/REN17.md) + [LI5 阳溪](/point/LI5.md) + [SP4 公孙](/point/SP4.md) + [ST40 丰隆](/point/ST40.md)（《全集》）。  
+- 吐清水：[REN17 膻中](/point/REN17.md) + [REN12 中脘](/point/REN12.md) + [PC7 大陵](/point/PC7.md) + [PC8 劳宫](/point/PC8.md)（《大成》）。  
+- 无乳：灸[REN17 膻中](/point/REN17.md) + 补[SI1 少泽](/point/SI1.md)（《大成》）。  
+- 无乳：[REN17 膻中](/point/REN17.md) + [SI1 少泽](/point/SI1.md) + [LI4 合谷](/point/LI4.md)（《大成》）。  

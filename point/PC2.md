@@ -29,7 +29,7 @@ Oblique insertion distally or proximally along the line of the channel, 1 to 1.5
 - Heart pain radiating to the shoulder and arm: Tiānquán PC-2, [Xīmén PC-4](https://app.amanualofacupuncture.com/manual/points/P/259), [Nèiguān PC-6](https://app.amanualofacupuncture.com/manual/points/P/261) and [Shānzhōng REN-17](https://app.amanualofacupuncture.com/manual/points/REN/273).
 
 ---
-### **[PC2 天泉](point/PC2.md)** (TIĀNQUÁN)
+### **[PC2 天泉](/point/PC2.md)** (TIĀNQUÁN)
 
 * **英文名称：** Heavenly Spring
 * **中文名称：** 天泉
@@ -54,7 +54,7 @@ Oblique insertion distally or proximally along the line of the channel, 1 to 1.5
 
 #### **阐释 (Commentary)**
 
-**[PC2 天泉](point/PC2.md)** 临床上较少使用。其名称“天泉”可能暗示其在胸部气机和心血方面的作用，如同泉水般涌动。
+**[PC2 天泉](/point/PC2.md)** 临床上较少使用。其名称“天泉”可能暗示其在胸部气机和心血方面的作用，如同泉水般涌动。
 
 此穴主要用于**宽胸散结**，**活血止痛**，缓解**心痛**、**胸痛**和**胸胁胀满**，这些症状常伴随心悸和咳嗽。它对背部、肩部、肩胛和手臂的疼痛也有疗效，这与心包经在此区域的循行有关。此外，它对恶风畏寒、视物模糊和石水等症状也有一定的辅助作用。
 
@@ -65,6 +65,6 @@ Oblique insertion distally or proximally along the line of the channel, 1 to 1.5
 
 #### **穴位组合 (Combinations)**
 
-* 心痛放射至肩臂：**[PC2 天泉](point/PC2.md)**，**[PC4 郄门](point/PC4.md)**，**[PC6 内关](point/PC6.md)** 和 **[REN17 膻中](point/REN17.md)**。
+* 心痛放射至肩臂：**[PC2 天泉](/point/PC2.md)**，**[PC4 郄门](/point/PC4.md)**，**[PC6 内关](/point/PC6.md)** 和 **[REN17 膻中](/point/REN17.md)**。
 
 ---

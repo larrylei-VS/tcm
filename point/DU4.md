@@ -59,7 +59,7 @@ Finally, according to qigong theory, there are three important gates or passes (
 - Incontinence of urine and faeces in the elderly: moxa Mìngmén DU-4 and [Shènshū BL-23](https://app.amanualofacupuncture.com/point/BL-23) (Ode of the Jade Dragon).
 
 
-### 1. [DU4 命门](point/DU4.md)
+### 1. [DU4 命门](/point/DU4.md)
 
 #### 1.1. Gate of Life 命門
 
@@ -95,19 +95,19 @@ Finally, according to qigong theory, there are three important gates or passes (
 
 #### 1.7. 论述
 
-《难经》称：“左为肾，右为命门。”张景岳谓：“命门居两肾间。”命门位置历代描述不一，但[DU4 命门](point/DU4.md)之名明确其为影响命门及相火的重要穴，位于两肾俞穴间。除影响命门火，[DU4 命门](point/DU4.md)为督脉穴，督脉称“阳脉之海”，对阳气及体表有强效调节作用。此二者解释了经典指征为何强调治疗内外、虚实热病。[DU4 命门](point/DU4.md)能泻“身热如火”、骨蒸及疟疾之热。《难经》谓相火为“五脏之根”，[DU4 命门](point/DU4.md)特用于五脏热，与主君火的心俞穴[BL15 心俞](point/BL15.md)同具此指征。  
+《难经》称：“左为肾，右为命门。”张景岳谓：“命门居两肾间。”命门位置历代描述不一，但[DU4 命门](/point/DU4.md)之名明确其为影响命门及相火的重要穴，位于两肾俞穴间。除影响命门火，[DU4 命门](/point/DU4.md)为督脉穴，督脉称“阳脉之海”，对阳气及体表有强效调节作用。此二者解释了经典指征为何强调治疗内外、虚实热病。[DU4 命门](/point/DU4.md)能泻“身热如火”、骨蒸及疟疾之热。《难经》谓相火为“五脏之根”，[DU4 命门](/point/DU4.md)特用于五脏热，与主君火的心俞穴[BL15 心俞](/point/BL15.md)同具此指征。  
 
-[DU4 命门](point/DU4.md)别名“精宫”。督脉升经脊髓入脑（髓海）并入肾，[DU4 命门](point/DU4.md)适用于肾精虚表现如头摇、耳鸣、眩晕，反映其补肾及开督脉助精上升的能力。《难经》称：“督脉病则角弓反张、昏厥。”[DU4 命门](point/DU4.md)能平督脉风，见于角弓反张、头痛欲裂及癫痫等指征。  
+[DU4 命门](/point/DU4.md)别名“精宫”。督脉升经脊髓入脑（髓海）并入肾，[DU4 命门](/point/DU4.md)适用于肾精虚表现如头摇、耳鸣、眩晕，反映其补肾及开督脉助精上升的能力。《难经》称：“督脉病则角弓反张、昏厥。”[DU4 命门](/point/DU4.md)能平督脉风，见于角弓反张、头痛欲裂及癫痫等指征。  
 
-督脉主脊柱（身体之柱），[DU4 命门](point/DU4.md)因位置最强于腰部，用于腰脊僵硬及各类虚性腰痛，尤肾虚腰痛在经典中强指。  
+督脉主脊柱（身体之柱），[DU4 命门](/point/DU4.md)因位置最强于腰部，用于腰脊僵硬及各类虚性腰痛，尤肾虚腰痛在经典中强指。  
 
-《难经》称：“命门为精之府……男子藏精，女子系胞。”督脉前径绕生殖器，[DU4 命门](point/DU4.md)适用于遗精、白浊及带下等疾患。  
+《难经》称：“命门为精之府……男子藏精，女子系胞。”督脉前径绕生殖器，[DU4 命门](/point/DU4.md)适用于遗精、白浊及带下等疾患。  
 
-督脉绕肛，与下部督脉穴相似，[DU4 命门](point/DU4.md)用于直肠脱垂、痔疮及便血。  
+督脉绕肛，与下部督脉穴相似，[DU4 命门](/point/DU4.md)用于直肠脱垂、痔疮及便血。  
 
-尽管[DU4 命门](point/DU4.md)常被视为补暖命门火的主穴，经典指征无明确肾阳虚症状（如与[BL23 肾俞](point/BL23.md)、[REN4 关元](point/REN4.md)、[REN6 气海](point/REN6.md)相比）。但其经典配伍更强调补阳特性（见下）。  
+尽管[DU4 命门](/point/DU4.md)常被视为补暖命门火的主穴，经典指征无明确肾阳虚症状（如与[BL23 肾俞](/point/BL23.md)、[REN4 关元](/point/REN4.md)、[REN6 气海](/point/REN6.md)相比）。但其经典配伍更强调补阳特性（见下）。  
 
-气功理论认为，督脉气循有三大关：尾闾关（[DU1 长强](point/DU1.md)区）、夹脊关（[DU4 命门](point/DU4.md)区）、玉枕关（[BL9 玉枕](point/BL9.md)区）。  
+气功理论认为，督脉气循有三大关：尾闾关（[DU1 长强](/point/DU1.md)区）、夹脊关（[DU4 命门](/point/DU4.md)区）、玉枕关（[BL9 玉枕](/point/BL9.md)区）。  
 
 #### 1.8. 临床应用总结
 
@@ -118,6 +118,6 @@ Finally, according to qigong theory, there are three important gates or passes (
 
 #### 1.9. 配伍
 
-- 身热如火及头痛欲裂：[DU4 命门](point/DU4.md) + [PC9 中冲](point/PC9.md)（《补命》）。  
-- 老人腰痛：[DU4 命门](point/DU4.md) + [BL23 肾俞](point/BL23.md)（《汇编》）。  
-- 老人尿便失禁：灸[DU4 命门](point/DU4.md) + [BL23 肾俞](point/BL23.md)（《玉龙颂》）。  
+- 身热如火及头痛欲裂：[DU4 命门](/point/DU4.md) + [PC9 中冲](/point/PC9.md)（《补命》）。  
+- 老人腰痛：[DU4 命门](/point/DU4.md) + [BL23 肾俞](/point/BL23.md)（《汇编》）。  
+- 老人尿便失禁：灸[DU4 命门](/point/DU4.md) + [BL23 肾俞](/point/BL23.md)（《玉龙颂》）。  

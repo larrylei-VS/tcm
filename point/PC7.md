@@ -82,19 +82,19 @@ In common with several other points of the channel, Dàlíng PC-7 is indicated
 - Abdominal pain: Dàlíng PC-7 and [Wàiguān SJ-5](https://app.amanualofacupuncture.com/manual/points/SJ/326) (Song of the Jade Dragon).
 - Abdominal pain and constipation: Dàlíng PC-7, [Zhīgōu SJ-6](https://app.amanualofacupuncture.com/manual/points/SJ/327) and [Wàiguān SJ-5](https://app.amanualofacupuncture.com/manual/points/SJ/326) (Ode of the Jade Dragon).
 - Obstructed urination: [Sānyīnjiāo SP-6](https://app.amanualofacupuncture.com/manual/points/SP/348), [Yīnlíngquán SP-9](https://app.amanualofacupuncture.com/manual/points/SP/351) and [Qìhǎi REN-6](https://app.amanualofacupuncture.com/manual/points/REN/285), followed by [Yīngǔ KID-10](https://app.amanualofacupuncture.com/manual/points/KID/150) and Dàlíng PC-7 (Great Compendium)
-### **[PC7 大陵](point/PC7.md)** (Dàlíng)
+### **[PC7 大陵](/point/PC7.md)** (Dàlíng)
 
 * **英文名称：** Great Mound
 * **中文名称：** 大陵
 * **国际代码：** PC-7
-* **穴位属性：** **[PC7 大陵](point/PC7.md)** 是心包经的输穴、原穴和土穴，孙思邈十三鬼穴之一。
+* **穴位属性：** **[PC7 大陵](/point/PC7.md)** 是心包经的输穴、原穴和土穴，孙思邈十三鬼穴之一。
 
 #### **定位 (Location)**
 
-位于腕关节处，掌长肌腱与桡侧腕屈肌腱之间，与**[HE7 神门](point/HE7.md)** 平齐。
+位于腕关节处，掌长肌腱与桡侧腕屈肌腱之间，与**[HE7 神门](/point/HE7.md)** 平齐。
 
 * **定位要点 (Location Notes):**
-    * 此穴通常描述为在腕横纹处，但腕横纹是可变的浅表解剖特征。更可靠的定位是与位于豌豆骨近端缘的**[HE7 神门](point/HE7.md)** 平齐；
+    * 此穴通常描述为在腕横纹处，但腕横纹是可变的浅表解剖特征。更可靠的定位是与位于豌豆骨近端缘的**[HE7 神门](/point/HE7.md)** 平齐；
     * 若无掌长肌腱，此穴位于桡侧腕屈肌腱尺侧。
 
 #### **针刺方法 (Needling)**
@@ -122,21 +122,21 @@ i. 垂直刺0.3至0.5寸； ii. 治疗腕管综合征时，沿腕管斜向远端
 
 #### **阐释 (Commentary)**
 
-**[PC7 大陵](point/PC7.md)** 是心包经的输穴、原穴和土穴。《难经》记载：“虚则补其母，实则泻其子”。心包经属火，作为火经的土穴（子穴），**[PC7 大陵](point/PC7.md)** 能够清泻心包的实热或火邪。
+**[PC7 大陵](/point/PC7.md)** 是心包经的输穴、原穴和土穴。《难经》记载：“虚则补其母，实则泻其子”。心包经属火，作为火经的土穴（子穴），**[PC7 大陵](/point/PC7.md)** 能够清泻心包的实热或火邪。
 
-心包是心藏神的“外衣”，像心包经大多数穴位一样，**[PC7 大陵](point/PC7.md)** 对心神有深远影响。心包与心的关系被认为如此密切，以至于《灵枢》仅列出五脏（完全省略心包作为一个独立的脏），同时将心包经描述为属于心的经脉。因此，例如**[PC7 大陵](point/PC7.md)** 而非**[HE7 神门](point/HE7.md)** 被列为心的原穴。
+心包是心藏神的“外衣”，像心包经大多数穴位一样，**[PC7 大陵](/point/PC7.md)** 对心神有深远影响。心包与心的关系被认为如此密切，以至于《灵枢》仅列出五脏（完全省略心包作为一个独立的脏），同时将心包经描述为属于心的经脉。因此，例如**[PC7 大陵](/point/PC7.md)** 而非**[HE7 神门](/point/HE7.md)** 被列为心的原穴。
 
-**[PC7 大陵](point/PC7.md)** 主治各种情志障碍，尤其用于热邪上扰心神时，无论其是由：i. 七情过极化火；ii. 气滞既影响津液循环又化火形成痰火扰心；iii. 热病热邪内陷心包；iv. 阴虚火旺。当心神如此受扰时，将引起心悸、烦躁、癫痫、发狂、狂言谵语、烦躁不安、失眠和焦虑等症状。**[PC7 大陵](point/PC7.md)** 以其别名“鬼心”被孙思邈列入其“十三鬼穴”，用于治疗癫狂和癫痫。
+**[PC7 大陵](/point/PC7.md)** 主治各种情志障碍，尤其用于热邪上扰心神时，无论其是由：i. 七情过极化火；ii. 气滞既影响津液循环又化火形成痰火扰心；iii. 热病热邪内陷心包；iv. 阴虚火旺。当心神如此受扰时，将引起心悸、烦躁、癫痫、发狂、狂言谵语、烦躁不安、失眠和焦虑等症状。**[PC7 大陵](/point/PC7.md)** 以其别名“鬼心”被孙思邈列入其“十三鬼穴”，用于治疗癫狂和癫痫。
 
-过度喜笑与心火的关系早已被认识，例如龚廷贤在《寿世保元》中记载：“喜笑不休，皆心火炽盛所致”。然而，早在《黄帝内经》时期，就认识到过度喜悦和深切悲伤都是心神失调的表现。因此《灵枢·本神》记载：“心主脉，脉为神之舍，心气虚则悲，实则喜笑不休”，而《素问·阴阳应象大论》记载：“心藏神……神有余则喜笑不休，神不足则悲。”**[PC7 大陵](point/PC7.md)** 不仅主治喜笑不休，也主治悲伤哭泣，反映了其在治疗神志虚实证方面的应用。
+过度喜笑与心火的关系早已被认识，例如龚廷贤在《寿世保元》中记载：“喜笑不休，皆心火炽盛所致”。然而，早在《黄帝内经》时期，就认识到过度喜悦和深切悲伤都是心神失调的表现。因此《灵枢·本神》记载：“心主脉，脉为神之舍，心气虚则悲，实则喜笑不休”，而《素问·阴阳应象大论》记载：“心藏神……神有余则喜笑不休，神不足则悲。”**[PC7 大陵](/point/PC7.md)** 不仅主治喜笑不休，也主治悲伤哭泣，反映了其在治疗神志虚实证方面的应用。
 
 如果心火传导至其相表里的小肠经，再从小肠经（手太阳经）传导至膀胱经（足太阳经），进而入膀胱腑，则可能出现小便不利和尿血，这两者都是此穴的主治。
 
-心包与三焦经互为表里，心包经正经和经别的内部循行通过中焦和下焦。因此，**[PC7 大陵](point/PC7.md)**，像心包经的许多穴位一样，用于调和胃肠，特别是当火邪导致胃气上逆时，出现口臭、胃脘痛、呕吐、呕血和霍乱吐泻等症状。
+心包与三焦经互为表里，心包经正经和经别的内部循行通过中焦和下焦。因此，**[PC7 大陵](/point/PC7.md)**，像心包经的许多穴位一样，用于调和胃肠，特别是当火邪导致胃气上逆时，出现口臭、胃脘痛、呕吐、呕血和霍乱吐泻等症状。
 
-心包经（手厥阴）与其相表里的肝经（足厥阴）“同气相求”。这对于**[PC7 大陵](point/PC7.md)** 清心火、宁心安神、调和胃肠的作用具有特殊意义。肝气郁结可能化火上扰心神，或横犯胃腑导致胃气上逆。由于**[PC7 大陵](point/PC7.md)** 主要作用于上焦，其与肝脏的特殊关系，以及心包经筋循行于前肋，**[PC7 大陵](point/PC7.md)** 也用于宽胸理气，治疗胸中胀满、气短、胸胁疼痛、叹息和乳房疼痛等症状。
+心包经（手厥阴）与其相表里的肝经（足厥阴）“同气相求”。这对于**[PC7 大陵](/point/PC7.md)** 清心火、宁心安神、调和胃肠的作用具有特殊意义。肝气郁结可能化火上扰心神，或横犯胃腑导致胃气上逆。由于**[PC7 大陵](/point/PC7.md)** 主要作用于上焦，其与肝脏的特殊关系，以及心包经筋循行于前肋，**[PC7 大陵](/point/PC7.md)** 也用于宽胸理气，治疗胸中胀满、气短、胸胁疼痛、叹息和乳房疼痛等症状。
 
-与其他几个经脉穴位一样，当热病邪气深入营分，特别是血分时，**[PC7 大陵](point/PC7.md)** 主治，此时热邪扰动心包和心神，引起发热伴烦躁、舌裂、失眠甚至癫狂等症状。**[PC7 大陵](point/PC7.md)** 凉血的作用进一步解释了其治疗湿疹、风疹和痈疖的应用。最后，**[PC7 大陵](point/PC7.md)** 是治疗腕管综合征的主要穴位，在这种情况下，针尖斜向远端沿腕管刺入。
+与其他几个经脉穴位一样，当热病邪气深入营分，特别是血分时，**[PC7 大陵](/point/PC7.md)** 主治，此时热邪扰动心包和心神，引起发热伴烦躁、舌裂、失眠甚至癫狂等症状。**[PC7 大陵](/point/PC7.md)** 凉血的作用进一步解释了其治疗湿疹、风疹和痈疖的应用。最后，**[PC7 大陵](/point/PC7.md)** 是治疗腕管综合征的主要穴位，在这种情况下，针尖斜向远端沿腕管刺入。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -148,24 +148,24 @@ i. 垂直刺0.3至0.5寸； ii. 治疗腕管综合征时，沿腕管斜向远端
 
 #### **穴位组合 (Combinations)**
 
-* 频频大笑：**[PC7 大陵](point/PC7.md)**，**[DU26 人中](point/DU26.md)**，**[LU7 列缺](point/LU7.md)** 和 **[LI5 阳溪](point/LI5.md)**（《针灸大成》）。
-* 喜笑不止：**[PC7 大陵](point/PC7.md)** 和 **[PC8 劳宫](point/PC8.md)**（《资生经》）。
-* 悲伤哭泣：**[PC7 大陵](point/PC7.md)**，**[BL15 心俞](point/BL15.md)**，**[HE7 神门](point/HE7.md)** 和 **[ST41 解溪](point/ST41.md)**（《资生经》）。
-* 心下动悸伴易受惊吓：**[PC7 大陵](point/PC7.md)** 和 **[PC3 曲泽](point/PC3.md)**（《千金方》）。
-* 心胸憋闷：**[PC7 大陵](point/PC7.md)** 和 **[PC8 劳宫](point/PC8.md)**（《玉龙歌》）。
-* 心痛：**[PC7 大陵](point/PC7.md)**，**[PC4 郄门](point/PC4.md)** 和 **[PC3 曲泽](point/PC3.md)**（《千金方》）。
-* 剧烈心痛：**[PC7 大陵](point/PC7.md)** 和 **[REN13 上脘](point/REN13.md)**（《千金方》）。
-* 心胸疼痛：**[PC7 大陵](point/PC7.md)**，**[PC6 内关](point/PC6.md)** 和 **[PC3 曲泽](point/PC3.md)**（《针灸大成》）。
-* 胸痛：**[PC7 大陵](point/PC7.md)**，**[LU2 云门](point/LU2.md)**，**[LU1 中府](point/LU1.md)**，**[SP1 隐白](point/SP1.md)**，**[LIV14 期门](point/LIV14.md)**，**[BL13 肺俞](point/BL13.md)** 和 **[BL47 魂门](point/BL47.md)**（《千金方》）。
-* 气短：**[PC7 大陵](point/PC7.md)** 和 **[LU5 尺泽](point/LU5.md)**（《针灸大成》）。
-* 咳嗽呼吸困难：**[PC7 大陵](point/PC7.md)** 和 **[LU11 少商](point/LU11.md)**（《千金方》）。
-* 咳血：**[PC7 大陵](point/PC7.md)** 和 **[PC4 郄门](point/PC4.md)**（《针灸甲乙经》）。
-* 偏头痛伴眼痛如裂：**[PC7 大陵](point/PC7.md)** 和 **[ST8 头维](point/ST8.md)**（《千金方》）。
-* 目赤：**[PC7 大陵](point/PC7.md)** 和 **[GB16 目窗](point/GB16.md)**（《资生经》）。
-* 呕吐清水：**[PC7 大陵](point/PC7.md)**，**[REN17 膻中](point/REN17.md)**，**[REN12 中脘](point/REN12.md)** 和 **[PC8 劳宫](point/PC8.md)**（《针灸大成》）。
-* 呕吐：**[PC7 大陵](point/PC7.md)**，**[ST19 不容](point/ST19.md)** 和 **[REN13 上脘](point/REN13.md)**（《资生经》）。
-* 腹痛：**[PC7 大陵](point/PC7.md)** 和 **[SJ5 外关](point/SJ5.md)**（《玉龙歌》）。
-* 腹痛便秘：**[PC7 大陵](point/PC7.md)**，**[SJ6 支沟](point/SJ6.md)** 和 **[SJ5 外关](point/SJ5.md)**（《玉龙歌》）。
-* 小便不利：**[SP6 三阴交](point/SP6.md)**，**[SP9 阴陵泉](point/SP9.md)** 和 **[REN6 气海](point/REN6.md)**，继而针刺 **[KID10 阴谷](point/KID10.md)** 和 **[PC7 大陵](point/PC7.md)**（《针灸大成》）。
+* 频频大笑：**[PC7 大陵](/point/PC7.md)**，**[DU26 人中](/point/DU26.md)**，**[LU7 列缺](/point/LU7.md)** 和 **[LI5 阳溪](/point/LI5.md)**（《针灸大成》）。
+* 喜笑不止：**[PC7 大陵](/point/PC7.md)** 和 **[PC8 劳宫](/point/PC8.md)**（《资生经》）。
+* 悲伤哭泣：**[PC7 大陵](/point/PC7.md)**，**[BL15 心俞](/point/BL15.md)**，**[HE7 神门](/point/HE7.md)** 和 **[ST41 解溪](/point/ST41.md)**（《资生经》）。
+* 心下动悸伴易受惊吓：**[PC7 大陵](/point/PC7.md)** 和 **[PC3 曲泽](/point/PC3.md)**（《千金方》）。
+* 心胸憋闷：**[PC7 大陵](/point/PC7.md)** 和 **[PC8 劳宫](/point/PC8.md)**（《玉龙歌》）。
+* 心痛：**[PC7 大陵](/point/PC7.md)**，**[PC4 郄门](/point/PC4.md)** 和 **[PC3 曲泽](/point/PC3.md)**（《千金方》）。
+* 剧烈心痛：**[PC7 大陵](/point/PC7.md)** 和 **[REN13 上脘](/point/REN13.md)**（《千金方》）。
+* 心胸疼痛：**[PC7 大陵](/point/PC7.md)**，**[PC6 内关](/point/PC6.md)** 和 **[PC3 曲泽](/point/PC3.md)**（《针灸大成》）。
+* 胸痛：**[PC7 大陵](/point/PC7.md)**，**[LU2 云门](/point/LU2.md)**，**[LU1 中府](/point/LU1.md)**，**[SP1 隐白](/point/SP1.md)**，**[LIV14 期门](/point/LIV14.md)**，**[BL13 肺俞](/point/BL13.md)** 和 **[BL47 魂门](/point/BL47.md)**（《千金方》）。
+* 气短：**[PC7 大陵](/point/PC7.md)** 和 **[LU5 尺泽](/point/LU5.md)**（《针灸大成》）。
+* 咳嗽呼吸困难：**[PC7 大陵](/point/PC7.md)** 和 **[LU11 少商](/point/LU11.md)**（《千金方》）。
+* 咳血：**[PC7 大陵](/point/PC7.md)** 和 **[PC4 郄门](/point/PC4.md)**（《针灸甲乙经》）。
+* 偏头痛伴眼痛如裂：**[PC7 大陵](/point/PC7.md)** 和 **[ST8 头维](/point/ST8.md)**（《千金方》）。
+* 目赤：**[PC7 大陵](/point/PC7.md)** 和 **[GB16 目窗](/point/GB16.md)**（《资生经》）。
+* 呕吐清水：**[PC7 大陵](/point/PC7.md)**，**[REN17 膻中](/point/REN17.md)**，**[REN12 中脘](/point/REN12.md)** 和 **[PC8 劳宫](/point/PC8.md)**（《针灸大成》）。
+* 呕吐：**[PC7 大陵](/point/PC7.md)**，**[ST19 不容](/point/ST19.md)** 和 **[REN13 上脘](/point/REN13.md)**（《资生经》）。
+* 腹痛：**[PC7 大陵](/point/PC7.md)** 和 **[SJ5 外关](/point/SJ5.md)**（《玉龙歌》）。
+* 腹痛便秘：**[PC7 大陵](/point/PC7.md)**，**[SJ6 支沟](/point/SJ6.md)** 和 **[SJ5 外关](/point/SJ5.md)**（《玉龙歌》）。
+* 小便不利：**[SP6 三阴交](/point/SP6.md)**，**[SP9 阴陵泉](/point/SP9.md)** 和 **[REN6 气海](/point/REN6.md)**，继而针刺 **[KID10 阴谷](/point/KID10.md)** 和 **[PC7 大陵](/point/PC7.md)**（《针灸大成》）。
 
 ---

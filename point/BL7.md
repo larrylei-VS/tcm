@@ -49,7 +49,7 @@ Finally, Tōngtiān BL-7 is an important local point in the treatment of verte
 - Collapse on sudden standing: Tōngtiān BL-7 and [Luòquè BL-8](https://app.amanualofacupuncture.com/point/BL-8) (Thousand Ducat Formulas).
 
 ---
-### **[BL7 通天](point/BL7.md)** (TŌNGTIĀN)
+### **[BL7 通天](/point/BL7.md)** (TŌNGTIĀN)
 
 * **英文名称：** Heavenly Connection
 * **中文名称：** 通天
@@ -57,11 +57,11 @@ Finally, Tōngtiān BL-7 is an important local point in the treatment of verte
 
 #### **定位 (Location)**
 
-位于**[BL6 承光](point/BL6.md)** 后方1.5寸，前发际内4寸，距中线旁开1.5寸。
+位于**[BL6 承光](/point/BL6.md)** 后方1.5寸，前发际内4寸，距中线旁开1.5寸。
 
 * **定位要点 (Location Notes):**
-    * 从眉心（经外穴 **[MHN3 印堂](point/MHN3.md)**）到枕外隆突下缘（**[DU16 风府](point/DU16.md)**）的距离计为14寸。**[BL7 通天](point/BL7.md)** 位于此线中点旁开1.5寸处；
-    * **[BL7 通天](point/BL7.md)** 也可定位在 **[DU20 百会](point/DU20.md)** 前方1寸，旁开1.5寸处。
+    * 从眉心（经外穴 **[MHN3 印堂](/point/MHN3.md)**）到枕外隆突下缘（**[DU16 风府](/point/DU16.md)**）的距离计为14寸。**[BL7 通天](/point/BL7.md)** 位于此线中点旁开1.5寸处；
+    * **[BL7 通天](/point/BL7.md)** 也可定位在 **[DU20 百会](/point/DU20.md)** 前方1寸，旁开1.5寸处。
 
 #### **针刺方法 (Needling)**
 
@@ -81,13 +81,13 @@ Finally, Tōngtiān BL-7 is an important local point in the treatment of verte
 
 #### **阐释 (Commentary)**
 
-《素问·阴阳应象大论》记载：“天气通于肺”，而《灵枢·本神》记载：“肺气通于鼻”。换句话说，空气的天气通过其门户——鼻子进入肺脏，鼻子在吸收气中发挥作用。因此，在气功呼吸练习中，始终强调通过鼻子吸气，而呼气可以通过鼻子或嘴巴。**[BL7 通天](point/BL7.md)** 的名称“通天”指的是此穴能够保持鼻窍通畅，从而有助于天地之气通过鼻和肺循环。
+《素问·阴阳应象大论》记载：“天气通于肺”，而《灵枢·本神》记载：“肺气通于鼻”。换句话说，空气的天气通过其门户——鼻子进入肺脏，鼻子在吸收气中发挥作用。因此，在气功呼吸练习中，始终强调通过鼻子吸气，而呼气可以通过鼻子或嘴巴。**[BL7 通天](/point/BL7.md)** 的名称“通天”指的是此穴能够保持鼻窍通畅，从而有助于天地之气通过鼻和肺循环。
 
-**[BL7 通天](point/BL7.md)** 是头部治疗所有鼻部疾病（包括鼻炎、嗅觉丧失、鼻出血和鼻疮）最重要的穴位之一，在这种情况下，触诊时常有压痛。根据吴谦的《医宗金鉴·针灸法》，此穴应与**[DU23 上星](point/DU23.md)** 联合治疗鼻塞流涕和鼻息肉。该书还明确指出，左侧鼻孔的疾病应灸右侧**[BL7 通天](point/BL7.md)**，右侧鼻孔的疾病应灸左侧**[BL7 通天](point/BL7.md)**。
+**[BL7 通天](/point/BL7.md)** 是头部治疗所有鼻部疾病（包括鼻炎、嗅觉丧失、鼻出血和鼻疮）最重要的穴位之一，在这种情况下，触诊时常有压痛。根据吴谦的《医宗金鉴·针灸法》，此穴应与**[DU23 上星](/point/DU23.md)** 联合治疗鼻塞流涕和鼻息肉。该书还明确指出，左侧鼻孔的疾病应灸右侧**[BL7 通天](/point/BL7.md)**，右侧鼻孔的疾病应灸左侧**[BL7 通天](/point/BL7.md)**。
 
-**[BL7 通天](point/BL7.md)** 也主治痰湿阻滞身体上部，表现为鼻涕量多、头重、面部肿胀、瘿瘤和呼吸困难。
+**[BL7 通天](/point/BL7.md)** 也主治痰湿阻滞身体上部，表现为鼻涕量多、头重、面部肿胀、瘿瘤和呼吸困难。
 
-最后，**[BL7 通天](point/BL7.md)** 是治疗各种病因引起的头顶痛的重要局部穴位。
+最后，**[BL7 通天](/point/BL7.md)** 是治疗各种病因引起的头顶痛的重要局部穴位。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -97,11 +97,11 @@ Finally, Tōngtiān BL-7 is an important local point in the treatment of verte
 
 #### **穴位组合 (Combinations)**
 
-* 鼻塞：**[BL7 通天](point/BL7.md)** 和 **[GB15 头临泣](point/GB15.md)**（《资生经》）。
-* 鼻塞流涕：**[BL7 通天](point/BL7.md)** 和 **[DU23 上星](point/DU23.md)**（《十四经要穴歌》）。
-* 口歪伴大量清涕：**[BL7 通天](point/BL7.md)** 和 **[BL6 承光](point/BL6.md)**（《资生经》）。
-* 头重：**[BL7 通天](point/BL7.md)**，**[DU15 哑门](point/DU15.md)** 和 **[BL59 跗阳](point/BL59.md)**（《资生经》）。
-* 头重疼痛：**[BL7 通天](point/BL7.md)**，**[GB19 脑空](point/GB19.md)** 和 **[DU17 脑户](point/DU17.md)**（《千金方》）。
-* 突然站立时昏厥：**[BL7 通天](point/BL7.md)** 和 **[BL8 络却](point/BL8.md)**（《千金方》）。
+* 鼻塞：**[BL7 通天](/point/BL7.md)** 和 **[GB15 头临泣](/point/GB15.md)**（《资生经》）。
+* 鼻塞流涕：**[BL7 通天](/point/BL7.md)** 和 **[DU23 上星](/point/DU23.md)**（《十四经要穴歌》）。
+* 口歪伴大量清涕：**[BL7 通天](/point/BL7.md)** 和 **[BL6 承光](/point/BL6.md)**（《资生经》）。
+* 头重：**[BL7 通天](/point/BL7.md)**，**[DU15 哑门](/point/DU15.md)** 和 **[BL59 跗阳](/point/BL59.md)**（《资生经》）。
+* 头重疼痛：**[BL7 通天](/point/BL7.md)**，**[GB19 脑空](/point/GB19.md)** 和 **[DU17 脑户](/point/DU17.md)**（《千金方》）。
+* 突然站立时昏厥：**[BL7 通天](/point/BL7.md)** 和 **[BL8 络却](/point/BL8.md)**（《千金方》）。
 
 ---

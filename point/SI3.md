@@ -73,12 +73,12 @@ Fourthly, in common with points [Shàozé SI-1](https://app.amanualofacupunctur
 - Jaundice: Hòuxī SI-3 and [Láogōng PC-8](https://app.amanualofacupuncture.com/point/PC-8) (One Hundred Symptoms).
 
 ---
-### **[SI3 后溪](point/SI3.md)** (HÒUXĪ)
+### **[SI3 后溪](/point/SI3.md)** (HÒUXĪ)
 
 * **英文名称：** Back Stream
 * **中文名称：** 后溪
 * **国际代码：** SI-3
-* **穴位属性：** **[SI3 后溪](point/SI3.md)** 是小肠经的输穴和木穴，督脉的交会穴。
+* **穴位属性：** **[SI3 后溪](/point/SI3.md)** 是小肠经的输穴和木穴，督脉的交会穴。
 
 #### **定位 (Location)**
 
@@ -89,7 +89,7 @@ Fourthly, in common with points [Shàozé SI-1](https://app.amanualofacupunctur
 
 #### **针刺方法 (Needling)**
 
-垂直刺0.5至2寸，针尖朝向 **[LI3 三间](point/LI3.md)**。
+垂直刺0.5至2寸，针尖朝向 **[LI3 三间](/point/LI3.md)**。
 注意：握空拳姿势下进针，即掌骨处于同一平面；深刺透向手部对侧时这一点尤为重要。
 
 #### **作用 (Actions)**
@@ -110,15 +110,15 @@ Fourthly, in common with points [Shàozé SI-1](https://app.amanualofacupunctur
 
 #### **阐释 (Commentary)**
 
-**[SI3 后溪](point/SI3.md)** 既是小肠经的输穴（与心经互为表里），又是督脉的交会穴。其大部分作用和主治都可以通过其与这三条经脉的关系来解释。在临床实践中，**[SI3 后溪](point/SI3.md)** 主要有四个作用领域。
+**[SI3 后溪](/point/SI3.md)** 既是小肠经的输穴（与心经互为表里），又是督脉的交会穴。其大部分作用和主治都可以通过其与这三条经脉的关系来解释。在临床实践中，**[SI3 后溪](/point/SI3.md)** 主要有四个作用领域。
 
-首先，它是治疗相关经络循行部位疼痛、僵硬和挛缩的重要穴位。太阳经（小肠经和膀胱经）循行于后头部、颈部、肩胛和脊柱旁区域，而督脉沿脊柱从尾骨上行至头部。根据《难经》记载，输穴主治“体重节痛”。**[SI3 后溪](point/SI3.md)** 是治疗枕骨头痛（也用于偏头痛和全头痛）和颈部僵硬疼痛的关键远端穴位，无论是急性或慢性，外感或内伤。它对整个脊柱有显著影响，是治疗上脊柱和肩胛疼痛，以及中线或腰部外侧急性腰扭伤的重要常用远端穴位。**[SI3 后溪](point/SI3.md)** 对指关节疾病，特别是小指和无名指，也很重要，当四个手指都受累时，可深刺透向**[LI3 三间](point/LI3.md)**。**[SI3 后溪](point/SI3.md)** 在治疗手臂、肘部和肩部疼痛和挛缩方面同样重要。
+首先，它是治疗相关经络循行部位疼痛、僵硬和挛缩的重要穴位。太阳经（小肠经和膀胱经）循行于后头部、颈部、肩胛和脊柱旁区域，而督脉沿脊柱从尾骨上行至头部。根据《难经》记载，输穴主治“体重节痛”。**[SI3 后溪](/point/SI3.md)** 是治疗枕骨头痛（也用于偏头痛和全头痛）和颈部僵硬疼痛的关键远端穴位，无论是急性或慢性，外感或内伤。它对整个脊柱有显著影响，是治疗上脊柱和肩胛疼痛，以及中线或腰部外侧急性腰扭伤的重要常用远端穴位。**[SI3 后溪](/point/SI3.md)** 对指关节疾病，特别是小指和无名指，也很重要，当四个手指都受累时，可深刺透向**[LI3 三间](/point/LI3.md)**。**[SI3 后溪](/point/SI3.md)** 在治疗手臂、肘部和肩部疼痛和挛缩方面同样重要。
 
-**[SI3 后溪](point/SI3.md)** 的第二个主要作用是解表退热。这可以解释为：太阳小肠经属火，太阳是六经中最表层的经脉，督脉主宰所有阳经，从而主宰整个身体的外部。**[SI3 后溪](point/SI3.md)** 特别主治疟疾，以及外感风寒或风热引起恶寒发热伴颈部或脊柱剧烈疼痛。其清热作用的进一步体现是治疗盗汗，特别是与**[HE6 阴郄](point/HE6.md)** 联合使用。
+**[SI3 后溪](/point/SI3.md)** 的第二个主要作用是解表退热。这可以解释为：太阳小肠经属火，太阳是六经中最表层的经脉，督脉主宰所有阳经，从而主宰整个身体的外部。**[SI3 后溪](/point/SI3.md)** 特别主治疟疾，以及外感风寒或风热引起恶寒发热伴颈部或脊柱剧烈疼痛。其清热作用的进一步体现是治疗盗汗，特别是与**[HE6 阴郄](/point/HE6.md)** 联合使用。
 
-在《标幽赋》中，**[SI3 后溪](point/SI3.md)** 的应用被列为“八法”之一。在描述八脉交会穴影响特定症状和身体区域的应用中，**[SI3 后溪](point/SI3.md)** 主治督脉疾病和癫狂。因此，**[SI3 后溪](point/SI3.md)** 的第三个作用是宁心安神，治疗癫狂和癫痫。前者是痰和痰热扰乱心神所致，后者是病理风邪和痰扰乱心神和大脑所致。根据七世纪名医孙思邈的说法，“头者，诸阳之会，精神之所聚也”，而十六世纪的李时珍则指出“脑者，元神之府”。由于小肠经与藏神的心经互为表里，并且**[SI3 后溪](point/SI3.md)** 是督脉（入脑）的交会穴，此穴长期以来被认为是治疗癫痫的重要穴位。《玉龙赋》推荐它治疗五种癫痫。
+在《标幽赋》中，**[SI3 后溪](/point/SI3.md)** 的应用被列为“八法”之一。在描述八脉交会穴影响特定症状和身体区域的应用中，**[SI3 后溪](/point/SI3.md)** 主治督脉疾病和癫狂。因此，**[SI3 后溪](/point/SI3.md)** 的第三个作用是宁心安神，治疗癫狂和癫痫。前者是痰和痰热扰乱心神所致，后者是病理风邪和痰扰乱心神和大脑所致。根据七世纪名医孙思邈的说法，“头者，诸阳之会，精神之所聚也”，而十六世纪的李时珍则指出“脑者，元神之府”。由于小肠经与藏神的心经互为表里，并且**[SI3 后溪](/point/SI3.md)** 是督脉（入脑）的交会穴，此穴长期以来被认为是治疗癫痫的重要穴位。《玉龙赋》推荐它治疗五种癫痫。
 
-第四，与**[SI1 少泽](point/SI1.md)** 和**[SI2 前谷](point/SI2.md)** 等穴位一样，**[SI3 后溪](point/SI3.md)** 能够清泄小肠经在头部（特别是耳部和眼部）的内外热邪，并宣利七窍。因此，它主治耳鸣耳聋、外障眼病（翳膜）、眼睛红肿疼痛肿胀伴流泪、鼻出血以及面颊疼痛肿胀等疾病。
+第四，与**[SI1 少泽](/point/SI1.md)** 和**[SI2 前谷](/point/SI2.md)** 等穴位一样，**[SI3 后溪](/point/SI3.md)** 能够清泄小肠经在头部（特别是耳部和眼部）的内外热邪，并宣利七窍。因此，它主治耳鸣耳聋、外障眼病（翳膜）、眼睛红肿疼痛肿胀伴流泪、鼻出血以及面颊疼痛肿胀等疾病。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -130,22 +130,22 @@ Fourthly, in common with points [Shàozé SI-1](https://app.amanualofacupunctur
 
 #### **穴位组合 (Combinations)**
 
-* 颈项强直不能转头：**[SI3 后溪](point/SI3.md)** 和 **[SJ16 天牖](point/SJ16.md)**（《资生经》）。
-* 头痛：**[SI3 后溪](point/SI3.md)**，**[BL10 天柱](point/BL10.md)**，**[DU13 陶道](point/DU13.md)**，**[BL11 大杼](point/BL11.md)** 和 **[LU6 孔最](point/LU6.md)**（《千金方》）。
-* 头眼疼痛：**[SI3 后溪](point/SI3.md)** 和 **[SJ5 外关](point/SJ5.md)**（《神灸经纶》）。
-* 前臂疼痛：**[SI3 后溪](point/SI3.md)**，**[LI10 手三里](point/LI10.md)** 和 **[LI11 曲池](point/LI11.md)**（《资生经》）。
-* 肘部挛缩：**[SI3 后溪](point/SI3.md)**，**[LU5 尺泽](point/LU5.md)**，**[LI15 肩髃](point/LI15.md)**，**[SI8 小海](point/SI8.md)**，**[PC5 间使](point/PC5.md)**，**[PC7 大陵](point/PC7.md)** 和 **[LU10 鱼际](point/LU10.md)**（《针灸大成》）。
-* 肩背疼痛：**[SI3 后溪](point/SI3.md)**，**[SI4 腕骨](point/SI4.md)**，**[BL12 风门](point/BL12.md)**，**[GB21 肩井](point/GB21.md)**，**[SJ3 中渚](point/SJ3.md)**，**[SJ6 支沟](point/SJ6.md)** 和 **[BL40 委中](point/BL40.md)**（《针灸大成》）。
-* 疟疾热多寒少：**[SI3 后溪](point/SI3.md)**，**[DU14 大椎](point/DU14.md)**，**[PC5 间使](point/PC5.md)** 和 **[LI11 曲池](point/LI11.md)**（《针灸大成》）。
-* 疟疾寒多热少：**[SI3 后溪](point/SI3.md)**，**[DU14 大椎](point/DU14.md)** 和 **[LI11 曲池](point/LI11.md)**（《针灸大成》）。
-* 大量盗汗：**[SI3 后溪](point/SI3.md)** 和 **[HE6 阴郄](point/HE6.md)**（《百症赋》）。
-* 五种癫痫：**[SI3 后溪](point/SI3.md)**，**[REN15 鸠尾](point/REN15.md)** 和 **[HE7 神门](point/HE7.md)**（《玉龙赋》）。
-* 癫痫：**[SI3 后溪](point/SI3.md)**，**[PC6 内关](point/PC6.md)**，**[HE7 神门](point/HE7.md)**，**[BL15 心俞](point/BL15.md)** 和 **[SP1 隐白](point/SP1.md)**（《大全集》）。
-* 癫痫抽搐，循衣摸床（或行走无度），不能入睡，心烦：**[SI3 后溪](point/SI3.md)**，**[BL2 攒竹](point/BL2.md)**，**[SI8 小海](point/SI8.md)** 和 **[DU18 强间](point/DU18.md)**（《千金方》）。
-* 癫狂，欲登高而歌，弃衣奔走：**[SI3 后溪](point/SI3.md)**，**[HE7 神门](point/HE7.md)** 和 **[ST42 冲阳](point/ST42.md)**（《针灸大成》）。
-* 卒中癫狂：**[SI3 后溪](point/SI3.md)**，**[PC5 间使](point/PC5.md)** 和 **[LI4 合谷](point/LI4.md)**（《针灸大成》）。
-* 耳聋：**[SI3 后溪](point/SI3.md)**，**[SI2 前谷](point/SI2.md)** 和 **[LI6 偏历](point/LI6.md)**（《资生经》）。
-* 鼻出血伴呼吸困难：**[SI3 后溪](point/SI3.md)**，**[GB18 承灵](point/GB18.md)**，**[GB20 风池](point/GB20.md)**，**[BL12 风门](point/BL12.md)** 和 **[BL45 噫嘻](point/BL45.md)**（《千金方》）。
-* 黄疸：**[SI3 后溪](point/SI3.md)** 和 **[PC8 劳宫](point/PC8.md)**（《百症赋》）。
+* 颈项强直不能转头：**[SI3 后溪](/point/SI3.md)** 和 **[SJ16 天牖](/point/SJ16.md)**（《资生经》）。
+* 头痛：**[SI3 后溪](/point/SI3.md)**，**[BL10 天柱](/point/BL10.md)**，**[DU13 陶道](/point/DU13.md)**，**[BL11 大杼](/point/BL11.md)** 和 **[LU6 孔最](/point/LU6.md)**（《千金方》）。
+* 头眼疼痛：**[SI3 后溪](/point/SI3.md)** 和 **[SJ5 外关](/point/SJ5.md)**（《神灸经纶》）。
+* 前臂疼痛：**[SI3 后溪](/point/SI3.md)**，**[LI10 手三里](/point/LI10.md)** 和 **[LI11 曲池](/point/LI11.md)**（《资生经》）。
+* 肘部挛缩：**[SI3 后溪](/point/SI3.md)**，**[LU5 尺泽](/point/LU5.md)**，**[LI15 肩髃](/point/LI15.md)**，**[SI8 小海](/point/SI8.md)**，**[PC5 间使](/point/PC5.md)**，**[PC7 大陵](/point/PC7.md)** 和 **[LU10 鱼际](/point/LU10.md)**（《针灸大成》）。
+* 肩背疼痛：**[SI3 后溪](/point/SI3.md)**，**[SI4 腕骨](/point/SI4.md)**，**[BL12 风门](/point/BL12.md)**，**[GB21 肩井](/point/GB21.md)**，**[SJ3 中渚](/point/SJ3.md)**，**[SJ6 支沟](/point/SJ6.md)** 和 **[BL40 委中](/point/BL40.md)**（《针灸大成》）。
+* 疟疾热多寒少：**[SI3 后溪](/point/SI3.md)**，**[DU14 大椎](/point/DU14.md)**，**[PC5 间使](/point/PC5.md)** 和 **[LI11 曲池](/point/LI11.md)**（《针灸大成》）。
+* 疟疾寒多热少：**[SI3 后溪](/point/SI3.md)**，**[DU14 大椎](/point/DU14.md)** 和 **[LI11 曲池](/point/LI11.md)**（《针灸大成》）。
+* 大量盗汗：**[SI3 后溪](/point/SI3.md)** 和 **[HE6 阴郄](/point/HE6.md)**（《百症赋》）。
+* 五种癫痫：**[SI3 后溪](/point/SI3.md)**，**[REN15 鸠尾](/point/REN15.md)** 和 **[HE7 神门](/point/HE7.md)**（《玉龙赋》）。
+* 癫痫：**[SI3 后溪](/point/SI3.md)**，**[PC6 内关](/point/PC6.md)**，**[HE7 神门](/point/HE7.md)**，**[BL15 心俞](/point/BL15.md)** 和 **[SP1 隐白](/point/SP1.md)**（《大全集》）。
+* 癫痫抽搐，循衣摸床（或行走无度），不能入睡，心烦：**[SI3 后溪](/point/SI3.md)**，**[BL2 攒竹](/point/BL2.md)**，**[SI8 小海](/point/SI8.md)** 和 **[DU18 强间](/point/DU18.md)**（《千金方》）。
+* 癫狂，欲登高而歌，弃衣奔走：**[SI3 后溪](/point/SI3.md)**，**[HE7 神门](/point/HE7.md)** 和 **[ST42 冲阳](/point/ST42.md)**（《针灸大成》）。
+* 卒中癫狂：**[SI3 后溪](/point/SI3.md)**，**[PC5 间使](/point/PC5.md)** 和 **[LI4 合谷](/point/LI4.md)**（《针灸大成》）。
+* 耳聋：**[SI3 后溪](/point/SI3.md)**，**[SI2 前谷](/point/SI2.md)** 和 **[LI6 偏历](/point/LI6.md)**（《资生经》）。
+* 鼻出血伴呼吸困难：**[SI3 后溪](/point/SI3.md)**，**[GB18 承灵](/point/GB18.md)**，**[GB20 风池](/point/GB20.md)**，**[BL12 风门](/point/BL12.md)** 和 **[BL45 噫嘻](/point/BL45.md)**（《千金方》）。
+* 黄疸：**[SI3 后溪](/point/SI3.md)** 和 **[PC8 劳宫](/point/PC8.md)**（《百症赋》）。
 
 ---

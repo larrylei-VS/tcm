@@ -32,7 +32,7 @@ Perpendicular or oblique proximal or distal insertion towards the elbow or wrist
 - Toothache of the lower jaw: Yánggǔ SI-5, Sìdú SJ-9, Yèmén SJ-2, Shāngyáng LI-1 and Èrjiān LI-2 (Thousand Ducat Formulas).
 
 ---
-### **[SJ9 四渎](point/SJ9.md)** (SÌDÚ)
+### **[SJ9 四渎](/point/SJ9.md)** (SÌDÚ)
 
 * **英文名称：** Four Rivers
 * **中文名称：** 四渎
@@ -40,10 +40,10 @@ Perpendicular or oblique proximal or distal insertion towards the elbow or wrist
 
 #### **定位 (Location)**
 
-位于桡骨和尺骨之间凹陷中，在连接**[SJ4 阳池](point/SJ4.md)** 与肱骨外上髁的连线上，距**[SJ4 阳池](point/SJ4.md)** 上方7寸。
+位于桡骨和尺骨之间凹陷中，在连接**[SJ4 阳池](/point/SJ4.md)** 与肱骨外上髁的连线上，距**[SJ4 阳池](/point/SJ4.md)** 上方7寸。
 
 * **定位要点 (Location Notes):**
-    * 将**[SJ4 阳池](point/SJ4.md)** 与肱骨外上髁之间的距离平分，然后在此中点上方1寸处定位**[SJ9 四渎](point/SJ9.md)**；
+    * 将**[SJ4 阳池](/point/SJ4.md)** 与肱骨外上髁之间的距离平分，然后在此中点上方1寸处定位**[SJ9 四渎](/point/SJ9.md)**；
     * 穴位位于指总伸肌和尺侧腕伸肌肌腹之间的凹陷中。
 
 #### **针刺方法 (Needling)**
@@ -60,7 +60,7 @@ Perpendicular or oblique proximal or distal insertion towards the elbow or wrist
 
 #### **阐释 (Commentary)**
 
-**[SJ9 四渎](point/SJ9.md)** 临床上较少使用。其名称“四渎”可能指其在调理三焦水液代谢，或与四肢经络的联系。作为三焦经的穴位，它能够**宣利咽喉和耳部**。
+**[SJ9 四渎](/point/SJ9.md)** 临床上较少使用。其名称“四渎”可能指其在调理三焦水液代谢，或与四肢经络的联系。作为三焦经的穴位，它能够**宣利咽喉和耳部**。
 
 此穴主要用于缓解**咽喉和耳部**的急性症状，如暴喑、咽喉阻塞、咽喉疼痛、暴聋和暴鸣。它对**下颌牙痛**和**前臂疼痛**也有一定的辅助疗效，这与三焦经的循行以及其通经活络、止痛的功效相关。
 
@@ -71,7 +71,7 @@ Perpendicular or oblique proximal or distal insertion towards the elbow or wrist
 
 #### **穴位组合 (Combinations)**
 
-* 暴聋（突然耳聋）：**[SJ9 四渎](point/SJ9.md)** 和 **[SJ16 天牖](point/SJ16.md)**（《资生经》）。
-* 下颌牙痛：**[SI5 阳谷](point/SI5.md)**，**[SJ9 四渎](point/SJ9.md)**，**[SJ2 液门](point/SJ2.md)**，**[LI1 商阳](point/LI1.md)** 和 **[LI2 二间](point/LI2.md)**（《千金方》）。
+* 暴聋（突然耳聋）：**[SJ9 四渎](/point/SJ9.md)** 和 **[SJ16 天牖](/point/SJ16.md)**（《资生经》）。
+* 下颌牙痛：**[SI5 阳谷](/point/SI5.md)**，**[SJ9 四渎](/point/SJ9.md)**，**[SJ2 液门](/point/SJ2.md)**，**[LI1 商阳](/point/LI1.md)** 和 **[LI2 二间](/point/LI2.md)**（《千金方》）。
 
 ---

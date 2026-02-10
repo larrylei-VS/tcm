@@ -32,7 +32,7 @@ Perpendicular-oblique superior insertion 0.5 to 1 cun.
 #### Combinations
 - Wind epilepsy: Jǐzhōng DU-6 and [Yǒngquǎn KID-1](https://app.amanualofacupuncture.com/point/KID-1) (Supplementing Life).
 
-### 1. [DU6 脊中](point/DU6.md)
+### 1. [DU6 脊中](/point/DU6.md)
 
 #### 1.1. Centre of the Spine 脊中
 
@@ -68,4 +68,4 @@ Perpendicular-oblique superior insertion 0.5 to 1 cun.
 
 #### 1.8. 配伍
 
-- 风癫痫：[DU6 脊中](point/DU6.md) + [KID1 涌泉](point/KID1.md)（《补命》）。
+- 风癫痫：[DU6 脊中](/point/DU6.md) + [KID1 涌泉](/point/KID1.md)（《补命》）。

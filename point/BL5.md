@@ -37,7 +37,7 @@ Transverse insertion 0.5 to 1 cun.
 
 
 ---
-### **[BL5 五处](point/BL5.md)** (WǓCHÙ)
+### **[BL5 五处](/point/BL5.md)** (WǓCHÙ)
 
 * **英文名称：** Fifth Place
 * **中文名称：** 五处
@@ -45,11 +45,11 @@ Transverse insertion 0.5 to 1 cun.
 
 #### **定位 (Location)**
 
-位于**[BL4 曲差](point/BL4.md)** 正后方0.5寸，前发际内1寸，距**[DU23 上星](point/DU23.md)** 旁开1.5寸。
+位于**[BL4 曲差](/point/BL4.md)** 正后方0.5寸，前发际内1寸，距**[DU23 上星](/point/DU23.md)** 旁开1.5寸。
 
 * **定位要点 (Location Notes):**
-    * 如果前发际不明显，请参见**[BL3 眉冲](point/BL3.md)** 的定位要点；
-    * 请注意，中线前发际到**[DU20 百会](point/DU20.md)** 的距离为5寸。
+    * 如果前发际不明显，请参见**[BL3 眉冲](/point/BL3.md)** 的定位要点；
+    * 请注意，中线前发际到**[DU20 百会](/point/DU20.md)** 的距离为5寸。
 
 #### **针刺方法 (Needling)**
 
@@ -69,7 +69,7 @@ Transverse insertion 0.5 to 1 cun.
 
 #### **阐释 (Commentary)**
 
-**[BL5 五处](point/BL5.md)** 临床上较少使用。其名称“五处”可能指其在头部五个区域的治疗作用，或与五脏相关联。
+**[BL5 五处](/point/BL5.md)** 临床上较少使用。其名称“五处”可能指其在头部五个区域的治疗作用，或与五脏相关联。
 
 此穴主要作用于头部，能够祛风降阳、清热，主治脊柱强直、角弓反张、眼睛上视、癫痫、发狂、破伤风和痉挛等症状。它对眩晕、视物眩晕、视力减退、头痛、头眼疼痛、头重和鼻塞等头部和七窍疾病也有疗效。
 
@@ -81,7 +81,7 @@ Transverse insertion 0.5 to 1 cun.
 
 #### **穴位组合 (Combinations)**
 
-* 角弓反张，痉挛，癫痫和头痛：**[BL5 五处](point/BL5.md)**，**[DU12 身柱](point/DU12.md)**，**[BL40 委中](point/BL40.md)**，**[BL39 委阳](point/BL39.md)** 和 **[BL60 昆仑](point/BL60.md)**（《千金方》）。
-* 鼻塞不辨香臭：**[BL5 五处](point/BL5.md)**，**[LI20 迎香](point/LI20.md)**，**[DU23 上星](point/DU23.md)** 和 **[LI19 口禾髎](point/LI19.md)**（《针灸大成》）。
+* 角弓反张，痉挛，癫痫和头痛：**[BL5 五处](/point/BL5.md)**，**[DU12 身柱](/point/DU12.md)**，**[BL40 委中](/point/BL40.md)**，**[BL39 委阳](/point/BL39.md)** 和 **[BL60 昆仑](/point/BL60.md)**（《千金方》）。
+* 鼻塞不辨香臭：**[BL5 五处](/point/BL5.md)**，**[LI20 迎香](/point/LI20.md)**，**[DU23 上星](/point/DU23.md)** 和 **[LI19 口禾髎](/point/LI19.md)**（《针灸大成》）。
 
 ---

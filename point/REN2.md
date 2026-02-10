@@ -40,7 +40,7 @@ Qūgǔ REN-2 acts primarily on the genito-urinary regions, being able to treat 
 - Fright epilepsy, mad walking and madness: Qūgǔ REN-2, [Xíngjiān LIV-2](https://app.amanualofacupuncture.com/point/LIV-2), [Jīnsūo DU-8](https://app.amanualofacupuncture.com/point/DU-8) and [Yīngǔ KID-10](https://app.amanualofacupuncture.com/point/KID-10) (Thousand Ducat Formulas).
 
 
-### 1. [REN2 曲骨](point/REN2.md)
+### 1. [REN2 曲骨](/point/REN2.md)
 
 #### 1.1. Crooked Bone 曲骨
 
@@ -71,14 +71,14 @@ Qūgǔ REN-2 acts primarily on the genito-urinary regions, being able to treat 
 
 #### 1.6. 论述
 
-[REN2 曲骨](point/REN2.md)主要作用于泌尿生殖区，能治疗多种尿病、下腹病、性功能疾患、生殖器疾患及妇科病。然而，其在这些病症治疗中的重要性常被邻近穴位如[ST30 气冲](point/ST30.md)和[REN3 中极](point/REN3.md)所掩盖。  
+[REN2 曲骨](/point/REN2.md)主要作用于泌尿生殖区，能治疗多种尿病、下腹病、性功能疾患、生殖器疾患及妇科病。然而，其在这些病症治疗中的重要性常被邻近穴位如[ST30 气冲](/point/ST30.md)和[REN3 中极](/point/REN3.md)所掩盖。  
 
 #### 1.7. 临床应用总结
 
-- [REN2 曲骨](point/REN2.md)主要作用于泌尿生殖区，治疗多种尿病、下腹病、性功能疾患、生殖器疾患及妇科病：尿流滴沥不畅、尿难、胎压尿潴留、遗尿、五淋、下腹胀满痛、急性下腹痛、疝痛、阳痿、遗精、阴囊湿痒、阴茎挛缩、生殖器干痛、赤白带下、月经不调、痛经、五脏虚竭、虚倦极冷。  
+- [REN2 曲骨](/point/REN2.md)主要作用于泌尿生殖区，治疗多种尿病、下腹病、性功能疾患、生殖器疾患及妇科病：尿流滴沥不畅、尿难、胎压尿潴留、遗尿、五淋、下腹胀满痛、急性下腹痛、疝痛、阳痿、遗精、阴囊湿痒、阴茎挛缩、生殖器干痛、赤白带下、月经不调、痛经、五脏虚竭、虚倦极冷。  
 
 #### 1.8. 配伍
 
-- 尿不出：[REN2 曲骨](point/REN2.md) + [REN5 石门](point/REN5.md) + [REN4 关元](point/REN4.md) + [REN3 中极](point/REN3.md) + [SP6 三阴交](point/SP6.md)（《补命》）。  
-- 赤白带下：[REN2 曲骨](point/REN2.md)（灸7壮）+ [LIV3 太冲](point/LIV3.md) + [REN4 关元](point/REN4.md) + [KID7 复溜](point/KID7.md) + [SP6 三阴交](point/SP6.md) + [ST25 天枢](point/ST25.md)（灸百壮）（《汇编》）。  
-- 惊痫、狂走及癫狂：[REN2 曲骨](point/REN2.md) + [LIV2 行间](point/LIV2.md) + [DU8 筋缩](point/DU8.md) + [KID10 阴谷](point/KID10.md)（《千金方》）。  
+- 尿不出：[REN2 曲骨](/point/REN2.md) + [REN5 石门](/point/REN5.md) + [REN4 关元](/point/REN4.md) + [REN3 中极](/point/REN3.md) + [SP6 三阴交](/point/SP6.md)（《补命》）。  
+- 赤白带下：[REN2 曲骨](/point/REN2.md)（灸7壮）+ [LIV3 太冲](/point/LIV3.md) + [REN4 关元](/point/REN4.md) + [KID7 复溜](/point/KID7.md) + [SP6 三阴交](/point/SP6.md) + [ST25 天枢](/point/ST25.md)（灸百壮）（《汇编》）。  
+- 惊痫、狂走及癫狂：[REN2 曲骨](/point/REN2.md) + [LIV2 行间](/point/LIV2.md) + [DU8 筋缩](/point/DU8.md) + [KID10 阴谷](/point/KID10.md)（《千金方》）。  

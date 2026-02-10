@@ -32,7 +32,7 @@ Perpendicular insertion 1 to 1.5 cun.
 - Tinnitus and deafness: Jiānzhēn SI-9 and [Wàngǔ SI-4](https://app.amanualofacupuncture.com/point/SI-4) (Systematic Classic).
 
 ---
-### **[SI9 肩贞](point/SI9.md)** (JIĀNZHĒN)
+### **[SI9 肩贞](/point/SI9.md)** (JIĀNZHĒN)
 
 * **英文名称：** True Shoulder
 * **中文名称：** 肩贞
@@ -61,11 +61,11 @@ Perpendicular insertion 1 to 1.5 cun.
 
 #### **阐释 (Commentary)**
 
-**[SI9 肩贞](point/SI9.md)** 位于肩关节后方，是小肠经的重要局部穴位。其名称“肩贞”意指此穴是治疗肩部疾病的“贞正”之要穴。
+**[SI9 肩贞](/point/SI9.md)** 位于肩关节后方，是小肠经的重要局部穴位。其名称“肩贞”意指此穴是治疗肩部疾病的“贞正”之要穴。
 
 此穴主要用于治疗肩部、肩胛和上臂的疼痛、麻木和活动不利。它擅长缓解肩臂疼痛，特别是当患者出现不能抬臂、肩胛疼痛或肩部有灼热感并放射至锁骨上窝时。此外，其祛风止痛的功效也使其适用于风痹等病症。
 
-**[SI9 肩贞](point/SI9.md)** 还能辅助治疗耳鸣耳聋，这与小肠经与耳部的循行联系有关。对于外感风寒引起的发热恶寒，此穴也有一定的治疗作用。
+**[SI9 肩贞](/point/SI9.md)** 还能辅助治疗耳鸣耳聋，这与小肠经与耳部的循行联系有关。对于外感风寒引起的发热恶寒，此穴也有一定的治疗作用。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -75,7 +75,7 @@ Perpendicular insertion 1 to 1.5 cun.
 
 #### **穴位组合 (Combinations)**
 
-* 肩部灼热感伴头不能转动：**[SI9 肩贞](point/SI9.md)**，**[SJ1 关冲](point/SJ1.md)** 和 **[LI15 肩髃](point/LI15.md)**（《千金方》）。
-* 耳鸣耳聋：**[SI9 肩贞](point/SI9.md)** 和 **[SI4 腕骨](point/SI4.md)**（《针灸甲乙经》）。
+* 肩部灼热感伴头不能转动：**[SI9 肩贞](/point/SI9.md)**，**[SJ1 关冲](/point/SJ1.md)** 和 **[LI15 肩髃](/point/LI15.md)**（《千金方》）。
+* 耳鸣耳聋：**[SI9 肩贞](/point/SI9.md)** 和 **[SI4 腕骨](/point/SI4.md)**（《针灸甲乙经》）。
 
 ---

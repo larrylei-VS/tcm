@@ -33,15 +33,15 @@ Perpendicular insertion 0.5 to 1 cun.
 - Pain of the Heart with shortness of breath: Xiábái LU-4, [Qímén LIV-14](https://app.amanualofacupuncture.com/point/LIV-14), [Chángqiáng DU-1](https://app.amanualofacupuncture.com/point/DU-1), [Tiāntú REN-22](https://app.amanualofacupuncture.com/point/REN-22) and [Zhōngchōng PC-9](https://app.amanualofacupuncture.com/point/PC-9) (Thousand Ducat Formulas).
 - Purple-white wind blotches (pityriasis versicolor): Xiábái LU-4 and [Tiānfǔ LU-3](https://app.amanualofacupuncture.com/point/LU-3) (Investigation Into Points Along the Channels).
 
-### 1. [LU4 侠白](point/LU4.md)
+### 1. [LU4 侠白](/point/LU4.md)
 
 #### 1.2. 定位
 
-位于上臂前外侧，腋窝褶下4寸，[LU5 尺泽](point/LU5.md)上5寸，肱二头肌外侧缘与肱骨干之间的凹陷处。
+位于上臂前外侧，腋窝褶下4寸，[LU5 尺泽](/point/LU5.md)上5寸，肱二头肌外侧缘与肱骨干之间的凹陷处。
 
 #### 1.3. 定位说明
 
-将腋窝褶至肘窝分为三等分，[LU4 侠白](point/LU4.md)位于上三分之一与中三分之一交界处（[LU3 天府](point/LU3.md)）下方1寸。
+将腋窝褶至肘窝分为三等分，[LU4 侠白](/point/LU4.md)位于上三分之一与中三分之一交界处（[LU3 天府](/point/LU3.md)）下方1寸。
 
 #### 1.4. 针刺方法
 
@@ -65,5 +65,5 @@ Perpendicular insertion 0.5 to 1 cun.
 
 #### 1.8. 配伍
 
-- 心痛伴气短：[LU4 侠白](point/LU4.md) + [LIV14 期门](point/LIV14.md) + [DU1 长强](point/DU1.md) + [REN22 天突](point/REN22.md) + [PC9 中冲](point/PC9.md)（《千金方》）。  
-- 紫白风斑（癣）：[LU4 侠白](point/LU4.md) + [LU3 天府](point/LU3.md)（《经穴探》）。
+- 心痛伴气短：[LU4 侠白](/point/LU4.md) + [LIV14 期门](/point/LIV14.md) + [DU1 长强](/point/DU1.md) + [REN22 天突](/point/REN22.md) + [PC9 中冲](/point/PC9.md)（《千金方》）。  
+- 紫白风斑（癣）：[LU4 侠白](/point/LU4.md) + [LU3 天府](/point/LU3.md)（《经穴探》）。

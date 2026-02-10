@@ -31,17 +31,17 @@ Perpendicular or oblique insertion 1-2 cun.
 - Irregular menstruation: Yīnbāo LIV-9 and [Lǐgōu LIV-5](https://app.amanualofacupuncture.com/point/LIV-5) (Supplementing Life)
 
 
-### 1. [LIV9 阴包](point/LIV9.md)
+### 1. [LIV9 阴包](/point/LIV9.md)
 
 #### 1.1. Yin Wrapping 陰包
 
 #### 1.2. 定位
 
-位于股骨内上髁正上方，[LIV8 曲泉](point/LIV8.md)上方4寸，在股内侧肌与缝匠肌之间的裂隙中。
+位于股骨内上髁正上方，[LIV8 曲泉](/point/LIV8.md)上方4寸，在股内侧肌与缝匠肌之间的裂隙中。
 
 #### 1.3. 定位说明
 
-定位于髌骨上缘上方一髌高（2寸），在股内侧肌与缝匠肌之间的敏感凹陷处，正对[LIV8 曲泉](point/LIV8.md)上方。
+定位于髌骨上缘上方一髌高（2寸），在股内侧肌与缝匠肌之间的敏感凹陷处，正对[LIV8 曲泉](/point/LIV8.md)上方。
 
 #### 1.4. 针刺方法
 
@@ -63,4 +63,4 @@ Perpendicular or oblique insertion 1-2 cun.
 
 #### 1.8. 配伍
 
-- 月经不调：[LIV9 阴包](point/LIV9.md) + [LIV5 蠡沟](point/LIV5.md)（《补命》）。
+- 月经不调：[LIV9 阴包](/point/LIV9.md) + [LIV5 蠡沟](/point/LIV5.md)（《补命》）。

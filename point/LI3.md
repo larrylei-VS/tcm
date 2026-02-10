@@ -55,12 +55,12 @@ Finally, like [Èrjiān LI-2](https://app.amanualofacupuncture.com/point/LI-2),
 
 
 
-### [LI3 三间](point/LI3.md) (SĀNJIĀN)
+### [LI3 三间](/point/LI3.md) (SĀNJIĀN)
 
 - **英文名称：** Third Space
 - **中文名称：** 三间
 - **国际代码：** LI-3
-- **穴位属性：** [LI3 三间](point/LI3.md) 是大肠经的输穴和木穴。
+- **穴位属性：** [LI3 三间](/point/LI3.md) 是大肠经的输穴和木穴。
 
 #### 定位 (Location)
 
@@ -71,7 +71,7 @@ Finally, like [Èrjiān LI-2](https://app.amanualofacupuncture.com/point/LI-2),
 
 #### 针刺方法 (Needling)
 
-直刺0.5至2寸，针尖朝向[SI3 后溪](point/SI3.md)。
+直刺0.5至2寸，针尖朝向[SI3 后溪](/point/SI3.md)。
 
 注意：针刺时手握空拳，使掌骨处于同一平面。深刺透向对侧手部时这一点尤为重要。
 
@@ -91,19 +91,19 @@ Finally, like [Èrjiān LI-2](https://app.amanualofacupuncture.com/point/LI-2),
 
 #### 阐释 (Commentary)
 
-与大肠经许多远端穴位一样，[LI3 三间](point/LI3.md) 能够驱散经络上端（咽喉、牙齿、口、鼻、眼）的风热和阳明经热，主治咽喉肿痛、口唇焦干、恶寒发热和鼻出血等症状。至于牙痛和龋齿痛，金元时期的朱丹溪推荐对[LI3 三间](point/LI3.md) 施灸治疗下颌牙痛（对[LI10 手三里](point/LI10.md) 治疗上颌牙痛），而现代临床实践中，一些中国医生在治疗严重或顽固性牙痛时偏爱[LI3 三间](point/LI3.md) 而非[LI4 合谷](point/LI4.md)。
+与大肠经许多远端穴位一样，[LI3 三间](/point/LI3.md) 能够驱散经络上端（咽喉、牙齿、口、鼻、眼）的风热和阳明经热，主治咽喉肿痛、口唇焦干、恶寒发热和鼻出血等症状。至于牙痛和龋齿痛，金元时期的朱丹溪推荐对[LI3 三间](/point/LI3.md) 施灸治疗下颌牙痛（对[LI10 手三里](/point/LI10.md) 治疗上颌牙痛），而现代临床实践中，一些中国医生在治疗严重或顽固性牙痛时偏爱[LI3 三间](/point/LI3.md) 而非[LI4 合谷](/point/LI4.md)。
 
-手部三条阳经（大肠经、小肠经和三焦经）的一个特点是，相对较少的穴位主治其相应的腑的病症，例如小肠经的穴位就很少主治肠道疾病。相比之下，这些经络在下肢对应的下合穴（大肠经的[ST37 上巨虚](point/ST37.md)，小肠经的[ST39 下巨虚](point/ST39.md)，三焦经的[BL39 委阳](point/BL39.md)）在临床上广泛用于治疗腑的病症。然而，就大肠经而言，包括[LI3 三间](point/LI3.md) 在内的几个穴位在经典中被指出主治肠鸣和腹泻。尽管如此，在临床实践中，大肠经的穴位很少用于治疗肠道疾病，并且在治疗肠道疾病的经典组合中出现的也相对较少。
+手部三条阳经（大肠经、小肠经和三焦经）的一个特点是，相对较少的穴位主治其相应的腑的病症，例如小肠经的穴位就很少主治肠道疾病。相比之下，这些经络在下肢对应的下合穴（大肠经的[ST37 上巨虚](/point/ST37.md)，小肠经的[ST39 下巨虚](/point/ST39.md)，三焦经的[BL39 委阳](/point/BL39.md)）在临床上广泛用于治疗腑的病症。然而，就大肠经而言，包括[LI3 三间](/point/LI3.md) 在内的几个穴位在经典中被指出主治肠鸣和腹泻。尽管如此，在临床实践中，大肠经的穴位很少用于治疗肠道疾病，并且在治疗肠道疾病的经典组合中出现的也相对较少。
 
-根据《难经》第五难，输穴主治“体重节痛”。[LI3 三间](point/LI3.md) 是治疗手指（特别是食指和中指）和手背疾病的重要局部穴位。它常与[SI3 后溪](point/SI3.md) 联合使用治疗五指僵硬、肿胀和疼痛，并且像其位置对应的[SI3 后溪](point/SI3.md) 一样，也主治（尽管临床应用较少）急性落枕。
+根据《难经》第五难，输穴主治“体重节痛”。[LI3 三间](/point/LI3.md) 是治疗手指（特别是食指和中指）和手背疾病的重要局部穴位。它常与[SI3 后溪](/point/SI3.md) 联合使用治疗五指僵硬、肿胀和疼痛，并且像其位置对应的[SI3 后溪](/point/SI3.md) 一样，也主治（尽管临床应用较少）急性落枕。
 
-最后，和[LI2 二间](point/LI2.md) 一样，[LI3 三间](point/LI3.md) 主治嗜睡和惊吓等症状。
+最后，和[LI2 二间](/point/LI2.md) 一样，[LI3 三间](/point/LI3.md) 主治嗜睡和惊吓等症状。
 
 #### 临床应用总结 (Summary of clinical application)
 
 驱散经络上端的风热和阳明经热：咽喉肿痛，急性眼痛，口唇焦干，鼻出血，鼻炎，耳鸣。
 
-一些医生在治疗严重或顽固性牙痛，特别是下颌牙痛时，偏爱[LI3 三间](point/LI3.md) 而非[LI4 合谷](point/LI4.md)。
+一些医生在治疗严重或顽固性牙痛，特别是下颌牙痛时，偏爱[LI3 三间](/point/LI3.md) 而非[LI4 合谷](/point/LI4.md)。
 
 治疗手指（特别是食指和中指）和手背疾病的重要局部穴位。
 
@@ -111,18 +111,18 @@ Finally, like [Èrjiān LI-2](https://app.amanualofacupuncture.com/point/LI-2),
 
 #### 穴位组合 (Combinations)
 
-龋齿痛：[LI3 三间](point/LI3.md)，[ST5 大迎](point/ST5.md) 和[GB17 正营](point/GB17.md)（《保命集》）。
+龋齿痛：[LI3 三间](/point/LI3.md)，[ST5 大迎](/point/ST5.md) 和[GB17 正营](/point/GB17.md)（《保命集》）。
 
-口糜，口热口干：[LI3 三间](point/LI3.md)，[PC8 劳宫](point/PC8.md)，[SI1 少泽](point/SI1.md) 和[LIV3 太冲](point/LIV3.md)（《千金方》）。
+口糜，口热口干：[LI3 三间](/point/LI3.md)，[PC8 劳宫](/point/PC8.md)，[SI1 少泽](/point/SI1.md) 和[LIV3 太冲](/point/LIV3.md)（《千金方》）。
 
-咽部阻塞感：[LI3 三间](point/LI3.md) 和[PC5 间使](point/PC5.md)（《针灸大成》）。
+咽部阻塞感：[LI3 三间](/point/LI3.md) 和[PC5 间使](/point/PC5.md)（《针灸大成》）。
 
-嗜睡：[LI3 三间](point/LI3.md) 和[LI2 二间](point/LI2.md)（《资生经》）。
+嗜睡：[LI3 三间](/point/LI3.md) 和[LI2 二间](/point/LI2.md)（《资生经》）。
 
-嗜睡，四肢不想动：[LI3 三间](point/LI3.md)，[SJ8 三阳络](point/SJ8.md)，[SJ10 天井](point/SJ10.md)，[LIV10 足五里](point/LIV10.md) 和[ST45 厉兑](point/ST45.md)（《千金方》）。
+嗜睡，四肢不想动：[LI3 三间](/point/LI3.md)，[SJ8 三阳络](/point/SJ8.md)，[SJ10 天井](/point/SJ10.md)，[LIV10 足五里](/point/LIV10.md) 和[ST45 厉兑](/point/ST45.md)（《千金方》）。
 
-肠鸣腹泻：[LI3 三间](point/LI3.md)，[REN8 神阙](point/REN8.md) 和[REN9 水分](point/REN9.md)（《针灸大成》）。
+肠鸣腹泻：[LI3 三间](/point/LI3.md)，[REN8 神阙](/point/REN8.md) 和[REN9 水分](/point/REN9.md)（《针灸大成》）。
 
-肩背痛，风劳（慢性痹痛导致气血耗竭）：[LI3 三间](point/LI3.md) 和[BL23 肾俞](point/BL23.md)（《席弘赋》）。
+肩背痛，风劳（慢性痹痛导致气血耗竭）：[LI3 三间](/point/LI3.md) 和[BL23 肾俞](/point/BL23.md)（《席弘赋》）。
 
 ---

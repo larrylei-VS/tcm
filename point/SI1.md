@@ -52,12 +52,12 @@ Finally, in common with the other jing-well points, Shàozé SI-1 is used to r
 - Throat painful obstruction, curled tongue and dry mouth: Shàozé SI-1, [Guānchōng SJ-1](https://app.amanualofacupuncture.com/point/SJ-1) and [Zúqiàoyīn GB-44](https://app.amanualofacupuncture.com/point/GB-44) (Thousand Ducat Formulas).
 
 ---
-### **[SI1 少泽](point/SI1.md)** (SHÀOZÉ)
+### **[SI1 少泽](/point/SI1.md)** (SHÀOZÉ)
 
 * **英文名称：** Lesser Marsh
 * **中文名称：** 少泽
 * **国际代码：** SI-1
-* **穴位属性：** **[SI1 少泽](point/SI1.md)** 是小肠经的井穴和金穴。
+* **穴位属性：** **[SI1 少泽](/point/SI1.md)** 是小肠经的井穴和金穴。
 
 #### **定位 (Location)**
 
@@ -83,29 +83,29 @@ Finally, in common with the other jing-well points, Shàozé SI-1 is used to r
 
 #### **阐释 (Commentary)**
 
-**[SI1 少泽](point/SI1.md)** 是小肠经的井穴。与所有阳经的井穴一样，它在清泄经络另一端（头部）的热邪方面有强大作用。小肠经分支上行至耳部、内外眦以及鼻旁，而其相表里的心经开窍于舌。因此，**[SI1 少泽](point/SI1.md)** 在清泄眼睛、耳朵、鼻子和舌头以及口咽部的热邪或病理上亢之阳方面有强大作用，主治红眼、耳鸣耳聋、舌糜烂溃疡、咽喉肿痛、口疮、流涎和鼻出血等实证。
+**[SI1 少泽](/point/SI1.md)** 是小肠经的井穴。与所有阳经的井穴一样，它在清泄经络另一端（头部）的热邪方面有强大作用。小肠经分支上行至耳部、内外眦以及鼻旁，而其相表里的心经开窍于舌。因此，**[SI1 少泽](/point/SI1.md)** 在清泄眼睛、耳朵、鼻子和舌头以及口咽部的热邪或病理上亢之阳方面有强大作用，主治红眼、耳鸣耳聋、舌糜烂溃疡、咽喉肿痛、口疮、流涎和鼻出血等实证。
 
-根据《难经》记载，井穴主治“心下满”。虽然“心下”特指上腹部，但像许多井穴一样，**[SI1 少泽](point/SI1.md)** 治疗整个胸部区域的胀满，主治胸痛心烦、胸部憋闷疼痛、心下冷感和胁肋部疼痛。
+根据《难经》记载，井穴主治“心下满”。虽然“心下”特指上腹部，但像许多井穴一样，**[SI1 少泽](/point/SI1.md)** 治疗整个胸部区域的胀满，主治胸痛心烦、胸部憋闷疼痛、心下冷感和胁肋部疼痛。
 
-然而，在临床实践中，**[SI1 少泽](point/SI1.md)** 主要用于乳房肿胀和乳痈以及乳汁分泌失调。乳汁不下主要分为两种类型：气血不足导致乳汁生成不足，或肝气郁结导致乳汁在乳房中阻塞和凝结。小肠经正经下行至胸部中央的**[REN17 膻中](point/REN17.md)**，这两个穴位常联合使用治疗乳汁不足或完全不下。乳痈通常由肝火或胃火或外邪化热引起。**[SI1 少泽](point/SI1.md)** 可与合适的穴位联合用于这两种证型。
+然而，在临床实践中，**[SI1 少泽](/point/SI1.md)** 主要用于乳房肿胀和乳痈以及乳汁分泌失调。乳汁不下主要分为两种类型：气血不足导致乳汁生成不足，或肝气郁结导致乳汁在乳房中阻塞和凝结。小肠经正经下行至胸部中央的**[REN17 膻中](/point/REN17.md)**，这两个穴位常联合使用治疗乳汁不足或完全不下。乳痈通常由肝火或胃火或外邪化热引起。**[SI1 少泽](/point/SI1.md)** 可与合适的穴位联合用于这两种证型。
 
-最后，与其他的井穴一样，**[SI1 少泽](point/SI1.md)** 用于开窍醒神，主治中风昏厥。
+最后，与其他的井穴一样，**[SI1 少泽](/point/SI1.md)** 用于开窍醒神，主治中风昏厥。
 
 #### **临床应用总结 (Summary of clinical application)**
 
 * 清泄经络上部之热：头痛，眩晕，外障眼病，眼睛红赤，鼻出血，耳聋，耳鸣，咽喉肿痛，舌卷，舌强，口中灼热，口糜，口疮，流涎。
 * 作为井穴，开窍醒神，治疗胸部疾病：中风昏厥，心下冷感，心痛，胸部憋闷疼痛，胁肋部疼痛，咳嗽。
-* 临床上最常用于乳房肿胀，乳痈和乳汁不下（常与**[REN17 膻中](point/REN17.md)** 联合使用）。
+* 临床上最常用于乳房肿胀，乳痈和乳汁不下（常与**[REN17 膻中](/point/REN17.md)** 联合使用）。
 
 #### **穴位组合 (Combinations)**
 
-* 乳汁不下：**[SI1 少泽](point/SI1.md)**，**[REN17 膻中](point/REN17.md)** 和 **[LI4 合谷](point/LI4.md)**（《针灸大成》）。
-* 乳汁不下：补 **[SI1 少泽](point/SI1.md)**，灸 **[REN17 膻中](point/REN17.md)**（《针灸大成》）。
-* 乳房肿胀：**[SI1 少泽](point/SI1.md)** 和太阳（经外穴 **[MHN9 太阳](point/MHN9.md)**）（《玉龙歌》）。
-* 女性乳房肿胀：**[SI1 少泽](point/SI1.md)** 和 **[GB41 足临泣](point/GB41.md)**（《神灸经纶》）。
-* 女性乳房肿胀：**[SI1 少泽](point/SI1.md)** 和 **[GB1 瞳子髎](point/GB1.md)**（《图翼》）。
-* 乳痈：**[SI1 少泽](point/SI1.md)**，**[ST39 下巨虚](point/ST39.md)**，**[ST36 足三里](point/ST36.md)**，**[GB43 侠溪](point/GB43.md)**，**[LU10 鱼际](point/LU10.md)**，**[BL40 委中](point/BL40.md)** 和 **[GB41 足临泣](point/GB41.md)**（《针灸大成》）。
-* 口糜，口热口干：**[SI1 少泽](point/SI1.md)**，**[PC8 劳宫](point/PC8.md)**，**[LI3 三间](point/LI3.md)** 和 **[LIV3 太冲](point/LIV3.md)**（《千金方》）。
-* 咽喉肿痛，舌卷口干：**[SI1 少泽](point/SI1.md)**，**[SJ1 关冲](point/SJ1.md)** 和 **[GB44 足窍阴](point/GB44.md)**（《千金方》）。
+* 乳汁不下：**[SI1 少泽](/point/SI1.md)**，**[REN17 膻中](/point/REN17.md)** 和 **[LI4 合谷](/point/LI4.md)**（《针灸大成》）。
+* 乳汁不下：补 **[SI1 少泽](/point/SI1.md)**，灸 **[REN17 膻中](/point/REN17.md)**（《针灸大成》）。
+* 乳房肿胀：**[SI1 少泽](/point/SI1.md)** 和太阳（经外穴 **[MHN9 太阳](/point/MHN9.md)**）（《玉龙歌》）。
+* 女性乳房肿胀：**[SI1 少泽](/point/SI1.md)** 和 **[GB41 足临泣](/point/GB41.md)**（《神灸经纶》）。
+* 女性乳房肿胀：**[SI1 少泽](/point/SI1.md)** 和 **[GB1 瞳子髎](/point/GB1.md)**（《图翼》）。
+* 乳痈：**[SI1 少泽](/point/SI1.md)**，**[ST39 下巨虚](/point/ST39.md)**，**[ST36 足三里](/point/ST36.md)**，**[GB43 侠溪](/point/GB43.md)**，**[LU10 鱼际](/point/LU10.md)**，**[BL40 委中](/point/BL40.md)** 和 **[GB41 足临泣](/point/GB41.md)**（《针灸大成》）。
+* 口糜，口热口干：**[SI1 少泽](/point/SI1.md)**，**[PC8 劳宫](/point/PC8.md)**，**[LI3 三间](/point/LI3.md)** 和 **[LIV3 太冲](/point/LIV3.md)**（《千金方》）。
+* 咽喉肿痛，舌卷口干：**[SI1 少泽](/point/SI1.md)**，**[SJ1 关冲](/point/SJ1.md)** 和 **[GB44 足窍阴](/point/GB44.md)**（《千金方》）。
 
 ---

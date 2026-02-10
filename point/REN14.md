@@ -63,7 +63,7 @@ Finally the Great Compendium of Acupuncture and Moxibustion recommends Jùqu�
 - Pain of the diaphragm from accumulation of fluid that is difficult to endure: Jùquè REN-14 and [Shānzhōng REN-17](https://app.amanualofacupuncture.com/point/REN-17) (One Hundred Symptoms)
 
 
-### 1. [REN14 巨阙](point/REN14.md)
+### 1. [REN14 巨阙](/point/REN14.md)
 
 #### 1.1. Great Gateway 巨阙
 
@@ -101,15 +101,15 @@ Finally the Great Compendium of Acupuncture and Moxibustion recommends Jùqu�
 
 #### 1.7. 论述
 
-《素问》称前募穴为脏腑之气聚集处，[REN14 巨阙](point/REN14.md)为心募穴，适用于心脏及神志疾患。明代李珽《医学入门》称[REN14 巨阙](point/REN14.md)治“九种心痛”。依“不通则痛”“不荣则痛”原则，心痛涉及气血瘀滞或气血阴阳虚。临床上虚实常兼夹，即使表现为实（如血瘀或痰阻血脉），根源可能涉虚。不论病因或证型，作为心募穴，[REN14 巨阙](point/REN14.md)是此类疾患的主穴，尤多经典指用于寒攻心。它还适用于胸痛，特别是放射至背的“胸痹”，特征为痰血瘀滞及阳气流通受阻，亦可扰肺致咳嗽气短。  
+《素问》称前募穴为脏腑之气聚集处，[REN14 巨阙](/point/REN14.md)为心募穴，适用于心脏及神志疾患。明代李珽《医学入门》称[REN14 巨阙](/point/REN14.md)治“九种心痛”。依“不通则痛”“不荣则痛”原则，心痛涉及气血瘀滞或气血阴阳虚。临床上虚实常兼夹，即使表现为实（如血瘀或痰阻血脉），根源可能涉虚。不论病因或证型，作为心募穴，[REN14 巨阙](/point/REN14.md)是此类疾患的主穴，尤多经典指用于寒攻心。它还适用于胸痛，特别是放射至背的“胸痹”，特征为痰血瘀滞及阳气流通受阻，亦可扰肺致咳嗽气短。  
 
-心失调可扰神志，最严重者为痰蒙心窍。[REN14 巨阙](point/REN14.md)传统指征中，单纯痰盛可致记忆差、神志迷乱、昏迷或癫痫吐沫；痰热相兼则现躁病，如狂言怒骂、盛怒、好骂詈等。若1.心血虚，2.血瘀阻新鲜血荣心，3.心阴虚或血瘀化热扰神，可致焦虑、悸动及胃脘（心下）烦躁感。[REN14 巨阙](point/REN14.md)为此类疾患的主穴。  
+心失调可扰神志，最严重者为痰蒙心窍。[REN14 巨阙](/point/REN14.md)传统指征中，单纯痰盛可致记忆差、神志迷乱、昏迷或癫痫吐沫；痰热相兼则现躁病，如狂言怒骂、盛怒、好骂詈等。若1.心血虚，2.血瘀阻新鲜血荣心，3.心阴虚或血瘀化热扰神，可致焦虑、悸动及胃脘（心下）烦躁感。[REN14 巨阙](/point/REN14.md)为此类疾患的主穴。  
 
-任脉主路由会阴升至口区。尽管经脉上行，胸腹部任脉穴强于降气，尤肺胃二脏。此降气作用见于气功“小周天”：气升督脉，降任脉。[REN14 巨阙](point/REN14.md)位于肺胃间，强效平抑二脏逆气。  
+任脉主路由会阴升至口区。尽管经脉上行，胸腹部任脉穴强于降气，尤肺胃二脏。此降气作用见于气功“小周天”：气升督脉，降任脉。[REN14 巨阙](/point/REN14.md)位于肺胃间，强效平抑二脏逆气。  
 
-对肺，[REN14 巨阙](point/REN14.md)适用于气逆引起的咳嗽及胸满气短。对胃，能调气逆（恶心、胃反流、呕吐、反酸）及气滞（腹胀、食管痉挛、局灶性胀满、膈阻）。  
+对肺，[REN14 巨阙](/point/REN14.md)适用于气逆引起的咳嗽及胸满气短。对胃，能调气逆（恶心、胃反流、呕吐、反酸）及气滞（腹胀、食管痉挛、局灶性胀满、膈阻）。  
 
-《针灸大成》推荐[REN14 巨阙](point/REN14.md)用于五行相乘，此广义指征常解读为心（[REN14 巨阙](point/REN14.md)为其募穴）作为脏腑之主。  
+《针灸大成》推荐[REN14 巨阙](/point/REN14.md)用于五行相乘，此广义指征常解读为心（[REN14 巨阙](/point/REN14.md)为其募穴）作为脏腑之主。  
 
 #### 1.8. 临床应用总结
 
@@ -120,14 +120,14 @@ Finally the Great Compendium of Acupuncture and Moxibustion recommends Jùqu�
 
 #### 1.9. 配伍
 
-- 心烦躁：[REN14 巨阙](point/REN14.md) + [BL15 心俞](point/BL15.md)（《补命》）。  
-- 心烦满：[REN14 巨阙](point/REN14.md) + [KID19 阴都](point/KID19.md)（《补命》）。  
-- 心腹胀满：[REN14 巨阙](point/REN14.md) + [REN13 上脘](point/REN13.md)（《补命》）。  
-- 惊悸伴气虚：[REN14 巨阙](point/REN14.md) + [HE7 神门](point/HE7.md) + [LIV5 蠡沟](point/LIV5.md)（《补命》）。  
-- 心神迷乱：[REN14 巨阙](point/REN14.md) + [SJ10 天井](point/SJ10.md) + [BL15 心俞](point/BL15.md)（《大成》）。  
-- 躁病、狂言怒骂：[REN14 巨阙](point/REN14.md) + [KID9 筑宾](point/KID9.md)（《千金方》）。  
-- 气逆伴咳嗽、胸满气短及痛放射至背：[REN14 巨阙](point/REN14.md) + [LIV14 期门](point/LIV14.md)各灸50壮（《千金方》）。  
-- 咳嗽：[REN14 巨阙](point/REN14.md) + [REN17 膻中](point/REN17.md) + [ST12 缺盆](point/ST12.md)（《千金方》）。  
-- 呕吐伴胸满：[REN14 巨阙](point/REN14.md) + [KID27 俞府](point/KID27.md) + [KID25 神藏](point/KID25.md) + [KID24 灵墟](point/KID24.md)（《千金方》）。  
-- 卒中风病：[REN14 巨阙](point/REN14.md) + [SJ1 关冲](point/SJ1.md) + [SJ6 支沟](point/SJ6.md) + [SP4 公孙](point/SP4.md) + [ST41 解溪](point/ST41.md)（《系统经典》）。  
-- 积液致膈痛难忍：[REN14 巨阙](point/REN14.md) + [REN17 膻中](point/REN17.md)（《百症赋》）。  
+- 心烦躁：[REN14 巨阙](/point/REN14.md) + [BL15 心俞](/point/BL15.md)（《补命》）。  
+- 心烦满：[REN14 巨阙](/point/REN14.md) + [KID19 阴都](/point/KID19.md)（《补命》）。  
+- 心腹胀满：[REN14 巨阙](/point/REN14.md) + [REN13 上脘](/point/REN13.md)（《补命》）。  
+- 惊悸伴气虚：[REN14 巨阙](/point/REN14.md) + [HE7 神门](/point/HE7.md) + [LIV5 蠡沟](/point/LIV5.md)（《补命》）。  
+- 心神迷乱：[REN14 巨阙](/point/REN14.md) + [SJ10 天井](/point/SJ10.md) + [BL15 心俞](/point/BL15.md)（《大成》）。  
+- 躁病、狂言怒骂：[REN14 巨阙](/point/REN14.md) + [KID9 筑宾](/point/KID9.md)（《千金方》）。  
+- 气逆伴咳嗽、胸满气短及痛放射至背：[REN14 巨阙](/point/REN14.md) + [LIV14 期门](/point/LIV14.md)各灸50壮（《千金方》）。  
+- 咳嗽：[REN14 巨阙](/point/REN14.md) + [REN17 膻中](/point/REN17.md) + [ST12 缺盆](/point/ST12.md)（《千金方》）。  
+- 呕吐伴胸满：[REN14 巨阙](/point/REN14.md) + [KID27 俞府](/point/KID27.md) + [KID25 神藏](/point/KID25.md) + [KID24 灵墟](/point/KID24.md)（《千金方》）。  
+- 卒中风病：[REN14 巨阙](/point/REN14.md) + [SJ1 关冲](/point/SJ1.md) + [SJ6 支沟](/point/SJ6.md) + [SP4 公孙](/point/SP4.md) + [ST41 解溪](/point/ST41.md)（《系统经典》）。  
+- 积液致膈痛难忍：[REN14 巨阙](/point/REN14.md) + [REN17 膻中](/point/REN17.md)（《百症赋》）。  

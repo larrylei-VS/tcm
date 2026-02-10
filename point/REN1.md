@@ -54,7 +54,7 @@ Finally, Huìyīn REN-1 is indicated (for example in the Great Compendium of Ac
 
 
 
-### 1. [REN1 会阴](point/REN1.md)
+### 1. [REN1 会阴](/point/REN1.md)
 
 #### 1.1. Meeting of Yin 會陰
 
@@ -91,15 +91,15 @@ Finally, Huìyīn REN-1 is indicated (for example in the Great Compendium of Ac
 
 #### 1.7. 论述
 
-[REN1 会阴](point/REN1.md)因其位于肛门与外生殖器（下二阴）之间，且为任脉与冲脉交会处（与督脉相连）而得名。它正对[DU20 百会](point/DU20.md)（阳气汇聚处）下方，是阴气深藏、隐秘的交会点。这反映了其在气功中的重要性。在小周天循环中，气集中于下丹田，导至[REN1 会阴](point/REN1.md)，再至[DU1 长强](point/DU1.md)，沿督脉上行至[DU20 百会](point/DU20.md)，然后沿任脉下行返回下丹田。  
+[REN1 会阴](/point/REN1.md)因其位于肛门与外生殖器（下二阴）之间，且为任脉与冲脉交会处（与督脉相连）而得名。它正对[DU20 百会](/point/DU20.md)（阳气汇聚处）下方，是阴气深藏、隐秘的交会点。这反映了其在气功中的重要性。在小周天循环中，气集中于下丹田，导至[REN1 会阴](/point/REN1.md)，再至[DU1 长强](/point/DU1.md)，沿督脉上行至[DU20 百会](/point/DU20.md)，然后沿任脉下行返回下丹田。  
 
-历史上，[REN1 会阴](point/REN1.md)是否为任脉络穴（而非[REN15 鸠尾](point/REN15.md)）存争议。《灵枢》称任脉络穴为“尾翳”（[REN15 鸠尾](point/REN15.md)别名），给出了实（腹皮痛）虚（腹皮痒）的症状。后世经典如《针灸系统经典》和《针灸大成》称任脉络穴为“平翳”（[REN1 会阴](point/REN1.md)别名），并将这些症状归于此穴。若[REN1 会阴](point/REN1.md)为任脉络穴，与[DU1 长强](point/DU1.md)为督脉络穴形成对称。  
+历史上，[REN1 会阴](/point/REN1.md)是否为任脉络穴（而非[REN15 鸠尾](/point/REN15.md)）存争议。《灵枢》称任脉络穴为“尾翳”（[REN15 鸠尾](/point/REN15.md)别名），给出了实（腹皮痛）虚（腹皮痒）的症状。后世经典如《针灸系统经典》和《针灸大成》称任脉络穴为“平翳”（[REN1 会阴](/point/REN1.md)别名），并将这些症状归于此穴。若[REN1 会阴](/point/REN1.md)为任脉络穴，与[DU1 长强](/point/DU1.md)为督脉络穴形成对称。  
 
-[REN1 会阴](point/REN1.md)对泌尿生殖及肛门区作用强烈，尤适于湿热病症，用于生殖器痛肿及顽固性尿病。因其位置特殊，临床使用较预期少。  
+[REN1 会阴](/point/REN1.md)对泌尿生殖及肛门区作用强烈，尤适于湿热病症，用于生殖器痛肿及顽固性尿病。因其位置特殊，临床使用较预期少。  
 
-[REN1 会阴](point/REN1.md)别名“鬼藏”，为孙思邈“十三鬼穴”之一，用于癫痫及躁郁症。《千金方补遗》具体指男性针“阴下缝”（额外穴），女性针“玉门头”（额外穴，位于后阴唇连合处），二者大致对应[REN1 会阴](point/REN1.md)。  
+[REN1 会阴](/point/REN1.md)别名“鬼藏”，为孙思邈“十三鬼穴”之一，用于癫痫及躁郁症。《千金方补遗》具体指男性针“阴下缝”（额外穴），女性针“玉门头”（额外穴，位于后阴唇连合处），二者大致对应[REN1 会阴](/point/REN1.md)。  
 
-[REN1 会阴](point/REN1.md)还用于溺水急救，如《针灸大成》所述，能促肺中水排出。  
+[REN1 会阴](/point/REN1.md)还用于溺水急救，如《针灸大成》所述，能促肺中水排出。  
 
 #### 1.8. 临床应用总结
 
@@ -108,5 +108,5 @@ Finally, Huìyīn REN-1 is indicated (for example in the Great Compendium of Ac
 
 #### 1.9. 配伍
 
-- 阴道突发红肿痛：[REN1 会阴](point/REN1.md) + [REN3 中极](point/REN3.md) + [SP6 三阴交](point/SP6.md)（《大成》）。  
-- 五痔：[REN1 会阴](point/REN1.md) + [BL40 委中](point/BL40.md) + [BL57 承山](point/BL57.md) + [BL58 飞扬](point/BL58.md) + [GB38 阳辅](point/GB38.md) + [KID7 复溜](point/KID7.md) + [LIV3 太冲](point/LIV3.md) + [GB43 侠溪](point/GB43.md) + [REN6 气海](point/REN6.md) + [DU1 长强](point/DU1.md)（《大成》）。  
+- 阴道突发红肿痛：[REN1 会阴](/point/REN1.md) + [REN3 中极](/point/REN3.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
+- 五痔：[REN1 会阴](/point/REN1.md) + [BL40 委中](/point/BL40.md) + [BL57 承山](/point/BL57.md) + [BL58 飞扬](/point/BL58.md) + [GB38 阳辅](/point/GB38.md) + [KID7 复溜](/point/KID7.md) + [LIV3 太冲](/point/LIV3.md) + [GB43 侠溪](/point/GB43.md) + [REN6 气海](/point/REN6.md) + [DU1 长强](/point/DU1.md)（《大成》）。  

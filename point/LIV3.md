@@ -110,7 +110,7 @@ Bilateral Tàichōng LIV-3 and [Hégǔ LI-4](https://app.amanualofacupuncture
 - Difficulty in walking: Tàichōng LIV-3 and [Zhōngfēng LIV-4](https://app.amanualofacupuncture.com/point/LIV-4) (Song More Precious Than Jade).
 
 
-### 1. [LIV3 太冲](point/LIV3.md)
+### 1. [LIV3 太冲](/point/LIV3.md)
 
 #### 1.1. Great Rushing 太沖
 
@@ -123,11 +123,11 @@ Bilateral Tàichōng LIV-3 and [Hégǔ LI-4](https://app.amanualofacupuncture
 
 #### 1.3. 定位说明
 
-从[LIV2 行间](point/LIV2.md)沿第1和第2跖骨间隙向踝部滑动手指，至第1和第2跖骨基底结合处前的明显凹陷。
+从[LIV2 行间](/point/LIV2.md)沿第1和第2跖骨间隙向踝部滑动手指，至第1和第2跖骨基底结合处前的明显凹陷。
 
 #### 1.4. 针刺方法
 
-朝[KID1 涌泉](point/KID1.md)方向刺入，深0.5至1.5寸。
+朝[KID1 涌泉](/point/KID1.md)方向刺入，深0.5至1.5寸。
 
 #### 1.5. 作用
 
@@ -153,7 +153,7 @@ Bilateral Tàichōng LIV-3 and [Hégǔ LI-4](https://app.amanualofacupuncture
 
 #### 1.7. 论述
 
-[LIV3 太冲](point/LIV3.md)是肝经的输穴和原穴。《灵枢》第6章建议输穴用于脏病，第1章称“五脏病取十二原”。[LIV3 太冲](point/LIV3.md)可能是肝经最重要的穴位，作用广泛，可等效用于肝脏及其经脉的实证与虚证。明代医家徐凤在其《针灸全集》中认为[LIV3 太冲](point/LIV3.md)重要性极高，将其加入马丹阳的“十一天星穴”，自此被称为马丹阳“十二天星穴”。  
+[LIV3 太冲](/point/LIV3.md)是肝经的输穴和原穴。《灵枢》第6章建议输穴用于脏病，第1章称“五脏病取十二原”。[LIV3 太冲](/point/LIV3.md)可能是肝经最重要的穴位，作用广泛，可等效用于肝脏及其经脉的实证与虚证。明代医家徐凤在其《针灸全集》中认为[LIV3 太冲](/point/LIV3.md)重要性极高，将其加入马丹阳的“十一天星穴”，自此被称为马丹阳“十二天星穴”。  
 
 朱丹溪在14世纪称：“肝主疏泄”，“气血和畅，万病不生，一旦郁滞，诸病乃起。”肝的疏泄功能意味着虽不负责气生成，但确保体内气流动顺畅、轻松、开阔、不受阻。此功能受损主要有三：首先，最常见的情绪（尤其是怒）受抑；其次，肝疏泄为其阳气表达，中医有言“肝体阴而用阳”，即肝阳依赖肝阴，阴或血不足未能滋润、养柔肝可致气滞；第三，湿热病邪可阻肝疏气。理解肝失调还需强调，肝气郁滞可引发其他肝病模式，如转化为肝火，耗阴致肝阳上亢，或火与阳化风。因此，临床上任何肝失调模式都可能伴气滞。  
 
@@ -161,23 +161,23 @@ Bilateral Tàichōng LIV-3 and [Hégǔ LI-4](https://app.amanualofacupuncture
 
 《灵枢》称：“肝藏血，血为魂居；肝气虚则恐。”虽现代临床常用于气滞的情绪及心理症状（如抑郁、挫折、压抑、易怒、经前紧张、情绪波动、易哭等），但除易恐外，主要经典文献几乎未提及心理情绪指征。  
 
-[LIV3 太冲](point/LIV3.md)是降肝阳、熄肝风的关键穴。肝为木风之脏，受托相火，其气刚劲有力，中医有言“肝主升发”，“肝主运动”。故肝的热、亢、升、动常超常限，表现为肝阳上亢，或进展为肝风扰动。或因血虚、血脉空虚致风动。[LIV3 太冲](point/LIV3.md)适用于风的表现如头痛、眩晕、头部麻木、小儿惊风、强直、癫痫、角弓反张及口歪。  
+[LIV3 太冲](/point/LIV3.md)是降肝阳、熄肝风的关键穴。肝为木风之脏，受托相火，其气刚劲有力，中医有言“肝主升发”，“肝主运动”。故肝的热、亢、升、动常超常限，表现为肝阳上亢，或进展为肝风扰动。或因血虚、血脉空虚致风动。[LIV3 太冲](/point/LIV3.md)适用于风的表现如头痛、眩晕、头部麻木、小儿惊风、强直、癫痫、角弓反张及口歪。  
 
-[LIV3 太冲](point/LIV3.md)对肝虚证同样重要，促进肝血及肝阴生成，滋养肝主区域（目、筋、子宫）。肝阴虚是肝阳亢的根源，肝血或阴虚常为肝风之本。[LIV3 太冲](point/LIV3.md)能标本兼治，平实补虚。  
+[LIV3 太冲](/point/LIV3.md)对肝虚证同样重要，促进肝血及肝阴生成，滋养肝主区域（目、筋、子宫）。肝阴虚是肝阳亢的根源，肝血或阴虚常为肝风之本。[LIV3 太冲](/point/LIV3.md)能标本兼治，平实补虚。  
 
-《灵枢》称：“肝气通于目，肝和则目辨五色。”《素问》谓：“肝受血则视。”[LIV3 太冲](point/LIV3.md)适用于肝血或阴不足未滋目致视物模糊或衰退，及肝火、肝阳或肝经风热引起的目赤肿痛，或肝风导致眼或睑异常运动。  
+《灵枢》称：“肝气通于目，肝和则目辨五色。”《素问》谓：“肝受血则视。”[LIV3 太冲](/point/LIV3.md)适用于肝血或阴不足未滋目致视物模糊或衰退，及肝火、肝阳或肝经风热引起的目赤肿痛，或肝风导致眼或睑异常运动。  
 
-肝经在[DU20 百会](point/DU20.md)与脑相连，是唯一直接上达头部上方的阴经。[LIV3 太冲](point/LIV3.md)用于治疗头部多种疾患，尤其是肝实证与虚证引起的头痛及眩晕，特别指巅顶痛，但值得注意的是，主要经典未列头痛及眩晕为指征。  
+肝经在[DU20 百会](/point/DU20.md)与脑相连，是唯一直接上达头部上方的阴经。[LIV3 太冲](/point/LIV3.md)用于治疗头部多种疾患，尤其是肝实证与虚证引起的头痛及眩晕，特别指巅顶痛，但值得注意的是，主要经典未列头痛及眩晕为指征。  
 
-肝与月经周期密切相关，肝藏血，其经脉入下腹，与任脉在[REN2 曲骨](point/REN2.md)、[REN3 中极](point/REN3.md)、[REN4 关元](point/REN4.md)交会，月经前肝气顺畅确保血流顺畅。叶天士称：“肝为女子先天之气。”肝气郁滞、肝火或肝血虚可致闭经、月经不调及子宫出血不止。[LIV3 太冲](point/LIV3.md)是治疗此类病症的重要穴位。  
+肝与月经周期密切相关，肝藏血，其经脉入下腹，与任脉在[REN2 曲骨](/point/REN2.md)、[REN3 中极](/point/REN3.md)、[REN4 关元](/point/REN4.md)交会，月经前肝气顺畅确保血流顺畅。叶天士称：“肝为女子先天之气。”肝气郁滞、肝火或肝血虚可致闭经、月经不调及子宫出血不止。[LIV3 太冲](/point/LIV3.md)是治疗此类病症的重要穴位。  
 
-肝经环绕生殖器并入下腹，与泌尿生殖器密切相关。尿液正常排泄主要靠肾与膀胱，但肝疏泄功能辅助。若下焦（尤其是生殖器或膀胱）气滞、火或湿热，可致尿潴留、尿痛或尿难（以气滞为主），及疝病、生殖器痛、睾丸肿缩。[LIV3 太冲](point/LIV3.md)也适用于虚证尿病如遗尿、尿失禁及虚劳水肿，反映其对该区域的调理能力。此外，其补虚作用还见于男子精少及遗精。  
+肝经环绕生殖器并入下腹，与泌尿生殖器密切相关。尿液正常排泄主要靠肾与膀胱，但肝疏泄功能辅助。若下焦（尤其是生殖器或膀胱）气滞、火或湿热，可致尿潴留、尿痛或尿难（以气滞为主），及疝病、生殖器痛、睾丸肿缩。[LIV3 太冲](/point/LIV3.md)也适用于虚证尿病如遗尿、尿失禁及虚劳水肿，反映其对该区域的调理能力。此外，其补虚作用还见于男子精少及遗精。  
 
-在肠部，气不畅可致便秘，[LIV3 太冲](point/LIV3.md)用于气滞或郁热引起的便秘或排便难。当肝气郁滞与脾虚共存，可见腹痛伴稀便与便秘交替的常见模式，[LIV3 太冲](point/LIV3.md)是治疗此模式的重要穴位，可与脾募穴[LIV13 章门](point/LIV13.md)配伍。在中焦，[LIV3 太冲](point/LIV3.md)用于肝胃失和的呕吐及肝胆湿热的黄疸。  
+在肠部，气不畅可致便秘，[LIV3 太冲](/point/LIV3.md)用于气滞或郁热引起的便秘或排便难。当肝气郁滞与脾虚共存，可见腹痛伴稀便与便秘交替的常见模式，[LIV3 太冲](/point/LIV3.md)是治疗此模式的重要穴位，可与脾募穴[LIV13 章门](/point/LIV13.md)配伍。在中焦，[LIV3 太冲](/point/LIV3.md)用于肝胃失和的呕吐及肝胆湿热的黄疸。  
 
-双侧[LIV3 太冲](point/LIV3.md)与[LI4 合谷](point/LI4.md)称为“四关”。此组合首见于《阐秘颂》：“寒热痛痹，开四关。”文中暗示六阳经原穴出于四关。治疗痛痹的基本原则是选阳经穴，这解释了此二穴为何有效治疗痛痹。后扩展用于多种疼痛及痉挛。此配伍优雅，[LI4 合谷](point/LI4.md)在上肢第1和第2掌骨间宽谷，[LIV3 太冲](point/LIV3.md)在下肢第1和第2跖骨间宽谷。[LI4 合谷](point/LI4.md)为阳明原穴，“气血充盛”，[LIV3 太冲](point/LIV3.md)为肝经输原穴，疏气，二者合用能强劲活化气血，确保全身顺畅通行。  
+双侧[LIV3 太冲](/point/LIV3.md)与[LI4 合谷](/point/LI4.md)称为“四关”。此组合首见于《阐秘颂》：“寒热痛痹，开四关。”文中暗示六阳经原穴出于四关。治疗痛痹的基本原则是选阳经穴，这解释了此二穴为何有效治疗痛痹。后扩展用于多种疼痛及痉挛。此配伍优雅，[LI4 合谷](/point/LI4.md)在上肢第1和第2掌骨间宽谷，[LIV3 太冲](/point/LIV3.md)在下肢第1和第2跖骨间宽谷。[LI4 合谷](/point/LI4.md)为阳明原穴，“气血充盛”，[LIV3 太冲](/point/LIV3.md)为肝经输原穴，疏气，二者合用能强劲活化气血，确保全身顺畅通行。  
 
-最后，[LIV3 太冲](point/LIV3.md)适用于腰痛、膝及腿痛弱、膝足冷感及五指挛缩等经脉疾患。  
+最后，[LIV3 太冲](/point/LIV3.md)适用于腰痛、膝及腿痛弱、膝足冷感及五指挛缩等经脉疾患。  
 
 #### 1.8. 临床应用总结
 
@@ -187,43 +187,43 @@ Bilateral Tàichōng LIV-3 and [Hégǔ LI-4](https://app.amanualofacupuncture
 - 调经：闭经、月经不调、子宫出血不止。  
 - 调泌尿生殖系统：尿潴留、尿痛、尿难、遗尿、尿失禁、疝病、生殖器痛、睾丸肿缩。  
 - 治疗气滞或郁热的便秘及排便难，以及肝脾失和的腹泻。  
-- 与[LI4 合谷](point/LI4.md)（“四关”）缓解疼痛及痉挛。  
+- 与[LI4 合谷](/point/LI4.md)（“四关”）缓解疼痛及痉挛。  
 
 #### 1.9. 配伍
 
-- 目赤及[LI20 迎香](point/LI20.md)出血（即鼻衄）：[LIV3 太冲](point/LIV3.md) + [GB15 头临泣](point/GB15.md) + [LI4 合谷](point/LI4.md)（《穴位歌》）。  
-- 鼻塞、鼻息肉、鼻塞流涕：[LIV3 太冲](point/LIV3.md) + [LI4 合谷](point/LI4.md)（《穴位歌》）。  
-- 唇肿：[LIV3 太冲](point/LIV3.md) + [ST16 膺窗](point/ST16.md)（《补命》）。  
-- 舌裂出血：[LIV3 太冲](point/LIV3.md) + [PC6 内关](point/PC6.md) + [REN7 阴交](point/REN7.md)（《杂病》）。  
-- 口蚀热干：[LIV3 太冲](point/LIV3.md) + [PC8 劳宫](point/PC8.md) + [SI1 少泽](point/SI1.md) + [LI3 三间](point/LI3.md)（《千金方》）。  
-- 急性咽痛：先针[DU20 百会](point/DU20.md)，再针[LIV3 太冲](point/LIV3.md) + [KID6 照海](point/KID6.md) + [SP6 三阴交](point/SP6.md)（《西弘赋》）。  
-- 咽干欲饮：[LIV3 太冲](point/LIV3.md) + [LIV2 行间](point/LIV2.md)（《千金方》）。  
-- 心肝痛：[LIV3 太冲](point/LIV3.md) + [LIV2 行间](point/LIV2.md)（《千金方》）。  
-- 心痛伴死灰面色、全日气短、心肝痛：[LIV3 太冲](point/LIV3.md) + [LIV2 行间](point/LIV2.md)（《系统经典》）。  
-- 乳痛：[LIV3 太冲](point/LIV3.md) + [KID7 复溜](point/KID7.md)（《系统经典》）。  
-- 腋肿及刀疮：[LIV3 太冲](point/LIV3.md) + [GB43 侠溪](point/GB43.md) + [GB38 阳辅](point/GB38.md)（《千金方》）。  
-- 腹胀引背痛：[LIV3 太冲](point/LIV3.md) + [SP3 太白](point/SP3.md)（《大成》）。  
-- 生殖器痛：[LIV3 太冲](point/LIV3.md) + [BL23 肾俞](point/BL23.md) + [BL52 志室](point/BL52.md) + [BL64 京骨](point/BL64.md)（《补命》）。  
-- 七种疝病：[LIV3 太冲](point/LIV3.md) + [LIV1 大敦](point/LIV1.md)（《穴位歌》）。  
-- 子宫出血不止：[LIV3 太冲](point/LIV3.md) + [KID8 交信](point/KID8.md) + [KID10 阴谷](point/KID10.md) + [SP6 三阴交](point/SP6.md)（《补命》）。  
-- 子宫出血不止：[LIV3 太冲](point/LIV3.md) + [SP6 三阴交](point/SP6.md)（《大成》）。  
-- 子宫脱垂：[LIV3 太冲](point/LIV3.md) + [HE8 少府](point/HE8.md) + [KID6 照海](point/KID6.md) + [LIV8 曲泉](point/LIV8.md)（《大成》）。  
-- 难产：泻[LIV3 太冲](point/LIV3.md) + [SP6 三阴交](point/SP6.md)，补[LI4 合谷](point/LI4.md)（《大成》）。  
-- 赤白带下：[REN2 曲骨](point/REN2.md)（灸7壮）+ [LIV3 太冲](point/LIV3.md) + [REN4 关元](point/REN4.md) + [KID7 复溜](point/KID7.md) + [SP6 三阴交](point/SP6.md) + [ST25 天枢](point/ST25.md)（灸100壮）（《汇编》）。  
-- 排便困难：[LIV3 太冲](point/LIV3.md) + [BL33 中膂](point/BL33.md) + [REN5 石门](point/REN5.md) + [BL57 承山](point/BL57.md) + [REN12 中脘](point/REN12.md) + [KID3 太溪](point/KID3.md) + [KID4 大钟](point/KID4.md) + [BL56 承筋](point/BL56.md)（《补命》）。  
-- 稀便泻及血痢：[LIV3 太冲](point/LIV3.md) + [LIV8 曲泉](point/LIV8.md)（《千金方》）。  
-- 稀便泻：[LIV3 太冲](point/LIV3.md) + [REN8 神阙](point/REN8.md) + [SP6 三阴交](point/SP6.md)（《大成》）。  
-- 五痔：[LIV3 太冲](point/LIV3.md) + [BL40 委中](point/BL40.md) + [BL57 承山](point/BL57.md) + [BL58 飞阳](point/BL58.md) + [GB38 阳辅](point/GB38.md) + [KID7 复溜](point/KID7.md) + [GB43 侠溪](point/GB43.md) + [REN6 气海](point/REN6.md) + [REN1 会阴](point/REN1.md) + [DU1 长强](point/DU1.md)（《大成》）。  
-- 便血：[LIV3 太冲](point/LIV3.md) + [BL57 承山](point/BL57.md) + [KID7 复溜](point/KID7.md) + [SP3 太白](point/SP3.md)（《大成》）。  
-- 虚劳水肿：灸[LIV3 太冲](point/LIV3.md)百壮，亦灸[BL23 肾俞](point/BL23.md)（《千金方》）。  
-- 遗尿：[LIV3 太冲](point/LIV3.md) + [SP11 箕门](point/SP11.md) + [HE5 通里](point/HE5.md) + [LIV1 大敦](point/LIV1.md) + [BL28 膀胱俞](point/BL28.md) + [BL40 委中](point/BL40.md) + [HE7 神门](point/HE7.md)（《补命》）。  
-- 消渴症：[LIV3 太冲](point/LIV3.md) + [LIV2 行间](point/LIV2.md) + [REN24 承浆](point/REN24.md) + [MHN20 金津](point/MHN20.md) + [MHN20 玉液](point/MHN20.md) + [DU26 人中](point/DU26.md) + [REN23 廉泉](point/REN23.md) + [LI11 曲池](point/LI11.md) + [PC8 劳宫](point/PC8.md) + [SP5 商丘](point/SP5.md) + [KID2 然谷](point/KID2.md) + [SP1 隐白](point/SP1.md)（《大成》）。  
-- “寒热痛痹，开四关”：[LIV3 太冲](point/LIV3.md) + [LI4 合谷](point/LI4.md)（《阐秘颂》）。  
-- 手臂痛放射至肩脊难忍：[LIV3 太冲](point/LIV3.md) + [LI4 合谷](point/LI4.md)（《西弘赋》）。  
-- 腿软：[LIV3 太冲](point/LIV3.md) + [GB34 阳陵泉](point/GB34.md) + [ST42 冲阳](point/ST42.md) + [GB40 丘墟](point/GB40.md)（《大成》）。  
-- 腿软无力：灸[LIV3 太冲](point/LIV3.md) + [ST45 厉兑](point/ST45.md) + [GB31 风市](point/GB31.md)（《医学纲目》）。  
-- 不能行走：[LIV3 太冲](point/LIV3.md) + [ST36 足三里](point/ST36.md) + [LIV4 中封](point/LIV4.md)（《玉龙颂》）。  
-- 行走困难：[LIV3 太冲](point/LIV3.md) + [LIV4 中封](point/LIV4.md)（《玉珍歌》）。  
+- 目赤及[LI20 迎香](/point/LI20.md)出血（即鼻衄）：[LIV3 太冲](/point/LIV3.md) + [GB15 头临泣](/point/GB15.md) + [LI4 合谷](/point/LI4.md)（《穴位歌》）。  
+- 鼻塞、鼻息肉、鼻塞流涕：[LIV3 太冲](/point/LIV3.md) + [LI4 合谷](/point/LI4.md)（《穴位歌》）。  
+- 唇肿：[LIV3 太冲](/point/LIV3.md) + [ST16 膺窗](/point/ST16.md)（《补命》）。  
+- 舌裂出血：[LIV3 太冲](/point/LIV3.md) + [PC6 内关](/point/PC6.md) + [REN7 阴交](/point/REN7.md)（《杂病》）。  
+- 口蚀热干：[LIV3 太冲](/point/LIV3.md) + [PC8 劳宫](/point/PC8.md) + [SI1 少泽](/point/SI1.md) + [LI3 三间](/point/LI3.md)（《千金方》）。  
+- 急性咽痛：先针[DU20 百会](/point/DU20.md)，再针[LIV3 太冲](/point/LIV3.md) + [KID6 照海](/point/KID6.md) + [SP6 三阴交](/point/SP6.md)（《西弘赋》）。  
+- 咽干欲饮：[LIV3 太冲](/point/LIV3.md) + [LIV2 行间](/point/LIV2.md)（《千金方》）。  
+- 心肝痛：[LIV3 太冲](/point/LIV3.md) + [LIV2 行间](/point/LIV2.md)（《千金方》）。  
+- 心痛伴死灰面色、全日气短、心肝痛：[LIV3 太冲](/point/LIV3.md) + [LIV2 行间](/point/LIV2.md)（《系统经典》）。  
+- 乳痛：[LIV3 太冲](/point/LIV3.md) + [KID7 复溜](/point/KID7.md)（《系统经典》）。  
+- 腋肿及刀疮：[LIV3 太冲](/point/LIV3.md) + [GB43 侠溪](/point/GB43.md) + [GB38 阳辅](/point/GB38.md)（《千金方》）。  
+- 腹胀引背痛：[LIV3 太冲](/point/LIV3.md) + [SP3 太白](/point/SP3.md)（《大成》）。  
+- 生殖器痛：[LIV3 太冲](/point/LIV3.md) + [BL23 肾俞](/point/BL23.md) + [BL52 志室](/point/BL52.md) + [BL64 京骨](/point/BL64.md)（《补命》）。  
+- 七种疝病：[LIV3 太冲](/point/LIV3.md) + [LIV1 大敦](/point/LIV1.md)（《穴位歌》）。  
+- 子宫出血不止：[LIV3 太冲](/point/LIV3.md) + [KID8 交信](/point/KID8.md) + [KID10 阴谷](/point/KID10.md) + [SP6 三阴交](/point/SP6.md)（《补命》）。  
+- 子宫出血不止：[LIV3 太冲](/point/LIV3.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
+- 子宫脱垂：[LIV3 太冲](/point/LIV3.md) + [HE8 少府](/point/HE8.md) + [KID6 照海](/point/KID6.md) + [LIV8 曲泉](/point/LIV8.md)（《大成》）。  
+- 难产：泻[LIV3 太冲](/point/LIV3.md) + [SP6 三阴交](/point/SP6.md)，补[LI4 合谷](/point/LI4.md)（《大成》）。  
+- 赤白带下：[REN2 曲骨](/point/REN2.md)（灸7壮）+ [LIV3 太冲](/point/LIV3.md) + [REN4 关元](/point/REN4.md) + [KID7 复溜](/point/KID7.md) + [SP6 三阴交](/point/SP6.md) + [ST25 天枢](/point/ST25.md)（灸100壮）（《汇编》）。  
+- 排便困难：[LIV3 太冲](/point/LIV3.md) + [BL33 中膂](/point/BL33.md) + [REN5 石门](/point/REN5.md) + [BL57 承山](/point/BL57.md) + [REN12 中脘](/point/REN12.md) + [KID3 太溪](/point/KID3.md) + [KID4 大钟](/point/KID4.md) + [BL56 承筋](/point/BL56.md)（《补命》）。  
+- 稀便泻及血痢：[LIV3 太冲](/point/LIV3.md) + [LIV8 曲泉](/point/LIV8.md)（《千金方》）。  
+- 稀便泻：[LIV3 太冲](/point/LIV3.md) + [REN8 神阙](/point/REN8.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
+- 五痔：[LIV3 太冲](/point/LIV3.md) + [BL40 委中](/point/BL40.md) + [BL57 承山](/point/BL57.md) + [BL58 飞阳](/point/BL58.md) + [GB38 阳辅](/point/GB38.md) + [KID7 复溜](/point/KID7.md) + [GB43 侠溪](/point/GB43.md) + [REN6 气海](/point/REN6.md) + [REN1 会阴](/point/REN1.md) + [DU1 长强](/point/DU1.md)（《大成》）。  
+- 便血：[LIV3 太冲](/point/LIV3.md) + [BL57 承山](/point/BL57.md) + [KID7 复溜](/point/KID7.md) + [SP3 太白](/point/SP3.md)（《大成》）。  
+- 虚劳水肿：灸[LIV3 太冲](/point/LIV3.md)百壮，亦灸[BL23 肾俞](/point/BL23.md)（《千金方》）。  
+- 遗尿：[LIV3 太冲](/point/LIV3.md) + [SP11 箕门](/point/SP11.md) + [HE5 通里](/point/HE5.md) + [LIV1 大敦](/point/LIV1.md) + [BL28 膀胱俞](/point/BL28.md) + [BL40 委中](/point/BL40.md) + [HE7 神门](/point/HE7.md)（《补命》）。  
+- 消渴症：[LIV3 太冲](/point/LIV3.md) + [LIV2 行间](/point/LIV2.md) + [REN24 承浆](/point/REN24.md) + [MHN20 金津](/point/MHN20.md) + [MHN20 玉液](/point/MHN20.md) + [DU26 人中](/point/DU26.md) + [REN23 廉泉](/point/REN23.md) + [LI11 曲池](/point/LI11.md) + [PC8 劳宫](/point/PC8.md) + [SP5 商丘](/point/SP5.md) + [KID2 然谷](/point/KID2.md) + [SP1 隐白](/point/SP1.md)（《大成》）。  
+- “寒热痛痹，开四关”：[LIV3 太冲](/point/LIV3.md) + [LI4 合谷](/point/LI4.md)（《阐秘颂》）。  
+- 手臂痛放射至肩脊难忍：[LIV3 太冲](/point/LIV3.md) + [LI4 合谷](/point/LI4.md)（《西弘赋》）。  
+- 腿软：[LIV3 太冲](/point/LIV3.md) + [GB34 阳陵泉](/point/GB34.md) + [ST42 冲阳](/point/ST42.md) + [GB40 丘墟](/point/GB40.md)（《大成》）。  
+- 腿软无力：灸[LIV3 太冲](/point/LIV3.md) + [ST45 厉兑](/point/ST45.md) + [GB31 风市](/point/GB31.md)（《医学纲目》）。  
+- 不能行走：[LIV3 太冲](/point/LIV3.md) + [ST36 足三里](/point/ST36.md) + [LIV4 中封](/point/LIV4.md)（《玉龙颂》）。  
+- 行走困难：[LIV3 太冲](/point/LIV3.md) + [LIV4 中封](/point/LIV4.md)（《玉珍歌》）。  
 
 
 

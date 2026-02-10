@@ -33,7 +33,7 @@ Transverse insertion 0.5-1.5 cun. See note [Hànyàn GB-4](https://app.amanualo
 - Tooth decay: Qūbìn GB-7 and [Chōngyáng ST-42](https://app.amanualofacupuncture.com/point/ST-42) (Thousand Ducat Formulas).
 - Sudden loss of voice: Qūbìn GB-7, [Tiānchuāng SI-16](https://app.amanualofacupuncture.com/point/SI-16), [Zhīgōu SJ-6](https://app.amanualofacupuncture.com/point/SJ-6), [Fútú LI-18](https://app.amanualofacupuncture.com/point/LI-18) and [Língdào HE-4](https://app.amanualofacupuncture.com/point/HE-4) (Thousand Ducat Formulas).
 
-### 1. [GB7 曲鬓](point/GB7.md)
+### 1. [GB7 曲鬓](/point/GB7.md)
 
 #### 1.1. Crook of the Temple 曲鬢
 
@@ -41,15 +41,15 @@ Transverse insertion 0.5-1.5 cun. See note [Hànyàn GB-4](https://app.amanualo
 
 #### 1.2. 定位
 
-位于颞区，发际内，与[SJ20 角孙](point/SJ20.md)平齐且在其前方一指宽处。
+位于颞区，发际内，与[SJ20 角孙](/point/SJ20.md)平齐且在其前方一指宽处。
 
 #### 1.3. 定位说明
 
-[SJ20 角孙](point/SJ20.md)位于耳尖正对处，当耳向前折叠时定位。折叠耳朵使上耳轮后部直接覆盖上耳轮前部，注意不要将整个耳朵向前推。
+[SJ20 角孙](/point/SJ20.md)位于耳尖正对处，当耳向前折叠时定位。折叠耳朵使上耳轮后部直接覆盖上耳轮前部，注意不要将整个耳朵向前推。
 
 #### 1.4. 针刺方法
 
-横刺，深0.5至1.5寸。参见[GB4 颔厌](point/GB4.md)的针刺说明。
+横刺，深0.5至1.5寸。参见[GB4 颔厌](/point/GB4.md)的针刺说明。
 
 #### 1.5. 作用
 
@@ -67,5 +67,5 @@ Transverse insertion 0.5-1.5 cun. See note [Hànyàn GB-4](https://app.amanualo
 
 #### 1.8. 配伍
 
-- 龋齿：[GB7 曲鬓](point/GB7.md) + [ST42 冲阳](point/ST42.md)（《千金方》）。
-- 突发失语：[GB7 曲鬓](point/GB7.md) + [SI16 天窗](point/SI16.md) + [SJ6 支沟](point/SJ6.md) + [LI18 扶突](point/LI18.md) + [HE4 灵道](point/HE4.md)（《千金方》）。
+- 龋齿：[GB7 曲鬓](/point/GB7.md) + [ST42 冲阳](/point/ST42.md)（《千金方》）。
+- 突发失语：[GB7 曲鬓](/point/GB7.md) + [SI16 天窗](/point/SI16.md) + [SJ6 支沟](/point/SJ6.md) + [LI18 扶突](/point/LI18.md) + [HE4 灵道](/point/HE4.md)（《千金方》）。

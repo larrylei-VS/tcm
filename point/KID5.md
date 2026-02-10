@@ -40,16 +40,16 @@ If the Kidneys are deficient, then the function of the Conception and Penetratin
 
 
 ---
-### **[KID5 水泉](point/KID5.md)** (SHUǏQUÁN)
+### **[KID5 水泉](/point/KID5.md)** (SHUǏQUÁN)
 
 * **英文名称：** Water Spring
 * **中文名称：** 水泉
 * **国际代码：** KID-5
-* **穴位属性：** **[KID5 水泉](point/KID5.md)** 是肾经的郄穴。
+* **穴位属性：** **[KID5 水泉](/point/KID5.md)** 是肾经的郄穴。
 
 #### **定位 (Location)**
 
-位于**[KID3 太溪](point/KID3.md)** 下方1寸，在跟骨结节（跟腱附着于跟骨处）前上方凹陷中。
+位于**[KID3 太溪](/point/KID3.md)** 下方1寸，在跟骨结节（跟腱附着于跟骨处）前上方凹陷中。
 
 #### **针刺方法 (Needling)**
 
@@ -66,11 +66,11 @@ If the Kidneys are deficient, then the function of the Conception and Penetratin
 
 #### **阐释 (Commentary)**
 
-**[KID5 水泉](point/KID5.md)** 是肾经的郄穴。郄穴是气血从井穴沿经脉相对浅层流注到此聚集并深入的地方。郄穴通常主治急性病症和疼痛，而阴经的郄穴还有治疗血症的额外作用。
+**[KID5 水泉](/point/KID5.md)** 是肾经的郄穴。郄穴是气血从井穴沿经脉相对浅层流注到此聚集并深入的地方。郄穴通常主治急性病症和疼痛，而阴经的郄穴还有治疗血症的额外作用。
 
 肾脏、子宫、血液和月经之间关系密切。《素问·水热穴论》记载：“胞脉者，系于肾”，《素问·上古天真论》记载：“女子七岁，肾气盛，齿更发长；二七天癸至，任脉通，太冲脉盛，月事以时下，故有子”。子宫和任脉、冲脉的正常发育依赖于肾的健康功能和肾精的成熟。同时，月经和谐依赖于体内血液的充足生成，特别是流向任脉和冲脉形成经血的肝血。肾脏与肝血的密切关系在《张氏医通》中得到强调，其中说：“精不泄则归肝，化为清血”，而肾脏本身在血液生成中发挥重要作用，正如《医学奥旨》明确指出：“血之源在肾”。
 
-如果肾虚，则任脉和冲脉功能将失调，血液生成受损。**[KID5 水泉](point/KID5.md)**，作为肾经的郄穴，能够治疗血症，调理肾、任、冲脉的气血。它主治各种月经失调，如闭经、月经不调、痛经和月经后期（伴月经来潮时心下憋闷疼痛），无论是虚证（血虚或气虚）还是实证（血瘀）。
+如果肾虚，则任脉和冲脉功能将失调，血液生成受损。**[KID5 水泉](/point/KID5.md)**，作为肾经的郄穴，能够治疗血症，调理肾、任、冲脉的气血。它主治各种月经失调，如闭经、月经不调、痛经和月经后期（伴月经来潮时心下憋闷疼痛），无论是虚证（血虚或气虚）还是实证（血瘀）。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -79,8 +79,8 @@ If the Kidneys are deficient, then the function of the Conception and Penetratin
 
 #### **穴位组合 (Combinations)**
 
-* 闭经伴心下剧烈憋闷疼痛：**[KID5 水泉](point/KID5.md)** 和 **[KID6 照海](point/KID6.md)**（《千金方》）。
-* 月经不调：**[KID5 水泉](point/KID5.md)** 和 **[ST25 天枢](point/ST25.md)**（《百症赋》）。
-* 子宫脱垂：**[KID5 水泉](point/KID5.md)**，**[KID6 照海](point/KID6.md)**，**[BL62 申脉](point/BL62.md)** 和 **[LIV8 曲泉](point/LIV8.md)**（《资生经》）。
+* 闭经伴心下剧烈憋闷疼痛：**[KID5 水泉](/point/KID5.md)** 和 **[KID6 照海](/point/KID6.md)**（《千金方》）。
+* 月经不调：**[KID5 水泉](/point/KID5.md)** 和 **[ST25 天枢](/point/ST25.md)**（《百症赋》）。
+* 子宫脱垂：**[KID5 水泉](/point/KID5.md)**，**[KID6 照海](/point/KID6.md)**，**[BL62 申脉](/point/BL62.md)** 和 **[LIV8 曲泉](/point/LIV8.md)**（《资生经》）。
 
 ---

@@ -69,7 +69,7 @@ Finally, Zhōngjí REN-3 is indicated for deficiency of yang qi and lower orig
 
 
 
-### 1. [REN3 中极](point/REN3.md)
+### 1. [REN3 中极](/point/REN3.md)
 
 #### 1.1. Centre Pole 中極
 
@@ -104,17 +104,17 @@ Finally, Zhōngjí REN-3 is indicated for deficiency of yang qi and lower orig
 
 #### 1.6. 论述
 
-[REN3 中极](point/REN3.md)是膀胱的募穴，也是任脉与脾、肝、肾经的交会穴。“募”意为聚集或收集，前募穴是脏腑之气在前胸腹壁聚集之处。因此，[REN3 中极](point/REN3.md)对膀胱腑有直接作用。尿病特征如尿潴留、尿痛、尿频及尿急可为实证或虚证。实证包括湿或湿热积聚及气滞，可伴结石或出血。虚证主要为气阳不足。[REN3 中极](point/REN3.md)通过调膀胱气化、泻湿热及补肾，是治疗此类多种失调尿病的主要穴位。临床上，[REN3 中极](point/REN3.md)多用于实证，而[REN4 关元](point/REN4.md)多用于虚证。因其促尿顺畅作用，也适用于水肿。  
+[REN3 中极](/point/REN3.md)是膀胱的募穴，也是任脉与脾、肝、肾经的交会穴。“募”意为聚集或收集，前募穴是脏腑之气在前胸腹壁聚集之处。因此，[REN3 中极](/point/REN3.md)对膀胱腑有直接作用。尿病特征如尿潴留、尿痛、尿频及尿急可为实证或虚证。实证包括湿或湿热积聚及气滞，可伴结石或出血。虚证主要为气阳不足。[REN3 中极](/point/REN3.md)通过调膀胱气化、泻湿热及补肾，是治疗此类多种失调尿病的主要穴位。临床上，[REN3 中极](/point/REN3.md)多用于实证，而[REN4 关元](/point/REN4.md)多用于虚证。因其促尿顺畅作用，也适用于水肿。  
 
-[REN3 中极](point/REN3.md)泻湿热的作用扩展至生殖区，是治疗瘙痒、肿痛、带下及遗精的重要穴位。《针灸大成》特别推荐其用于子宫颈痛肿。  
+[REN3 中极](/point/REN3.md)泻湿热的作用扩展至生殖区，是治疗瘙痒、肿痛、带下及遗精的重要穴位。《针灸大成》特别推荐其用于子宫颈痛肿。  
 
-脾主血，肝藏血，肾及任脉主子宫与受孕。[REN3 中极](point/REN3.md)作为这些经脉交会穴，能调子宫及月经，主要用于实证引起的腹中瘕块、月经不调或闭经、不孕症，尤其是胎盘或恶露滞留。  
+脾主血，肝藏血，肾及任脉主子宫与受孕。[REN3 中极](/point/REN3.md)作为这些经脉交会穴，能调子宫及月经，主要用于实证引起的腹中瘕块、月经不调或闭经、不孕症，尤其是胎盘或恶露滞留。  
 
-脾、肝、肾三条腿部阴经通过并主下腹。[REN3 中极](point/REN3.md)作为任脉与此三经交会穴，对下腹整体作用强烈，主要用于涉及瘀滞及寒热积聚的实证，适用于瘕块、疝病及剧烈绞痛，以及腹部冷热感。  
+脾、肝、肾三条腿部阴经通过并主下腹。[REN3 中极](/point/REN3.md)作为任脉与此三经交会穴，对下腹整体作用强烈，主要用于涉及瘀滞及寒热积聚的实证，适用于瘕块、疝病及剧烈绞痛，以及腹部冷热感。  
 
-[REN3 中极](point/REN3.md)也用于奔豚气，尤其是肾阳虚伴寒侵。《金匮要略》称：“奔豚病起于下腹，冲喉甚急，患者如死，攻发即止，因惊恐而起。”  
+[REN3 中极](/point/REN3.md)也用于奔豚气，尤其是肾阳虚伴寒侵。《金匮要略》称：“奔豚病起于下腹，冲喉甚急，患者如死，攻发即止，因惊恐而起。”  
 
-[REN3 中极](point/REN3.md)还指用于阳气虚及下元虚。然而，[REN4 关元](point/REN4.md)的补益作用极强，临床上几乎常用于此目的。与[REN4 关元](point/REN4.md)类似，[REN3 中极](point/REN3.md)也用于腰痛，反映“前治后”的原则。  
+[REN3 中极](/point/REN3.md)还指用于阳气虚及下元虚。然而，[REN4 关元](/point/REN4.md)的补益作用极强，临床上几乎常用于此目的。与[REN4 关元](/point/REN4.md)类似，[REN3 中极](/point/REN3.md)也用于腰痛，反映“前治后”的原则。  
 
 #### 1.7. 临床应用总结
 
@@ -124,18 +124,18 @@ Finally, Zhōngjí REN-3 is indicated for deficiency of yang qi and lower orig
 
 #### 1.8. 配伍
 
-- 尿不出：[REN3 中极](point/REN3.md) + [REN2 曲骨](point/REN2.md) + [REN5 石门](point/REN5.md) + [REN4 关元](point/REN4.md) + [SP6 三阴交](point/SP6.md)（《补命》）。  
-- 尿难及遗精：[REN3 中极](point/REN3.md) + [LIV5 蠡沟](point/LIV5.md) + [SP7 漏谷](point/SP7.md) + [BL36 承扶](point/BL36.md) + [BL67 至阴](point/BL67.md)（《补命》）。  
-- 遗精：[REN3 中极](point/REN3.md) + [BL67 至阴](point/BL67.md) + [LIV8 曲泉](point/LIV8.md)（《补命》）。  
-- 阴茎痛：[REN3 中极](point/REN3.md) + [KID3 太溪](point/KID3.md) + [LU10 鱼际](point/LU10.md) + [SP6 三阴交](point/SP6.md)（《大成》）。  
-- 阴道突发红肿痛：[REN3 中极](point/REN3.md) + [REN1 会阴](point/REN1.md) + [SP6 三阴交](point/SP6.md)（《大成》）。  
-- 不孕症：[REN3 中极](point/REN3.md) + [MCA18 子宫](point/MCA18.md)（《大成》）。  
-- 子宫出血：[REN3 中极](point/REN3.md) + [MCA18 子宫](point/MCA18.md)（《大成》）。  
-- 子宫出血不止：[REN3 中极](point/REN3.md) + [REN5 石门](point/REN5.md) + [MCA18 子宫](point/MCA18.md) + [BL23 肾俞](point/BL23.md)（《大成》）。  
-- 月经不调：[REN3 中极](point/REN3.md) + [SP6 三阴交](point/SP6.md) + [GB26 带脉](point/GB26.md) + [REN6 气海](point/REN6.md) + [BL23 肾俞](point/BL23.md)（《大成》）。  
-- 月经受阻：[REN3 中极](point/REN3.md) + [SP6 三阴交](point/SP6.md) + [GB41 足临泣](point/GB41.md)（《大成》）。  
-- 不孕症：[REN3 中极](point/REN3.md) + [SP5 商丘](point/SP5.md)（《大成》）。  
-- 胎盘滞留：泻[REN3 中极](point/REN3.md) + [SP6 三阴交](point/SP6.md)（《大成》）。  
-- 胎盘滞留：[REN3 中极](point/REN3.md) + [GB21 肩井](point/GB21.md)（《大成》）。  
-- 胎盘滞留：[REN3 中极](point/REN3.md) + [GB21 肩井](point/GB21.md) + [SP6 三阴交](point/SP6.md)（《会源》）。  
-- 腹泻不止：[REN3 中极](point/REN3.md) + [ST25 天枢](point/ST25.md) + [REN12 中脘](point/REN12.md)（《大成》）。  
+- 尿不出：[REN3 中极](/point/REN3.md) + [REN2 曲骨](/point/REN2.md) + [REN5 石门](/point/REN5.md) + [REN4 关元](/point/REN4.md) + [SP6 三阴交](/point/SP6.md)（《补命》）。  
+- 尿难及遗精：[REN3 中极](/point/REN3.md) + [LIV5 蠡沟](/point/LIV5.md) + [SP7 漏谷](/point/SP7.md) + [BL36 承扶](/point/BL36.md) + [BL67 至阴](/point/BL67.md)（《补命》）。  
+- 遗精：[REN3 中极](/point/REN3.md) + [BL67 至阴](/point/BL67.md) + [LIV8 曲泉](/point/LIV8.md)（《补命》）。  
+- 阴茎痛：[REN3 中极](/point/REN3.md) + [KID3 太溪](/point/KID3.md) + [LU10 鱼际](/point/LU10.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
+- 阴道突发红肿痛：[REN3 中极](/point/REN3.md) + [REN1 会阴](/point/REN1.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
+- 不孕症：[REN3 中极](/point/REN3.md) + [MCA18 子宫](/point/MCA18.md)（《大成》）。  
+- 子宫出血：[REN3 中极](/point/REN3.md) + [MCA18 子宫](/point/MCA18.md)（《大成》）。  
+- 子宫出血不止：[REN3 中极](/point/REN3.md) + [REN5 石门](/point/REN5.md) + [MCA18 子宫](/point/MCA18.md) + [BL23 肾俞](/point/BL23.md)（《大成》）。  
+- 月经不调：[REN3 中极](/point/REN3.md) + [SP6 三阴交](/point/SP6.md) + [GB26 带脉](/point/GB26.md) + [REN6 气海](/point/REN6.md) + [BL23 肾俞](/point/BL23.md)（《大成》）。  
+- 月经受阻：[REN3 中极](/point/REN3.md) + [SP6 三阴交](/point/SP6.md) + [GB41 足临泣](/point/GB41.md)（《大成》）。  
+- 不孕症：[REN3 中极](/point/REN3.md) + [SP5 商丘](/point/SP5.md)（《大成》）。  
+- 胎盘滞留：泻[REN3 中极](/point/REN3.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
+- 胎盘滞留：[REN3 中极](/point/REN3.md) + [GB21 肩井](/point/GB21.md)（《大成》）。  
+- 胎盘滞留：[REN3 中极](/point/REN3.md) + [GB21 肩井](/point/GB21.md) + [SP6 三阴交](/point/SP6.md)（《会源》）。  
+- 腹泻不止：[REN3 中极](/point/REN3.md) + [ST25 天枢](/point/ST25.md) + [REN12 中脘](/point/REN12.md)（《大成》）。  

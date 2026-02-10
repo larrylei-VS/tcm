@@ -30,12 +30,12 @@ i. Perpendicular insertion 0.3 to 0.4 cun; ii. Transverse insertion to join w
 
 - Pain and swelling of the cheek: Jùliáo ST-3 and [Tiānchuāng SI-16](https://app.amanualofacupuncture.com/point/SI-16) (Supplementing Life).
 
-### [ST3 巨髎](point/ST3.md) (JÙLIÁO)
+### [ST3 巨髎](/point/ST3.md) (JÙLIÁO)
 
 - **英文名称：** Great Crevice
 - **中文名称：** 巨髎
 - **国际代码：** ST-3
-- **穴位属性：** [ST3 巨髎](point/ST3.md) 是胃经与阳跷脉的交会穴。
+- **穴位属性：** [ST3 巨髎](/point/ST3.md) 是胃经与阳跷脉的交会穴。
 
 #### 定位 (Location)
 
@@ -43,7 +43,7 @@ i. Perpendicular insertion 0.3 to 0.4 cun; ii. Transverse insertion to join w
 
 #### 针刺方法 (Needling)
 
-i. 垂直刺0.3至0.4寸； ii. 横刺透向[ST4 地仓](point/ST4.md)、[SI18 颧髎](point/SI18.md) 等穴。
+i. 垂直刺0.3至0.4寸； ii. 横刺透向[ST4 地仓](/point/ST4.md)、[SI18 颧髎](/point/SI18.md) 等穴。
 
 #### 作用 (Actions)
 
@@ -57,7 +57,7 @@ i. 垂直刺0.3至0.4寸； ii. 横刺透向[ST4 地仓](point/ST4.md)、[SI18 �
 
 #### 阐释 (Commentary)
 
-[ST3 巨髎](point/ST3.md) 临床上较少使用。主治鼻外侧及面颊疼痛肿胀，鼻出血，牙痛，口唇面颊肿胀疼痛，口歪，面部和眼睛怕风畏寒，外障眼病，泪液过多，痉挛，腿气，膝关节肿胀。
+[ST3 巨髎](/point/ST3.md) 临床上较少使用。主治鼻外侧及面颊疼痛肿胀，鼻出血，牙痛，口唇面颊肿胀疼痛，口歪，面部和眼睛怕风畏寒，外障眼病，泪液过多，痉挛，腿气，膝关节肿胀。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -67,6 +67,6 @@ i. 垂直刺0.3至0.4寸； ii. 横刺透向[ST4 地仓](point/ST4.md)、[SI18 �
 
 #### 穴位组合 (Combinations)
 
-面颊疼痛肿胀：[ST3 巨髎](point/ST3.md) 和[SI16 天窗](point/SI16.md)（《资生经》）。
+面颊疼痛肿胀：[ST3 巨髎](/point/ST3.md) 和[SI16 天窗](/point/SI16.md)（《资生经》）。
 
 ---

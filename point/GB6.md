@@ -30,7 +30,7 @@ Transverse insertion 0.5-1.5 cun. See note [Hànyàn GB-4](https://app.amanualo
 
 - Fieberhafte Erkrankung mit einseitigem Kopfschmerz: Gb 6 Xuanli und Ren 15 Jiuwei (_Thousand Ducat Formulas_).
 
-### 1. [GB6 悬厘](point/GB6.md)
+### 1. [GB6 悬厘](/point/GB6.md)
 
 #### 1.1. Suspended Hair 懸厘
 
@@ -38,11 +38,11 @@ Transverse insertion 0.5-1.5 cun. See note [Hànyàn GB-4](https://app.amanualo
 
 #### 1.2. 定位
 
-位于颞区，发际内，在[ST8 头维](point/ST8.md)与[GB7 曲鬓](point/GB7.md)之间四分之三处。
+位于颞区，发际内，在[ST8 头维](/point/ST8.md)与[GB7 曲鬓](/point/GB7.md)之间四分之三处。
 
 #### 1.3. 针刺方法
 
-横刺，深0.5至1.5寸。参见[GB4 颔厌](point/GB4.md)的针刺说明。
+横刺，深0.5至1.5寸。参见[GB4 颔厌](/point/GB4.md)的针刺说明。
 
 #### 1.4. 作用
 
@@ -61,4 +61,4 @@ Transverse insertion 0.5-1.5 cun. See note [Hànyàn GB-4](https://app.amanualo
 
 #### 1.7. 配伍
 
-- 热病伴偏头痛：[GB6 悬厘](point/GB6.md) + [REN15 鸠尾](point/REN15.md)（《千金方》）。
+- 热病伴偏头痛：[GB6 悬厘](/point/GB6.md) + [REN15 鸠尾](/point/REN15.md)（《千金方》）。
