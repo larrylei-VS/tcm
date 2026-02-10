@@ -32,17 +32,17 @@ Perpendicular insertion 1 to 2 cun.
 - Redness, swelling and pain of the knees: Xīguān LIV-7, [Wěizhōng BL-40](https://app.amanualofacupuncture.com/point/BL-40), [Zúsānlǐ ST-36](https://app.amanualofacupuncture.com/point/ST-36) and [Yīnshì ST‑33](https://app.amanualofacupuncture.com/point/ST-33) (Great Compendium).
 - Redness, swelling and pain of the knees with inability to walk: Xīguān LIV-7 and [Xīyǎn (MN-LE-16)](https://app.amanualofacupuncture.com/point/MN-LE-16) (Song of the Jade Dragon).
 
-### 1. [LIV7 膝关](./LIV7.md)
+### 1. [LIV7 膝关](point/LIV7.md)
 
 #### 1.1. Knee Joint 膝關
 
 #### 1.2. 定位
 
-位于胫骨内侧髁后下方，[SP9 阴陵泉](./SP9.md)后方1寸。
+位于胫骨内侧髁后下方，[SP9 阴陵泉](point/SP9.md)后方1寸。
 
 #### 1.3. 定位说明
 
-先定位[SP9 阴陵泉](./SP9.md)，在胫骨内侧髁与胫骨后缘形成的角内凹陷处，然后[LIV7 膝关](./LIV7.md)位于其后方1寸。
+先定位[SP9 阴陵泉](point/SP9.md)，在胫骨内侧髁与胫骨后缘形成的角内凹陷处，然后[LIV7 膝关](point/LIV7.md)位于其后方1寸。
 
 #### 1.4. 针刺方法
 
@@ -64,6 +64,6 @@ Perpendicular insertion 1 to 2 cun.
 
 #### 1.8. 配伍
 
-- 膝及膝下疾患：灸[LIV7 膝关](./LIV7.md) + [ST35 犊鼻](./ST35.md) + [ST36 足三里](./ST36.md) + [GB34 阳陵泉](./GB34.md)（《补命》）。  
-- 膝红肿痛：[LIV7 膝关](./LIV7.md) + [BL40 委中](./BL40.md) + [ST36 足三里](./ST36.md) + [ST33 阴市](./ST33.md)（《大成》）。  
-- 膝红肿痛不能行走：[LIV7 膝关](./LIV7.md) + [MNLE16 膝眼](./MNLE16.md)（《玉龙歌》）。  
+- 膝及膝下疾患：灸[LIV7 膝关](point/LIV7.md) + [ST35 犊鼻](point/ST35.md) + [ST36 足三里](point/ST36.md) + [GB34 阳陵泉](point/GB34.md)（《补命》）。  
+- 膝红肿痛：[LIV7 膝关](point/LIV7.md) + [BL40 委中](point/BL40.md) + [ST36 足三里](point/ST36.md) + [ST33 阴市](point/ST33.md)（《大成》）。  
+- 膝红肿痛不能行走：[LIV7 膝关](point/LIV7.md) + [MNLE16 膝眼](point/MNLE16.md)（《玉龙歌》）。  

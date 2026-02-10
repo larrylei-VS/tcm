@@ -43,18 +43,18 @@ Tiānchí PC-1 is almost exclusively indicated for excess patterns. Because of 
 
 ##### Combinations 
 
-- Swelling of the axilla: Tiānchí PC-1 and [BL39 Wěiyáng](./BL39.md) (One Hundred Symptoms).
-- Swelling of the axilla: Tiānchí PC-1, [BL39 Wěiyáng](./BL39.md) , [Shēnmài BL-62](https://app.amanualofacupuncture.com/manual/points/BL/59), [Dìwǔhùi GB-42](https://app.amanualofacupuncture.com/manual/points/GB/132), [Yángfǔ GB-38](https://app.amanualofacupuncture.com/manual/points/GB/127) and [Zúlínqì GB-41](https://app.amanualofacupuncture.com/manual/points/GB/131) (Thousand Ducat Formulas).
+- Swelling of the axilla: Tiānchí PC-1 and [BL39 Wěiyáng](point/BL39.md) (One Hundred Symptoms).
+- Swelling of the axilla: Tiānchí PC-1, [BL39 Wěiyáng](point/BL39.md) , [Shēnmài BL-62](https://app.amanualofacupuncture.com/manual/points/BL/59), [Dìwǔhùi GB-42](https://app.amanualofacupuncture.com/manual/points/GB/132), [Yángfǔ GB-38](https://app.amanualofacupuncture.com/manual/points/GB/127) and [Zúlínqì GB-41](https://app.amanualofacupuncture.com/manual/points/GB/131) (Thousand Ducat Formulas).
 - Scrofula: Tiānchí PC-1, [Shàohǎi HE-3](https://app.amanualofacupuncture.com/manual/points/HE/142), [Zhāngmén LIV-13](https://app.amanualofacupuncture.com/manual/points/LIV/200), [Zúlínqì GB-41](https://app.amanualofacupuncture.com/manual/points/GB/131), [Zhīgōu SJ-6](https://app.amanualofacupuncture.com/manual/points/SJ/327), [Yángfǔ GB-38](https://app.amanualofacupuncture.com/manual/points/GB/127), [Jiānjǐng GB-21](https://app.amanualofacupuncture.com/manual/points/GB/109) and [Shǒusānlǐ LI-10](https://app.amanualofacupuncture.com/manual/points/LI/177) (Great Compendium).
 - Rebellious qi cough: Tiānchí PC-1, [Tiāntú REN-22](https://app.amanualofacupuncture.com/manual/points/REN/279), [Shānzhōng REN-17](https://app.amanualofacupuncture.com/manual/points/REN/273), [Jiěxī ST-41](https://app.amanualofacupuncture.com/manual/points/ST/387) and [Jiānzhōngshū SI-15](https://app.amanualofacupuncture.com/manual/points/SI/295) (Supplementing Life).
 
 
-### **[PC1 天池](./PC1.md)** (TIĀNCHÍ)
+### **[PC1 天池](point/PC1.md)** (TIĀNCHÍ)
 
 * **英文名称：** Heavenly Pool
 * **中文名称：** 天池
 * **国际代码：** PC-1
-* **穴位属性：** **[PC1 天池](./PC1.md)** 是心包经、胆经、肝经、三焦经的交会穴，天窗穴之一。
+* **穴位属性：** **[PC1 天池](point/PC1.md)** 是心包经、胆经、肝经、三焦经的交会穴，天窗穴之一。
 
 #### **定位 (Location)**
 
@@ -83,9 +83,9 @@ Tiānchí PC-1 is almost exclusively indicated for excess patterns. Because of 
 
 #### **阐释 (Commentary)**
 
-**[PC1 天池](./PC1.md)** 是《灵枢·本输》第二章中列出的十个穴位之一，这些穴位被称为天窗穴。除**[PC1 天池](./PC1.md)** 和**[LU3 天府](./LU3.md)** 外，其余穴位都位于颈部。与其他天窗穴一样，**[PC1 天池](./PC1.md)** 主治气逆（逆乱之气）的各种表现，此处指影响肺（气逆，咳嗽等）、头部（头痛）、七窍（视物模糊）和颈部（瘰疬）的病症。关于此穴组的更详细讨论，请参阅“穴位分类”。
+**[PC1 天池](point/PC1.md)** 是《灵枢·本输》第二章中列出的十个穴位之一，这些穴位被称为天窗穴。除**[PC1 天池](point/PC1.md)** 和**[LU3 天府](point/LU3.md)** 外，其余穴位都位于颈部。与其他天窗穴一样，**[PC1 天池](point/PC1.md)** 主治气逆（逆乱之气）的各种表现，此处指影响肺（气逆，咳嗽等）、头部（头痛）、七窍（视物模糊）和颈部（瘰疬）的病症。关于此穴组的更详细讨论，请参阅“穴位分类”。
 
-**[PC1 天池](./PC1.md)** 几乎只主治实证。由于其位置，它用于治疗胸部和胁肋部疾病，特别是以气滞痰阻为特征的。当气痰阻滞胸部时，出现咳嗽痰多，胸中胀满，胸膈烦躁等。当气滞胁肋部时，出现疼痛。当气痰阻滞经络时（心包经正经从腋窝上方穿过，经筋从腋窝下方循行），出现腋窝肿胀和瘰疬。尽管经典中没有明确主治乳房疾病，但**[PC1 天池](./PC1.md)** 的现代主治包括乳痈和乳汁量少。这两种疾病都可能由气滞和继发的郁热引起。
+**[PC1 天池](point/PC1.md)** 几乎只主治实证。由于其位置，它用于治疗胸部和胁肋部疾病，特别是以气滞痰阻为特征的。当气痰阻滞胸部时，出现咳嗽痰多，胸中胀满，胸膈烦躁等。当气滞胁肋部时，出现疼痛。当气痰阻滞经络时（心包经正经从腋窝上方穿过，经筋从腋窝下方循行），出现腋窝肿胀和瘰疬。尽管经典中没有明确主治乳房疾病，但**[PC1 天池](point/PC1.md)** 的现代主治包括乳痈和乳汁量少。这两种疾病都可能由气滞和继发的郁热引起。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -94,9 +94,9 @@ Tiānchí PC-1 is almost exclusively indicated for excess patterns. Because of 
 
 #### **穴位组合 (Combinations)**
 
-* 腋窝肿胀：**[PC1 天池](./PC1.md)** 和 **[BL39 委阳](./BL39.md)**（《百症赋》）。
-* 腋窝肿胀：**[PC1 天池](./PC1.md)**，**[BL39 委阳](./BL39.md)**，**[BL62 申脉](./BL62.md)**，**[GB42 地五会](./GB42.md)**，**[GB38 阳辅](./GB38.md)** 和 **[GB41 足临泣](./GB41.md)**（《千金方》）。
-* 瘰疬：**[PC1 天池](./PC1.md)**，**[HE3 少海](./HE3.md)**，**[LIV13 章门](./LIV13.md)**，**[GB41 足临泣](./GB41.md)**，**[SJ6 支沟](./SJ6.md)**，**[GB38 阳辅](./GB38.md)**，**[GB21 肩井](./GB21.md)** 和 **[LI10 手三里](./LI10.md)**（《针灸大成》）。
-* 气逆咳嗽：**[PC1 天池](./PC1.md)**，**[REN22 天突](./REN22.md)**，**[REN17 膻中](./REN17.md)**，**[ST41 解溪](./ST41.md)** 和 **[SI15 肩中俞](./SI15.md)**（《资生经》）。
+* 腋窝肿胀：**[PC1 天池](point/PC1.md)** 和 **[BL39 委阳](point/BL39.md)**（《百症赋》）。
+* 腋窝肿胀：**[PC1 天池](point/PC1.md)**，**[BL39 委阳](point/BL39.md)**，**[BL62 申脉](point/BL62.md)**，**[GB42 地五会](point/GB42.md)**，**[GB38 阳辅](point/GB38.md)** 和 **[GB41 足临泣](point/GB41.md)**（《千金方》）。
+* 瘰疬：**[PC1 天池](point/PC1.md)**，**[HE3 少海](point/HE3.md)**，**[LIV13 章门](point/LIV13.md)**，**[GB41 足临泣](point/GB41.md)**，**[SJ6 支沟](point/SJ6.md)**，**[GB38 阳辅](point/GB38.md)**，**[GB21 肩井](point/GB21.md)** 和 **[LI10 手三里](point/LI10.md)**（《针灸大成》）。
+* 气逆咳嗽：**[PC1 天池](point/PC1.md)**，**[REN22 天突](point/REN22.md)**，**[REN17 膻中](point/REN17.md)**，**[ST41 解溪](point/ST41.md)** 和 **[SI15 肩中俞](point/SI15.md)**（《资生经》）。
 
 ---

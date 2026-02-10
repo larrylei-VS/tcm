@@ -39,7 +39,7 @@ The primary clinical use of Yāoshū DU-2 is to treat pain of the sacrum and l
 - Numbness of the legs: Yāoshū DU-2 and [Fēngfǔ DU-16](https://app.amanualofacupuncture.com/point/DU-16) (Thousand Ducat Formulas).
 - Malaria: Yāoshū DU-2 and [Dàzhuī DU-14](https://app.amanualofacupuncture.com/point/DU-14) (Supplementing Life).
 
-### 1. [DU2 腰俞](./DU2.md)
+### 1. [DU2 腰俞](point/DU2.md)
 
 #### 1.1. Lumbar Shu 腰俞
 
@@ -68,7 +68,7 @@ The primary clinical use of Yāoshū DU-2 is to treat pain of the sacrum and l
 
 #### 1.7. 论述
 
-[DU2 腰俞](./DU2.md)的主要临床应用是治疗骶部及腰部疼痛，尤当疼痛放射至髋及腿部。《素问》将其列为“八穴泻四肢热”之一（实列七穴），包括[LU2 云门](./LU2.md)、[LI15 肩髃](./LI15.md)、[BL40 委中](./BL40.md)及[DU2 腰俞](./DU2.md)，用于“寒伤伴四肢持续发热”。  
+[DU2 腰俞](point/DU2.md)的主要临床应用是治疗骶部及腰部疼痛，尤当疼痛放射至髋及腿部。《素问》将其列为“八穴泻四肢热”之一（实列七穴），包括[LU2 云门](point/LU2.md)、[LI15 肩髃](point/LI15.md)、[BL40 委中](point/BL40.md)及[DU2 腰俞](point/DU2.md)，用于“寒伤伴四肢持续发热”。  
 
 #### 1.8. 临床应用总结
 
@@ -76,8 +76,8 @@ The primary clinical use of Yāoshū DU-2 is to treat pain of the sacrum and l
 
 #### 1.9. 配伍
 
-- 腰部僵痛：[DU2 腰俞](./DU2.md) + [BL40 委中](./BL40.md) + [KID1 涌泉](./KID1.md) + [BL27 小肠俞](./BL27.md) + [BL28 膀胱俞](./BL28.md)（《大成》）。  
-- 腰背僵硬不能侧屈：[DU2 腰俞](./DU2.md) + [BL13 肺俞](./BL13.md)（《大成》）。  
-- 寒风痹痛难愈：[DU2 腰俞](./DU2.md) + [GB30 环跳](./GB30.md)（《西弘颂》）。  
-- 腿麻：[DU2 腰俞](./DU2.md) + [DU16 风府](./DU16.md)（《千金方》）。  
-- 疟疾：[DU2 腰俞](./DU2.md) + [DU14 大椎](./DU14.md)（《补命》）。  
+- 腰部僵痛：[DU2 腰俞](point/DU2.md) + [BL40 委中](point/BL40.md) + [KID1 涌泉](point/KID1.md) + [BL27 小肠俞](point/BL27.md) + [BL28 膀胱俞](point/BL28.md)（《大成》）。  
+- 腰背僵硬不能侧屈：[DU2 腰俞](point/DU2.md) + [BL13 肺俞](point/BL13.md)（《大成》）。  
+- 寒风痹痛难愈：[DU2 腰俞](point/DU2.md) + [GB30 环跳](point/GB30.md)（《西弘颂》）。  
+- 腿麻：[DU2 腰俞](point/DU2.md) + [DU16 风府](point/DU16.md)（《千金方》）。  
+- 疟疾：[DU2 腰俞](point/DU2.md) + [DU14 大椎](point/DU14.md)（《补命》）。  

@@ -41,15 +41,15 @@ It should be emphasised, however, that in modern clinical practice Jīngqú LU-
 - Tension of the chest and back with a swollen sensation of the chest: Jīngqú LU-8 and [Qiūxū GB-40](https://app.amanualofacupuncture.com/point/GB-40) (Thousand Ducat Formulas).
 - Febrile disease with absence of sweating: Jīngqú LU-8 and [Dàdū SP-2](https://app.amanualofacupuncture.com/point/SP-2) (One Hundred Symptoms).
 
-### 1. [LU8 经渠](./LU8.md)
+### 1. [LU8 经渠](point/LU8.md)
 
 #### 1.2. 定位
 
-位于腕上方，[LU9 太渊](./LU9.md)近端1寸，连接[LU9 太渊](./LU9.md)与[LU6 孔最](./LU6.md)的线上，桡骨茎突基底部凹陷处，桡动脉桡侧。
+位于腕上方，[LU9 太渊](point/LU9.md)近端1寸，连接[LU9 太渊](point/LU9.md)与[LU6 孔最](point/LU6.md)的线上，桡骨茎突基底部凹陷处，桡动脉桡侧。
 
 #### 1.3. 定位说明
 
-将食指置于[LU9 太渊](./LU9.md)，向近端越过可触及的桡骨茎突，落入凹陷处即[LU8 经渠](./LU8.md)。
+将食指置于[LU9 太渊](point/LU9.md)，向近端越过可触及的桡骨茎突，落入凹陷处即[LU8 经渠](point/LU8.md)。
 
 #### 1.4. 针刺方法
 
@@ -66,11 +66,11 @@ It should be emphasised, however, that in modern clinical practice Jīngqú LU-
 
 #### 1.7. 论述
 
-《难经》称经穴治“咳喘寒热”。[LU8 经渠](./LU8.md)为肺经经穴，主治实型咳嗽、呼吸困难、喘鸣、胸背胀痛及无汗热病。  
+《难经》称经穴治“咳喘寒热”。[LU8 经渠](point/LU8.md)为肺经经穴，主治实型咳嗽、呼吸困难、喘鸣、胸背胀痛及无汗热病。  
 
-《针灸补命经》指其治[KID1 涌泉](./KID1.md)区痛，足底痛通常由肾虚或痰湿下注引起。  
+《针灸补命经》指其治[KID1 涌泉](point/KID1.md)区痛，足底痛通常由肾虚或痰湿下注引起。  
 
-现代临床中[LU8 经渠](./LU8.md)使用较少。  
+现代临床中[LU8 经渠](point/LU8.md)使用较少。  
 
 #### 1.8. 临床应用总结
 
@@ -79,5 +79,5 @@ It should be emphasised, however, that in modern clinical practice Jīngqú LU-
 
 #### 1.9. 配伍
 
-- 胸背拘急伴胸胀感：[LU8 经渠](./LU8.md) + [GB40 丘墟](./GB40.md)（《千金方》）。  
-- 无汗热病：[LU8 经渠](./LU8.md) + [SP2 大都](./SP2.md)（《百症赋》）。
+- 胸背拘急伴胸胀感：[LU8 经渠](point/LU8.md) + [GB40 丘墟](point/GB40.md)（《千金方》）。  
+- 无汗热病：[LU8 经渠](point/LU8.md) + [SP2 大都](point/SP2.md)（《百症赋》）。

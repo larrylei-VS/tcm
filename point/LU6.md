@@ -52,15 +52,15 @@ Finally, Kǒngzuì LU-6 is indicated for obstruction of qi along the Lung chan
 - Headache: Kǒngzuì LU-6, [Hòuxī SI-3](https://app.amanualofacupuncture.com/point/SI-3), [Tiānzhù BL-10](https://app.amanualofacupuncture.com/point/BL-10), [Táodào DU-13](https://app.amanualofacupuncture.com/point/DU-13) and [Dàzhù BL-11](https://app.amanualofacupuncture.com/point/BL-11) (Thousand Ducat Formulas).
 - Acute asthma: Kǒngzuì LU-6 and [Dìngchuān (M-BW-1)](https://app.amanualofacupuncture.com/point/M-BW-1).
 
-### 1. [LU6 孔最](./LU6.md)
+### 1. [LU6 孔最](point/LU6.md)
 
 #### 1.2. 定位
 
-位于前臂屈侧，[LU9 太渊](./LU9.md)近端7寸，连接[LU9 太渊](./LU9.md)与[LU5 尺泽](./LU5.md)的线上。
+位于前臂屈侧，[LU9 太渊](point/LU9.md)近端7寸，连接[LU9 太渊](point/LU9.md)与[LU5 尺泽](point/LU5.md)的线上。
 
 #### 1.3. 定位说明
 
-将[LU9 太渊](./LU9.md)至[LU5 尺泽](./LU5.md)间距平分，[LU6 孔最](./LU6.md)位于中点近端1寸可触及的凹陷处。
+将[LU9 太渊](point/LU9.md)至[LU5 尺泽](point/LU5.md)间距平分，[LU6 孔最](point/LU6.md)位于中点近端1寸可触及的凹陷处。
 
 #### 1.4. 针刺方法
 
@@ -81,13 +81,13 @@ Finally, Kǒngzuì LU-6 is indicated for obstruction of qi along the Lung chan
 
 #### 1.7. 论述
 
-[LU6 孔最](./LU6.md)为肺经郄穴。郄穴为井穴起沿经浅行之气血聚深之处，一般治急症及痛，阴经郄穴另治血病。[LU6 孔最](./LU6.md)为治肺急症及血病要穴。  
+[LU6 孔最](point/LU6.md)为肺经郄穴。郄穴为井穴起沿经浅行之气血聚深之处，一般治急症及痛，阴经郄穴另治血病。[LU6 孔最](point/LU6.md)为治肺急症及血病要穴。  
 
-[LU6 孔最](./LU6.md)特用于外感风热或风燥，1. 滞表阻腠理致无汗热病，2. 侵肺脏经致急咳喘、咽肿痛、失音。现代临床主用于任何病因的急性咳嗽、喘鸣或哮喘。  
+[LU6 孔最](point/LU6.md)特用于外感风热或风燥，1. 滞表阻腠理致无汗热病，2. 侵肺脏经致急咳喘、咽肿痛、失音。现代临床主用于任何病因的急性咳嗽、喘鸣或哮喘。  
 
-作为肺经郄穴，[LU6 孔最](./LU6.md)尤治肺出血，不论由风燥、风热、痰热、肝肺失调或阴虚引起。  
+作为肺经郄穴，[LU6 孔最](point/LU6.md)尤治肺出血，不论由风燥、风热、痰热、肝肺失调或阴虚引起。  
 
-[LU6 孔最](./LU6.md)亦治肺经气阻之肘臂剧痛、指屈伸难、不能举臂过头。  
+[LU6 孔最](point/LU6.md)亦治肺经气阻之肘臂剧痛、指屈伸难、不能举臂过头。  
 
 #### 1.8. 临床应用总结
 
@@ -98,8 +98,8 @@ Finally, Kǒngzuì LU-6 is indicated for obstruction of qi along the Lung chan
 
 #### 1.9. 配伍
 
-- 无汗热病：[LU6 孔最](./LU6.md) + [BL31 上髎](./BL31.md)（《系统经典》）。  
-- 失音：[LU6 孔最](./LU6.md) + [DU15 哑门](./DU15.md)（《补命》）。  
-- 吐血：[LU6 孔最](./LU6.md) + [PC3 曲泽](./PC3.md) + [BL13 肺俞](./BL13.md)（《补命》）。  
-- 头痛：[LU6 孔最](./LU6.md) + [SI3 后溪](./SI3.md) + [BL10 天柱](./BL10.md) + [DU13 陶道](./DU13.md) + [BL11 大杼](./BL11.md)（《千金方》）。  
-- 急性哮喘：[LU6 孔最](./LU6.md) + [MBW1 定喘](./MBW1.md)。
+- 无汗热病：[LU6 孔最](point/LU6.md) + [BL31 上髎](point/BL31.md)（《系统经典》）。  
+- 失音：[LU6 孔最](point/LU6.md) + [DU15 哑门](point/DU15.md)（《补命》）。  
+- 吐血：[LU6 孔最](point/LU6.md) + [PC3 曲泽](point/PC3.md) + [BL13 肺俞](point/BL13.md)（《补命》）。  
+- 头痛：[LU6 孔最](point/LU6.md) + [SI3 后溪](point/SI3.md) + [BL10 天柱](point/BL10.md) + [DU13 陶道](point/DU13.md) + [BL11 大杼](point/BL11.md)（《千金方》）。  
+- 急性哮喘：[LU6 孔最](point/LU6.md) + [MBW1 定喘](point/MBW1.md)。

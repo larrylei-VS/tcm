@@ -53,12 +53,12 @@ In comparison with [Guānchōng SJ-1](https://app.amanualofacupuncture.com/poin
 - Toothache of the lower jaw: Yèmén SJ-2, [Yánggǔ SI-5](https://app.amanualofacupuncture.com/point/SI-5), [Shāngyáng LI-1](https://app.amanualofacupuncture.com/point/LI-1), [Èrjiān LI-2](https://app.amanualofacupuncture.com/point/LI-2) and [Sìdú SJ-9](https://app.amanualofacupuncture.com/point/SJ-9) (Thousand Ducat Formulas).
 - Fright palpitations: Yèmén SJ-2, [Tiānjǐng SJ-10](https://app.amanualofacupuncture.com/point/SJ-10), [Bǎihuì DU-20](https://app.amanualofacupuncture.com/point/DU-20) and [Shéndào DU-11](https://app.amanualofacupuncture.com/point/DU-11) (Supplementing Life).
 ---
-### **[SJ2 液门](./SJ2.md)** (YÈMÉN)
+### **[SJ2 液门](point/SJ2.md)** (YÈMÉN)
 
 * **英文名称：** Fluid Gate
 * **中文名称：** 液门
 * **国际代码：** SJ-2
-* **穴位属性：** **[SJ2 液门](./SJ2.md)** 是三焦经的荥穴和水穴。
+* **穴位属性：** **[SJ2 液门](point/SJ2.md)** 是三焦经的荥穴和水穴。
 
 #### **定位 (Location)**
 
@@ -86,11 +86,11 @@ In comparison with [Guānchōng SJ-1](https://app.amanualofacupuncture.com/poin
 
 #### **阐释 (Commentary)**
 
-根据《难经》记载，荥穴主治“身热”。三焦经正经循行：i. 耳后和耳前并入耳，ii. 眼睛下缘和外眼角，iii. 穿过面颊。**[SJ2 液门](./SJ2.md)**，作为三焦经的荥穴和水穴，因此能够清泻经络上端（耳朵的耳聋、耳鸣、耳痛），眼睛（红赤、干燥、流泪）和牙龈牙齿（疼痛、出血）的热邪。
+根据《难经》记载，荥穴主治“身热”。三焦经正经循行：i. 耳后和耳前并入耳，ii. 眼睛下缘和外眼角，iii. 穿过面颊。**[SJ2 液门](point/SJ2.md)**，作为三焦经的荥穴和水穴，因此能够清泻经络上端（耳朵的耳聋、耳鸣、耳痛），眼睛（红赤、干燥、流泪）和牙龈牙齿（疼痛、出血）的热邪。
 
-三焦与心包互为表里，心包是心之“外衣”，**[SJ2 液门](./SJ2.md)** 能够清泻心热和心神之热，表现为心悸、惊恐、癫狂、狂言谵语和癫痫。
+三焦与心包互为表里，心包是心之“外衣”，**[SJ2 液门](point/SJ2.md)** 能够清泻心热和心神之热，表现为心悸、惊恐、癫狂、狂言谵语和癫痫。
 
-与**[SJ1 关冲](./SJ1.md)** 相比，**[SJ2 液门](./SJ2.md)** 在治疗热病和影响肩肘的远端经络疾病方面效果较弱，但在宁心安神和治疗影响腕、手、指的局部经络疾病方面效果更佳。
+与**[SJ1 关冲](point/SJ1.md)** 相比，**[SJ2 液门](point/SJ2.md)** 在治疗热病和影响肩肘的远端经络疾病方面效果较弱，但在宁心安神和治疗影响腕、手、指的局部经络疾病方面效果更佳。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -100,11 +100,11 @@ In comparison with [Guānchōng SJ-1](https://app.amanualofacupuncture.com/poin
 
 #### **穴位组合 (Combinations)**
 
-* 耳痛，耳聋耳鸣：**[SJ2 液门](./SJ2.md)**，**[SI16 天窗](./SI16.md)**，**[LI5 阳溪](./LI5.md)**，**[SJ1 关冲](./SJ1.md)** 和 **[SJ3 中渚](./SJ3.md)**（《千金方》）。
-* 耳鸣耳聋：**[SJ2 液门](./SJ2.md)**，**[SJ1 关冲](./SJ1.md)**，**[LI5 阳溪](./LI5.md)**，**[ST7 下关](./ST7.md)** 和 **[SI5 阳谷](./SI5.md)**（《针灸甲乙经》）。
-* 暴聋：**[SJ2 液门](./SJ2.md)** 和 **[SJ8 三阳络](./SJ8.md)**（《资生经》）。
-* 咽喉疼痛：**[SJ2 液门](./SJ2.md)** 和 **[LU10 鱼际](./LU10.md)**（《百症赋》）。
-* 下颌牙痛：**[SJ2 液门](./SJ2.md)**，**[SI5 阳谷](./SI5.md)**，**[LI1 商阳](./LI1.md)**，**[LI2 二间](./LI2.md)** 和 **[SJ9 四渎](./SJ9.md)**（《千金方》）。
-* 惊悸：**[SJ2 液门](./SJ2.md)**，**[SJ10 天井](./SJ10.md)**，**[DU20 百会](./DU20.md)** 和 **[DU11 神道](./DU11.md)**（《资生经》）。
+* 耳痛，耳聋耳鸣：**[SJ2 液门](point/SJ2.md)**，**[SI16 天窗](point/SI16.md)**，**[LI5 阳溪](point/LI5.md)**，**[SJ1 关冲](point/SJ1.md)** 和 **[SJ3 中渚](point/SJ3.md)**（《千金方》）。
+* 耳鸣耳聋：**[SJ2 液门](point/SJ2.md)**，**[SJ1 关冲](point/SJ1.md)**，**[LI5 阳溪](point/LI5.md)**，**[ST7 下关](point/ST7.md)** 和 **[SI5 阳谷](point/SI5.md)**（《针灸甲乙经》）。
+* 暴聋：**[SJ2 液门](point/SJ2.md)** 和 **[SJ8 三阳络](point/SJ8.md)**（《资生经》）。
+* 咽喉疼痛：**[SJ2 液门](point/SJ2.md)** 和 **[LU10 鱼际](point/LU10.md)**（《百症赋》）。
+* 下颌牙痛：**[SJ2 液门](point/SJ2.md)**，**[SI5 阳谷](point/SI5.md)**，**[LI1 商阳](point/LI1.md)**，**[LI2 二间](point/LI2.md)** 和 **[SJ9 四渎](point/SJ9.md)**（《千金方》）。
+* 惊悸：**[SJ2 液门](point/SJ2.md)**，**[SJ10 天井](point/SJ10.md)**，**[DU20 百会](point/DU20.md)** 和 **[DU11 神道](point/DU11.md)**（《资生经》）。
 
 ---

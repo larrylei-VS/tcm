@@ -30,17 +30,17 @@ Many classical texts recommend moxibustion at this point for the treatment of in
 
 
 
-### 1. [LIV11 阴廉](./LIV11.md)
+### 1. [LIV11 阴廉](point/LIV11.md)
 
 #### 1.1. Yin Corner 陰廉
 
 #### 1.2. 定位
 
-位于[ST30 气冲](./ST30.md)下方2寸，沿长收肌前缘。
+位于[ST30 气冲](point/ST30.md)下方2寸，沿长收肌前缘。
 
 #### 1.3. 定位说明
 
-i. [ST30 气冲](./ST30.md)位于下腹部，距中线2寸，与耻骨联合上缘（[REN2 曲骨](./REN2.md)）平齐；  
+i. [ST30 气冲](point/ST30.md)位于下腹部，距中线2寸，与耻骨联合上缘（[REN2 曲骨](point/REN2.md)）平齐；  
 ii. 长收肌的起始腱起于耻骨，是腹股沟中最明显的腱。
 
 #### 1.4. 针刺方法

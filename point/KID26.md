@@ -36,7 +36,7 @@ Transverse-oblique insertion, directed laterally along the intercostal space 0.5
 
 
 ---
-### **[KID26 彧中](./KID26.md)** (YÙZHŌNG)
+### **[KID26 彧中](point/KID26.md)** (YÙZHŌNG)
 
 * **英文名称：** Comfortable Chest
 * **中文名称：** 彧中
@@ -70,9 +70,9 @@ Transverse-oblique insertion, directed laterally along the intercostal space 0.5
 
 #### **阐释 (Commentary)**
 
-**[KID26 彧中](./KID26.md)** 属于肾经的胸部穴位，其名称“彧中”意指胸部舒适，反映其在宽胸理气、平喘止咳方面的作用。它与**[KID22 步廊](./KID22.md)**、**[KID23 神封](./KID23.md)**、**[KID24 灵墟](./KID24.md)**、**[KID25 神藏](./KID25.md)** 和**[KID27 俞府](./KID27.md)** 一同被列为胸部的俞穴。
+**[KID26 彧中](point/KID26.md)** 属于肾经的胸部穴位，其名称“彧中”意指胸部舒适，反映其在宽胸理气、平喘止咳方面的作用。它与**[KID22 步廊](point/KID22.md)**、**[KID23 神封](point/KID23.md)**、**[KID24 灵墟](point/KID24.md)**、**[KID25 神藏](point/KID25.md)** 和**[KID27 俞府](point/KID27.md)** 一同被列为胸部的俞穴。
 
-此穴主要用于缓解**胸部胀满、心悸**以及**咳嗽、哮喘、呼吸困难**等肺系和胸膈疾患，特别是痰饮积聚、气机上逆所致的咳喘。它对**呕吐**和**流涎伴唾液多**等胃腑不和的症状也有辅助疗效，这与其化痰降逆的功效相关。此外，**[KID26 彧中](./KID26.md)** 对**乳痈**和**花斑癣**也有治疗作用。
+此穴主要用于缓解**胸部胀满、心悸**以及**咳嗽、哮喘、呼吸困难**等肺系和胸膈疾患，特别是痰饮积聚、气机上逆所致的咳喘。它对**呕吐**和**流涎伴唾液多**等胃腑不和的症状也有辅助疗效，这与其化痰降逆的功效相关。此外，**[KID26 彧中](point/KID26.md)** 对**乳痈**和**花斑癣**也有治疗作用。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -82,6 +82,6 @@ Transverse-oblique insertion, directed laterally along the intercostal space 0.5
 
 #### **穴位组合 (Combinations)**
 
-* 流涎伴唾液多：**[KID26 彧中](./KID26.md)** 和 **[LU2 云门](./LU2.md)**（《资生经》）。
+* 流涎伴唾液多：**[KID26 彧中](point/KID26.md)** 和 **[LU2 云门](point/LU2.md)**（《资生经》）。
 
 ---

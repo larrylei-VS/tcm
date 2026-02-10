@@ -42,7 +42,7 @@ Secondly, according to Investigation into Points Along the Channels, Jīnsūo 
 - Stiffness of the spine: Jīnsūo DU-8 and [Shuǐdào ST-28](https://app.amanualofacupuncture.com/point/ST-28) (One Hundred Symptoms).
 
 
-### 1. [DU8 筋缩](./DU8.md)
+### 1. [DU8 筋缩](point/DU8.md)
 
 #### 1.1. Sinew Contraction 筋縮
 
@@ -71,9 +71,9 @@ Secondly, according to Investigation into Points Along the Channels, Jīnsūo 
 
 #### 1.7. 论述
 
-[DU8 筋缩](./DU8.md)之名及其位置与肝俞穴[BL18 肝俞](./BL18.md)同高，揭示其功能。首先，它适用于肝风上扰引起的多种疾患，特征为筋脉异常运动、僵硬、挛缩及痉挛（如目上视、痉挛、癫痫等）。  
+[DU8 筋缩](point/DU8.md)之名及其位置与肝俞穴[BL18 肝俞](point/BL18.md)同高，揭示其功能。首先，它适用于肝风上扰引起的多种疾患，特征为筋脉异常运动、僵硬、挛缩及痉挛（如目上视、痉挛、癫痫等）。  
 
-其次，《经穴探》称[DU8 筋缩](./DU8.md)可选用于“怒伤肝”，其经典指征还包括躁狂、狂走及多言，均为肝气郁滞化火扰乱心神之征。  
+其次，《经穴探》称[DU8 筋缩](point/DU8.md)可选用于“怒伤肝”，其经典指征还包括躁狂、狂走及多言，均为肝气郁滞化火扰乱心神之征。  
 
 #### 1.8. 临床应用总结
 
@@ -82,5 +82,5 @@ Secondly, according to Investigation into Points Along the Channels, Jīnsūo 
 
 #### 1.9. 配伍
 
-- 惊痫、狂走及癫狂：[DU8 筋缩](./DU8.md) + [REN2 曲骨](./REN2.md) + [KID10 阴谷](./KID10.md) + [LIV2 行间](./LIV2.md)（《千金方》）。  
-- 脊柱僵硬：[DU8 筋缩](./DU8.md) + [ST28 水道](./ST28.md)（《百症赋》）。  
+- 惊痫、狂走及癫狂：[DU8 筋缩](point/DU8.md) + [REN2 曲骨](point/REN2.md) + [KID10 阴谷](point/KID10.md) + [LIV2 行间](point/LIV2.md)（《千金方》）。  
+- 脊柱僵硬：[DU8 筋缩](point/DU8.md) + [ST28 水道](point/ST28.md)（《百症赋》）。  

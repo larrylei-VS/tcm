@@ -45,12 +45,12 @@ Jiache ST-6 is one of the ‘thirteen ghost points’, listed under its alternat
 - Swelling, pain and redness of the ear: Jiáchē ST-6, [Tīnghuì GB-2](https://app.amanualofacupuncture.com/point/GB-2) and [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4) (Great Compendium).
 
 ---
-### [ST7 下关](./ST7.md) (XIÀGUĀN)
+### [ST7 下关](point/ST7.md) (XIÀGUĀN)
 
 * **英文名称：** Below the Joint
 * **中文名称：** 下关
 * **国际代码：** ST-7
-* **穴位属性：** [ST7 下关](./ST7.md) 是胃经与胆经的交会穴。
+* **穴位属性：** [ST7 下关](point/ST7.md) 是胃经与胆经的交会穴。
 
 #### 定位 (Location)
 
@@ -58,11 +58,11 @@ Jiache ST-6 is one of the ‘thirteen ghost points’, listed under its alternat
 
 * **定位要点 (Location Notes):**
     * 在颧弓下缘（耳朵前面的骨性弧度）找到凹陷。患者张口时，此凹陷消失，闭口时，此凹陷再次出现。
-    * 将食指放在患者的耳屏前缘，将中指放在下颌角前缘。这两个手指之间的中点就是[ST7 下关](./ST7.md)。
+    * 将食指放在患者的耳屏前缘，将中指放在下颌角前缘。这两个手指之间的中点就是[ST7 下关](point/ST7.md)。
 
 #### 针刺方法 (Needling)
 
-i. 垂直刺0.5至1寸； ii. 斜刺向口角，0.5至1寸； iii. 斜刺向耳门，0.5至1寸； iv. 透刺至[GB3 听会](./GB3.md)，2.5至3寸。
+i. 垂直刺0.5至1寸； ii. 斜刺向口角，0.5至1寸； iii. 斜刺向耳门，0.5至1寸； iv. 透刺至[GB3 听会](point/GB3.md)，2.5至3寸。
 
 * **注意 (Caution):** 避免深刺伤及神经血管束。
 
@@ -78,11 +78,11 @@ i. 垂直刺0.5至1寸； ii. 斜刺向口角，0.5至1寸； iii. 斜刺向耳�
 
 #### 阐释 (Commentary)
 
-[ST7 下关](./ST7.md) 是治疗颌关节（下颌关节）疾病的主要穴位。与[SJ21 耳门](./SJ21.md) 和[GB2 听会](./GB2.md) 一样，它用于治疗因关节障碍（如炎症、风湿）或过度使用（如磨牙）引起的各种下颌关节疼痛。当治疗下颌关节炎时，[ST7 下关](./ST7.md) 可以直接在关节处垂直刺，并配合手法或电针。它也可透刺至[GB3 听会](./GB3.md)，这种方法在治疗耳聋方面尤其有效。
+[ST7 下关](point/ST7.md) 是治疗颌关节（下颌关节）疾病的主要穴位。与[SJ21 耳门](point/SJ21.md) 和[GB2 听会](point/GB2.md) 一样，它用于治疗因关节障碍（如炎症、风湿）或过度使用（如磨牙）引起的各种下颌关节疼痛。当治疗下颌关节炎时，[ST7 下关](point/ST7.md) 可以直接在关节处垂直刺，并配合手法或电针。它也可透刺至[GB3 听会](point/GB3.md)，这种方法在治疗耳聋方面尤其有效。
 
-[ST7 下关](./ST7.md) 还能治疗多种齿、面、耳部疾病，包括牙痛、面部疼痛（特别是三叉神经痛）、耳鸣、耳聋和耳痛，这些通常是由于风、寒或热邪侵袭所致。在治疗牙痛方面，一些经典的医家认为[ST7 下关](./ST7.md) 是治疗上颌牙痛的首选穴位（与[LI3 三间](./LI3.md) 治疗下颌牙痛相对）。[ST7 下关](./ST7.md) 与[LI4 合谷](./LI4.md) 或[ST44 内庭](./ST44.md) 联合使用，可治疗多种牙痛。其清热的作用也体现在治疗上颌牙痛方面。
+[ST7 下关](point/ST7.md) 还能治疗多种齿、面、耳部疾病，包括牙痛、面部疼痛（特别是三叉神经痛）、耳鸣、耳聋和耳痛，这些通常是由于风、寒或热邪侵袭所致。在治疗牙痛方面，一些经典的医家认为[ST7 下关](point/ST7.md) 是治疗上颌牙痛的首选穴位（与[LI3 三间](point/LI3.md) 治疗下颌牙痛相对）。[ST7 下关](point/ST7.md) 与[LI4 合谷](point/LI4.md) 或[ST44 内庭](point/ST44.md) 联合使用，可治疗多种牙痛。其清热的作用也体现在治疗上颌牙痛方面。
 
-[ST7 下关](./ST7.md) 还是一个治疗偏头痛和头痛的有效穴位，这反映了胃经在头部的循行，以及其与胆经的交会作用。
+[ST7 下关](point/ST7.md) 还是一个治疗偏头痛和头痛的有效穴位，这反映了胃经在头部的循行，以及其与胆经的交会作用。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -92,8 +92,8 @@ i. 垂直刺0.5至1寸； ii. 斜刺向口角，0.5至1寸； iii. 斜刺向耳�
 
 #### 穴位组合 (Combinations)
 
-* 耳鸣耳聋：[ST7 下关](./ST7.md)，[LI5 阳溪](./LI5.md)，[SJ1 关冲](./SJ1.md)，[SJ2 液门](./SJ2.md) 和[SI5 阳谷](./SI5.md)（《针灸甲乙经》）。
-* 耳鸣耳聋：[ST7 下关](./ST7.md)，[SJ17 翳风](./SJ17.md)，[GB2 听会](./GB2.md) 和[SJ21 耳门](./SJ21.md)（《针灸大成》）。
-* 牙痛和龋齿：[ST7 下关](./ST7.md)，[ST5 大迎](./ST5.md)，[SJ17 翳风](./SJ17.md) 和[SI4 腕骨](./SI4.md)（《资生经》）。
-* 牙痛伴恶寒：[ST7 下关](./ST7.md) 和[SI18 颧髎](./SI18.md)（《千金方》）。
-* 头痛：[ST7 下关](./ST7.md) 和[GB2 听会](./GB2.md)（《百症赋》）。
+* 耳鸣耳聋：[ST7 下关](point/ST7.md)，[LI5 阳溪](point/LI5.md)，[SJ1 关冲](point/SJ1.md)，[SJ2 液门](point/SJ2.md) 和[SI5 阳谷](point/SI5.md)（《针灸甲乙经》）。
+* 耳鸣耳聋：[ST7 下关](point/ST7.md)，[SJ17 翳风](point/SJ17.md)，[GB2 听会](point/GB2.md) 和[SJ21 耳门](point/SJ21.md)（《针灸大成》）。
+* 牙痛和龋齿：[ST7 下关](point/ST7.md)，[ST5 大迎](point/ST5.md)，[SJ17 翳风](point/SJ17.md) 和[SI4 腕骨](point/SI4.md)（《资生经》）。
+* 牙痛伴恶寒：[ST7 下关](point/ST7.md) 和[SI18 颧髎](point/SI18.md)（《千金方》）。
+* 头痛：[ST7 下关](point/ST7.md) 和[GB2 听会](point/GB2.md)（《百症赋》）。

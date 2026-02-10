@@ -36,7 +36,7 @@ Transverse insertion directed superiorly or inferiorly along the channel, 0.5 to
 - Bone pain: Yùtáng REN-18, [Zǐgōng REN-19](https://app.amanualofacupuncture.com/point/REN-19) and [Géshū BL-17](https://app.amanualofacupuncture.com/point/BL-17) (Supplementing Life)
 
 
-### 1. [REN18 玉堂](./REN18.md)
+### 1. [REN18 玉堂](point/REN18.md)
 
 #### 1.1. Jade Hall 玉堂
 
@@ -71,7 +71,7 @@ Transverse insertion directed superiorly or inferiorly along the channel, 0.5 to
 
 #### 1.8. 配伍
 
-- 咳嗽伴气逆及烦躁：[REN18 玉堂](./REN18.md) + [REN19 紫宫](./REN19.md) + [KID3 太溪](./KID3.md)（《千金方》）。  
-- 心烦及呕吐：[REN18 玉堂](./REN18.md) + [KID21 幽门](./KID21.md)（《百症赋》）。  
-- 骨痛：[REN18 玉堂](./REN18.md) + [REN19 紫宫](./REN19.md) + [BL17 膈俞](./BL17.md)（《补命》）。  
+- 咳嗽伴气逆及烦躁：[REN18 玉堂](point/REN18.md) + [REN19 紫宫](point/REN19.md) + [KID3 太溪](point/KID3.md)（《千金方》）。  
+- 心烦及呕吐：[REN18 玉堂](point/REN18.md) + [KID21 幽门](point/KID21.md)（《百症赋》）。  
+- 骨痛：[REN18 玉堂](point/REN18.md) + [REN19 紫宫](point/REN19.md) + [BL17 膈俞](point/BL17.md)（《补命》）。  
 

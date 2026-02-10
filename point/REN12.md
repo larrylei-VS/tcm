@@ -68,7 +68,7 @@ Finally Zhōngwǎn REN-12 is cited in the Song of the Nine Needles for Return
 - Jaundice with weakness of the four limbs: Zhōngwǎn REN-12 and [Zúsānlǐ ST-36](https://app.amanualofacupuncture.com/point/ST-36) (Classic of the Jade Dragon)
 
 
-### 1. [REN12 中脘](./REN12.md)
+### 1. [REN12 中脘](point/REN12.md)
 
 #### 1.1. Middle Cavity 中脘
 
@@ -106,17 +106,17 @@ Finally Zhōngwǎn REN-12 is cited in the Song of the Nine Needles for Return
 
 #### 1.7. 论述
 
-[REN12 中脘](./REN12.md)，别名“中管”，是胃的前募穴及腑的会穴。“募”意为聚集，前募穴是脏腑之气在前胸腹壁聚集之处。胃脾为后天之气之源，在脏腑中居中枢地位，转化并分布饮食精微于全身。因此，胃可主腑，脾主脏。[REN12 中脘](./REN12.md)与胃的密切关系进一步体现于其为腑的会穴，类似[LIV13 章门](./LIV13.md)（脾募穴）为脏的会穴。  
+[REN12 中脘](point/REN12.md)，别名“中管”，是胃的前募穴及腑的会穴。“募”意为聚集，前募穴是脏腑之气在前胸腹壁聚集之处。胃脾为后天之气之源，在脏腑中居中枢地位，转化并分布饮食精微于全身。因此，胃可主腑，脾主脏。[REN12 中脘](point/REN12.md)与胃的密切关系进一步体现于其为腑的会穴，类似[LIV13 章门](point/LIV13.md)（脾募穴）为脏的会穴。  
 
-[REN12 中脘](./REN12.md)是腹部调胃功能的主穴。《经穴探》称其可治“胃脾诸病”。与邻近穴如[ST21 梁门](./ST21.md)、[REN13 上脘](./REN13.md)、[REN10 下脘](./REN10.md)（多用于实证）相比，[REN12 中脘](./REN12.md)适用于虚实并存的疾患。  
+[REN12 中脘](point/REN12.md)是腹部调胃功能的主穴。《经穴探》称其可治“胃脾诸病”。与邻近穴如[ST21 梁门](point/ST21.md)、[REN13 上脘](point/REN13.md)、[REN10 下脘](point/REN10.md)（多用于实证）相比，[REN12 中脘](point/REN12.md)适用于虚实并存的疾患。  
 
 胃为“水谷之海”，主受纳、腐熟并下降转化产物。不论病因为寒热、外感或内乱，胃失调必表现为某功能障碍：胃不受纳则食难吞咽；胃不腐熟下降则胀满痛；胃气上逆则恶心、呕吐、胃反流、呃逆。  
 
-传统中医养生强调情绪和谐对胃顺畅功能的重要性。忧虑、焦虑、思虑过度耗气，可虚胃脾，碍胃功能。七情过激致气滞伤胃，导致胃脘痛。尤以怒、挫或怨在进食时最伤，因气聚焦于胃，易滞。[REN12 中脘](./REN12.md)为此类病症的首选穴。实操中，肝气滞引起的胃脘痛胀可伴胁部胀痛，[REN12 中脘](./REN12.md)不仅适用于此症，其针感常传至该区。  
+传统中医养生强调情绪和谐对胃顺畅功能的重要性。忧虑、焦虑、思虑过度耗气，可虚胃脾，碍胃功能。七情过激致气滞伤胃，导致胃脘痛。尤以怒、挫或怨在进食时最伤，因气聚焦于胃，易滞。[REN12 中脘](point/REN12.md)为此类病症的首选穴。实操中，肝气滞引起的胃脘痛胀可伴胁部胀痛，[REN12 中脘](point/REN12.md)不仅适用于此症，其针感常传至该区。  
 
-胃脾密切相关。李东垣《脾胃论》称：“胃虚致太阴不受，足阳明募穴[REN12 中脘](./REN12.md)引之。”此突出[REN12 中脘](./REN12.md)在虚证中健脾的重要次要作用，适用于腹泻、泻下未消化食物、虚劳、产后血晕及面色萎黄。  
+胃脾密切相关。李东垣《脾胃论》称：“胃虚致太阴不受，足阳明募穴[REN12 中脘](point/REN12.md)引之。”此突出[REN12 中脘](point/REN12.md)在虚证中健脾的重要次要作用，适用于腹泻、泻下未消化食物、虚劳、产后血晕及面色萎黄。  
 
-[REN12 中脘](./REN12.md)在《九针回阳歌》中用于阳气衰竭，特征为昏迷、恶寒、四肢厥逆、唇紫等。  
+[REN12 中脘](point/REN12.md)在《九针回阳歌》中用于阳气衰竭，特征为昏迷、恶寒、四肢厥逆、唇紫等。  
 
 #### 1.8. 临床应用总结
 
@@ -124,17 +124,17 @@ Finally Zhōngwǎn REN-12 is cited in the Song of the Nine Needles for Return
 
 #### 1.9. 配伍
 
-- 呕吐：[REN12 中脘](./REN12.md) + [BL17 膈俞](./BL17.md) + [LIV13 章门](./LIV13.md)（《千金方》）。  
-- 吐清水：[REN12 中脘](./REN12.md) + [REN17 膻中](./REN17.md) + [PC7 大陵](./PC7.md) + [PC8 劳宫](./PC8.md)（《大成》）。  
-- 中腹食滞、刺痛不止：[REN12 中脘](./REN12.md) + [SP4 公孙](./SP4.md) + [ST41 解溪](./ST41.md) + [ST36 足三里](./ST36.md)（《全集》）。  
-- 腹痛：[REN12 中脘](./REN12.md) + [PC6 内关](./PC6.md) + [ST36 足三里](./ST36.md)（《大成》）。  
-- 腹硬：[REN12 中脘](./REN12.md) + [REN10 下脘](./REN10.md)（《灵明颂》）。  
-- 胁部硬痛：[REN12 中脘](./REN12.md) + [ST20 承满](./ST20.md)（《千金方》）。  
-- 下腹气滞血瘀瘕块硬大如盘、胃脘胀满及泻下未消化食物：[REN12 中脘](./REN12.md) + [BL22 三焦俞](./BL22.md)（《千金方》）。  
-- 泻下未消化食物：[REN12 中脘](./REN12.md) + [SP6 三阴交](./SP6.md)（《补命》）。  
-- 腹泻不止：[REN12 中脘](./REN12.md) + [ST25 天枢](./ST25.md) + [REN3 中极](./REN3.md)（《大成》）。  
-- 便血：[REN12 中脘](./REN12.md) + [ST36 足三里](./ST36.md) + [REN6 气海](./REN6.md)（《荣集》）。  
-- 排便难：[REN12 中脘](./REN12.md) + [KID4 大钟](./KID4.md) + [BL33 中膂](./BL33.md) + [REN4 关元](./REN4.md) + [BL56 承筋](./BL56.md) + [LIV3 太冲](./LIV3.md) + [BL57 承山](./BL57.md) + [KID3 太溪](./KID3.md)（《补命》）。  
-- 诸痰病、头风、气喘咳嗽、各类痰饮：[REN12 中脘](./REN12.md) + [ST40 丰隆](./ST40.md)（《医学纲目》）。  
-- 呼吸困难不能行：[REN12 中脘](./REN12.md) + [LIV14 期门](./LIV14.md) + [LI9 上廉](./LI9.md)（《大成》）。  
-- 黄疸伴四肢无力：[REN12 中脘](./REN12.md) + [ST36 足三里](./ST36.md)（《玉龙经》）。  
+- 呕吐：[REN12 中脘](point/REN12.md) + [BL17 膈俞](point/BL17.md) + [LIV13 章门](point/LIV13.md)（《千金方》）。  
+- 吐清水：[REN12 中脘](point/REN12.md) + [REN17 膻中](point/REN17.md) + [PC7 大陵](point/PC7.md) + [PC8 劳宫](point/PC8.md)（《大成》）。  
+- 中腹食滞、刺痛不止：[REN12 中脘](point/REN12.md) + [SP4 公孙](point/SP4.md) + [ST41 解溪](point/ST41.md) + [ST36 足三里](point/ST36.md)（《全集》）。  
+- 腹痛：[REN12 中脘](point/REN12.md) + [PC6 内关](point/PC6.md) + [ST36 足三里](point/ST36.md)（《大成》）。  
+- 腹硬：[REN12 中脘](point/REN12.md) + [REN10 下脘](point/REN10.md)（《灵明颂》）。  
+- 胁部硬痛：[REN12 中脘](point/REN12.md) + [ST20 承满](point/ST20.md)（《千金方》）。  
+- 下腹气滞血瘀瘕块硬大如盘、胃脘胀满及泻下未消化食物：[REN12 中脘](point/REN12.md) + [BL22 三焦俞](point/BL22.md)（《千金方》）。  
+- 泻下未消化食物：[REN12 中脘](point/REN12.md) + [SP6 三阴交](point/SP6.md)（《补命》）。  
+- 腹泻不止：[REN12 中脘](point/REN12.md) + [ST25 天枢](point/ST25.md) + [REN3 中极](point/REN3.md)（《大成》）。  
+- 便血：[REN12 中脘](point/REN12.md) + [ST36 足三里](point/ST36.md) + [REN6 气海](point/REN6.md)（《荣集》）。  
+- 排便难：[REN12 中脘](point/REN12.md) + [KID4 大钟](point/KID4.md) + [BL33 中膂](point/BL33.md) + [REN4 关元](point/REN4.md) + [BL56 承筋](point/BL56.md) + [LIV3 太冲](point/LIV3.md) + [BL57 承山](point/BL57.md) + [KID3 太溪](point/KID3.md)（《补命》）。  
+- 诸痰病、头风、气喘咳嗽、各类痰饮：[REN12 中脘](point/REN12.md) + [ST40 丰隆](point/ST40.md)（《医学纲目》）。  
+- 呼吸困难不能行：[REN12 中脘](point/REN12.md) + [LIV14 期门](point/LIV14.md) + [LI9 上廉](point/LI9.md)（《大成》）。  
+- 黄疸伴四肢无力：[REN12 中脘](point/REN12.md) + [ST36 足三里](point/ST36.md)（《玉龙经》）。  

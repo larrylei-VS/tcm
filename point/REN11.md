@@ -32,7 +32,7 @@ Perpendicular insertion 0.8 to 1.5 cun.
 - Oedema of the abdomen with drum-like distention: Jiànlǐ REN-11 (reduce) and [Shuǐfēn REN-9](https://app.amanualofacupuncture.com/point/REN-9) (Secrets of the Celestial Star).
 
 
-### 1. [REN11 建里](./REN11.md)
+### 1. [REN11 建里](point/REN11.md)
 
 #### 1.1. Strengthen the Interior 建里
 
@@ -64,5 +64,5 @@ Perpendicular insertion 0.8 to 1.5 cun.
 
 #### 1.8. 配伍
 
-- 胸闷：[REN11 建里](./REN11.md) + [PC6 内关](./PC6.md)（《百症赋》）。  
-- 腹部水肿胀如鼓：[REN11 建里](./REN11.md)（泻）+ [REN9 水分](./REN9.md)（《天星秘诀》）。  
+- 胸闷：[REN11 建里](point/REN11.md) + [PC6 内关](point/PC6.md)（《百症赋》）。  
+- 腹部水肿胀如鼓：[REN11 建里](point/REN11.md)（泻）+ [REN9 水分](point/REN9.md)（《天星秘诀》）。  

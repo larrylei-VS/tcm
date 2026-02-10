@@ -37,17 +37,17 @@ As far as leucorrhoea is concerned, it should be noted that although primarily d
 - Seminal emission and retraction of the penis: Dàhè KID-12 and [Rángǔ KID-2](https://app.amanualofacupuncture.com/point/KID-2) (Supplementing Life).
 
 ---
-### **[KID12 大赫](./KID12.md)** (Dàhè)
+### **[KID12 大赫](point/KID12.md)** (Dàhè)
 
 * **英文名称：** Great Luminance
 * **中文名称：** 大赫
 * **国际代码：** KID-12
-* **穴位属性：** **[KID12 大赫](./KID12.md)** 是肾经与冲脉的交会穴。
+* **穴位属性：** **[KID12 大赫](point/KID12.md)** 是肾经与冲脉的交会穴。
 
 #### **定位 (Location)**
 
-位于下腹部，脐下4寸，耻骨联合上缘上方1寸，距中线旁开0.5寸（**[REN3 中极](./REN3.md)** 旁开0.5寸）。
-请参阅**[KID11 横骨](./KID11.md)** 的定位要点。
+位于下腹部，脐下4寸，耻骨联合上缘上方1寸，距中线旁开0.5寸（**[REN3 中极](point/REN3.md)** 旁开0.5寸）。
+请参阅**[KID11 横骨](point/KID11.md)** 的定位要点。
 
 #### **针刺方法 (Needling)**
 
@@ -65,9 +65,9 @@ As far as leucorrhoea is concerned, it should be noted that although primarily d
 
 #### **阐释 (Commentary)**
 
-**[KID12 大赫](./KID12.md)** 固精的作用体现在其治疗遗精和带下方面。
+**[KID12 大赫](point/KID12.md)** 固精的作用体现在其治疗遗精和带下方面。
 
-遗精（精液不自主流失）可能由多种病因引起。射精功能是肝气疏泄条达的一个方面，而肾脏主“精关”。如果热邪过盛（如肝火、心火、肾阴虚生热），会迫使精液妄泄。或者，肾脏固摄功能不足会导致精关不固，引起精液外泄。朱丹溪认为，伴有性梦的遗精“独责于热”，而传统上认为，如果由寒虚引起，则不会有此类梦境。无论病因如何，**[KID12 大赫](./KID12.md)**（像下腹部的其他一些肾经穴位一样）是治疗遗精的重要穴位。
+遗精（精液不自主流失）可能由多种病因引起。射精功能是肝气疏泄条达的一个方面，而肾脏主“精关”。如果热邪过盛（如肝火、心火、肾阴虚生热），会迫使精液妄泄。或者，肾脏固摄功能不足会导致精关不固，引起精液外泄。朱丹溪认为，伴有性梦的遗精“独责于热”，而传统上认为，如果由寒虚引起，则不会有此类梦境。无论病因如何，**[KID12 大赫](point/KID12.md)**（像下腹部的其他一些肾经穴位一样）是治疗遗精的重要穴位。
 
 至于带下，需要注意的是，虽然主要由湿邪、湿热或热毒引起，但带下也可能由肾气或肾阳不足引起，这种带下伴有精气流失，是女性精液流失的对应病症。
 
@@ -78,6 +78,6 @@ As far as leucorrhoea is concerned, it should be noted that although primarily d
 
 #### **穴位组合 (Combinations)**
 
-* 遗精伴阴茎缩引：**[KID12 大赫](./KID12.md)** 和 **[KID2 然谷](./KID2.md)**（《资生经》）。
+* 遗精伴阴茎缩引：**[KID12 大赫](point/KID12.md)** 和 **[KID2 然谷](point/KID2.md)**（《资生经》）。
 
 ---

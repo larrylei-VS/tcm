@@ -33,16 +33,16 @@ Perpendicular insertion 1 to 1.5 cun.
 - Rhinitis with clear nasal discharge: Fùtōnggǔ KID-20, [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4), [Fēngmén BL-12](https://app.amanualofacupuncture.com/point/BL-12), [Shéntíng DU-24](https://app.amanualofacupuncture.com/point/DU-24), [Zǎnzhú BL-2](https://app.amanualofacupuncture.com/point/BL-2), [Yíngxiāng LI-20](https://app.amanualofacupuncture.com/point/LI-20) and [Zhìyīn BL-67](https://app.amanualofacupuncture.com/point/BL-67) (Thousand Ducat Formulas).
 
 ---
-### **[KID20 腹通谷](./KID20.md)** (FÙTŌNGGǓ)
+### **[KID20 腹通谷](point/KID20.md)** (FÙTŌNGGǓ)
 
 * **英文名称：** Abdomen Connecting Valley
 * **中文名称：** 腹通谷
 * **国际代码：** KID-20
-* **穴位属性：** **[KID20 腹通谷](./KID20.md)** 是肾经与冲脉的交会穴。
+* **穴位属性：** **[KID20 腹通谷](point/KID20.md)** 是肾经与冲脉的交会穴。
 
 #### **定位 (Location)**
 
-位于上腹部，脐上5寸，距中线旁开0.5寸（**[REN13 上脘](./REN13.md)** 旁开0.5寸）。
+位于上腹部，脐上5寸，距中线旁开0.5寸（**[REN13 上脘](point/REN13.md)** 旁开0.5寸）。
 
 #### **针刺方法 (Needling)**
 
@@ -64,11 +64,11 @@ Perpendicular insertion 1 to 1.5 cun.
 
 #### **阐释 (Commentary)**
 
-**[KID20 腹通谷](./KID20.md)** 临床上较少使用。其名称“腹通谷”可能指其在腹部，能够通利气机。作为肾经与冲脉的交会穴，它在**调和中焦**、**宽胸化痰**方面具有作用。
+**[KID20 腹通谷](point/KID20.md)** 临床上较少使用。其名称“腹通谷”可能指其在腹部，能够通利气机。作为肾经与冲脉的交会穴，它在**调和中焦**、**宽胸化痰**方面具有作用。
 
 此穴主要用于缓解**消化系统症状**，如呕吐、大便完谷不化、腹胀和腹泻。它对**胸部胀满**、**胁肋部疼痛**、**心痛**以及**咳嗽呼吸困难**等心肺症状也有辅助疗效，这与其宽胸、化痰、理气降逆的功效相关。
 
-此外，**[KID20 腹通谷](./KID20.md)** 也主治**心悸、神志不清、癫痫、暴喑、舌下肿胀伴言语困难、舌体突出、口歪**等精神神经系统和头部五官症状，这可能通过肾经与心、脑、舌等部位的联系来实现。它对颈项不能转动和疟疾也有一定的治疗作用。
+此外，**[KID20 腹通谷](point/KID20.md)** 也主治**心悸、神志不清、癫痫、暴喑、舌下肿胀伴言语困难、舌体突出、口歪**等精神神经系统和头部五官症状，这可能通过肾经与心、脑、舌等部位的联系来实现。它对颈项不能转动和疟疾也有一定的治疗作用。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -77,6 +77,6 @@ Perpendicular insertion 1 to 1.5 cun.
 
 #### **穴位组合 (Combinations)**
 
-* 鼻炎清涕：**[KID20 腹通谷](./KID20.md)**，**[LI4 合谷](./LI4.md)**，**[BL12 风门](./BL12.md)**，**[DU24 神庭](./DU24.md)**，**[BL2 攒竹](./BL2.md)**，**[LI20 迎香](./LI20.md)** 和 **[BL67 至阴](./BL67.md)**（《千金方》）。
+* 鼻炎清涕：**[KID20 腹通谷](point/KID20.md)**，**[LI4 合谷](point/LI4.md)**，**[BL12 风门](point/BL12.md)**，**[DU24 神庭](point/DU24.md)**，**[BL2 攒竹](point/BL2.md)**，**[LI20 迎香](point/LI20.md)** 和 **[BL67 至阴](point/BL67.md)**（《千金方》）。
 
 ---

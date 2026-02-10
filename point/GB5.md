@@ -30,18 +30,18 @@ Transverse insertion 0.5-1.5 cun. See note [Hànyàn GB-4](https://app.amanualo
 
 - One-sided headache: Xuánlú GB-5 and [Hànyàn GB-4](https://app.amanualofacupuncture.com/point/GB-4) (One Hundred Symptoms).
 
-### 1. [GB5 悬颅](./GB5.md)
+### 1. [GB5 悬颅](point/GB5.md)
 
 
 - 胆经、胃经、三焦经和大肠经的交会穴
 
 #### 1.2. 定位
 
-位于颞区，发际内，在[ST8 头维](./ST8.md)与[GB7 曲鬓](./GB7.md)之间中点。
+位于颞区，发际内，在[ST8 头维](point/ST8.md)与[GB7 曲鬓](point/GB7.md)之间中点。
 
 #### 1.3. 针刺方法
 
-横刺，深0.5至1.5寸。参见[GB4 颔厌](./GB4.md)的针刺说明。
+横刺，深0.5至1.5寸。参见[GB4 颔厌](point/GB4.md)的针刺说明。
 
 #### 1.4. 作用
 
@@ -60,4 +60,4 @@ Transverse insertion 0.5-1.5 cun. See note [Hànyàn GB-4](https://app.amanualo
 
 #### 1.7. 配伍
 
-- 偏头痛：[GB5 悬颅](./GB5.md) + [GB4 颔厌](./GB4.md)（《百症赋》）。
+- 偏头痛：[GB5 悬颅](point/GB5.md) + [GB4 颔厌](point/GB4.md)（《百症赋》）。

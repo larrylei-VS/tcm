@@ -47,7 +47,7 @@ In addition to its ability to treat ear disorders, Tīnghuì GB-2 is able to e
 - Tinnitus: Tīnghuì GB-2, [Tīnggōng SI-19](https://app.amanualofacupuncture.com/point/SI-19), [Ěrmén SJ-21](https://app.amanualofacupuncture.com/point/SJ-21), [Bǎihuì DU-20](https://app.amanualofacupuncture.com/point/DU-20), [Luòquè BL-8](https://app.amanualofacupuncture.com/point/BL-8), [Yángxī LI-5](https://app.amanualofacupuncture.com/point/LI-5), [Qiángǔ SI-2](https://app.amanualofacupuncture.com/point/SI-2), [Hòuxī SI-3](https://app.amanualofacupuncture.com/point/SI-3), [Wàngǔ SI-4](https://app.amanualofacupuncture.com/point/SI-4), [Zhōngzhǔ SJ-3](https://app.amanualofacupuncture.com/point/SJ-3), [Yèmén SJ-2](https://app.amanualofacupuncture.com/point/SJ-2), [Shāngyáng LI-1](https://app.amanualofacupuncture.com/point/LI-1) and [Shènshū BL-23](https://app.amanualofacupuncture.com/point/BL-23) (Great Compendium).
 - Toothache with aversion to cold: Tīnghuì GB-2, [Dàyíng ST-5](https://app.amanualofacupuncture.com/point/ST-5), [Quánliáo SI-18](https://app.amanualofacupuncture.com/point/SI-18) and [Qūchí LI-11](https://app.amanualofacupuncture.com/point/LI-11) (Thousand Ducat Formulas).
 - Deviation of the mouth and eye: Tīnghuì GB-2, [Jiáchē ST-6](https://app.amanualofacupuncture.com/point/ST-6), [Dìcāng ST-4](https://app.amanualofacupuncture.com/point/ST-4) [Rénzhōng DU-26](https://app.amanualofacupuncture.com/point/DU-26), [Chéngjiāng REN-24](https://app.amanualofacupuncture.com/point/REN-24) and [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4) (Illustrated Supplement).
-### 1. [GB2 听会](./GB2.md)
+### 1. [GB2 听会](point/GB2.md)
 
 
 #### 1.2. 定位
@@ -74,9 +74,9 @@ In addition to its ability to treat ear disorders, Tīnghuì GB-2 is able to e
 
 #### 1.7. 论述
 
-耳屏前有三个穴位：下方为[GB2 听会](./GB2.md)，上方为[SJ21 耳门](./SJ21.md)，中央为[SI19 听宫](./SI19.md)。这三穴常用于治疗多种耳疾，包括耳鸣、耳聋、疼痛、瘙痒和分泌物。由于这些穴位位置接近且主治相似，临床上难以明确区分，针灸师可能根据个人偏好选择使用。若需定期针刺耳周穴位，应轮换使用这三穴。
+耳屏前有三个穴位：下方为[GB2 听会](point/GB2.md)，上方为[SJ21 耳门](point/SJ21.md)，中央为[SI19 听宫](point/SI19.md)。这三穴常用于治疗多种耳疾，包括耳鸣、耳聋、疼痛、瘙痒和分泌物。由于这些穴位位置接近且主治相似，临床上难以明确区分，针灸师可能根据个人偏好选择使用。若需定期针刺耳周穴位，应轮换使用这三穴。
 
-除了治疗耳疾外，[GB2 听会](./GB2.md)还能祛风并活络周围区域，适用于口眼歪斜、腮腺炎、牙痛、咀嚼困难及其他下颌疾患。
+除了治疗耳疾外，[GB2 听会](point/GB2.md)还能祛风并活络周围区域，适用于口眼歪斜、腮腺炎、牙痛、咀嚼困难及其他下颌疾患。
 
 #### 1.8. 临床应用总结
 
@@ -85,13 +85,13 @@ In addition to its ability to treat ear disorders, Tīnghuì GB-2 is able to e
 
 #### 1.9. 配伍
 
-- 耳肿痛红：[GB2 听会](./GB2.md) + [LI4 合谷](./LI4.md) + [ST6 颊车](./ST6.md)（《大成》）。
-- 气阻引起的耳聋：[GB2 听会](./GB2.md) + [SI19 听宫](./SI19.md) + [SJ17 翳风](./SJ17.md)；然后针[ST36 足三里](./ST36.md) + [LI4 合谷](./LI4.md)（《大成》）。
-- 耳聋耳鸣：[GB2 听会](./GB2.md) + [SI17 天容](./SI17.md) + [SI19 听宫](./SI19.md) + [SJ3 中渚](./SJ3.md)（《千金方》）。
-- 耳聋：[GB2 听会](./GB2.md) + [SJ3 中渚](./SJ3.md) + [SJ5 外关](./SJ5.md) + [SJ22 耳和髎](./SJ22.md) + [LI1 商阳](./LI1.md) + [SI19 听宫](./SI19.md) + [LI4 合谷](./LI4.md) + [PC9 中冲](./PC9.md)（《宝鉴》）。
-- 听力减退及耳聋：[GB2 听会](./GB2.md) + [SJ21 耳门](./SJ21.md) + [GB20 风池](./GB20.md) + [GB43 侠溪](./GB43.md) + [SI19 听宫](./SI19.md)（《大成》）。
-- 听力减退及耳聋：[GB2 听会](./GB2.md) + [SJ5 外关](./SJ5.md)（《补命》）。
-- 寒伤引起的双侧耳聋：[GB2 听会](./GB2.md) + [BL63 金门](./BL63.md)（《西弘赋》）。
-- 耳鸣：[GB2 听会](./GB2.md) + [SI19 听宫](./SI19.md) + [SJ21 耳门](./SJ21.md) + [DU20 百会](./DU20.md) + [BL8 络却](./BL8.md) + [LI5 阳溪](./LI5.md) + [SI2 前谷](./SI2.md) + [SI3 后溪](./SI3.md) + [SI4 腕骨](./SI4.md) + [SJ3 中渚](./SJ3.md) + [SJ2 液门](./SJ2.md) + [LI1 商阳](./LI1.md) + [BL23 肾俞](./BL23.md)（《大成》）。
-- 牙痛伴畏冷：[GB2 听会](./GB2.md) + [ST5 大迎](./ST5.md) + [SI18 颧髎](./SI18.md) + [LI11 曲池](./LI11.md)（《千金方》）。
-- 口眼歪斜：[GB2 听会](./GB2.md) + [ST6 颊车](./ST6.md) + [ST4 地仓](./ST4.md) + [DU26 人中](./DU26.md) + [REN24 承浆](./REN24.md) + [LI4 合谷](./LI4.md)（《图翼》）。
+- 耳肿痛红：[GB2 听会](point/GB2.md) + [LI4 合谷](point/LI4.md) + [ST6 颊车](point/ST6.md)（《大成》）。
+- 气阻引起的耳聋：[GB2 听会](point/GB2.md) + [SI19 听宫](point/SI19.md) + [SJ17 翳风](point/SJ17.md)；然后针[ST36 足三里](point/ST36.md) + [LI4 合谷](point/LI4.md)（《大成》）。
+- 耳聋耳鸣：[GB2 听会](point/GB2.md) + [SI17 天容](point/SI17.md) + [SI19 听宫](point/SI19.md) + [SJ3 中渚](point/SJ3.md)（《千金方》）。
+- 耳聋：[GB2 听会](point/GB2.md) + [SJ3 中渚](point/SJ3.md) + [SJ5 外关](point/SJ5.md) + [SJ22 耳和髎](point/SJ22.md) + [LI1 商阳](point/LI1.md) + [SI19 听宫](point/SI19.md) + [LI4 合谷](point/LI4.md) + [PC9 中冲](point/PC9.md)（《宝鉴》）。
+- 听力减退及耳聋：[GB2 听会](point/GB2.md) + [SJ21 耳门](point/SJ21.md) + [GB20 风池](point/GB20.md) + [GB43 侠溪](point/GB43.md) + [SI19 听宫](point/SI19.md)（《大成》）。
+- 听力减退及耳聋：[GB2 听会](point/GB2.md) + [SJ5 外关](point/SJ5.md)（《补命》）。
+- 寒伤引起的双侧耳聋：[GB2 听会](point/GB2.md) + [BL63 金门](point/BL63.md)（《西弘赋》）。
+- 耳鸣：[GB2 听会](point/GB2.md) + [SI19 听宫](point/SI19.md) + [SJ21 耳门](point/SJ21.md) + [DU20 百会](point/DU20.md) + [BL8 络却](point/BL8.md) + [LI5 阳溪](point/LI5.md) + [SI2 前谷](point/SI2.md) + [SI3 后溪](point/SI3.md) + [SI4 腕骨](point/SI4.md) + [SJ3 中渚](point/SJ3.md) + [SJ2 液门](point/SJ2.md) + [LI1 商阳](point/LI1.md) + [BL23 肾俞](point/BL23.md)（《大成》）。
+- 牙痛伴畏冷：[GB2 听会](point/GB2.md) + [ST5 大迎](point/ST5.md) + [SI18 颧髎](point/SI18.md) + [LI11 曲池](point/LI11.md)（《千金方》）。
+- 口眼歪斜：[GB2 听会](point/GB2.md) + [ST6 颊车](point/ST6.md) + [ST4 地仓](point/ST4.md) + [DU26 人中](point/DU26.md) + [REN24 承浆](point/REN24.md) + [LI4 合谷](point/LI4.md)（《图翼》）。

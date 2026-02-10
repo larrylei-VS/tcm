@@ -43,16 +43,16 @@ Jiāoxìn KID-8 has a secondary action of draining damp-heat from the lower jia
 - Hip pain: Jiāoxìn KID-8, [Huántiào GB-30](https://app.amanualofacupuncture.com/point/GB-30), [Shùgǔ BL-65](https://app.amanualofacupuncture.com/point/BL-65), [Sānyīnjiāo SP-6](https://app.amanualofacupuncture.com/point/SP-6) and [Yīngǔ KID-10](https://app.amanualofacupuncture.com/point/KID-10) (Thousand Ducat Formulas).
 
 
-### **[KID8 交信](./KID8.md)** (Jiāoxìn)
+### **[KID8 交信](point/KID8.md)** (Jiāoxìn)
 
 * **英文名称：** Exchange Belief
 * **中文名称：** 交信
 * **国际代码：** KID-8
-* **穴位属性：** **[KID8 交信](./KID8.md)** 是阴跷脉的郄穴。
+* **穴位属性：** **[KID8 交信](point/KID8.md)** 是阴跷脉的郄穴。
 
 #### **定位 (Location)**
 
-位于小腿内侧，**[KID3 太溪](./KID3.md)** 上方2寸，**[KID7 复溜](./KID7.md)** 前方0.5寸，胫骨内侧缘后方。
+位于小腿内侧，**[KID3 太溪](point/KID3.md)** 上方2寸，**[KID7 复溜](point/KID7.md)** 前方0.5寸，胫骨内侧缘后方。
 
 #### **针刺方法 (Needling)**
 
@@ -73,11 +73,11 @@ Jiāoxìn KID-8 has a secondary action of draining damp-heat from the lower jia
 
 #### **阐释 (Commentary)**
 
-**[KID8 交信](./KID8.md)** 是阴跷脉的郄穴，阴跷脉源于**[KID6 照海](./KID6.md)**。阴经的郄穴具有治疗血症的特殊作用，特别是活血化瘀、清热凉血和止血。虽然阴跷脉不直接入子宫，但像所有奇经八脉一样，它与肾脏关系密切。根据《素问·水热穴论》记载：“胞脉者，系于肾”。汉代名医华佗强调肾脏在固摄子宫血液方面的作用，他说肾脏“男子则藏精，女子则系胞”。**[KID8 交信](./KID8.md)** 主治多种月经失调，尤以**子宫出血**为主。
+**[KID8 交信](point/KID8.md)** 是阴跷脉的郄穴，阴跷脉源于**[KID6 照海](point/KID6.md)**。阴经的郄穴具有治疗血症的特殊作用，特别是活血化瘀、清热凉血和止血。虽然阴跷脉不直接入子宫，但像所有奇经八脉一样，它与肾脏关系密切。根据《素问·水热穴论》记载：“胞脉者，系于肾”。汉代名医华佗强调肾脏在固摄子宫血液方面的作用，他说肾脏“男子则藏精，女子则系胞”。**[KID8 交信](point/KID8.md)** 主治多种月经失调，尤以**子宫出血**为主。
 
-子宫出血的病因多种多样。如果肾脏因过早的性生活、性生活过度、多次妊娠等原因受损，则可能出现肾阴虚或肾阳虚，导致任脉和冲脉不固。**[KID8 交信](./KID8.md)** 主要主治虚证型子宫出血，特别是肾虚引起的，但其作为郄穴的地位和次要的清利湿热作用，使其也适用于血瘀、热血妄行和湿热引起的子宫出血。
+子宫出血的病因多种多样。如果肾脏因过早的性生活、性生活过度、多次妊娠等原因受损，则可能出现肾阴虚或肾阳虚，导致任脉和冲脉不固。**[KID8 交信](point/KID8.md)** 主要主治虚证型子宫出血，特别是肾虚引起的，但其作为郄穴的地位和次要的清利湿热作用，使其也适用于血瘀、热血妄行和湿热引起的子宫出血。
 
-**[KID8 交信](./KID8.md)** 具有清利下焦湿热的次要作用。在生殖器区域，它能治疗瘙痒、肿胀、多汗和疼痛等疾病。在泌尿系统方面，它能促进排尿，清热，用于治疗尿潴留、小便不利和淋证（特别是气淋）。在肠道方面，它主治腹泻、痢疾和排便困难。
+**[KID8 交信](point/KID8.md)** 具有清利下焦湿热的次要作用。在生殖器区域，它能治疗瘙痒、肿胀、多汗和疼痛等疾病。在泌尿系统方面，它能促进排尿，清热，用于治疗尿潴留、小便不利和淋证（特别是气淋）。在肠道方面，它主治腹泻、痢疾和排便困难。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -86,8 +86,8 @@ Jiāoxìn KID-8 has a secondary action of draining damp-heat from the lower jia
 
 #### **穴位组合 (Combinations)**
 
-* 崩漏不止：**[KID8 交信](./KID8.md)**，**[KID10 阴谷](./KID10.md)**，**[LIV3 太冲](./LIV3.md)** 和 **[SP6 三阴交](./SP6.md)**（《资生经》）。
-* 气虚崩漏：**[KID8 交信](./KID8.md)** 和 **[BL55 合阳](./BL55.md)**（《百症赋》）。
-* 髋部疼痛：**[KID8 交信](./KID8.md)**，**[GB30 环跳](./GB30.md)**，**[BL65 束骨](./BL65.md)**，**[SP6 三阴交](./SP6.md)** 和 **[KID10 阴谷](./KID10.md)**（《千金方》）。
+* 崩漏不止：**[KID8 交信](point/KID8.md)**，**[KID10 阴谷](point/KID10.md)**，**[LIV3 太冲](point/LIV3.md)** 和 **[SP6 三阴交](point/SP6.md)**（《资生经》）。
+* 气虚崩漏：**[KID8 交信](point/KID8.md)** 和 **[BL55 合阳](point/BL55.md)**（《百症赋》）。
+* 髋部疼痛：**[KID8 交信](point/KID8.md)**，**[GB30 环跳](point/GB30.md)**，**[BL65 束骨](point/BL65.md)**，**[SP6 三阴交](point/SP6.md)** 和 **[KID10 阴谷](point/KID10.md)**（《千金方》）。
 
 ---

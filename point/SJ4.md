@@ -44,19 +44,19 @@ Finally, in learning the names of the points of the yang channels at the wrist, 
 
 - Contraction of the arm with tightness of the sinews of both hands resulting in inability to open the hands: Yángchí SJ-4, Qūchí LI-11, Chǐzé LU-5, Hégǔ LI-4 and Zhōngzhǔ SJ-3 (Great Compendium).
 
-### **[SJ4 阳池](./SJ4.md)** (Yángchí)
+### **[SJ4 阳池](point/SJ4.md)** (Yángchí)
 
 * **英文名称：** Yang Pool
 * **中文名称：** 阳池
 * **国际代码：** SJ-4
-* **穴位属性：** **[SJ4 阳池](./SJ4.md)** 是三焦经的原穴。
+* **穴位属性：** **[SJ4 阳池](point/SJ4.md)** 是三焦经的原穴。
 
 #### **定位 (Location)**
 
 位于腕关节背侧，平腕关节，在指总伸肌腱与小指伸肌腱之间的凹陷中。
 
 * **定位要点 (Location Notes):**
-    * 沿第四、第五掌骨间隙从**[SJ3 中渚](./SJ3.md)** 向近端滑动手指，直到落入腕关节水平的凹陷中。通过伸展手腕和手指，此凹陷可能更清晰，但随后应在肌腱放松的情况下针刺。
+    * 沿第四、第五掌骨间隙从**[SJ3 中渚](point/SJ3.md)** 向近端滑动手指，直到落入腕关节水平的凹陷中。通过伸展手腕和手指，此凹陷可能更清晰，但随后应在肌腱放松的情况下针刺。
 
 #### **针刺方法 (Needling)**
 
@@ -77,19 +77,19 @@ Finally, in learning the names of the points of the yang channels at the wrist, 
 
 #### **阐释 (Commentary)**
 
-《难经》记载：“三焦者，原气之别使也……原气之所止，名曰原穴。”此段经文因此暗示原气寓于原穴，且三焦是原气的传输者。因此，作为三焦经的原穴，**[SJ4 阳池](./SJ4.md)** 理应是补益原气治疗虚证的重要穴位，在日本针灸传统中正是为此目的而使用。也有人认为**[SJ4 阳池](./SJ4.md)** 能有效调理任脉和冲脉以治疗月经不调。然而，考察中国经典中关于**[SJ4 阳池](./SJ4.md)** 使用的记载，可得出以下观察：i. 它很少出现在传统组合中；ii. 很少有主治或组合反映其补虚的疗效；iii. 它没有妇科主治。同样值得注意的是，**[SJ6 支沟](./SJ6.md)** 而非**[SJ4 阳池](./SJ4.md)** 主治“女性任脉不通”。
+《难经》记载：“三焦者，原气之别使也……原气之所止，名曰原穴。”此段经文因此暗示原气寓于原穴，且三焦是原气的传输者。因此，作为三焦经的原穴，**[SJ4 阳池](point/SJ4.md)** 理应是补益原气治疗虚证的重要穴位，在日本针灸传统中正是为此目的而使用。也有人认为**[SJ4 阳池](point/SJ4.md)** 能有效调理任脉和冲脉以治疗月经不调。然而，考察中国经典中关于**[SJ4 阳池](point/SJ4.md)** 使用的记载，可得出以下观察：i. 它很少出现在传统组合中；ii. 很少有主治或组合反映其补虚的疗效；iii. 它没有妇科主治。同样值得注意的是，**[SJ6 支沟](point/SJ6.md)** 而非**[SJ4 阳池](point/SJ4.md)** 主治“女性任脉不通”。
 
-在临床实践中，**[SJ4 阳池](./SJ4.md)** 主要用于**腕关节**的局部疾病，包括红肿、无力疼痛。
+在临床实践中，**[SJ4 阳池](point/SJ4.md)** 主要用于**腕关节**的局部疾病，包括红肿、无力疼痛。
 
-最后，在学习腕部阳经穴位名称时，记住它们的相似性很有帮助：**[LI5 阳溪](./LI5.md)** (Yang Stream)，**[SI5 阳谷](./SI5.md)** (Yang Valley) 和 **[SJ4 阳池](./SJ4.md)** (Yang Pool)。
+最后，在学习腕部阳经穴位名称时，记住它们的相似性很有帮助：**[LI5 阳溪](point/LI5.md)** (Yang Stream)，**[SI5 阳谷](point/SI5.md)** (Yang Valley) 和 **[SJ4 阳池](point/SJ4.md)** (Yang Pool)。
 
 #### **临床应用总结 (Summary of clinical application)**
 
 * 治疗**腕关节**的局部疾病，包括红肿、无力疼痛。
-* 在学习腕部阳经穴位名称时，记住它们的相似性很有帮助：**[LI5 阳溪](./LI5.md)** (Yang Stream)，**[SI5 阳谷](./SI5.md)** (Yang Valley) 和 **[SJ4 阳池](./SJ4.md)** (Yang Pool)。
+* 在学习腕部阳经穴位名称时，记住它们的相似性很有帮助：**[LI5 阳溪](point/LI5.md)** (Yang Stream)，**[SI5 阳谷](point/SI5.md)** (Yang Valley) 和 **[SJ4 阳池](point/SJ4.md)** (Yang Pool)。
 
 #### **穴位组合 (Combinations)**
 
-* 手臂拘急，双手筋脉挛急不能开合：**[SJ4 阳池](./SJ4.md)**，**[LI11 曲池](./LI11.md)**，**[LU5 尺泽](./LU5.md)**，**[LI4 合谷](./LI4.md)** 和 **[SJ3 中渚](./SJ3.md)**（《针灸大成》）。
+* 手臂拘急，双手筋脉挛急不能开合：**[SJ4 阳池](point/SJ4.md)**，**[LI11 曲池](point/LI11.md)**，**[LU5 尺泽](point/LU5.md)**，**[LI4 合谷](point/LI4.md)** 和 **[SJ3 中渚](point/SJ3.md)**（《针灸大成》）。
 
 ---

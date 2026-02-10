@@ -51,7 +51,7 @@ In the Spiritual Pivot [20](https://app.amanualofacupuncture.com/book/pages/ch
 - Dysenteric disorder: Jiūwéi REN-15 and [Bǎihuì DU-20](https://app.amanualofacupuncture.com/point/DU-20) (Ode of Spiritual Brightness).
 
 
-### 1. [REN15 鸠尾](./REN15.md)
+### 1. [REN15 鸠尾](point/REN15.md)
 
 #### 1.1. Turtledove Tail 鳩尾
 
@@ -89,11 +89,11 @@ In the Spiritual Pivot [20](https://app.amanualofacupuncture.com/book/pages/ch
 
 #### 1.7. 论述
 
-[REN15 鸠尾](./REN15.md)为任脉络穴，任脉之气由此散布下行至腹部。其名“鸠尾”反映剑突形似鸠尾，两侧肋骨如翼。历史上，[REN1 会阴](./REN1.md)是否为任脉络穴存争议。《灵枢》称任脉络穴为“尾翳”（[REN15 鸠尾](./REN15.md)别名），列其实证（腹部皮肤痛）与虚证（腹部皮肤瘙痒）。后经典如《针灸系统经典》及《针灸大成》称任脉络穴为“平翳”（[REN1 会阴](./REN1.md)别名），将此虚实症状归于该穴。若[REN1 会阴](./REN1.md)为任脉络穴，与[DU1 长强](./DU1.md)为督脉络穴形成对称。  
+[REN15 鸠尾](point/REN15.md)为任脉络穴，任脉之气由此散布下行至腹部。其名“鸠尾”反映剑突形似鸠尾，两侧肋骨如翼。历史上，[REN1 会阴](point/REN1.md)是否为任脉络穴存争议。《灵枢》称任脉络穴为“尾翳”（[REN15 鸠尾](point/REN15.md)别名），列其实证（腹部皮肤痛）与虚证（腹部皮肤瘙痒）。后经典如《针灸系统经典》及《针灸大成》称任脉络穴为“平翳”（[REN1 会阴](point/REN1.md)别名），将此虚实症状归于该穴。若[REN1 会阴](point/REN1.md)为任脉络穴，与[DU1 长强](point/DU1.md)为督脉络穴形成对称。  
 
-如[REN14 巨阙](./REN14.md)（心募穴），[REN15 鸠尾](./REN15.md)强效于痰蒙心窍时的定神（癫痫、躁狂、狂歌狂走、厌闻人语），及调心区气血瘀滞引起的抑感与痛。它亦似[REN14 巨阙](./REN14.md)，能调降肺气，用于喘鸣、咳嗽、呼吸困难等。  
+如[REN14 巨阙](point/REN14.md)（心募穴），[REN15 鸠尾](point/REN15.md)强效于痰蒙心窍时的定神（癫痫、躁狂、狂歌狂走、厌闻人语），及调心区气血瘀滞引起的抑感与痛。它亦似[REN14 巨阙](point/REN14.md)，能调降肺气，用于喘鸣、咳嗽、呼吸困难等。  
 
-《灵枢》列[REN15 鸠尾](./REN15.md)为“膏”之原穴。“膏”同[BL43 膏肓俞](./BL43.md)之“膏”，指心下区，“肓”指膈上。病入膏肓难治。《春秋左氏传》述晋侯病重，请医者易桓诊之，桓称病在膏肓（心与膈间），“不可攻，不可达，药不至，无能为也”。尽管《灵枢》暗示“膏”起于[REN15 鸠尾](./REN15.md)，此穴通常不用于深层慢性虚病，仅相关指征为“气虚”及“青年过度性行为致虚竭”。  
+《灵枢》列[REN15 鸠尾](point/REN15.md)为“膏”之原穴。“膏”同[BL43 膏肓俞](point/BL43.md)之“膏”，指心下区，“肓”指膈上。病入膏肓难治。《春秋左氏传》述晋侯病重，请医者易桓诊之，桓称病在膏肓（心与膈间），“不可攻，不可达，药不至，无能为也”。尽管《灵枢》暗示“膏”起于[REN15 鸠尾](point/REN15.md)，此穴通常不用于深层慢性虚病，仅相关指征为“气虚”及“青年过度性行为致虚竭”。  
 
 #### 1.8. 临床应用总结
 
@@ -102,8 +102,8 @@ In the Spiritual Pivot [20](https://app.amanualofacupuncture.com/book/pages/ch
 
 #### 1.9. 配伍
 
-- 五种癫痫：[REN15 鸠尾](./REN15.md) + [SI3 后溪](./SI3.md) + [HE7 神门](./HE7.md)（《玉机歌》）。  
-- 咳嗽吐血：[REN15 鸠尾](./REN15.md) + [BL18 肝俞](./BL18.md) + [ST12 缺盆](./ST12.md) + [BL15 心俞](./BL15.md) + [REN14 巨阙](./REN14.md)（《补命》）。  
-- 小儿直肠脱垂：灸[REN15 鸠尾](./REN15.md) + [DU20 百会](./DU20.md)（《西弘颂》）。  
-- 直肠脱垂：[REN15 鸠尾](./REN15.md) + [DU20 百会](./DU20.md)（《百症赋》）。  
-- 痢疾：[REN15 鸠尾](./REN15.md) + [DU20 百会](./DU20.md)（《灵明颂》）。  
+- 五种癫痫：[REN15 鸠尾](point/REN15.md) + [SI3 后溪](point/SI3.md) + [HE7 神门](point/HE7.md)（《玉机歌》）。  
+- 咳嗽吐血：[REN15 鸠尾](point/REN15.md) + [BL18 肝俞](point/BL18.md) + [ST12 缺盆](point/ST12.md) + [BL15 心俞](point/BL15.md) + [REN14 巨阙](point/REN14.md)（《补命》）。  
+- 小儿直肠脱垂：灸[REN15 鸠尾](point/REN15.md) + [DU20 百会](point/DU20.md)（《西弘颂》）。  
+- 直肠脱垂：[REN15 鸠尾](point/REN15.md) + [DU20 百会](point/DU20.md)（《百症赋》）。  
+- 痢疾：[REN15 鸠尾](point/REN15.md) + [DU20 百会](point/DU20.md)（《灵明颂》）。  

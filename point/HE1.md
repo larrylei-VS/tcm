@@ -45,7 +45,7 @@ The axillary region may be viewed as a gateway for the circulation of qi and blo
 - Loss of use of the four limbs: Jíquán HE-1, [Rìyuè GB‑24](https://app.amanualofacupuncture.com/point/GB-24) and [Píshū BL-20](https://app.amanualofacupuncture.com/point/BL-20) (Supplementing Life).
 
 ---
-### **[HE1 极泉](./HE1.md)** (JÍQUÁN)
+### **[HE1 极泉](point/HE1.md)** (JÍQUÁN)
 
 * **英文名称：** Summit Spring
 * **中文名称：** 极泉
@@ -60,7 +60,7 @@ The axillary region may be viewed as a gateway for the circulation of qi and blo
 
 #### **针刺方法 (Needling)**
 
-垂直刺（朝向 **[GB21 肩井](./GB21.md)** 方向）0.5至1寸，避开腋动脉。
+垂直刺（朝向 **[GB21 肩井](point/GB21.md)** 方向）0.5至1寸，避开腋动脉。
 
 * **注意 (Caution):** 向内侧刺向胸部可能刺破肺脏。
 
@@ -76,11 +76,11 @@ The axillary region may be viewed as a gateway for the circulation of qi and blo
 
 #### **阐释 (Commentary)**
 
-**[HE1 极泉](./HE1.md)** 是心经的第一个穴位，是心气及其周围血管涌出的地方。它位于腋窝中央，是心与胸部和手臂之间的交通枢纽，对这两个区域都有作用。
+**[HE1 极泉](point/HE1.md)** 是心经的第一个穴位，是心气及其周围血管涌出的地方。它位于腋窝中央，是心与胸部和手臂之间的交通枢纽，对这两个区域都有作用。
 
 在胸部和胁肋部，它能促进气机运行，缓解疼痛，主治胁肋部胀满，胸痛和气短。在心脏本身，它治疗表现为心痹痛和心痛伴干呕的疼痛。
 
-当心阳衰退，伴随血瘀时，气血不能维持在手臂经络血管中的循环，导致麻木；如果阳气的温煦功能受损，则会出现寒冷和疼痛。通过促进气血在整个手臂的循环，**[HE1 极泉](./HE1.md)** 能够治疗这些疾病。
+当心阳衰退，伴随血瘀时，气血不能维持在手臂经络血管中的循环，导致麻木；如果阳气的温煦功能受损，则会出现寒冷和疼痛。通过促进气血在整个手臂的循环，**[HE1 极泉](point/HE1.md)** 能够治疗这些疾病。
 
 腋窝区域可视为气血通过手臂循环的“门户”，这在穴位名称“极泉”中有所暗示。在气功练习和冥想中，保持腋窝微开对于维持气血在上肢的自由流动至关重要。因此有“立如平准，坐如含卵”之说，腋下“含卵”即指腋窝留有空间。因此，即使在长时间静坐时，手臂和手也能保持温暖。
 
@@ -91,8 +91,8 @@ The axillary region may be viewed as a gateway for the circulation of qi and blo
 
 #### **穴位组合 (Combinations)**
 
-* 心痛伴干呕，烦躁胀满：**[HE1 极泉](./HE1.md)** 和 **[PC4 郄门](./PC4.md)**（《资生经》）。
-* 咽喉干燥：**[HE1 极泉](./HE1.md)**，**[LU9 太渊](./LU9.md)**，**[LI6 偏历](./LI6.md)**，**[LIV3 太冲](./LIV3.md)** 和 **[REN22 天突](./REN22.md)**（《资生经》）。
-* 四肢痿废不用：**[HE1 极泉](./HE1.md)**，**[GB24 日月](./GB24.md)** 和 **[BL20 脾俞](./BL20.md)**（《资生经》）。
+* 心痛伴干呕，烦躁胀满：**[HE1 极泉](point/HE1.md)** 和 **[PC4 郄门](point/PC4.md)**（《资生经》）。
+* 咽喉干燥：**[HE1 极泉](point/HE1.md)**，**[LU9 太渊](point/LU9.md)**，**[LI6 偏历](point/LI6.md)**，**[LIV3 太冲](point/LIV3.md)** 和 **[REN22 天突](point/REN22.md)**（《资生经》）。
+* 四肢痿废不用：**[HE1 极泉](point/HE1.md)**，**[GB24 日月](point/GB24.md)** 和 **[BL20 脾俞](point/BL20.md)**（《资生经》）。
 
 ---

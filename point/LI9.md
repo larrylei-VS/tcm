@@ -37,7 +37,7 @@ See discussion of [Xiàlián LI-8](https://app.amanualofacupuncture.com/point/L
 - Fullness of the abdomen and lateral costal region: Shànglián LI-9, [Yánglíngquán GB-34](https://app.amanualofacupuncture.com/point/GB-34) and [Zúlínqì GB-41](https://app.amanualofacupuncture.com/point/GB-41) (Great Compendium).
 - Dyspnoea with inability to walk: Shànglián LI-9, [Qímén LIV-14](https://app.amanualofacupuncture.com/point/LIV-14) and [Zhōngwǎn REN-12](https://app.amanualofacupuncture.com/point/REN-12) (Great Compendium).
 
-### [LI9 上廉](./LI9.md) (SHÀNGLIÁN)
+### [LI9 上廉](point/LI9.md) (SHÀNGLIÁN)
 
 - **英文名称：** Upper Angle
 - **中文名称：** 上廉
@@ -45,11 +45,11 @@ See discussion of [Xiàlián LI-8](https://app.amanualofacupuncture.com/point/L
 
 #### 定位 (Location)
 
-位于前臂桡侧，在连接[LI11 曲池](./LI11.md) 与[LI5 阳溪](./LI5.md) 的连线上，距[LI11 曲池](./LI11.md) 下方3寸。
+位于前臂桡侧，在连接[LI11 曲池](point/LI11.md) 与[LI5 阳溪](point/LI5.md) 的连线上，距[LI11 曲池](point/LI11.md) 下方3寸。
 
 - **定位要点 (Location Notes):**
     - 屈肘，手臂桡侧向上时取穴；
-    - 将[LI5 阳溪](./LI5.md) 和[LI11 曲池](./LI11.md) 之间的距离平均分成两份，然后取此中点与[LI11 曲池](./LI11.md) 之间距离的一半处（距离[LI11 曲池](./LI11.md) 3寸处）。
+    - 将[LI5 阳溪](point/LI5.md) 和[LI11 曲池](point/LI11.md) 之间的距离平均分成两份，然后取此中点与[LI11 曲池](point/LI11.md) 之间距离的一半处（距离[LI11 曲池](point/LI11.md) 3寸处）。
 
 #### 针刺方法 (Needling)
 
@@ -57,7 +57,7 @@ See discussion of [Xiàlián LI-8](https://app.amanualofacupuncture.com/point/L
 
 #### 作用 (Actions)
 
-- 调和[大肠](./大肠.md)
+- 调和[大肠](point/大肠.md)
 - 通经活络，止痛
 
 #### 主治病症 (Indications)
@@ -70,7 +70,7 @@ See discussion of [Xiàlián LI-8](https://app.amanualofacupuncture.com/point/L
 
 #### 阐释 (Commentary)
 
-参阅[LI8 下廉](./LI8.md) 的阐释。[LI9 上廉](./LI9.md) (Upper Angle) 与[LI8 下廉](./LI8.md) (Lower Angle) 对应下肢的大肠经下合穴[ST37 上巨虚](./ST37.md) (Upper Great Void) 和小肠经下合穴[ST39 下巨虚](./ST39.md) (Lower Great Void)。[LI9 上廉](./LI9.md) 主治大肠疾病，尽管临床上较少使用。
+参阅[LI8 下廉](point/LI8.md) 的阐释。[LI9 上廉](point/LI9.md) (Upper Angle) 与[LI8 下廉](point/LI8.md) (Lower Angle) 对应下肢的大肠经下合穴[ST37 上巨虚](point/ST37.md) (Upper Great Void) 和小肠经下合穴[ST39 下巨虚](point/ST39.md) (Lower Great Void)。[LI9 上廉](point/LI9.md) 主治大肠疾病，尽管临床上较少使用。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -78,12 +78,12 @@ See discussion of [Xiàlián LI-8](https://app.amanualofacupuncture.com/point/L
 
 通经活络，止痛：治疗肩、肘、臂疼痛或麻木，肢体麻木，中风偏瘫。
 
-注意，[LI9 上廉](./LI9.md) 是位于上肢，对应于腿部大肠经下合穴[ST37 上巨虚](./ST37.md)。
+注意，[LI9 上廉](point/LI9.md) 是位于上肢，对应于腿部大肠经下合穴[ST37 上巨虚](point/ST37.md)。
 
 #### 穴位组合 (Combinations)
 
-腹部和胁肋部胀满：[LI9 上廉](./LI9.md)，[GB34 阳陵泉](./GB34.md) 和[GB41 足临泣](./GB41.md)（《针灸大成》）。
+腹部和胁肋部胀满：[LI9 上廉](point/LI9.md)，[GB34 阳陵泉](point/GB34.md) 和[GB41 足临泣](point/GB41.md)（《针灸大成》）。
 
-呼吸困难，不能行走：[LI9 上廉](./LI9.md)，[LIV14 期门](./LIV14.md) 和[REN12 中脘](./REN12.md)（《针灸大成》）。
+呼吸困难，不能行走：[LI9 上廉](point/LI9.md)，[LIV14 期门](point/LIV14.md) 和[REN12 中脘](point/REN12.md)（《针灸大成》）。
 
 ---

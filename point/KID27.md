@@ -38,12 +38,12 @@ Transverse-oblique insertion, directed laterally along the inferior border of th
 - Coughing and wheezing with phlegm: Shūfǔ KID-27 and [Rǔgēn ST-18](https://app.amanualofacupuncture.com/point/ST-18) (Ode of the Jade Dragon).
 
 ---
-### **[KID27 俞府](./KID27.md)** (SHŪFǓ)
+### **[KID27 俞府](point/KID27.md)** (SHŪFǓ)
 
 * **英文名称：** Shu Mansion
 * **中文名称：** 俞府
 * **国际代码：** KID-27
-* **穴位属性：** **[KID27 俞府](./KID27.md)** 是肾经的末端穴位。
+* **穴位属性：** **[KID27 俞府](point/KID27.md)** 是肾经的末端穴位。
 
 #### **定位 (Location)**
 
@@ -72,9 +72,9 @@ Transverse-oblique insertion, directed laterally along the inferior border of th
 
 #### **阐释 (Commentary)**
 
-**[KID27 俞府](./KID27.md)** 属于肾经的胸部穴位，是肾经在胸部的终点，其名称“俞府”意为俞穴之府，暗示其在胸部气机调畅和脏腑功能调理方面的重要作用。它与**[KID22 步廊](./KID22.md)**、**[KID23 神封](./KID23.md)**、**[KID24 灵墟](./KID24.md)**、**[KID25 神藏](./KID25.md)** 和**[KID26 彧中](./KID26.md)** 一同被列为胸部的俞穴。
+**[KID27 俞府](point/KID27.md)** 属于肾经的胸部穴位，是肾经在胸部的终点，其名称“俞府”意为俞穴之府，暗示其在胸部气机调畅和脏腑功能调理方面的重要作用。它与**[KID22 步廊](point/KID22.md)**、**[KID23 神封](point/KID23.md)**、**[KID24 灵墟](point/KID24.md)**、**[KID25 神藏](point/KID25.md)** 和**[KID26 彧中](point/KID26.md)** 一同被列为胸部的俞穴。
 
-此穴主要用于缓解**胸部胀满、疼痛**以及**咳嗽、哮喘、呼吸困难**等肺系和胸膈疾患，特别是痰饮积聚、气机上逆所致的咳喘。它能**化痰止咳平喘**，并对**恶心、呕吐、腹胀**和**不思饮食**等胃腑不和的症状有辅助疗效，这与其降逆、调和胃腑的功效相关。此外，**[KID27 俞府](./KID27.md)** 对女性血热妄行引起的**崩漏**和**骨蒸潮热**也有治疗作用，这与肾经调理冲任、滋阴清热的功效相关。
+此穴主要用于缓解**胸部胀满、疼痛**以及**咳嗽、哮喘、呼吸困难**等肺系和胸膈疾患，特别是痰饮积聚、气机上逆所致的咳喘。它能**化痰止咳平喘**，并对**恶心、呕吐、腹胀**和**不思饮食**等胃腑不和的症状有辅助疗效，这与其降逆、调和胃腑的功效相关。此外，**[KID27 俞府](point/KID27.md)** 对女性血热妄行引起的**崩漏**和**骨蒸潮热**也有治疗作用，这与肾经调理冲任、滋阴清热的功效相关。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -84,8 +84,8 @@ Transverse-oblique insertion, directed laterally along the inferior border of th
 
 #### **穴位组合 (Combinations)**
 
-* 呕吐伴胸中胀满：**[KID27 俞府](./KID27.md)**，**[KID24 灵墟](./KID24.md)**，**[KID25 神藏](./KID25.md)** 和 **[REN14 巨阙](./REN14.md)**（《千金方》）。
-* 气逆伴呼吸困难，不能呼吸：**[KID27 俞府](./KID27.md)** 和 **[LU3 天府](./LU3.md)**（《资生经》）。
-* 咳嗽喘息伴痰多：**[KID27 俞府](./KID27.md)** 和 **[ST18 乳根](./ST18.md)**（《玉龙歌》）。
+* 呕吐伴胸中胀满：**[KID27 俞府](point/KID27.md)**，**[KID24 灵墟](point/KID24.md)**，**[KID25 神藏](point/KID25.md)** 和 **[REN14 巨阙](point/REN14.md)**（《千金方》）。
+* 气逆伴呼吸困难，不能呼吸：**[KID27 俞府](point/KID27.md)** 和 **[LU3 天府](point/LU3.md)**（《资生经》）。
+* 咳嗽喘息伴痰多：**[KID27 俞府](point/KID27.md)** 和 **[ST18 乳根](point/ST18.md)**（《玉龙歌》）。
 
 ---

@@ -56,12 +56,12 @@ Finally, Yángxī LI-5 is an important point in the treatment of wrist disorde
 - Manic raving: Yángxī LI-5, [Tàiyuān LU-9](https://app.amanualofacupuncture.com/point/LU-9), [Xiàlián LI-8](https://app.amanualofacupuncture.com/point/LI-8) and [Kūnlún BL-60](https://app.amanualofacupuncture.com/point/BL-60) (Great Compendium).
 - Fright palpitations: Yángxī LI-5 and [Dǎnshū BL-19](https://app.amanualofacupuncture.com/point/BL-19) (Divine Moxibustion).
 
-### [LI5 阳溪](./LI5.md) (YÁNGXĪ)
+### [LI5 阳溪](point/LI5.md) (YÁNGXĪ)
 
 - **英文名称：** Yang Stream
 - **中文名称：** 阳溪
 - **国际代码：** LI-5
-- **穴位属性：** [LI5 阳溪](./LI5.md) 是大肠经的经穴和火穴。
+- **穴位属性：** [LI5 阳溪](point/LI5.md) 是大肠经的经穴和火穴。
 
 #### 定位 (Location)
 
@@ -94,11 +94,11 @@ Finally, Yángxī LI-5 is an important point in the treatment of wrist disorde
 
 #### 阐释 (Commentary)
 
-[LI5 阳溪](./LI5.md) 是大肠经的经穴和火穴，与所有十二经脉的火穴一样，具有很强的清热作用。因此，虽然其作用区域（鼻子、耳朵、眼睛、牙齿、头和咽喉等）与[LI4 合谷](./LI4.md) 相似，但其主要作用是清泻这些区域的热和火。热邪阻滞鼻子时，会出现鼻出血或鼻炎；热邪上扰耳朵时，会出现耳鸣、耳聋和耳痛；热邪蒙蔽眼睛时，会出现眼睛红肿疼痛、外障眼病和流泪；阳明经热内盛熏蒸牙龈时，会出现牙痛；热邪积聚咽喉时，会出现肿胀和堵塞。
+[LI5 阳溪](point/LI5.md) 是大肠经的经穴和火穴，与所有十二经脉的火穴一样，具有很强的清热作用。因此，虽然其作用区域（鼻子、耳朵、眼睛、牙齿、头和咽喉等）与[LI4 合谷](point/LI4.md) 相似，但其主要作用是清泻这些区域的热和火。热邪阻滞鼻子时，会出现鼻出血或鼻炎；热邪上扰耳朵时，会出现耳鸣、耳聋和耳痛；热邪蒙蔽眼睛时，会出现眼睛红肿疼痛、外障眼病和流泪；阳明经热内盛熏蒸牙龈时，会出现牙痛；热邪积聚咽喉时，会出现肿胀和堵塞。
 
-大肠经和胃经同属阳明。阳明火盛容易传导至心，扰乱神志，表现为阳明病阶段可能出现的烦躁不安和谵语，或长期胃火或痰火在许多严重情绪障碍中的表现。这种重要的关系可以通过以下事实解释：尽管大肠经和胃经不直接相连，但胃经别连接心脏，而胃经正经在[DU24 神庭](./DU24.md) 和[DU26 人中](./DU26.md) 处与督脉（因此与脑）交会。[LI5 阳溪](./LI5.md) 作为手阳明经的火穴，因此主治热病伴心烦躁扰、癫狂、见鬼、惊恐、狂言谵语和喜笑不休。后两项主治可能进一步反映了其作为经穴的地位，根据《灵枢》的记载，“病在音声”时应针刺经穴。
+大肠经和胃经同属阳明。阳明火盛容易传导至心，扰乱神志，表现为阳明病阶段可能出现的烦躁不安和谵语，或长期胃火或痰火在许多严重情绪障碍中的表现。这种重要的关系可以通过以下事实解释：尽管大肠经和胃经不直接相连，但胃经别连接心脏，而胃经正经在[DU24 神庭](point/DU24.md) 和[DU26 人中](point/DU26.md) 处与督脉（因此与脑）交会。[LI5 阳溪](point/LI5.md) 作为手阳明经的火穴，因此主治热病伴心烦躁扰、癫狂、见鬼、惊恐、狂言谵语和喜笑不休。后两项主治可能进一步反映了其作为经穴的地位，根据《灵枢》的记载，“病在音声”时应针刺经穴。
 
-最后，[LI5 阳溪](./LI5.md) 是治疗腕部疾患的重要穴位，与其在腕部尺侧的对应穴[SI4 腕骨](./SI4.md) 一样，主治五指挛缩。在学习腕部阳经穴位名称时，记住它们名称的相似性很有帮助：[LI5 阳溪](./LI5.md) (阳溪)，[SI5 阳谷](./SI5.md) (阳谷) 和[SJ4 阳池](./SJ4.md) (阳池)。
+最后，[LI5 阳溪](point/LI5.md) 是治疗腕部疾患的重要穴位，与其在腕部尺侧的对应穴[SI4 腕骨](point/SI4.md) 一样，主治五指挛缩。在学习腕部阳经穴位名称时，记住它们名称的相似性很有帮助：[LI5 阳溪](point/LI5.md) (阳溪)，[SI5 阳谷](point/SI5.md) (阳谷) 和[SJ4 阳池](point/SJ4.md) (阳池)。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -110,26 +110,26 @@ Finally, Yángxī LI-5 is an important point in the treatment of wrist disorde
 
 #### 穴位组合 (Combinations)
 
-眼痛：[LI5 阳溪](./LI5.md)，[LI2 二间](./LI2.md)，[PC7 大陵](./PC7.md)，[LI3 三间](./LI3.md)，[SI2 前谷](./SI2.md) 和[DU23 上星](./DU23.md)（《针灸大成》）。
+眼痛：[LI5 阳溪](point/LI5.md)，[LI2 二间](point/LI2.md)，[PC7 大陵](point/PC7.md)，[LI3 三间](point/LI3.md)，[SI2 前谷](point/SI2.md) 和[DU23 上星](point/DU23.md)（《针灸大成》）。
 
-耳鸣耳聋：[LI5 阳溪](./LI5.md)，[ST7 下关](./ST7.md)，[SJ1 关冲](./SJ1.md)，[SJ2 液门](./SJ2.md) 和[SI5 阳谷](./SI5.md)（《针灸甲乙经》）。
+耳鸣耳聋：[LI5 阳溪](point/LI5.md)，[ST7 下关](point/ST7.md)，[SJ1 关冲](point/SJ1.md)，[SJ2 液门](point/SJ2.md) 和[SI5 阳谷](point/SI5.md)（《针灸甲乙经》）。
 
-耳鸣：[LI5 阳溪](./LI5.md)，[LI1 商阳](./LI1.md)，[LI6 偏历](./LI6.md)，[BL8 络却](./BL8.md)，[SI4 腕骨](./SI4.md) 和[SI2 前谷](./SI2.md)（《资生经》）。
+耳鸣：[LI5 阳溪](point/LI5.md)，[LI1 商阳](point/LI1.md)，[LI6 偏历](point/LI6.md)，[BL8 络却](point/BL8.md)，[SI4 腕骨](point/SI4.md) 和[SI2 前谷](point/SI2.md)（《资生经》）。
 
-耳痛，耳聋耳鸣：[LI5 阳溪](./LI5.md)，[SI16 天窗](./SI16.md)，[SJ1 关冲](./SJ1.md)，[SJ2 液门](./SJ2.md) 和[SJ3 中渚](./SJ3.md)（《千金方》）。
+耳痛，耳聋耳鸣：[LI5 阳溪](point/LI5.md)，[SI16 天窗](point/SI16.md)，[SJ1 关冲](point/SJ1.md)，[SJ2 液门](point/SJ2.md) 和[SJ3 中渚](point/SJ3.md)（《千金方》）。
 
-壮热引起的荨麻疹：[LI5 阳溪](./LI5.md) 和[LI15 肩髃](./LI15.md)（《百症赋》）。
+壮热引起的荨麻疹：[LI5 阳溪](point/LI5.md) 和[LI15 肩髃](point/LI15.md)（《百症赋》）。
 
-牙痛伴腰痛和咽喉肿痛：[LI5 阳溪](./LI5.md) 和[LI2 二间](./LI2.md)（《席弘赋》）。
+牙痛伴腰痛和咽喉肿痛：[LI5 阳溪](point/LI5.md) 和[LI2 二间](point/LI2.md)（《席弘赋》）。
 
-呕吐痰涎清稀，眩晕不止：[LI5 阳溪](./LI5.md)，[SP4 公孙](./SP4.md)，[ST40 丰隆](./ST40.md) 和[REN17 膻中](./REN17.md)（《大全集》）。
+呕吐痰涎清稀，眩晕不止：[LI5 阳溪](point/LI5.md)，[SP4 公孙](point/SP4.md)，[ST40 丰隆](point/ST40.md) 和[REN17 膻中](point/REN17.md)（《大全集》）。
 
-频繁大笑：[LI5 阳溪](./LI5.md)，[LU7 列缺](./LU7.md)，[PC7 大陵](./PC7.md) 和[DU26 人中](./DU26.md)（《针灸大成》）。
+频繁大笑：[LI5 阳溪](point/LI5.md)，[LU7 列缺](point/LU7.md)，[PC7 大陵](point/PC7.md) 和[DU26 人中](point/DU26.md)（《针灸大成》）。
 
-狂言谵语，见鬼：[LI5 阳溪](./LI5.md)，[BL61 仆参](./BL61.md) 和[LI7 温溜](./LI7.md)（《资生经》）。
+狂言谵语，见鬼：[LI5 阳溪](point/LI5.md)，[BL61 仆参](point/BL61.md) 和[LI7 温溜](point/LI7.md)（《资生经》）。
 
-狂言语：[LI5 阳溪](./LI5.md)，[LU9 太渊](./LU9.md)，[LI8 下廉](./LI8.md) 和[BL60 昆仑](./BL60.md)（《针灸大成》）。
+狂言语：[LI5 阳溪](point/LI5.md)，[LU9 太渊](point/LU9.md)，[LI8 下廉](point/LI8.md) 和[BL60 昆仑](point/BL60.md)（《针灸大成》）。
 
-惊吓心悸：[LI5 阳溪](./LI5.md) 和[BL19 胆俞](./BL19.md)（《神灸经纶》）。
+惊吓心悸：[LI5 阳溪](point/LI5.md) 和[BL19 胆俞](point/BL19.md)（《神灸经纶》）。
 
 ---

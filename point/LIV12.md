@@ -31,17 +31,17 @@ Jímài LIV-12 was first mentioned in the Essential Questions. It was not disc
 - Indicated for pain of the genitals, pain of the penis, swelling of the testicles, uterine prolapse, pain of the hypogastrium, shan disorder, pain of the inner thigh.
 
 
-### 1. [LIV12 急脉](./LIV12.md)
+### 1. [LIV12 急脉](point/LIV12.md)
 
 #### 1.1. Urgent Pulse 急脈
 
 #### 1.2. 定位
 
-位于[REN2 曲骨](./REN2.md)下方1寸、旁开2.5寸，在腹股沟褶处，股静脉内侧。
+位于[REN2 曲骨](point/REN2.md)下方1寸、旁开2.5寸，在腹股沟褶处，股静脉内侧。
 
 #### 1.3. 定位说明
 
-在腹股沟中定位股动脉搏动，约在耻骨联合与髂前上棘之间的中点。股静脉位于动脉内侧，宽度约一指宽。[LIV12 急脉](./LIV12.md)位于股静脉内侧，沿腹股沟褶。
+在腹股沟中定位股动脉搏动，约在耻骨联合与髂前上棘之间的中点。股静脉位于动脉内侧，宽度约一指宽。[LIV12 急脉](point/LIV12.md)位于股静脉内侧，沿腹股沟褶。
 
 #### 1.4. 针刺方法
 
@@ -59,7 +59,7 @@ Jímài LIV-12 was first mentioned in the Essential Questions. It was not disc
 
 #### 1.7. 论述
 
-[LIV12 急脉](./LIV12.md)首次见于《素问》。但《针灸系统经典》和《针灸大成》中未提及此穴，仅述肝经“十三穴”。  
+[LIV12 急脉](point/LIV12.md)首次见于《素问》。但《针灸系统经典》和《针灸大成》中未提及此穴，仅述肝经“十三穴”。  
 
 #### 1.8. 临床应用总结
 

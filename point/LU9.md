@@ -57,17 +57,17 @@ Finally, Tàiyuān LU-9 is indicated for pain affecting various portions of th
 - Belching: Tàiyuān LU-9 and [Shénmén HE-7](https://app.amanualofacupuncture.com/point/HE-7) (Great Compendium).
 - Stabbing qi pain of the two breasts: Tàiyuān LU-9 and [Lièquē LU-7](https://app.amanualofacupuncture.com/point/LU-7) (Song of Points).
 
-# 1. [LU9 太渊](./LU9.md)
+# 1. [LU9 太渊](point/LU9.md)
 
 ## 1.1. Supreme Abyss 太淵
 
 ### 1.2. 定位
 
-位于腕关节，桡动脉与拇长展肌腱间凹陷处，与[HE7 神门](./HE7.md)（豌豆骨近端缘）同高。
+位于腕关节，桡动脉与拇长展肌腱间凹陷处，与[HE7 神门](point/HE7.md)（豌豆骨近端缘）同高。
 
 ### 1.3. 定位说明
 
-腕横纹为表面可变特征，宜以豌豆骨定位：先找[HE7 神门](./HE7.md)于豌豆骨下（近端）缘，[LU9 太渊](./LU9.md)与之同高。
+腕横纹为表面可变特征，宜以豌豆骨定位：先找[HE7 神门](point/HE7.md)于豌豆骨下（近端）缘，[LU9 太渊](point/LU9.md)与之同高。
 
 ### 1.4. 针刺方法
 
@@ -89,15 +89,15 @@ Finally, Tàiyuān LU-9 is indicated for pain affecting various portions of th
 
 ### 1.7. 论述
 
-[LU9 太渊](./LU9.md)为肺经输穴、原穴、土穴。《灵枢》第六章推荐输穴治脏病，第一章谓“五脏病取十二原”。《难经》称“虚则补母”，五行理论中[LU9 太渊](./LU9.md)为土，肺（金）之母，故为肺经补肺气或阴虚的主穴。  
+[LU9 太渊](point/LU9.md)为肺经输穴、原穴、土穴。《灵枢》第六章推荐输穴治脏病，第一章谓“五脏病取十二原”。《难经》称“虚则补母”，五行理论中[LU9 太渊](point/LU9.md)为土，肺（金）之母，故为肺经补肺气或阴虚的主穴。  
 
-[LU9 太渊](./LU9.md)治肺虚之慢性弱咳喘，肺气虚可气短、多哈欠，肺阴虚可掌热、吐血。亦助化虚生之痰，肺气弱液滞咳清水痰，肺阴虚热凝液咳干痰咽干。[LU9 太渊](./LU9.md)除补虚，亦促肺降气，治胸闷烦难卧。  
+[LU9 太渊](point/LU9.md)治肺虚之慢性弱咳喘，肺气虚可气短、多哈欠，肺阴虚可掌热、吐血。亦助化虚生之痰，肺气弱液滞咳清水痰，肺阴虚热凝液咳干痰咽干。[LU9 太渊](point/LU9.md)除补虚，亦促肺降气，治胸闷烦难卧。  
 
-《难经》称“脉会[LU9 太渊](./LU9.md)”，《类经》谓：“经流随气，气主于肺，故为百脉之会。”此指气血关系，“气为血帅”，《类经》又云：“脉为血气之道，脉行依气。”血依气行于脉，胸心尤赖宗气（肺吸气与饮食谷气合）推动。[LU9 太渊](./LU9.md)为脉会穴，调宗气与血，宗气虚不运血，血滞胸心，致胸闷烦、心痛涩脉，甚则狂躁，亦治吐咳呕血、无脉症。  
+《难经》称“脉会[LU9 太渊](point/LU9.md)”，《类经》谓：“经流随气，气主于肺，故为百脉之会。”此指气血关系，“气为血帅”，《类经》又云：“脉为血气之道，脉行依气。”血依气行于脉，胸心尤赖宗气（肺吸气与饮食谷气合）推动。[LU9 太渊](point/LU9.md)为脉会穴，调宗气与血，宗气虚不运血，血滞胸心，致胸闷烦、心痛涩脉，甚则狂躁，亦治吐咳呕血、无脉症。  
 
-肺经起于中焦，[LU9 太渊](./LU9.md)与多肺经穴同调胃，治胃气上逆嗳气及胃经热症如牙痛、翳障、目赤痛、乳痛。  
+肺经起于中焦，[LU9 太渊](point/LU9.md)与多肺经穴同调胃，治胃气上逆嗳气及胃经热症如牙痛、翳障、目赤痛、乳痛。  
 
-[LU9 太渊](./LU9.md)治肺经肩、锁骨上窝、臂内侧、腕痛。注：中医“臂内侧”指站姿掌向侧，依本书西方解剖位，为臂前外侧。  
+[LU9 太渊](point/LU9.md)治肺经肩、锁骨上窝、臂内侧、腕痛。注：中医“臂内侧”指站姿掌向侧，依本书西方解剖位，为臂前外侧。  
 
 ### 1.8. 临床应用总结
 
@@ -107,10 +107,10 @@ Finally, Tàiyuān LU-9 is indicated for pain affecting various portions of th
 
 ### 1.9. 配伍
 
-- 肺胀：[LU9 太渊](./LU9.md) + [BL13 肺俞](./BL13.md)（《系统经典》）。  
-- 肺心痛：[LU9 太渊](./LU9.md) + [LU10 鱼际](./LU10.md)（《系统经典》）。  
-- 咽干：[LU9 太渊](./LU9.md) + [LU10 鱼际](./LU10.md)（《大成》）。  
-- 狂躁：[LU9 太渊](./LU9.md) + [LI5 阳溪](./LI5.md) + [LI8 下廉](./LI8.md) + [BL60 昆仑](./BL60.md)（《大成》）。  
-- 烦闷难眠：[LU9 太渊](./LU9.md) + [SP4 公孙](./SP4.md) + [SP1 隐白](./SP1.md) + [BL13 肺俞](./BL13.md) + [SP9 阴陵泉](./SP9.md) + [SP6 三阴交](./SP6.md)（《大成》）。  
-- 嗳气：[LU9 太渊](./LU9.md) + [HE7 神门](./HE7.md)（《大成》）。  
-- 两乳刺气痛：[LU9 太渊](./LU9.md) + [LU7 列缺](./LU7.md)（《穴歌》）。
+- 肺胀：[LU9 太渊](point/LU9.md) + [BL13 肺俞](point/BL13.md)（《系统经典》）。  
+- 肺心痛：[LU9 太渊](point/LU9.md) + [LU10 鱼际](point/LU10.md)（《系统经典》）。  
+- 咽干：[LU9 太渊](point/LU9.md) + [LU10 鱼际](point/LU10.md)（《大成》）。  
+- 狂躁：[LU9 太渊](point/LU9.md) + [LI5 阳溪](point/LI5.md) + [LI8 下廉](point/LI8.md) + [BL60 昆仑](point/BL60.md)（《大成》）。  
+- 烦闷难眠：[LU9 太渊](point/LU9.md) + [SP4 公孙](point/SP4.md) + [SP1 隐白](point/SP1.md) + [BL13 肺俞](point/BL13.md) + [SP9 阴陵泉](point/SP9.md) + [SP6 三阴交](point/SP6.md)（《大成》）。  
+- 嗳气：[LU9 太渊](point/LU9.md) + [HE7 神门](point/HE7.md)（《大成》）。  
+- 两乳刺气痛：[LU9 太渊](point/LU9.md) + [LU7 列缺](point/LU7.md)（《穴歌》）。

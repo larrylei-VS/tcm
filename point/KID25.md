@@ -35,7 +35,7 @@ Transverse-oblique insertion, directed laterally along the intercostal space 0.5
 
 
 ---
-### **[KID25 神藏](./KID25.md)** (SHÉNCÁNG)
+### **[KID25 神藏](point/KID25.md)** (SHÉNCÁNG)
 
 * **英文名称：** Spirit Storehouse
 * **中文名称：** 神藏
@@ -68,9 +68,9 @@ Transverse-oblique insertion, directed laterally along the intercostal space 0.5
 
 #### **阐释 (Commentary)**
 
-**[KID25 神藏](./KID25.md)** 属于肾经的胸部穴位，其名称“神藏”可能暗示其在心神与胸部气机调畅方面的作用，如同心神之所藏。它与**[KID22 步廊](./KID22.md)**、**[KID23 神封](./KID23.md)**、**[KID24 灵墟](./KID24.md)**、**[KID26 彧中](./KID26.md)** 和**[KID27 俞府](./KID27.md)** 一同被列为胸部的俞穴。
+**[KID25 神藏](point/KID25.md)** 属于肾经的胸部穴位，其名称“神藏”可能暗示其在心神与胸部气机调畅方面的作用，如同心神之所藏。它与**[KID22 步廊](point/KID22.md)**、**[KID23 神封](point/KID23.md)**、**[KID24 灵墟](point/KID24.md)**、**[KID26 彧中](point/KID26.md)** 和**[KID27 俞府](point/KID27.md)** 一同被列为胸部的俞穴。
 
-此穴主要用于缓解**胸部胀满、疼痛**以及**呼吸困难、咳嗽、哮喘**等肺系和胸膈疾患。这些症状往往与气机上逆、痰阻胸膈有关。此外，**[KID25 神藏](./KID25.md)** 对**呕吐**、**心烦胀满**和**食欲不振**等胃腑不和的症状也有辅助疗效，这与其肃降肺胃之逆气的功效相关。
+此穴主要用于缓解**胸部胀满、疼痛**以及**呼吸困难、咳嗽、哮喘**等肺系和胸膈疾患。这些症状往往与气机上逆、痰阻胸膈有关。此外，**[KID25 神藏](point/KID25.md)** 对**呕吐**、**心烦胀满**和**食欲不振**等胃腑不和的症状也有辅助疗效，这与其肃降肺胃之逆气的功效相关。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -79,7 +79,7 @@ Transverse-oblique insertion, directed laterally along the intercostal space 0.5
 
 #### **穴位组合 (Combinations)**
 
-* 胸中胀满伴颈项强直：**[KID25 神藏](./KID25.md)** 和 **[REN21 璇玑](./REN21.md)**（《百症赋》）。
-* 呕吐伴胸中胀满：**[KID25 神藏](./KID25.md)**，**[KID27 俞府](./KID27.md)**，**[KID24 灵墟](./KID24.md)** 和 **[REN14 巨阙](./REN14.md)**（《千金方》）。
+* 胸中胀满伴颈项强直：**[KID25 神藏](point/KID25.md)** 和 **[REN21 璇玑](point/REN21.md)**（《百症赋》）。
+* 呕吐伴胸中胀满：**[KID25 神藏](point/KID25.md)**，**[KID27 俞府](point/KID27.md)**，**[KID24 灵墟](point/KID24.md)** 和 **[REN14 巨阙](point/REN14.md)**（《千金方》）。
 
 ---

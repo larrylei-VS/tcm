@@ -39,16 +39,16 @@ According to the Spiritual Pivot[6](https://app.amanualofacupuncture.com/book/p
 - Loss of voice: Língdào HE-4, [Tiāntú REN-22](https://app.amanualofacupuncture.com/point/REN-22), [Yīngǔ KID-10](https://app.amanualofacupuncture.com/point/KID-10), [Fùliū KID-7](https://app.amanualofacupuncture.com/point/KID-7), [Fēnglóng ST-40](https://app.amanualofacupuncture.com/point/ST-40) and [Rángǔ KID-2](https://app.amanualofacupuncture.com/point/KID-2) (Illustrated Supplement).
 
 ---
-### **[HE4 灵道](./HE4.md)** (LÍNGDÀO)
+### **[HE4 灵道](point/HE4.md)** (LÍNGDÀO)
 
 * **英文名称：** Spirit Path
 * **中文名称：** 灵道
 * **国际代码：** HE-4
-* **穴位属性：** **[HE4 灵道](./HE4.md)** 是心经的经穴和金穴。
+* **穴位属性：** **[HE4 灵道](point/HE4.md)** 是心经的经穴和金穴。
 
 #### **定位 (Location)**
 
-位于尺侧腕屈肌腱桡侧，**[HE7 神门](./HE7.md)** 上方1.5寸。
+位于尺侧腕屈肌腱桡侧，**[HE7 神门](point/HE7.md)** 上方1.5寸。
 
 #### **针刺方法 (Needling)**
 
@@ -67,9 +67,9 @@ According to the Spiritual Pivot[6](https://app.amanualofacupuncture.com/book/p
 
 #### **阐释 (Commentary)**
 
-**[HE4 灵道](./HE4.md)**，正如其名称“灵道”所示，具有宁心安神的能力，主治脏躁和悲伤恐惧。脏躁据称是由于思虑过度、过度忧虑和焦虑伤及心、脾、肝所致。其特点是症状广泛，包括不可预测的情绪反应、忧郁、行为异常、烦躁不安、失眠、失音甚至癫狂。在现代医学中，它对应于癔症性神经官能症。**[HE4 灵道](./HE4.md)** 治疗暴喑（突然失音）的能力（参见下面的组合）反映了其作为经穴的地位，因为《灵枢·本输》记载，经穴主治“病在音声”的表现。
+**[HE4 灵道](point/HE4.md)**，正如其名称“灵道”所示，具有宁心安神的能力，主治脏躁和悲伤恐惧。脏躁据称是由于思虑过度、过度忧虑和焦虑伤及心、脾、肝所致。其特点是症状广泛，包括不可预测的情绪反应、忧郁、行为异常、烦躁不安、失眠、失音甚至癫狂。在现代医学中，它对应于癔症性神经官能症。**[HE4 灵道](point/HE4.md)** 治疗暴喑（突然失音）的能力（参见下面的组合）反映了其作为经穴的地位，因为《灵枢·本输》记载，经穴主治“病在音声”的表现。
 
-根据《灵枢·本输》记载：“病在阴之阳者 [筋骨]，刺阴经之经穴。” **[HE4 灵道](./HE4.md)**，作为心经的经穴，主治肘臂挛缩以及骨髓深处的冰冷感。
+根据《灵枢·本输》记载：“病在阴之阳者 [筋骨]，刺阴经之经穴。” **[HE4 灵道](point/HE4.md)**，作为心经的经穴，主治肘臂挛缩以及骨髓深处的冰冷感。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -78,8 +78,8 @@ According to the Spiritual Pivot[6](https://app.amanualofacupuncture.com/book/p
 
 #### **穴位组合 (Combinations)**
 
-* 暴喑伴牙关紧闭：**[HE4 灵道](./HE4.md)**，**[REN22 天突](./REN22.md)** 和 **[SI16 天窗](./SI16.md)**（《资生经》）。
-* 暴喑：**[HE4 灵道](./HE4.md)**，**[SJ6 支沟](./SJ6.md)**，**[SI16 天窗](./SI16.md)**，**[LI18 扶突](./LI18.md)** 和 **[GB7 曲鬓](./GB7.md)**（《千金方》）。
-* 失音：**[HE4 灵道](./HE4.md)**，**[REN22 天突](./REN22.md)**，**[KID10 阴谷](./KID10.md)**，**[KID7 复溜](./KID7.md)**，**[ST40 丰隆](./ST40.md)** 和 **[KID2 然谷](./KID2.md)**（《图翼》）。
+* 暴喑伴牙关紧闭：**[HE4 灵道](point/HE4.md)**，**[REN22 天突](point/REN22.md)** 和 **[SI16 天窗](point/SI16.md)**（《资生经》）。
+* 暴喑：**[HE4 灵道](point/HE4.md)**，**[SJ6 支沟](point/SJ6.md)**，**[SI16 天窗](point/SI16.md)**，**[LI18 扶突](point/LI18.md)** 和 **[GB7 曲鬓](point/GB7.md)**（《千金方》）。
+* 失音：**[HE4 灵道](point/HE4.md)**，**[REN22 天突](point/REN22.md)**，**[KID10 阴谷](point/KID10.md)**，**[KID7 复溜](point/KID7.md)**，**[ST40 丰隆](point/ST40.md)** 和 **[KID2 然谷](point/KID2.md)**（《图翼》）。
 
 ---

@@ -49,12 +49,12 @@ Finally the Large Intestine muscle and divergent channels both connect with the 
 - Dry mouth and tongue with difficult ingestion: Shāngyáng LI-1, [Dǎnshū BL-19](https://app.amanualofacupuncture.com/point/BL-19) and [Xiǎochángshū BL-27](https://app.amanualofacupuncture.com/point/BL-27) (Thousand Ducat Formulas).
 - Swelling of the supraclavicular fossa [[Quēpén ST-12](https://app.amanualofacupuncture.com/point/ST-12)]: Shāngyáng LI-1, [Tàixī KID-3](https://app.amanualofacupuncture.com/point/KID-3) and [Zúlínqì GB-41](https://app.amanualofacupuncture.com/point/GB-41) (Great Compendium).
 
-### [LI1 商阳](./LI1.md) (SHĀNGYÁNG)
+### [LI1 商阳](point/LI1.md) (SHĀNGYÁNG)
 
 - **英文名称：** Shang Yang
 - **中文名称：** 商阳
 - **国际代码：** LI-1
-- **穴位属性：** [LI1 商阳](./LI1.md) 是大肠经的井穴和金穴。
+- **穴位属性：** [LI1 商阳](point/LI1.md) 是大肠经的井穴和金穴。
 
 #### 定位 (Location)
 
@@ -79,15 +79,15 @@ Finally the Large Intestine muscle and divergent channels both connect with the 
 
 #### 阐释 (Commentary)
 
-该穴位名称中的“商”字，在古代音乐体系中与金的音符相关联，“阳”表示阳经，并将其与[LU11 少商](./LU11.md)区分开来。[LI1 商阳](./LI1.md) 是大肠金经的金穴。
+该穴位名称中的“商”字，在古代音乐体系中与金的音符相关联，“阳”表示阳经，并将其与[LU11 少商](point/LU11.md)区分开来。[LI1 商阳](point/LI1.md) 是大肠金经的金穴。
 
-作为大肠经最远端的穴位，[LI1 商阳](./LI1.md) 对解决经络另一端（主要指头面部）的炎症、肿胀和疼痛有迅速作用，通常是由于风热侵袭或火毒积聚所致。根据《标幽赋》，“手阳明之根，[LI1 商阳](./LI1.md) 为始；结于[LI18 扶突](./LI18.md)、[LI6 偏历](./LI6.md) 为络。”这句话强调了该穴位与耳朵的特殊关联（大肠络脉从[LI6 偏历](./LI6.md)到达耳朵），体现在其主治耳鸣和耳聋。此外，大肠经循行面颊下部并进入下颌，大肠经别上行沿咽喉。因此，[LI1 商阳](./LI1.md) 用于治疗这些区域的急剧肿胀、发热和疼痛，例如下颌牙痛、咽喉肿痛和颌下区肿胀。[LI1 商阳](./LI1.md) 快速清热的能力在治疗热病，尤其是疟疾方面有更广泛的应用。
+作为大肠经最远端的穴位，[LI1 商阳](point/LI1.md) 对解决经络另一端（主要指头面部）的炎症、肿胀和疼痛有迅速作用，通常是由于风热侵袭或火毒积聚所致。根据《标幽赋》，“手阳明之根，[LI1 商阳](point/LI1.md) 为始；结于[LI18 扶突](point/LI18.md)、[LI6 偏历](point/LI6.md) 为络。”这句话强调了该穴位与耳朵的特殊关联（大肠络脉从[LI6 偏历](point/LI6.md)到达耳朵），体现在其主治耳鸣和耳聋。此外，大肠经循行面颊下部并进入下颌，大肠经别上行沿咽喉。因此，[LI1 商阳](point/LI1.md) 用于治疗这些区域的急剧肿胀、发热和疼痛，例如下颌牙痛、咽喉肿痛和颌下区肿胀。[LI1 商阳](point/LI1.md) 快速清热的能力在治疗热病，尤其是疟疾方面有更广泛的应用。
 
-与其他的井穴一样，[LI1 商阳](./LI1.md) 用于急救苏厥，主治昏迷（中风所致）。
+与其他的井穴一样，[LI1 商阳](point/LI1.md) 用于急救苏厥，主治昏迷（中风所致）。
 
-肺经的一条分支终止于[LI1 商阳](./LI1.md)，作为阳金经的金穴，它主治肺气郁滞导致的胸闷，表现为：i. 放射至胁肋部，ii. 引起呼吸困难和咳嗽。在清泻胸部胀满方面，[LI1 商阳](./LI1.md) 是井穴的典型代表。
+肺经的一条分支终止于[LI1 商阳](point/LI1.md)，作为阳金经的金穴，它主治肺气郁滞导致的胸闷，表现为：i. 放射至胁肋部，ii. 引起呼吸困难和咳嗽。在清泻胸部胀满方面，[LI1 商阳](point/LI1.md) 是井穴的典型代表。
 
-最后，大肠经筋和经别都与脊柱相连，[LI1 商阳](./LI1.md) 主治肩背疼痛放射至锁骨上窝。
+最后，大肠经筋和经别都与脊柱相连，[LI1 商阳](point/LI1.md) 主治肩背疼痛放射至锁骨上窝。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -99,20 +99,20 @@ Finally the Large Intestine muscle and divergent channels both connect with the 
 
 #### 穴位组合 (Combinations)
 
-发热无汗：[LI1 商阳](./LI1.md)，[LI4 合谷](./LI4.md)，[LI5 阳溪](./LI5.md)，[GB43 侠溪](./GB43.md)，[ST45 厉兑](./ST45.md)，[PC8 劳宫](./PC8.md) 和 [SI4 腕骨](./SI4.md)（《针灸大成》）。
+发热无汗：[LI1 商阳](point/LI1.md)，[LI4 合谷](point/LI4.md)，[LI5 阳溪](point/LI5.md)，[GB43 侠溪](point/GB43.md)，[ST45 厉兑](point/ST45.md)，[PC8 劳宫](point/PC8.md) 和 [SI4 腕骨](point/SI4.md)（《针灸大成》）。
 
-寒疟：[LI1 商阳](./LI1.md) 和[KID3 太溪](./KID3.md)（《百症赋》）。
+寒疟：[LI1 商阳](point/LI1.md) 和[KID3 太溪](point/KID3.md)（《百症赋》）。
 
-遍身壮热的疟疾：[LI1 商阳](./LI1.md)，[LI3 三间](./LI3.md)，[SJ3 中渚](./SJ3.md)，[KID19 阴都](./KID19.md) 和[HE3 少海](./HE3.md)（《资生经》）。
+遍身壮热的疟疾：[LI1 商阳](point/LI1.md)，[LI3 三间](point/LI3.md)，[SJ3 中渚](point/SJ3.md)，[KID19 阴都](point/KID19.md) 和[HE3 少海](point/HE3.md)（《资生经》）。
 
-久疟：[LI1 商阳](./LI1.md)，[SJ3 中渚](./SJ3.md) 和[GB40 丘墟](./GB40.md)（《针灸大成》）。
+久疟：[LI1 商阳](point/LI1.md)，[SJ3 中渚](point/SJ3.md) 和[GB40 丘墟](point/GB40.md)（《针灸大成》）。
 
-耳鸣：[LI1 商阳](./LI1.md)，[LI6 偏历](./LI6.md)，[LI5 阳溪](./LI5.md)，[BL8 络却](./BL8.md)，[SI4 腕骨](./SI4.md) 和[SI2 前谷](./SI2.md)（《资生经》）。
+耳鸣：[LI1 商阳](point/LI1.md)，[LI6 偏历](point/LI6.md)，[LI5 阳溪](point/LI5.md)，[BL8 络却](point/BL8.md)，[SI4 腕骨](point/SI4.md) 和[SI2 前谷](point/SI2.md)（《资生经》）。
 
-耳聋：[LI1 商阳](./LI1.md)，[SJ3 中渚](./SJ3.md)，[SJ5 外关](./SJ5.md)，[SJ22 耳和髎](./SJ22.md)，[GB2 听会](./GB2.md)，[SI19 听宫](./SI19.md)，[LI4 合谷](./LI4.md) 和[PC9 中冲](./PC9.md)（《玉龙歌》）。
+耳聋：[LI1 商阳](point/LI1.md)，[SJ3 中渚](point/SJ3.md)，[SJ5 外关](point/SJ5.md)，[SJ22 耳和髎](point/SJ22.md)，[GB2 听会](point/GB2.md)，[SI19 听宫](point/SI19.md)，[LI4 合谷](point/LI4.md) 和[PC9 中冲](point/PC9.md)（《玉龙歌》）。
 
-口干舌燥，难以进食：[LI1 商阳](./LI1.md)，[BL19 胆俞](./BL19.md) 和[BL27 小肠俞](./BL27.md)（《千金方》）。
+口干舌燥，难以进食：[LI1 商阳](point/LI1.md)，[BL19 胆俞](point/BL19.md) 和[BL27 小肠俞](point/BL27.md)（《千金方》）。
 
-锁骨上窝 [ST12 缺盆](./ST12.md) 肿胀：[LI1 商阳](./LI1.md)，[KID3 太溪](./KID3.md) 和[GB41 足临泣](./GB41.md)（《针灸大成》）。
+锁骨上窝 [ST12 缺盆](point/ST12.md) 肿胀：[LI1 商阳](point/LI1.md)，[KID3 太溪](point/KID3.md) 和[GB41 足临泣](point/GB41.md)（《针灸大成》）。
 
 ---

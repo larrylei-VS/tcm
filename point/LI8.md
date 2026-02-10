@@ -50,7 +50,7 @@ The action of Xiàlián LI-8 on clearing yangming fire and calming the spirit,
 - Difficult and dark urination: Xiàlián LI-8 and [Shànglián LI-9](https://app.amanualofacupuncture.com/point/LI-9) (Thousand Ducat Formulas).
 
 
-### [LI8 下廉](./LI8.md) (XIÀLIÁN)
+### [LI8 下廉](point/LI8.md) (XIÀLIÁN)
 
 - **英文名称：** Lower Angle
 - **中文名称：** 下廉
@@ -58,11 +58,11 @@ The action of Xiàlián LI-8 on clearing yangming fire and calming the spirit,
 
 #### 定位 (Location)
 
-位于前臂桡侧，在连接[LI11 曲池](./LI11.md) 与[LI5 阳溪](./LI5.md) 的连线上，距[LI11 曲池](./LI11.md) 下方4寸。
+位于前臂桡侧，在连接[LI11 曲池](point/LI11.md) 与[LI5 阳溪](point/LI5.md) 的连线上，距[LI11 曲池](point/LI11.md) 下方4寸。
 
 - **定位要点 (Location Notes):**
     - 屈肘，手臂桡侧向上时取穴；
-    - 将[LI5 阳溪](./LI5.md) 和[LI11 曲池](./LI11.md) 之间的距离分成三等份，[LI8 下廉](./LI8.md) 位于近端和中间三分之一交界处（距离[LI11 曲池](./LI11.md) 4寸处）。
+    - 将[LI5 阳溪](point/LI5.md) 和[LI11 曲池](point/LI11.md) 之间的距离分成三等份，[LI8 下廉](point/LI8.md) 位于近端和中间三分之一交界处（距离[LI11 曲池](point/LI11.md) 4寸处）。
 
 #### 针刺方法 (Needling)
 
@@ -70,7 +70,7 @@ The action of Xiàlián LI-8 on clearing yangming fire and calming the spirit,
 
 #### 作用 (Actions)
 
-- 调和[小肠](./小肠.md)
+- 调和[小肠](point/小肠.md)
 - 祛风清热
 - 清泻阳明火，宁心安神
 
@@ -86,17 +86,17 @@ The action of Xiàlián LI-8 on clearing yangming fire and calming the spirit,
 
 #### 阐释 (Commentary)
 
-[LI8 下廉](./LI8.md) (Lower Angle) 和[LI9 上廉](./LI9.md) (Upper Angle) 是在下肢的[ST39 下巨虚](./ST39.md) (Small Intestine 的下合穴) 和[ST37 上巨虚](./ST37.md) (Large Intestine 的下合穴) 在上肢的对应穴。因此，[LI8 下廉](./LI8.md) 主治肠道疾病，特别是小肠疾病，表现为腹部胀满疼痛，小腹胀满，脐周疼痛，小肠气虚，泻下完谷不化和便血。然而，在临床实践中，治疗肠道疾病更多使用下肢的下合穴。
+[LI8 下廉](point/LI8.md) (Lower Angle) 和[LI9 上廉](point/LI9.md) (Upper Angle) 是在下肢的[ST39 下巨虚](point/ST39.md) (Small Intestine 的下合穴) 和[ST37 上巨虚](point/ST37.md) (Large Intestine 的下合穴) 在上肢的对应穴。因此，[LI8 下廉](point/LI8.md) 主治肠道疾病，特别是小肠疾病，表现为腹部胀满疼痛，小腹胀满，脐周疼痛，小肠气虚，泻下完谷不化和便血。然而，在临床实践中，治疗肠道疾病更多使用下肢的下合穴。
 
-大肠经别下行至乳部，[LI8 下廉](./LI8.md) 主治乳痈，是大肠经上唯一具有此主治的穴位。
+大肠经别下行至乳部，[LI8 下廉](point/LI8.md) 主治乳痈，是大肠经上唯一具有此主治的穴位。
 
-[LI8 下廉](./LI8.md) 清泻阳明火、宁心安神，从而治疗狂言语和循衣摸床（或行走无度）的作用，与[LI5 阳溪](./LI5.md) 相似。
+[LI8 下廉](point/LI8.md) 清泻阳明火、宁心安神，从而治疗狂言语和循衣摸床（或行走无度）的作用，与[LI5 阳溪](point/LI5.md) 相似。
 
 #### 临床应用总结 (Summary of clinical application)
 
 主治小肠疾病，尽管临床上很少使用：小腹疼痛胀满，脐周疼痛，小肠气虚，泻下完谷不化，便血，小便色深。
 
-注意，[LI8 下廉](./LI8.md) 是位于上肢，对应于腿部小肠经下合穴[ST39 下巨虚](./ST39.md)。
+注意，[LI8 下廉](point/LI8.md) 是位于上肢，对应于腿部小肠经下合穴[ST39 下巨虚](point/ST39.md)。
 
 治疗乳痈。
 
@@ -104,16 +104,16 @@ The action of Xiàlián LI-8 on clearing yangming fire and calming the spirit,
 
 #### 穴位组合 (Combinations)
 
-胃热不欲食：[LI8 下廉](./LI8.md) 和[GB39 悬钟](./GB39.md)（《资生经》）。
+胃热不欲食：[LI8 下廉](point/LI8.md) 和[GB39 悬钟](point/GB39.md)（《资生经》）。
 
-伤食泄泻：[LI8 下廉](./LI8.md) 和[LI9 上廉](./LI9.md)（《针灸大成》）。
+伤食泄泻：[LI8 下廉](point/LI8.md) 和[LI9 上廉](point/LI9.md)（《针灸大成》）。
 
-狂言语：[LI8 下廉](./LI8.md)，[LU9 太渊](./LU9.md)，[LI5 阳溪](./LI5.md) 和[BL60 昆仑](./BL60.md)（《针灸大成》）。
+狂言语：[LI8 下廉](point/LI8.md)，[LU9 太渊](point/LU9.md)，[LI5 阳溪](point/LI5.md) 和[BL60 昆仑](point/BL60.md)（《针灸大成》）。
 
-风湿痹痛：[LI8 下廉](./LI8.md) 和[BL40 委中](./BL40.md)（《资生经》）。
+风湿痹痛：[LI8 下廉](point/LI8.md) 和[BL40 委中](point/BL40.md)（《资生经》）。
 
-手臂寒痛：[LI8 下廉](./LI8.md)，[LI11 曲池](./LI11.md) 和[GB21 肩井](./GB21.md)（《针灸大成》）。
+手臂寒痛：[LI8 下廉](point/LI8.md)，[LI11 曲池](point/LI11.md) 和[GB21 肩井](point/GB21.md)（《针灸大成》）。
 
-小便不利且色深：[LI8 下廉](./LI8.md) 和[LI9 上廉](./LI9.md)（《千金方》）。
+小便不利且色深：[LI8 下廉](point/LI8.md) 和[LI9 上廉](point/LI9.md)（《千金方》）。
 
 ---

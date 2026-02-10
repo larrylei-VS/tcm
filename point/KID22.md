@@ -37,7 +37,7 @@ The points Bùláng KID-22, [Shénfēng KID-23](https://app.amanualofacupunctu
 - Diminished qi: Bùláng KID-22, [Shènshū BL-23](https://app.amanualofacupuncture.com/point/BL-23), [Shàofǔ HE-8](https://app.amanualofacupuncture.com/point/HE-8), [Pángguāngshū BL-28](https://app.amanualofacupuncture.com/point/BL-28), [Shàochōng HE-9](https://app.amanualofacupuncture.com/point/HE-9), [Xíngjiān LIV-2](https://app.amanualofacupuncture.com/point/LIV-2) and [Shuǐquán KID-5](https://app.amanualofacupuncture.com/point/KID-5) (Supplementing Life).
 
 ---
-### **[KID22 步廊](./KID22.md)** (BÙLÁNG)
+### **[KID22 步廊](point/KID22.md)** (BÙLÁNG)
 
 * **英文名称：** Walking Corridor
 * **中文名称：** 步廊
@@ -48,7 +48,7 @@ The points Bùláng KID-22, [Shénfēng KID-23](https://app.amanualofacupunctu
 位于第五肋间隙，距中线旁开2寸。
 
 * **定位要点 (Location Notes):**
-    * 首先定位第二肋间隙（参见**[KID25 神藏](./KID25.md)**），然后向下找到其下方三个肋间隙，即第五肋间隙；
+    * 首先定位第二肋间隙（参见**[KID25 神藏](point/KID25.md)**），然后向下找到其下方三个肋间隙，即第五肋间隙；
     * 请注意，男性乳头位于第四肋间隙；
     * 旁开2寸线位于中线与乳头线之间中点。
 
@@ -70,7 +70,7 @@ The points Bùláng KID-22, [Shénfēng KID-23](https://app.amanualofacupunctu
 
 #### **阐释 (Commentary)**
 
-**[KID22 步廊](./KID22.md)**、**[KID23 神封](./KID23.md)**、**[KID24 灵墟](./KID24.md)**、**[KID25 神藏](./KID25.md)**、**[KID26 彧中](./KID26.md)** 和**[KID27 俞府](./KID27.md)** 在《素问》中被列为胸部的十二俞穴。它们共同具有肃降肺胃之逆气的作用，特别主治因“上实下虚”引起的喘息、呼吸困难和咳嗽。这发生在肾气不足以纳肺气时。
+**[KID22 步廊](point/KID22.md)**、**[KID23 神封](point/KID23.md)**、**[KID24 灵墟](point/KID24.md)**、**[KID25 神藏](point/KID25.md)**、**[KID26 彧中](point/KID26.md)** 和**[KID27 俞府](point/KID27.md)** 在《素问》中被列为胸部的十二俞穴。它们共同具有肃降肺胃之逆气的作用，特别主治因“上实下虚”引起的喘息、呼吸困难和咳嗽。这发生在肾气不足以纳肺气时。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -79,6 +79,6 @@ The points Bùláng KID-22, [Shénfēng KID-23](https://app.amanualofacupunctu
 
 #### **穴位组合 (Combinations)**
 
-* 气虚：**[KID22 步廊](./KID22.md)**，**[BL23 肾俞](./BL23.md)**，**[HE8 少府](./HE8.md)**，**[BL28 膀胱俞](./BL28.md)**，**[HE9 少冲](./HE9.md)**，**[LIV2 行间](./LIV2.md)** 和 **[KID5 水泉](./KID5.md)**（《资生经》）。
+* 气虚：**[KID22 步廊](point/KID22.md)**，**[BL23 肾俞](point/BL23.md)**，**[HE8 少府](point/HE8.md)**，**[BL28 膀胱俞](point/BL28.md)**，**[HE9 少冲](point/HE9.md)**，**[LIV2 行间](point/LIV2.md)** 和 **[KID5 水泉](point/KID5.md)**（《资生经》）。
 
 ---

@@ -45,7 +45,7 @@ Schließlich ist Du 9 Zhiyang laut _Essential Questions_[30](https://app.amanua
 
 - Jaundice: Zhìyáng DU-9, [Yīnlíngquán SP-9](https://app.amanualofacupuncture.com/point/SP-9), [Zúsānlǐ ST-36](https://app.amanualofacupuncture.com/point/ST-36), [Rìyuè GB-24](https://app.amanualofacupuncture.com/point/GB-24), [Dǎnshū BL-19](https://app.amanualofacupuncture.com/point/BL-19) and [Yánggāng BL-48](https://app.amanualofacupuncture.com/point/BL-48).
 
-### 1. [DU9 至阳](./DU9.md)
+### 1. [DU9 至阳](point/DU9.md)
 
 #### 1.1. Reaching Yang 至陽
 
@@ -76,9 +76,9 @@ Schließlich ist Du 9 Zhiyang laut _Essential Questions_[30](https://app.amanua
 
 #### 1.7. 论述
 
-[DU9 至阳](./DU9.md)位于与膈俞[BL17 膈俞](./BL17.md)同高处。膈肌分隔中焦与上焦，[DU9 至阳](./DU9.md)作用于此二区。其别名“肺底”反映其处于两焦过渡区域。  
+[DU9 至阳](point/DU9.md)位于与膈俞[BL17 膈俞](point/BL17.md)同高处。膈肌分隔中焦与上焦，[DU9 至阳](point/DU9.md)作用于此二区。其别名“肺底”反映其处于两焦过渡区域。  
 
-在中焦，[DU9 至阳](./DU9.md)补益并温胃脾（胃寒、不能食、消瘦、气虚、言语难），泻外源湿或湿热（四肢重感及全身不适）。现代临床强调其治疗黄疸，经典指用于五种黄疸。  
+在中焦，[DU9 至阳](point/DU9.md)补益并温胃脾（胃寒、不能食、消瘦、气虚、言语难），泻外源湿或湿热（四肢重感及全身不适）。现代临床强调其治疗黄疸，经典指用于五种黄疸。  
 
 在上焦，它宽胸（胸胁满、咳嗽、呼吸困难），与多督脉穴同治脊柱僵硬及腰痛。  
 
@@ -92,4 +92,4 @@ Schließlich ist Du 9 Zhiyang laut _Essential Questions_[30](https://app.amanua
 
 #### 1.9. 配伍
 
-- 黄疸：[DU9 至阳](./DU9.md) + [SP9 阴陵泉](./SP9.md) + [ST36 足三里](./ST36.md) + [GB24 日月](./GB24.md) + [BL19 胆俞](./BL19.md) + [BL48 阳纲](./BL48.md)。  
+- 黄疸：[DU9 至阳](point/DU9.md) + [SP9 阴陵泉](point/SP9.md) + [ST36 足三里](point/ST36.md) + [GB24 日月](point/GB24.md) + [BL19 胆俞](point/BL19.md) + [BL48 阳纲](point/BL48.md)。  

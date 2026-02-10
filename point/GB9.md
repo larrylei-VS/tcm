@@ -37,7 +37,7 @@ Many classics indicate Tiānchōng GB-9 for a variety of mental and psychologi
 
 - Arched back with sorrowful weeping: Tiānchōng GB-9 and [Dàhéng SP-15](https://app.amanualofacupuncture.com/point/SP-15) (One Hundred Symptoms).
 
-### 1. [GB9 天冲](./GB9.md)
+### 1. [GB9 天冲](point/GB9.md)
 
 #### 1.1. Heavenly Rushing 天沖
 
@@ -45,11 +45,11 @@ Many classics indicate Tiānchōng GB-9 for a variety of mental and psychologi
 
 #### 1.2. 定位
 
-位于耳上方，[GB8 率谷](./GB8.md)后方0.5寸的凹陷处。
+位于耳上方，[GB8 率谷](point/GB8.md)后方0.5寸的凹陷处。
 
 #### 1.3. 针刺方法
 
-横刺，深0.5至1.5寸。参见[GB4 颔厌](./GB4.md)的针刺说明。
+横刺，深0.5至1.5寸。参见[GB4 颔厌](point/GB4.md)的针刺说明。
 
 #### 1.4. 作用
 
@@ -63,17 +63,17 @@ Many classics indicate Tiānchōng GB-9 for a variety of mental and psychologi
 
 #### 1.6. 论述
 
-《灵枢》第二十一章列出了五个天窗穴（[ST9 人迎](./ST9.md)、[LI18 扶突](./LI18.md)、[SJ16 天牖](./SJ16.md)、[BL10 天柱](./BL10.md)和[LU3 天府](./LU3.md)）。同书第二章列出了一个未命名的十穴列表，包括上述五个天窗穴，并新增了[REN22 天突](./REN22.md)、[SI16 天窗](./SI16.md)、[SI17 天容](./SI17.md)、[DU16 风府](./DU16.md)和[PC1 天池](./PC1.md)。该段落首先讨论[REN22 天突](./REN22.md)，然后将六个阳经穴位描述为从任脉向外扩展的垂直线序列，最终以督脉上的[DU16 风府](./DU16.md)结束，另加[LU3 天府](./LU3.md)和[PC1 天池](./PC1.md)作为补充穴位。后来的注释者（尤其是明代名医马莳，他是《黄帝内经》的专家）指出，该段落将[SI17 天容](./SI17.md)描述为少阳经穴位，但实际上它是手太阳经穴位。因此，他们建议[SI17 天容](./SI17.md)应为[GB9 天冲](./GB9.md)。若如此，六个阳经将全部被代表。
+《灵枢》第二十一章列出了五个天窗穴（[ST9 人迎](point/ST9.md)、[LI18 扶突](point/LI18.md)、[SJ16 天牖](point/SJ16.md)、[BL10 天柱](point/BL10.md)和[LU3 天府](point/LU3.md)）。同书第二章列出了一个未命名的十穴列表，包括上述五个天窗穴，并新增了[REN22 天突](point/REN22.md)、[SI16 天窗](point/SI16.md)、[SI17 天容](point/SI17.md)、[DU16 风府](point/DU16.md)和[PC1 天池](point/PC1.md)。该段落首先讨论[REN22 天突](point/REN22.md)，然后将六个阳经穴位描述为从任脉向外扩展的垂直线序列，最终以督脉上的[DU16 风府](point/DU16.md)结束，另加[LU3 天府](point/LU3.md)和[PC1 天池](point/PC1.md)作为补充穴位。后来的注释者（尤其是明代名医马莳，他是《黄帝内经》的专家）指出，该段落将[SI17 天容](point/SI17.md)描述为少阳经穴位，但实际上它是手太阳经穴位。因此，他们建议[SI17 天容](point/SI17.md)应为[GB9 天冲](point/GB9.md)。若如此，六个阳经将全部被代表。
 
 这十个穴位具有某些共同特性，特别适用于头身失调、头部及感官疾患、瘿病和瘰疬、肺或胃气上逆以及情绪障碍。
 
-许多经典文献指[GB9 天冲](./GB9.md)适用于多种精神和心理疾病，如易恐易惊、惊悸、癫痫、癫狂等。根据现代精神病医院的针灸研究，许多头部穴位对治疗大脑下部疾患有效，这可能有助于解释这些传统适应症。
+许多经典文献指[GB9 天冲](point/GB9.md)适用于多种精神和心理疾病，如易恐易惊、惊悸、癫痫、癫狂等。根据现代精神病医院的针灸研究，许多头部穴位对治疗大脑下部疾患有效，这可能有助于解释这些传统适应症。
 
 #### 1.7. 临床应用总结
 
-- 一些注释者认为此穴应为十个天窗穴之一，而非[SI17 天容](./SI17.md)。
+- 一些注释者认为此穴应为十个天窗穴之一，而非[SI17 天容](point/SI17.md)。
 - 适用于易恐易惊、惊悸、癫痫和癫狂。
 
 #### 1.8. 配伍
 
-- 背弓伴悲泣：[GB9 天冲](./GB9.md) + [SP15 大横](./SP15.md)（《百症赋》）。
+- 背弓伴悲泣：[GB9 天冲](point/GB9.md) + [SP15 大横](point/SP15.md)（《百症赋》）。

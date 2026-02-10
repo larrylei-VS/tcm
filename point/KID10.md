@@ -58,12 +58,12 @@ The degree to which Yīngǔ KID-10 is able to nourish Kidney yin is the subjec
 - Mania: Yīngǔ KID-10, [Zúsānlǐ ST-36](https://app.amanualofacupuncture.com/point/ST-36), [Jiānshǐ PC-5](https://app.amanualofacupuncture.com/point/PC-5), [Bǎihuì DU-20](https://app.amanualofacupuncture.com/point/DU-20) and [Fùliū KID-7](https://app.amanualofacupuncture.com/point/KID-7) (Illustrated Supplement).
 - Hip pain: Yīngǔ KID-10, [Huántiào GB-30](https://app.amanualofacupuncture.com/point/GB-30), [Shùgǔ BL-65](https://app.amanualofacupuncture.com/point/BL-65), [Jiāoxìn KID-8](https://app.amanualofacupuncture.com/point/KID-8) and [Sānyīnjiāo SP-6](https://app.amanualofacupuncture.com/point/SP-6) (Thousand Ducat Formulas).
 
-### **[KID10 阴谷](./KID10.md)** (Yīngǔ)
+### **[KID10 阴谷](point/KID10.md)** (Yīngǔ)
 
 * **英文名称：** Yin Valley
 * **中文名称：** 阴谷
 * **国际代码：** KID-10
-* **穴位属性：** **[KID10 阴谷](./KID10.md)** 是肾经的合穴和水穴。
+* **穴位属性：** **[KID10 阴谷](point/KID10.md)** 是肾经的合穴和水穴。
 
 #### **定位 (Location)**
 
@@ -93,15 +93,15 @@ The degree to which Yīngǔ KID-10 is able to nourish Kidney yin is the subjec
 
 #### **阐释 (Commentary)**
 
-**[KID10 阴谷](./KID10.md)** 是肾经的合穴和水穴。它与足部其他阴经的合穴一样，具有清利湿邪和湿热的共同功能，特别是清利下焦的湿邪和湿热。**[LIV8 曲泉](./LIV8.md)** 主要作用于生殖系统（肝经主之），**[SP9 阴陵泉](./SP9.md)** 凭借脾与湿邪的密切关系能够治疗下焦所有湿邪疾病。**[KID10 阴谷](./KID10.md)** 主要清利泌尿生殖系统的湿热，主治小便不利或尿急、尿色深、带下和生殖器瘙痒。
+**[KID10 阴谷](point/KID10.md)** 是肾经的合穴和水穴。它与足部其他阴经的合穴一样，具有清利湿邪和湿热的共同功能，特别是清利下焦的湿邪和湿热。**[LIV8 曲泉](point/LIV8.md)** 主要作用于生殖系统（肝经主之），**[SP9 阴陵泉](point/SP9.md)** 凭借脾与湿邪的密切关系能够治疗下焦所有湿邪疾病。**[KID10 阴谷](point/KID10.md)** 主要清利泌尿生殖系统的湿热，主治小便不利或尿急、尿色深、带下和生殖器瘙痒。
 
-湿热积聚可能阻碍气机的顺畅流通，引起疼痛，这反映在“不通则痛，通则不痛”的传统俗语中。**[KID10 阴谷](./KID10.md)** 主治排尿疼痛、尿急伴疼痛放射至大腿、生殖器疼痛、脐周疼痛以及少腹疼痛放射至大腿内侧和生殖器。
+湿热积聚可能阻碍气机的顺畅流通，引起疼痛，这反映在“不通则痛，通则不痛”的传统俗语中。**[KID10 阴谷](point/KID10.md)** 主治排尿疼痛、尿急伴疼痛放射至大腿、生殖器疼痛、脐周疼痛以及少腹疼痛放射至大腿内侧和生殖器。
 
-虽然阳痿最常见是由于命门火衰所致，但也可能因湿热积聚引起痿软。湿热阳痿可能源于肝经湿热或脾湿下注生殖器，或膀胱反复受外感湿热侵袭。**[KID10 阴谷](./KID10.md)** 主要主治此类湿热阳痿的实证。女性湿热可能导致崩漏和不孕症，这两者都是**[KID10 阴谷](./KID10.md)** 的主治。
+虽然阳痿最常见是由于命门火衰所致，但也可能因湿热积聚引起痿软。湿热阳痿可能源于肝经湿热或脾湿下注生殖器，或膀胱反复受外感湿热侵袭。**[KID10 阴谷](point/KID10.md)** 主要主治此类湿热阳痿的实证。女性湿热可能导致崩漏和不孕症，这两者都是**[KID10 阴谷](point/KID10.md)** 的主治。
 
-下焦湿热与肾虚之间存在密切关系。如果肾阴虚生热，热邪可能与湿邪结合形成湿热，而长期湿热则会先耗伤肾阴，再耗伤肾阳。这种肾虚兼湿热的双重证型在临床实践中常见，特别是在反复泌尿系统疾病的患者中。由于其辅助益肾的作用，当这两种证型并存时，**[KID10 阴谷](./KID10.md)** 主治。
+下焦湿热与肾虚之间存在密切关系。如果肾阴虚生热，热邪可能与湿邪结合形成湿热，而长期湿热则会先耗伤肾阴，再耗伤肾阳。这种肾虚兼湿热的双重证型在临床实践中常见，特别是在反复泌尿系统疾病的患者中。由于其辅助益肾的作用，当这两种证型并存时，**[KID10 阴谷](point/KID10.md)** 主治。
 
-**[KID10 阴谷](./KID10.md)** 滋养肾阴的能力是经常讨论的话题。虽然一些现代权威将其归因于显著的滋阴特性，但对其经典主治的考察表明，这在历史上似乎并非广为流传的观点。
+**[KID10 阴谷](point/KID10.md)** 滋养肾阴的能力是经常讨论的话题。虽然一些现代权威将其归因于显著的滋阴特性，但对其经典主治的考察表明，这在历史上似乎并非广为流传的观点。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -110,14 +110,14 @@ The degree to which Yīngǔ KID-10 is able to nourish Kidney yin is the subjec
 
 #### **穴位组合 (Combinations)**
 
-* 阴茎异常勃起伴小便不利：**[KID10 阴谷](./KID10.md)**，**[LIV1 大敦](./LIV1.md)**，**[LIV14 期门](./LIV14.md)**，**[BL40 委中](./BL40.md)** 和 **[BL39 委阳](./BL39.md)**（《资生经》）。
-* 尿黄：**[KID10 阴谷](./KID10.md)**，**[KID3 太溪](./KID3.md)**，**[BL23 肾俞](./BL23.md)**，**[REN6 气海](./REN6.md)**，**[BL28 膀胱俞](./BL28.md)** 和 **[REN4 关元](./REN4.md)**（《针灸大成》）。
-* 崩漏不止：**[KID10 阴谷](./KID10.md)**，**[KID8 交信](./KID8.md)**，**[SP6 三阴交](./SP6.md)** 和 **[LIV3 太冲](./LIV3.md)**（《资生经》）。
-* 霍乱吐泻：**[KID10 阴谷](./KID10.md)** 和 **[ST36 足三里](./ST36.md)**（《百症赋》）。
-* 舌强：**[KID10 阴谷](./KID10.md)**，**[KID2 然谷](./KID2.md)**，**[DU15 哑门](./DU15.md)**，**[LU11 少商](./LU11.md)**，**[LU10 鱼际](./LU10.md)**，**[LI2 二间](./LI2.md)** 和 **[PC9 中冲](./PC9.md)**（《针灸大成》）。
-* 舌下肿胀言语困难，舌头突出伴流涎：**[KID10 阴谷](./KID10.md)**，**[KID2 然谷](./KID2.md)** 和 **[REN23 廉泉](./REN23.md)**（《千金方》）。
-* 失音：**[KID10 阴谷](./KID10.md)**，**[KID2 然谷](./KID2.md)**，**[REN22 天突](./REN22.md)**，**[HE4 灵道](./HE4.md)**，**[KID7 复溜](./KID7.md)** 和 **[ST40 丰隆](./ST40.md)**（《图翼》）。
-* 癫狂：**[KID10 阴谷](./KID10.md)**，**[ST36 足三里](./ST36.md)**，**[PC5 间使](./PC5.md)**，**[DU20 百会](./DU20.md)** 和 **[KID7 复溜](./KID7.md)**（《图翼》）。
-* 髋部疼痛：**[KID10 阴谷](./KID10.md)**，**[GB30 环跳](./GB30.md)**，**[BL65 束骨](./BL65.md)**，**[KID8 交信](./KID8.md)** 和 **[SP6 三阴交](./SP6.md)**（《千金方》）。
+* 阴茎异常勃起伴小便不利：**[KID10 阴谷](point/KID10.md)**，**[LIV1 大敦](point/LIV1.md)**，**[LIV14 期门](point/LIV14.md)**，**[BL40 委中](point/BL40.md)** 和 **[BL39 委阳](point/BL39.md)**（《资生经》）。
+* 尿黄：**[KID10 阴谷](point/KID10.md)**，**[KID3 太溪](point/KID3.md)**，**[BL23 肾俞](point/BL23.md)**，**[REN6 气海](point/REN6.md)**，**[BL28 膀胱俞](point/BL28.md)** 和 **[REN4 关元](point/REN4.md)**（《针灸大成》）。
+* 崩漏不止：**[KID10 阴谷](point/KID10.md)**，**[KID8 交信](point/KID8.md)**，**[SP6 三阴交](point/SP6.md)** 和 **[LIV3 太冲](point/LIV3.md)**（《资生经》）。
+* 霍乱吐泻：**[KID10 阴谷](point/KID10.md)** 和 **[ST36 足三里](point/ST36.md)**（《百症赋》）。
+* 舌强：**[KID10 阴谷](point/KID10.md)**，**[KID2 然谷](point/KID2.md)**，**[DU15 哑门](point/DU15.md)**，**[LU11 少商](point/LU11.md)**，**[LU10 鱼际](point/LU10.md)**，**[LI2 二间](point/LI2.md)** 和 **[PC9 中冲](point/PC9.md)**（《针灸大成》）。
+* 舌下肿胀言语困难，舌头突出伴流涎：**[KID10 阴谷](point/KID10.md)**，**[KID2 然谷](point/KID2.md)** 和 **[REN23 廉泉](point/REN23.md)**（《千金方》）。
+* 失音：**[KID10 阴谷](point/KID10.md)**，**[KID2 然谷](point/KID2.md)**，**[REN22 天突](point/REN22.md)**，**[HE4 灵道](point/HE4.md)**，**[KID7 复溜](point/KID7.md)** 和 **[ST40 丰隆](point/ST40.md)**（《图翼》）。
+* 癫狂：**[KID10 阴谷](point/KID10.md)**，**[ST36 足三里](point/ST36.md)**，**[PC5 间使](point/PC5.md)**，**[DU20 百会](point/DU20.md)** 和 **[KID7 复溜](point/KID7.md)**（《图翼》）。
+* 髋部疼痛：**[KID10 阴谷](point/KID10.md)**，**[GB30 环跳](point/GB30.md)**，**[BL65 束骨](point/BL65.md)**，**[KID8 交信](point/KID8.md)** 和 **[SP6 三阴交](point/SP6.md)**（《千金方》）。
 
 ---

@@ -50,7 +50,7 @@ The action of Shuǐfēn REN-9 in treating these kinds of accumulation of water
 - No pleasure in eating: Shuǐfēn REN-9, [Dìjī SP-8](https://app.amanualofacupuncture.com/point/SP-8), [Yīnlíngquán SP-9](https://app.amanualofacupuncture.com/point/SP-9), [Yōumén KID-21](https://app.amanualofacupuncture.com/point/KID-21) and [Xiǎochángshū BL-27](https://app.amanualofacupuncture.com/point/BL-27) (Supplementing Life).
 
 
-### 1. [REN9 水分](./REN9.md)
+### 1. [REN9 水分](point/REN9.md)
 
 #### 1.1. Water Separation 水分
 
@@ -81,11 +81,11 @@ The action of Shuǐfēn REN-9 in treating these kinds of accumulation of water
 
 #### 1.7. 论述
 
-[REN9 水分](./REN9.md)顾名思义，对液体转化及分布作用强烈，尤适用于水肿。《针灸大成》称[REN9 水分](./REN9.md)位于小肠上方，小肠有“分清泌浊”之功，将液体送至膀胱，固体残渣送至大肠排出。此功能受脾肾主导，[REN9 水分](./REN9.md)尤适用于脾和/或肾虚引起的阴性水肿，特别是腹部水肿。早期文献多指定治疗水肿时宜灸而非针。  
+[REN9 水分](point/REN9.md)顾名思义，对液体转化及分布作用强烈，尤适用于水肿。《针灸大成》称[REN9 水分](point/REN9.md)位于小肠上方，小肠有“分清泌浊”之功，将液体送至膀胱，固体残渣送至大肠排出。此功能受脾肾主导，[REN9 水分](point/REN9.md)尤适用于脾和/或肾虚引起的阴性水肿，特别是腹部水肿。早期文献多指定治疗水肿时宜灸而非针。  
 
-肠功能受损可致严重积滞，阻胃气下降，引起胃气上逆。[REN9 水分](./REN9.md)适用于腹胀痛、腹胀硬如鼓、脐周痛上冲胸心致呼吸困难、食欲不振、反酸及呕吐。  
+肠功能受损可致严重积滞，阻胃气下降，引起胃气上逆。[REN9 水分](point/REN9.md)适用于腹胀痛、腹胀硬如鼓、脐周痛上冲胸心致呼吸困难、食欲不振、反酸及呕吐。  
 
-[REN9 水分](./REN9.md)治疗水、气、食积滞，反映其和肠促流通的能力，而非直接补脾肾。  
+[REN9 水分](point/REN9.md)治疗水、气、食积滞，反映其和肠促流通的能力，而非直接补脾肾。  
 
 #### 1.8. 临床应用总结
 
@@ -94,11 +94,11 @@ The action of Shuǐfēn REN-9 in treating these kinds of accumulation of water
 
 #### 1.9. 配伍
 
-- 水肿：[REN9 水分](./REN9.md) + [KID7 复溜](./KID7.md)（《穴歌》）。  
-- 脐周水肿：[REN9 水分](./REN9.md) + [SP9 阴陵泉](./SP9.md)（《百症赋》）。  
-- 腹部水肿胀如鼓：[REN9 水分](./REN9.md) + [REN11 建里](./REN11.md)（泻）（《天星秘诀》）。  
-- 下腹痉挛痛：[REN9 水分](./REN9.md) + [REN5 石门](./REN5.md)（《千金方》）。  
-- 脐周痛：[REN9 水分](./REN9.md) + [REN8 神阙](./REN8.md) + [REN6 气海](./REN6.md)（《大成》）。  
-- 脐周痛：[REN9 水分](./REN9.md) + [REN8 神阙](./REN8.md) + [LIV4 中封](./LIV4.md)（《补命》）。  
-- 脐区痛：[REN9 水分](./REN9.md) + [LIV4 中封](./LIV4.md) + [LIV8 曲泉](./LIV8.md)（《大成》）。  
-- 食不甘味：[REN9 水分](./REN9.md) + [SP8 地机](./SP8.md) + [SP9 阴陵泉](./SP9.md) + [KID21 幽门](./KID21.md) + [BL27 小肠俞](./BL27.md)（《补命》）。  
+- 水肿：[REN9 水分](point/REN9.md) + [KID7 复溜](point/KID7.md)（《穴歌》）。  
+- 脐周水肿：[REN9 水分](point/REN9.md) + [SP9 阴陵泉](point/SP9.md)（《百症赋》）。  
+- 腹部水肿胀如鼓：[REN9 水分](point/REN9.md) + [REN11 建里](point/REN11.md)（泻）（《天星秘诀》）。  
+- 下腹痉挛痛：[REN9 水分](point/REN9.md) + [REN5 石门](point/REN5.md)（《千金方》）。  
+- 脐周痛：[REN9 水分](point/REN9.md) + [REN8 神阙](point/REN8.md) + [REN6 气海](point/REN6.md)（《大成》）。  
+- 脐周痛：[REN9 水分](point/REN9.md) + [REN8 神阙](point/REN8.md) + [LIV4 中封](point/LIV4.md)（《补命》）。  
+- 脐区痛：[REN9 水分](point/REN9.md) + [LIV4 中封](point/LIV4.md) + [LIV8 曲泉](point/LIV8.md)（《大成》）。  
+- 食不甘味：[REN9 水分](point/REN9.md) + [SP8 地机](point/SP8.md) + [SP9 阴陵泉](point/SP9.md) + [KID21 幽门](point/KID21.md) + [BL27 小肠俞](point/BL27.md)（《补命》）。  

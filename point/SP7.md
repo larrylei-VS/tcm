@@ -39,7 +39,7 @@ Although not a commonly used point clinically, Lòugǔ SP-7 is indicated for "
 - Difficult urination and seminal emission: Lòugǔ SP-7, [Zhōngjí REN-3](https://app.amanualofacupuncture.com/point/REN-3), [Lǐgōu LIV-5](https://app.amanualofacupuncture.com/point/LIV-5), [Chéngfú BL-36](https://app.amanualofacupuncture.com/point/BL-36) and [Zhìyīn BL-67](https://app.amanualofacupuncture.com/point/BL-67) (Supplementing Life).
 
 ---
-### [SP7 漏谷](./SP7.md) (LÒUGǓ)
+### [SP7 漏谷](point/SP7.md) (LÒUGǓ)
 
 * **英文名称：** Dripping Valley
 * **中文名称：** 漏谷
@@ -47,10 +47,10 @@ Although not a commonly used point clinically, Lòugǔ SP-7 is indicated for "
 
 #### 定位 (Location)
 
-位于小腿内侧，在[SP6 三阴交](./SP6.md) 上方3寸，胫骨内侧缘后方的凹陷中。
+位于小腿内侧，在[SP6 三阴交](point/SP6.md) 上方3寸，胫骨内侧缘后方的凹陷中。
 
 * **定位要点 (Location Notes):**
-    * 此穴最易定位在[SP6 三阴交](./SP6.md) 上方一横掌处。
+    * 此穴最易定位在[SP6 三阴交](point/SP6.md) 上方一横掌处。
 
 #### 针刺方法 (Needling)
 
@@ -72,7 +72,7 @@ Although not a commonly used point clinically, Lòugǔ SP-7 is indicated for "
 
 #### 阐释 (Commentary)
 
-尽管[SP7 漏谷](./SP7.md) 临床上不常用，但它主治“饮食正常但肌肉消瘦”的病症。李东垣在《脾胃论》中提及此症，谓“亦有食多而瘦者，是胃中伏火在气分，消谷善饥，脾气亏弱，则肉消瘦也”。
+尽管[SP7 漏谷](point/SP7.md) 临床上不常用，但它主治“饮食正常但肌肉消瘦”的病症。李东垣在《脾胃论》中提及此症，谓“亦有食多而瘦者，是胃中伏火在气分，消谷善饥，脾气亏弱，则肉消瘦也”。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -81,7 +81,7 @@ Although not a commonly used point clinically, Lòugǔ SP-7 is indicated for "
 
 #### 穴位组合 (Combinations)
 
-* 腹部冷痛：[SP7 漏谷](./SP7.md) 和[BL35 会阳](./BL35.md)（《资生经》）。
-* 小便不利伴遗精：[SP7 漏谷](./SP7.md)，[REN3 中极](./REN3.md)，[LIV5 蠡沟](./LIV5.md)，[BL36 承扶](./BL36.md) 和[BL67 至阴](./BL67.md)（《资生经》）。
+* 腹部冷痛：[SP7 漏谷](point/SP7.md) 和[BL35 会阳](point/BL35.md)（《资生经》）。
+* 小便不利伴遗精：[SP7 漏谷](point/SP7.md)，[REN3 中极](point/REN3.md)，[LIV5 蠡沟](point/LIV5.md)，[BL36 承扶](point/BL36.md) 和[BL67 至阴](point/BL67.md)（《资生经》）。
 
 ---

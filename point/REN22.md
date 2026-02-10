@@ -56,7 +56,7 @@ Finally, Tiāntú REN-22 is one of ten points listed in Chapter 2 of the Spir
 - Heat sensation of the skin of the face: Tiāntú REN-22 and [Tiānchuāng SI-16](https://app.amanualofacupuncture.com/point/SI-16) (Supplementing Life).
 
 
-### 1. [REN22 天突](./REN22.md)
+### 1. [REN22 天突](point/REN22.md)
 
 #### 1.1. Heavenly Prominence 天突
 
@@ -87,15 +87,15 @@ Finally, Tiāntú REN-22 is one of ten points listed in Chapter 2 of the Spir
 
 #### 1.6. 论述
 
-与许多任脉穴相同，[REN22 天突](./REN22.md)强效降气，位于两肺间及喉下，主要用于治疗此二区域的多种疾患。  
+与许多任脉穴相同，[REN22 天突](point/REN22.md)强效降气，位于两肺间及喉下，主要用于治疗此二区域的多种疾患。  
 
-[REN22 天突](./REN22.md)长期被视为治疗肺病的重要穴，《素问》推荐其用于气逆、不能呼吸及气短。如其他胸上部穴（如[LU1 中府](./LU1.md)），[REN22 天突](./REN22.md)主要用于肺气上逆的实证，包括咳嗽、哮喘、突发呼吸困难、不能呼吸及肺痈咳脓血。  
+[REN22 天突](point/REN22.md)长期被视为治疗肺病的重要穴，《素问》推荐其用于气逆、不能呼吸及气短。如其他胸上部穴（如[LU1 中府](point/LU1.md)），[REN22 天突](point/REN22.md)主要用于肺气上逆的实证，包括咳嗽、哮喘、突发呼吸困难、不能呼吸及肺痈咳脓血。  
 
-对于咽喉疾患，[REN22 天突](./REN22.md)几乎适用于任何情况，从咽干、冷感、肿痛，至梅核气及严重溃疡不能食。它也是声音疾患的重要穴，如声音嘶哑、失音及不能言。现代临床最常用于喘鸣及哮喘，尤伴喉痰积者。  
+对于咽喉疾患，[REN22 天突](point/REN22.md)几乎适用于任何情况，从咽干、冷感、肿痛，至梅核气及严重溃疡不能食。它也是声音疾患的重要穴，如声音嘶哑、失音及不能言。现代临床最常用于喘鸣及哮喘，尤伴喉痰积者。  
 
-[REN22 天突](./REN22.md)为任脉与阴维脉交会穴。阴维脉升经胸区，《难经》称：“阴维脉独病则心痛。”[REN22 天突](./REN22.md)特用于气阻伴心痛及心背痛。  
+[REN22 天突](point/REN22.md)为任脉与阴维脉交会穴。阴维脉升经胸区，《难经》称：“阴维脉独病则心痛。”[REN22 天突](point/REN22.md)特用于气阻伴心痛及心背痛。  
 
-[REN22 天突](./REN22.md)为《灵枢》第二章列十个天窗穴之一（详见天窗穴讨论），体现其特色作用：治疗瘿病、肺胃气逆及突发疾患（突发失音）。  
+[REN22 天突](point/REN22.md)为《灵枢》第二章列十个天窗穴之一（详见天窗穴讨论），体现其特色作用：治疗瘿病、肺胃气逆及突发疾患（突发失音）。  
 
 #### 1.7. 临床应用总结
 
@@ -106,12 +106,12 @@ Finally, Tiāntú REN-22 is one of ten points listed in Chapter 2 of the Spir
 
 #### 1.8. 配伍
 
-- 气逆咳嗽：[REN22 天突](./REN22.md) + [REN17 膻中](./REN17.md) + [PC1 天池](./PC1.md) + [ST41 解溪](./ST41.md) + [SI15 肩中俞](./SI15.md)（《补命》）。  
-- 哮喘、夜不能寐、心神不安：[REN22 天突](./REN22.md) + [REN17 膻中](./REN17.md)（《玉龙颂》）。  
-- 呼吸困难及咳嗽：[REN17 膻中](./REN17.md) + [REN22 天突](./REN22.md)（《玉龙颂》）。  
-- 咳嗽至声嘶：[REN22 天突](./REN22.md) + [BL13 肺俞](./BL13.md)（《百症赋》）。  
-- 失音：[REN22 天突](./REN22.md) + [HE4 灵道](./HE4.md) + [KID10 阴谷](./KID10.md) + [KID7 复溜](./KID7.md) + [ST40 丰隆](./ST40.md) + [KID2 然谷](./KID2.md)（《图翼》）。  
-- 突发失音伴牙关紧闭：[REN22 天突](./REN22.md) + [HE4 灵道](./HE4.md) + [SI16 天窗](./SI16.md)（《补命》）。  
-- 咽喉肿痛：[REN22 天突](./REN22.md) + [LU11 少商](./LU11.md) + [LI4 合谷](./LI4.md)（《大成》）。  
-- 心痛伴气短：[REN22 天突](./REN22.md) + [LIV14 期门](./LIV14.md) + [DU1 长强](./DU1.md) + [LU4 侠白](./LU4.md) + [PC9 中冲](./PC9.md)（《千金方》）。  
-- 面部皮肤热感：[REN22 天突](./REN22.md) + [SI16 天窗](./SI16.md)（《补命》）。  
+- 气逆咳嗽：[REN22 天突](point/REN22.md) + [REN17 膻中](point/REN17.md) + [PC1 天池](point/PC1.md) + [ST41 解溪](point/ST41.md) + [SI15 肩中俞](point/SI15.md)（《补命》）。  
+- 哮喘、夜不能寐、心神不安：[REN22 天突](point/REN22.md) + [REN17 膻中](point/REN17.md)（《玉龙颂》）。  
+- 呼吸困难及咳嗽：[REN17 膻中](point/REN17.md) + [REN22 天突](point/REN22.md)（《玉龙颂》）。  
+- 咳嗽至声嘶：[REN22 天突](point/REN22.md) + [BL13 肺俞](point/BL13.md)（《百症赋》）。  
+- 失音：[REN22 天突](point/REN22.md) + [HE4 灵道](point/HE4.md) + [KID10 阴谷](point/KID10.md) + [KID7 复溜](point/KID7.md) + [ST40 丰隆](point/ST40.md) + [KID2 然谷](point/KID2.md)（《图翼》）。  
+- 突发失音伴牙关紧闭：[REN22 天突](point/REN22.md) + [HE4 灵道](point/HE4.md) + [SI16 天窗](point/SI16.md)（《补命》）。  
+- 咽喉肿痛：[REN22 天突](point/REN22.md) + [LU11 少商](point/LU11.md) + [LI4 合谷](point/LI4.md)（《大成》）。  
+- 心痛伴气短：[REN22 天突](point/REN22.md) + [LIV14 期门](point/LIV14.md) + [DU1 长强](point/DU1.md) + [LU4 侠白](point/LU4.md) + [PC9 中冲](point/PC9.md)（《千金方》）。  
+- 面部皮肤热感：[REN22 天突](point/REN22.md) + [SI16 天窗](point/SI16.md)（《补命》）。  

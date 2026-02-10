@@ -43,19 +43,19 @@ Unusually for a point located above the umbilicus, Shíguān KID-18 is indicat
 
 
 ---
-### **[KID18 石关](./KID18.md)** (SHÍGUĀN)
+### **[KID18 石关](point/KID18.md)** (SHÍGUĀN)
 
 * **英文名称：** Stone Pass
 * **中文名称：** 石关
 * **国际代码：** KID-18
-* **穴位属性：** **[KID18 石关](./KID18.md)** 是肾经与冲脉的交会穴。
+* **穴位属性：** **[KID18 石关](point/KID18.md)** 是肾经与冲脉的交会穴。
 
 #### **定位 (Location)**
 
-位于上腹部，脐上3寸，距中线旁开0.5寸（**[REN11 建里](./REN11.md)** 旁开0.5寸）。
+位于上腹部，脐上3寸，距中线旁开0.5寸（**[REN11 建里](point/REN11.md)** 旁开0.5寸）。
 
 * **定位要点 (Location Notes):**
-    * 《针灸大成》将**[KID18 石关](./KID18.md)** 至 **[KID21 幽门](./KID21.md)** 定位为距中线旁开1.5寸。
+    * 《针灸大成》将**[KID18 石关](point/KID18.md)** 至 **[KID21 幽门](point/KID21.md)** 定位为距中线旁开1.5寸。
 
 #### **针刺方法 (Needling)**
 
@@ -76,7 +76,7 @@ Unusually for a point located above the umbilicus, Shíguān KID-18 is indicat
 
 #### **阐释 (Commentary)**
 
-**[KID18 石关](./KID18.md)** 位于脐上，不同寻常地主治多种妇科疾病，包括不孕症，特别是产后腹部或胁肋部剧烈疼痛。主治“子宫恶露不净”指的是离经之血积聚瘀滞。所有这些主治都反映了**[KID18 石关](./KID18.md)** 作为肾经与冲脉（源于子宫，被称为“血海”）交会穴的地位，并指向子宫、整个腹部和胁肋部的血瘀证。
+**[KID18 石关](point/KID18.md)** 位于脐上，不同寻常地主治多种妇科疾病，包括不孕症，特别是产后腹部或胁肋部剧烈疼痛。主治“子宫恶露不净”指的是离经之血积聚瘀滞。所有这些主治都反映了**[KID18 石关](point/KID18.md)** 作为肾经与冲脉（源于子宫，被称为“血海”）交会穴的地位，并指向子宫、整个腹部和胁肋部的血瘀证。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -85,9 +85,9 @@ Unusually for a point located above the umbilicus, Shíguān KID-18 is indicat
 
 #### **穴位组合 (Combinations)**
 
-* 腹痛伴排便困难：**[KID18 石关](./KID18.md)** 和 **[BL28 膀胱俞](./BL28.md)**（《资生经》）。
-* 排便困难：**[KID18 石关](./KID18.md)** 和 **[KID4 大钟](./KID4.md)**（《资生经》）。
-* 子宫恶血，内逆胀满疼痛：**[KID18 石关](./KID18.md)** 和 **[KID14 四满](./KID14.md)**（《资生经》）。
-* 不孕症：**[KID18 石关](./KID18.md)** 和 **[REN7 阴交](./REN7.md)**（《百症赋》）。
+* 腹痛伴排便困难：**[KID18 石关](point/KID18.md)** 和 **[BL28 膀胱俞](point/BL28.md)**（《资生经》）。
+* 排便困难：**[KID18 石关](point/KID18.md)** 和 **[KID4 大钟](point/KID4.md)**（《资生经》）。
+* 子宫恶血，内逆胀满疼痛：**[KID18 石关](point/KID18.md)** 和 **[KID14 四满](point/KID14.md)**（《资生经》）。
+* 不孕症：**[KID18 石关](point/KID18.md)** 和 **[REN7 阴交](point/REN7.md)**（《百症赋》）。
 
 ---

@@ -70,7 +70,7 @@ Finally, like [Zhāngmén LIV-13](https://app.amanualofacupuncture.com/point/LI
 - Involuntary erection with difficult urination: Qímén LIV-14, [Dàdūn LIV-1](https://app.amanualofacupuncture.com/point/LIV-1), [Yīngǔ KID-10](https://app.amanualofacupuncture.com/point/KID-10), [Wěizhōng BL-40](https://app.amanualofacupuncture.com/point/BL-40) and [Wěiyáng BL-39](https://app.amanualofacupuncture.com/point/BL-39) (Supplementing Life).
 
 
-### 1. [LIV14 期门](./LIV14.md)
+### 1. [LIV14 期门](point/LIV14.md)
 
 #### 1.1. Cycle Gate 期門
 
@@ -106,19 +106,19 @@ ii. 注意另有一“下期门”穴，位于乳头线上，距中线4寸，在
 
 #### 1.7. 论述
 
-[LIV14 期门](./LIV14.md)是肝经的最后一个穴位，也是气从[LU1 中府](./LU1.md)开始，经过十二经脉完整循环的终点，反映在其名“期门”中。  
+[LIV14 期门](point/LIV14.md)是肝经的最后一个穴位，也是气从[LU1 中府](point/LU1.md)开始，经过十二经脉完整循环的终点，反映在其名“期门”中。  
 
-[LIV14 期门](./LIV14.md)是肝的前募穴。“募”意为聚集或收集，前募穴是脏腑之气在前胸腹壁聚集之处。此穴处肝经分布于胁部、膈肌及胸部，其主要作用是调理这些区域的气顺畅流动。与[LIV13 章门](./LIV13.md)聚焦中下焦不同，[LIV14 期门](./LIV14.md)主要作用于中上焦。  
+[LIV14 期门](point/LIV14.md)是肝的前募穴。“募”意为聚集或收集，前募穴是脏腑之气在前胸腹壁聚集之处。此穴处肝经分布于胁部、膈肌及胸部，其主要作用是调理这些区域的气顺畅流动。与[LIV13 章门](point/LIV13.md)聚焦中下焦不同，[LIV14 期门](point/LIV14.md)主要作用于中上焦。  
 
-《灵枢》称：“怒则气逆上聚于胸。”若肝气壅于胸或胁部，会引起疼痛、胀满或胸满；若肝气犯肺碍其下降，则致咳嗽、叹息及呼吸困难。肝经筋脉连于乳房，整个乳区受肝影响。若肝气壅于乳房，可致疼痛、胀满甚至瘕块，随月经周期波动，经前尤甚。[LIV14 期门](./LIV14.md)是治疗此常见病症的重要邻近穴位。  
+《灵枢》称：“怒则气逆上聚于胸。”若肝气壅于胸或胁部，会引起疼痛、胀满或胸满；若肝气犯肺碍其下降，则致咳嗽、叹息及呼吸困难。肝经筋脉连于乳房，整个乳区受肝影响。若肝气壅于乳房，可致疼痛、胀满甚至瘕块，随月经周期波动，经前尤甚。[LIV14 期门](point/LIV14.md)是治疗此常见病症的重要邻近穴位。  
 
-气血关系密切，如“气为血帅……气行则血行”所述。严重或长期气滞会导致血瘀，表现为胸、胁、腹或下腹的硬块或刺痛。[LIV14 期门](./LIV14.md)通过调气活血，适用于这些情况。其特别指用于心刺痛，反映其为肝经与阴维脉交会穴。《难经》称：“阴维脉病则心痛。”  
+气血关系密切，如“气为血帅……气行则血行”所述。严重或长期气滞会导致血瘀，表现为胸、胁、腹或下腹的硬块或刺痛。[LIV14 期门](point/LIV14.md)通过调气活血，适用于这些情况。其特别指用于心刺痛，反映其为肝经与阴维脉交会穴。《难经》称：“阴维脉病则心痛。”  
 
-张景岳谓：“食时或食后怒则伤脾胃。”此重要观察强调用餐时平和心境的重要性。若有扰乱、冲突、挫折、怨恨或怒气，可能扰乱消化系统。若肝气横犯胃，碍其下降，胃气滞或上逆，致胃脘胀痛、反酸、呕吐及呃逆。[LIV14 期门](./LIV14.md)是治疗肝胃失和模式的关键局部穴位。若肝气横犯脾，碍脾运化，则致腹胀及腹泻，但[LIV14 期门](./LIV14.md)在此情况下临床使用少于[LIV13 章门](./LIV13.md)。  
+张景岳谓：“食时或食后怒则伤脾胃。”此重要观察强调用餐时平和心境的重要性。若有扰乱、冲突、挫折、怨恨或怒气，可能扰乱消化系统。若肝气横犯胃，碍其下降，胃气滞或上逆，致胃脘胀痛、反酸、呕吐及呃逆。[LIV14 期门](point/LIV14.md)是治疗肝胃失和模式的关键局部穴位。若肝气横犯脾，碍脾运化，则致腹胀及腹泻，但[LIV14 期门](point/LIV14.md)在此情况下临床使用少于[LIV13 章门](point/LIV13.md)。  
 
-[LIV14 期门](./LIV14.md)的特定指征为“寒伤化热入血室”，指月经或产后寒邪入侵，寒转化为热，引起寒热交替、下腹及胸胁硬满、日清醒夜乱语。此模式首见于张仲景《伤寒论》，推荐小柴胡汤并针[LIV14 期门](./LIV14.md)，尤其用于狂言。唐代学者许学士评《伤寒论》称：“女子热入血室，小柴胡汤缓时，针[LIV14 期门](./LIV14.md)。”[LIV14 期门](./LIV14.md)也用于子宫出血。  
+[LIV14 期门](point/LIV14.md)的特定指征为“寒伤化热入血室”，指月经或产后寒邪入侵，寒转化为热，引起寒热交替、下腹及胸胁硬满、日清醒夜乱语。此模式首见于张仲景《伤寒论》，推荐小柴胡汤并针[LIV14 期门](point/LIV14.md)，尤其用于狂言。唐代学者许学士评《伤寒论》称：“女子热入血室，小柴胡汤缓时，针[LIV14 期门](point/LIV14.md)。”[LIV14 期门](point/LIV14.md)也用于子宫出血。  
 
-与[LIV13 章门](./LIV13.md)类似，[LIV14 期门](./LIV14.md)是治疗奔豚气的重要穴位（详见[LIV13 章门](./LIV13.md)）。  
+与[LIV13 章门](point/LIV13.md)类似，[LIV14 期门](point/LIV14.md)是治疗奔豚气的重要穴位（详见[LIV13 章门](point/LIV13.md)）。  
 
 #### 1.8. 临床应用总结
 
@@ -128,16 +128,16 @@ ii. 注意另有一“下期门”穴，位于乳头线上，距中线4寸，在
 
 #### 1.9. 配伍
 
-- 心痛伴短气：[LIV14 期门](./LIV14.md) + [DU1 长强](./DU1.md) + [REN22 天突](./REN22.md) + [LU4 侠白](./LU4.md) + [PC9 中冲](./PC9.md)（《千金方》）。  
-- 心刺痛：[LIV14 期门](./LIV14.md) + [ST19 不容](./ST19.md)（《千金方》）。  
-- 胸痛：[LIV14 期门](./LIV14.md) + [BL13 肺俞](./BL13.md) + [LU2 云门](./LU2.md) + [LU1 中府](./LU1.md) + [SP1 隐白](./SP1.md) + [BL47 魂门](./BL47.md) + [PC7 大陵](./PC7.md)（《千金方》）。  
-- 胸热：[LIV14 期门](./LIV14.md) + [ST12 缺盆](./ST12.md)（《千金方》）。  
-- 寒伤胸痛：[LIV14 期门](./LIV14.md) + [PC7 大陵](./PC7.md)（《大成》）。  
-- 呼吸困难不能行走：[LIV14 期门](./LIV14.md) + [REN12 中脘](./REN12.md) + [LI9 上廉](./LI9.md)（《大成》）。  
-- 气逆咳嗽、胸满、短气伴背痛：各灸[LIV14 期门](./LIV14.md) + [REN14 巨阙](./REN14.md) 50壮（《千金方》）。  
-- 胁部胀满：[LIV14 期门](./LIV14.md) + [REN4 关元](./REN4.md) + [LU11 少商](./LU11.md)（《千金方》）。  
-- 难下咽：[LIV14 期门](./LIV14.md) + [BL48 阳纲](./BL48.md) + [LU11 少商](./LU11.md) + [PC8 劳宫](./PC8.md)（《千金方》）。  
-- 产后嗳气：[LIV14 期门](./LIV14.md) + [ST43 陷谷](./ST43.md)（《补命》）。  
-- 女子奔豚气：[LIV14 期门](./LIV14.md) + [REN4 关元](./REN4.md) + [REN3 中极](./REN3.md) + [SP6 三阴交](./SP6.md) + [REN5 石门](./REN5.md) + [SP10 血海](./SP10.md)（《补命》）。  
-- 寒伤颈项僵硬：[LIV14 期门](./LIV14.md) + [LI7 温溜](./LI7.md)（《百症赋》）。  
-- 持续勃起伴尿难：[LIV14 期门](./LIV14.md) + [LIV1 大敦](./LIV1.md) + [KID10 阴谷](./KID10.md) + [BL40 委中](./BL40.md) + [BL39 委阳](./BL39.md)（《补命》）。  
+- 心痛伴短气：[LIV14 期门](point/LIV14.md) + [DU1 长强](point/DU1.md) + [REN22 天突](point/REN22.md) + [LU4 侠白](point/LU4.md) + [PC9 中冲](point/PC9.md)（《千金方》）。  
+- 心刺痛：[LIV14 期门](point/LIV14.md) + [ST19 不容](point/ST19.md)（《千金方》）。  
+- 胸痛：[LIV14 期门](point/LIV14.md) + [BL13 肺俞](point/BL13.md) + [LU2 云门](point/LU2.md) + [LU1 中府](point/LU1.md) + [SP1 隐白](point/SP1.md) + [BL47 魂门](point/BL47.md) + [PC7 大陵](point/PC7.md)（《千金方》）。  
+- 胸热：[LIV14 期门](point/LIV14.md) + [ST12 缺盆](point/ST12.md)（《千金方》）。  
+- 寒伤胸痛：[LIV14 期门](point/LIV14.md) + [PC7 大陵](point/PC7.md)（《大成》）。  
+- 呼吸困难不能行走：[LIV14 期门](point/LIV14.md) + [REN12 中脘](point/REN12.md) + [LI9 上廉](point/LI9.md)（《大成》）。  
+- 气逆咳嗽、胸满、短气伴背痛：各灸[LIV14 期门](point/LIV14.md) + [REN14 巨阙](point/REN14.md) 50壮（《千金方》）。  
+- 胁部胀满：[LIV14 期门](point/LIV14.md) + [REN4 关元](point/REN4.md) + [LU11 少商](point/LU11.md)（《千金方》）。  
+- 难下咽：[LIV14 期门](point/LIV14.md) + [BL48 阳纲](point/BL48.md) + [LU11 少商](point/LU11.md) + [PC8 劳宫](point/PC8.md)（《千金方》）。  
+- 产后嗳气：[LIV14 期门](point/LIV14.md) + [ST43 陷谷](point/ST43.md)（《补命》）。  
+- 女子奔豚气：[LIV14 期门](point/LIV14.md) + [REN4 关元](point/REN4.md) + [REN3 中极](point/REN3.md) + [SP6 三阴交](point/SP6.md) + [REN5 石门](point/REN5.md) + [SP10 血海](point/SP10.md)（《补命》）。  
+- 寒伤颈项僵硬：[LIV14 期门](point/LIV14.md) + [LI7 温溜](point/LI7.md)（《百症赋》）。  
+- 持续勃起伴尿难：[LIV14 期门](point/LIV14.md) + [LIV1 大敦](point/LIV1.md) + [KID10 阴谷](point/KID10.md) + [BL40 委中](point/BL40.md) + [BL39 委阳](point/BL39.md)（《补命》）。  

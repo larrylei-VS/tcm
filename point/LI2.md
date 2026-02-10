@@ -51,12 +51,12 @@ Finally the Large Intestine muscle and divergent channels both connect with the 
 - Somnolence: Èrjiān LI-2, [Sānjiān LI-3](https://app.amanualofacupuncture.com/point/LI-3), [Tàixī KID-3](https://app.amanualofacupuncture.com/point/KID-3), [Zhàohǎi KID-6](https://app.amanualofacupuncture.com/point/KID-6), [Bǎihuì DU-20](https://app.amanualofacupuncture.com/point/DU-20), [Tiānjǐng SJ-10](https://app.amanualofacupuncture.com/point/SJ-10), [Lìduì ST-45](https://app.amanualofacupuncture.com/point/ST-45) and [Gānshū BL-18](https://app.amanualofacupuncture.com/point/BL-18) (Great Compendium).
 - Excessive fright: Èrjiān LI-2, [Yīnxī HE-6](https://app.amanualofacupuncture.com/point/HE-6), [Jiānshǐ PC-5](https://app.amanualofacupuncture.com/point/PC-5) and [Lìduì ST-45](https://app.amanualofacupuncture.com/point/ST-45) (Supplementing Life).
 
-### [LI2 二间](./LI2.md) (ÈRJIĀN)
+### [LI2 二间](point/LI2.md) (ÈRJIĀN)
 
 - **英文名称：** Second Space
 - **中文名称：** 二间
 - **国际代码：** LI-2
-- **穴位属性：** [LI2 二间](./LI2.md) 是大肠经的荥穴和水穴。
+- **穴位属性：** [LI2 二间](point/LI2.md) 是大肠经的荥穴和水穴。
 
 #### 定位 (Location)
 
@@ -82,17 +82,17 @@ i. 向近端或远端斜刺0.2至0.3寸； ii. 向掌心方向直斜刺0.5寸。
 
 感受寒邪导致水饮结聚胸胁，易受惊吓，嗜睡。
 
-肩背部疼痛僵硬，[LI15 肩髃](./LI15.md) 处寒痛。
+肩背部疼痛僵硬，[LI15 肩髃](point/LI15.md) 处寒痛。
 
 #### 阐释 (Commentary)
 
-根据《难经》第三难，荥穴主治“身热”。[LI2 二间](./LI2.md) 作为大肠经的荥穴，能清泄经络上端（牙齿、鼻子、面部、咽喉和眼睛）的热邪和风邪。
+根据《难经》第三难，荥穴主治“身热”。[LI2 二间](point/LI2.md) 作为大肠经的荥穴，能清泄经络上端（牙齿、鼻子、面部、咽喉和眼睛）的热邪和风邪。
 
-将大肠经与互为表里的肺经，以及根据六经理论同属阳明的胃经联系起来看很有帮助。大肠经可视为肺经的外在反映，其远端穴位如[LI2 二间](./LI2.md) 用于驱散肺外部位的风热，特别是咽喉和鼻子，主治伴有发热恶寒的咽喉肿痛、鼻炎和鼻出血。至于胃经，胃肠积热可通过手阳明经传导，引起咽喉炎症、口干和牙痛。多种经典文献强调[LI2 二间](./LI2.md) 在治疗牙痛方面的应用，而非更常用的[LI4 合谷](./LI4.md)，这反映了远端穴位更具动力性和紧急性的特点。虽然大肠经不直接到达眼睛，但其相表里的阳明胃经起始于眼部，这解释了[LI2 二间](./LI2.md) 治疗眼部疾病的能力。
+将大肠经与互为表里的肺经，以及根据六经理论同属阳明的胃经联系起来看很有帮助。大肠经可视为肺经的外在反映，其远端穴位如[LI2 二间](point/LI2.md) 用于驱散肺外部位的风热，特别是咽喉和鼻子，主治伴有发热恶寒的咽喉肿痛、鼻炎和鼻出血。至于胃经，胃肠积热可通过手阳明经传导，引起咽喉炎症、口干和牙痛。多种经典文献强调[LI2 二间](point/LI2.md) 在治疗牙痛方面的应用，而非更常用的[LI4 合谷](point/LI4.md)，这反映了远端穴位更具动力性和紧急性的特点。虽然大肠经不直接到达眼睛，但其相表里的阳明胃经起始于眼部，这解释了[LI2 二间](point/LI2.md) 治疗眼部疾病的能力。
 
-[LI2 二间](./LI2.md) 的主治病症包括易受惊吓和嗜睡。它也出现在治疗伴有腰痛的牙痛组合中，以及与肾经多个穴位组合治疗嗜睡。这些主治症状暗示了肾脏失调，可能是因为作为大肠金经的水穴，[LI2 二间](./LI2.md) 被认为对肾虚证有效。
+[LI2 二间](point/LI2.md) 的主治病症包括易受惊吓和嗜睡。它也出现在治疗伴有腰痛的牙痛组合中，以及与肾经多个穴位组合治疗嗜睡。这些主治症状暗示了肾脏失调，可能是因为作为大肠金经的水穴，[LI2 二间](point/LI2.md) 被认为对肾虚证有效。
 
-最后，大肠经筋和经别都与脊柱相连，[LI2 二间](./LI2.md) 主治肩背部疼痛和僵硬。
+最后，大肠经筋和经别都与脊柱相连，[LI2 二间](point/LI2.md) 主治肩背部疼痛和僵硬。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -102,20 +102,20 @@ i. 向近端或远端斜刺0.2至0.3寸； ii. 向掌心方向直斜刺0.5寸。
 
 #### 穴位组合 (Combinations)
 
-牙痛伴腰痛和咽喉肿痛：[LI2 二间](./LI2.md) 和[LI5 阳溪](./LI5.md)（《席弘赋》）。
+牙痛伴腰痛和咽喉肿痛：[LI2 二间](point/LI2.md) 和[LI5 阳溪](point/LI5.md)（《席弘赋》）。
 
-下颌牙痛：[LI2 二间](./LI2.md)，[LI1 商阳](./LI1.md)，[SI5 阳谷](./SI5.md)，[SJ2 液门](./SJ2.md) 和[SJ9 四渎](./SJ9.md)（《千金方》）。
+下颌牙痛：[LI2 二间](point/LI2.md)，[LI1 商阳](point/LI1.md)，[SI5 阳谷](point/SI5.md)，[SJ2 液门](point/SJ2.md) 和[SJ9 四渎](point/SJ9.md)（《千金方》）。
 
-牙痛：[LI2 二间](./LI2.md) 和[SI18 颧髎](./SI18.md)（《针灸甲乙经》）。
+牙痛：[LI2 二间](point/LI2.md) 和[SI18 颧髎](point/SI18.md)（《针灸甲乙经》）。
 
-鼻炎伴鼻出血：[LI2 二间](./LI2.md)，[LI20 迎香](./LI20.md) 和[DU16 风府](./DU16.md)（《针灸大成》）。
+鼻炎伴鼻出血：[LI2 二间](point/LI2.md)，[LI20 迎香](point/LI20.md) 和[DU16 风府](point/DU16.md)（《针灸大成》）。
 
-眼痛：[LI2 二间](./LI2.md)，[LI5 阳溪](./LI5.md)，[PC7 大陵](./PC7.md)，[LI3 三间](./LI3.md)，[SI2 前谷](./SI2.md) 和[DU23 上星](./DU23.md)（《针灸大成》）。
+眼痛：[LI2 二间](point/LI2.md)，[LI5 阳溪](point/LI5.md)，[PC7 大陵](point/PC7.md)，[LI3 三间](point/LI3.md)，[SI2 前谷](point/SI2.md) 和[DU23 上星](point/DU23.md)（《针灸大成》）。
 
-嗜睡：[LI2 二间](./LI2.md)，[LI13 手五里](./LI13.md)，[KID3 太溪](./KID3.md)，[KID4 大钟](./KID4.md) 和[KID6 照海](./KID6.md)（《资生经》）。
+嗜睡：[LI2 二间](point/LI2.md)，[LI13 手五里](point/LI13.md)，[KID3 太溪](point/KID3.md)，[KID4 大钟](point/KID4.md) 和[KID6 照海](point/KID6.md)（《资生经》）。
 
-嗜睡：[LI2 二间](./LI2.md)，[LI3 三间](./LI3.md)，[KID3 太溪](./KID3.md)，[KID6 照海](./KID6.md)，[DU20 百会](./DU20.md)，[SJ10 天井](./SJ10.md)，[ST45 厉兑](./ST45.md) 和[BL18 肝俞](./BL18.md)（《针灸大成》）。
+嗜睡：[LI2 二间](point/LI2.md)，[LI3 三间](point/LI3.md)，[KID3 太溪](point/KID3.md)，[KID6 照海](point/KID6.md)，[DU20 百会](point/DU20.md)，[SJ10 天井](point/SJ10.md)，[ST45 厉兑](point/ST45.md) 和[BL18 肝俞](point/BL18.md)（《针灸大成》）。
 
-过度惊吓：[LI2 二间](./LI2.md)，[HE6 阴郄](./HE6.md)，[PC5 间使](./PC5.md) 和[ST45 厉兑](./ST45.md)（《资生经》）。
+过度惊吓：[LI2 二间](point/LI2.md)，[HE6 阴郄](point/HE6.md)，[PC5 间使](point/PC5.md) 和[ST45 厉兑](point/ST45.md)（《资生经》）。
 
 ---

@@ -42,18 +42,18 @@ Although less important than its neighbouring point [Xiàguān ST-7](https://ap
 - Hemiplegia with deviation of the mouth and eye: Shàngguān GB-3 and [Xiàguān ST-7](https://app.amanualofacupuncture.com/point/ST-7) (Supplementing Life).
 - Lockjaw: Shàngguān GB-3, [Jiáchē ST-6](https://app.amanualofacupuncture.com/point/ST-6) and Ahshi points (Compilation).
 
-### 1. [GB3 上关](./GB3.md)
+### 1. [GB3 上关](point/GB3.md)
 
 
 - 胆经、三焦经和胃经的交会穴
 
 #### 1.2. 定位
 
-位于耳前，颧弓上缘上方的一个凹陷处，正对[ST7 下关](./ST7.md)上方。
+位于耳前，颧弓上缘上方的一个凹陷处，正对[ST7 下关](point/ST7.md)上方。
 
 #### 1.3. 定位说明
 
-首先定位[ST7 下关](./ST7.md)，在颧弓下缘、下颌骨髁突前方的凹陷处。然后将手指向上滑过颧弓，进入凹陷处。
+首先定位[ST7 下关](point/ST7.md)，在颧弓下缘、下颌骨髁突前方的凹陷处。然后将手指向上滑过颧弓，进入凹陷处。
 
 #### 1.4. 针刺方法
 
@@ -72,7 +72,7 @@ Although less important than its neighbouring point [Xiàguān ST-7](https://ap
 
 #### 1.7. 论述
 
-虽然重要性不及邻近的[ST7 下关](./ST7.md)，[GB3 上关](./GB3.md)仍可作为局部穴位，用于治疗周围区域的疾患，包括耳、眼、面、牙、下颌、唇和头部。在治疗三叉神经痛时，有时会在教科书定位前0.5寸处针刺。
+虽然重要性不及邻近的[ST7 下关](point/ST7.md)，[GB3 上关](point/GB3.md)仍可作为局部穴位，用于治疗周围区域的疾患，包括耳、眼、面、牙、下颌、唇和头部。在治疗三叉神经痛时，有时会在教科书定位前0.5寸处针刺。
 
 #### 1.8. 临床应用总结
 
@@ -81,5 +81,5 @@ Although less important than its neighbouring point [Xiàguān ST-7](https://ap
 
 #### 1.9. 配伍
 
-- 偏瘫伴口眼歪斜：[GB3 上关](./GB3.md) + [ST7 下关](./ST7.md)（《补命》）。
-- 牙关紧闭：[GB3 上关](./GB3.md) + [ST6 颊车](./ST6.md) + 阿是穴（《汇编》）。
+- 偏瘫伴口眼歪斜：[GB3 上关](point/GB3.md) + [ST7 下关](point/ST7.md)（《补命》）。
+- 牙关紧闭：[GB3 上关](point/GB3.md) + [ST6 颊车](point/ST6.md) + 阿是穴（《汇编》）。

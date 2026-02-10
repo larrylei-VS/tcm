@@ -46,12 +46,12 @@ Finally, Qiángǔ SI-2 is indicated for stiffness and pain along the Small Int
 - Malaria with chills and fever: Qiángǔ SI-2, [Lièquē LU-7](https://app.amanualofacupuncture.com/point/LU-7), [Hòuxī SI-3](https://app.amanualofacupuncture.com/point/SI-3) and [Shàozé SI-1](https://app.amanualofacupuncture.com/point/SI-1) (Thousand Ducat Formulas).
 
 ---
-### **[SI2 前谷](./SI2.md)** (QIÁNGǓ)
+### **[SI2 前谷](point/SI2.md)** (QIÁNGǓ)
 
 * **英文名称：** Front Valley
 * **中文名称：** 前谷
 * **国际代码：** SI-2
-* **穴位属性：** **[SI2 前谷](./SI2.md)** 是小肠经的荥穴和水穴。
+* **穴位属性：** **[SI2 前谷](point/SI2.md)** 是小肠经的荥穴和水穴。
 
 #### **定位 (Location)**
 
@@ -76,11 +76,11 @@ i. 斜刺，向远端刺0.2至0.3寸； ii. 垂直斜刺，向掌心方向刺0.5
 
 #### **阐释 (Commentary)**
 
-根据《难经》记载，荥穴主治“身热”，而作为小肠火经的荥穴和水穴，**[SI2 前谷](./SI2.md)** 在清火方面有特别强的作用。**[SI2 前谷](./SI2.md)** 属太阳经，是六经中最表层的一条，能够清泄体表，特别是眼、鼻、耳部的热邪（尤其是外感风热）。它主治眼痛如裂、眼睛红赤、鼻塞、鼻出血和耳鸣。它还能清泄肺和咽喉的外邪热（咳嗽、咽喉肿痛、发热口渴），并治疗疟疾。
+根据《难经》记载，荥穴主治“身热”，而作为小肠火经的荥穴和水穴，**[SI2 前谷](point/SI2.md)** 在清火方面有特别强的作用。**[SI2 前谷](point/SI2.md)** 属太阳经，是六经中最表层的一条，能够清泄体表，特别是眼、鼻、耳部的热邪（尤其是外感风热）。它主治眼痛如裂、眼睛红赤、鼻塞、鼻出血和耳鸣。它还能清泄肺和咽喉的外邪热（咳嗽、咽喉肿痛、发热口渴），并治疗疟疾。
 
-当热邪毒盛时，可能引起毒热，表现为炎症、疼痛和肿胀。**[SI2 前谷](./SI2.md)** 主治痄腮、面颊肿胀放射至耳部以及颈部和咽喉肿痛。
+当热邪毒盛时，可能引起毒热，表现为炎症、疼痛和肿胀。**[SI2 前谷](point/SI2.md)** 主治痄腮、面颊肿胀放射至耳部以及颈部和咽喉肿痛。
 
-最后，**[SI2 前谷](./SI2.md)** 主治小肠经从手部到颈部的僵硬和疼痛，以及手指和掌心的麻木和发热。
+最后，**[SI2 前谷](point/SI2.md)** 主治小肠经从手部到颈部的僵硬和疼痛，以及手指和掌心的麻木和发热。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -88,12 +88,12 @@ i. 斜刺，向远端刺0.2至0.3寸； ii. 垂直斜刺，向掌心方向刺0.5
 
 #### **穴位组合 (Combinations)**
 
-* 咽喉肿胀不能吞咽：**[SI2 前谷](./SI2.md)**，**[KID6 照海](./KID6.md)** 和 **[LIV4 中封](./LIV4.md)**（《千金方》）。
-* 咽喉疲倦，颈部肿胀不能转头，面颊肿胀放射至耳部：**[SI2 前谷](./SI2.md)**，**[GB12 完骨](./GB12.md)** 和 **[SJ16 天牖](./SJ16.md)**（《千金方》）。
-* 耳聋：**[SI2 前谷](./SI2.md)**，**[SI3 后溪](./SI3.md)** 和 **[LI6 偏历](./LI6.md)**（《资生经》）。
-* 耳鸣：**[SI2 前谷](./SI2.md)**，**[LI6 偏历](./LI6.md)**，**[LI5 阳溪](./LI5.md)**，**[LI1 商阳](./LI1.md)**，**[BL8 络却](./BL8.md)** 和 **[SI4 腕骨](./SI4.md)**（《资生经》）。
-* 眼痛：**[SI2 前谷](./SI2.md)**，**[LI5 阳溪](./LI5.md)**，**[LI2 二间](./LI2.md)**，**[PC7 大陵](./PC7.md)**，**[LI3 三间](./LI3.md)** 和 **[DU23 上星](./DU23.md)**（《针灸大成》）。
-* 外障眼病：**[SI2 前谷](./SI2.md)** 和 **[BL64 京骨](./BL64.md)**（《千金方》）。
-* 疟疾伴恶寒发热：**[SI2 前谷](./SI2.md)**，**[LU7 列缺](./LU7.md)**，**[SI3 后溪](./SI3.md)** 和 **[SI1 少泽](./SI1.md)**（《千金方》）。
+* 咽喉肿胀不能吞咽：**[SI2 前谷](point/SI2.md)**，**[KID6 照海](point/KID6.md)** 和 **[LIV4 中封](point/LIV4.md)**（《千金方》）。
+* 咽喉疲倦，颈部肿胀不能转头，面颊肿胀放射至耳部：**[SI2 前谷](point/SI2.md)**，**[GB12 完骨](point/GB12.md)** 和 **[SJ16 天牖](point/SJ16.md)**（《千金方》）。
+* 耳聋：**[SI2 前谷](point/SI2.md)**，**[SI3 后溪](point/SI3.md)** 和 **[LI6 偏历](point/LI6.md)**（《资生经》）。
+* 耳鸣：**[SI2 前谷](point/SI2.md)**，**[LI6 偏历](point/LI6.md)**，**[LI5 阳溪](point/LI5.md)**，**[LI1 商阳](point/LI1.md)**，**[BL8 络却](point/BL8.md)** 和 **[SI4 腕骨](point/SI4.md)**（《资生经》）。
+* 眼痛：**[SI2 前谷](point/SI2.md)**，**[LI5 阳溪](point/LI5.md)**，**[LI2 二间](point/LI2.md)**，**[PC7 大陵](point/PC7.md)**，**[LI3 三间](point/LI3.md)** 和 **[DU23 上星](point/DU23.md)**（《针灸大成》）。
+* 外障眼病：**[SI2 前谷](point/SI2.md)** 和 **[BL64 京骨](point/BL64.md)**（《千金方》）。
+* 疟疾伴恶寒发热：**[SI2 前谷](point/SI2.md)**，**[LU7 列缺](point/LU7.md)**，**[SI3 后溪](point/SI3.md)** 和 **[SI1 少泽](point/SI1.md)**（《千金方》）。
 
 ---

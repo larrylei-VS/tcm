@@ -34,7 +34,7 @@ The principal clinical use of Yāoyángguān DU-3 is in the treatment of dual 
 - Also for seminal emission, impotence, white turbidity, disorders of menstruation, leucorrhoea.
 
 
-### 1. [DU3 腰阳关](./DU3.md)
+### 1. [DU3 腰阳关](point/DU3.md)
 
 #### 1.1. Lumbar Yang Gate 腰陽關
 
@@ -64,7 +64,7 @@ The principal clinical use of Yāoyángguān DU-3 is in the treatment of dual 
 
 #### 1.7. 论述
 
-[DU3 腰阳关](./DU3.md)的主要临床应用是治疗腰部及腿部的双重疾患，是背部治疗下肢疾患的主穴之一。  
+[DU3 腰阳关](point/DU3.md)的主要临床应用是治疗腰部及腿部的双重疾患，是背部治疗下肢疾患的主穴之一。  
 
 #### 1.8. 临床应用总结
 

@@ -35,7 +35,7 @@ i. Oblique insertion 0.3 to 0.5 cun; or ii. Transverse insertion to join with
 - Deviation of the mouth with inability to speak: Dàyíng ST-5, [Chéngqì ST-1](https://app.amanualofacupuncture.com/point/ST-1), [Sìbái ST-2](https://app.amanualofacupuncture.com/point/ST-2), [Jùliáo ST-3](https://app.amanualofacupuncture.com/point/ST-3), [Kǒuhéliáo LI-19](https://app.amanualofacupuncture.com/point/LI-19), [Shàngguān GB-3](https://app.amanualofacupuncture.com/point/GB-3), [Quánliáo SI-18](https://app.amanualofacupuncture.com/point/SI-18), [Qiángjiān DU-18](https://app.amanualofacupuncture.com/point/DU-18), [Fēngchí GB-20](https://app.amanualofacupuncture.com/point/GB-20), [Yíngxiāng LI-20](https://app.amanualofacupuncture.com/point/LI-20) and [Rénzhōng DU-26](https://app.amanualofacupuncture.com/point/DU-26) (Supplementing Life).
 
 ---
-### [ST5 大迎](./ST5.md) (DÀYÍNG)
+### [ST5 大迎](point/ST5.md) (DÀYÍNG)
 
 * **英文名称：** Great Welcome
 * **中文名称：** 大迎
@@ -50,7 +50,7 @@ i. Oblique insertion 0.3 to 0.5 cun; or ii. Transverse insertion to join with
 
 #### 针刺方法 (Needling)
 
-i. 斜刺0.3至0.5寸；或 ii. 横刺透向[ST4 地仓](./ST4.md)、[ST6 颊车](./ST6.md) 等穴。
+i. 斜刺0.3至0.5寸；或 ii. 横刺透向[ST4 地仓](point/ST4.md)、[ST6 颊车](point/ST6.md) 等穴。
 
 * **注意 (Caution):** 禁忌大力提插捻转，以避免损伤面动脉和面静脉。
 
@@ -66,11 +66,11 @@ i. 斜刺0.3至0.5寸；或 ii. 横刺透向[ST4 地仓](./ST4.md)、[ST6 颊车
 #### 临床应用总结 (Summary of clinical application)
 
 * 治疗颌部、口、唇和牙齿疾病的局部穴位：口歪，口唇抽动，下颌牙痛，频频呵欠，舌僵不能言语。
-* 临床上较[ST6 颊车](./ST6.md) 较少使用。
+* 临床上较[ST6 颊车](point/ST6.md) 较少使用。
 
 #### 穴位组合 (Combinations)
 
-* 牙痛伴恶寒：[ST5 大迎](./ST5.md)，[SI18 颧髎](./SI18.md)，[GB2 听会](./GB2.md) 和[LI11 曲池](./LI11.md)（《千金方》）。
-* 龋齿痛：[ST5 大迎](./ST5.md)，[LI3 三间](./LI3.md) 和[GB17 正营](./GB17.md)（《资生经》）。
-* 牙痛和龋齿：[ST5 大迎](./ST5.md)，[ST7 下关](./ST7.md)，[SJ17 翳风](./SJ17.md) 和[SI4 腕骨](./SI4.md)（《资生经》）。
-* 口歪不能言语：[ST5 大迎](./ST5.md)，[ST1 承泣](./ST1.md)，[ST2 四白](./ST2.md)，[ST3 巨髎](./ST3.md)，[LI19 口禾髎](./LI19.md)，[GB3 上关](./GB3.md)，[SI18 颧髎](./SI18.md)，[DU18 强间](./DU18.md)，[GB20 风池](./GB20.md)，[LI20 迎香](./LI20.md) 和[DU26 人中](./DU26.md)（《资生经》）。
+* 牙痛伴恶寒：[ST5 大迎](point/ST5.md)，[SI18 颧髎](point/SI18.md)，[GB2 听会](point/GB2.md) 和[LI11 曲池](point/LI11.md)（《千金方》）。
+* 龋齿痛：[ST5 大迎](point/ST5.md)，[LI3 三间](point/LI3.md) 和[GB17 正营](point/GB17.md)（《资生经》）。
+* 牙痛和龋齿：[ST5 大迎](point/ST5.md)，[ST7 下关](point/ST7.md)，[SJ17 翳风](point/SJ17.md) 和[SI4 腕骨](point/SI4.md)（《资生经》）。
+* 口歪不能言语：[ST5 大迎](point/ST5.md)，[ST1 承泣](point/ST1.md)，[ST2 四白](point/ST2.md)，[ST3 巨髎](point/ST3.md)，[LI19 口禾髎](point/LI19.md)，[GB3 上关](point/GB3.md)，[SI18 颧髎](point/SI18.md)，[DU18 强间](point/DU18.md)，[GB20 风池](point/GB20.md)，[LI20 迎香](point/LI20.md) 和[DU26 人中](point/DU26.md)（《资生经》）。

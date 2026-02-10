@@ -55,7 +55,7 @@ Finally, although indicated for deficiency-taxation and lower origin (yuan) defi
 - Running piglet qi: Shímén CV-5, [Zhāngmén LIV-13](https://app.amanualofacupuncture.com/point/LIV-13) and [Sānyīnjiāo SP-6](https://app.amanualofacupuncture.com/point/SP-6) (Thousand Ducat Formulas).
 - Running piglet qi in women: Shímén CV-5, [Zhōngjí CV-3](https://app.amanualofacupuncture.com/point/CV-3), [Guānyuán CV-4](https://app.amanualofacupuncture.com/point/CV-4), [Qímén LIV-14](https://app.amanualofacupuncture.com/point/LIV-14), [Sānyīnjiāo SP-6](https://app.amanualofacupuncture.com/point/SP-6) and [Xuèhǎi SP-10](https://app.amanualofacupuncture.com/point/SP-10) (Supplementing Life).
 
-### 1. [CV5 石门](./CV5.md)
+### 1. [CV5 石门](point/CV5.md)
 
 #### 1.1. Stone Gate 石門
 
@@ -87,13 +87,13 @@ Finally, although indicated for deficiency-taxation and lower origin (yuan) defi
 
 #### 1.6. 论述
 
-[CV5 石门](./CV5.md)是三焦的前募穴。“募”意为聚集或收集，前募穴是脏腑之气在前胸腹壁聚集之处。《素问》称：“三焦为决渎之官，主水道。”《难经》谓：“三焦为水谷之道。”《类经》称：“下焦不治，则肠膀胱水病。”[CV5 石门](./CV5.md)适用于液体滞留引起的尿难、尿潴留、淋病及水肿，以及腹泻、泻下未消化食物及痢疾。  
+[CV5 石门](point/CV5.md)是三焦的前募穴。“募”意为聚集或收集，前募穴是脏腑之气在前胸腹壁聚集之处。《素问》称：“三焦为决渎之官，主水道。”《难经》谓：“三焦为水谷之道。”《类经》称：“下焦不治，则肠膀胱水病。”[CV5 石门](point/CV5.md)适用于液体滞留引起的尿难、尿潴留、淋病及水肿，以及腹泻、泻下未消化食物及痢疾。  
 
-[CV5 石门](./CV5.md)还能调下腹及生殖区的气滞止痛，强效用于下腹绞痛、脐周剧痛的疝病、腹胀及生殖器上缩、肿痛。  
+[CV5 石门](point/CV5.md)还能调下腹及生殖区的气滞止痛，强效用于下腹绞痛、脐周剧痛的疝病、腹胀及生殖器上缩、肿痛。  
 
-汉语俗称不孕女性为“石女”，而“石门”意为“石门”或“石户”，此穴别名“绝孕”。这些名称反映其经典认为的独特属性——针刺可致女子终身不孕。《针灸大成》、《针灸系统经典》、《铜人腧穴针灸图经》及《类经图翼》均警告针此穴可致不孕。现代针灸文献未提及此警告。[CV5 石门](./CV5.md)调子宫及月经的功能还见于其治疗恶露不尽、腹中瘕块、子宫出血及带下的指征。  
+汉语俗称不孕女性为“石女”，而“石门”意为“石门”或“石户”，此穴别名“绝孕”。这些名称反映其经典认为的独特属性——针刺可致女子终身不孕。《针灸大成》、《针灸系统经典》、《铜人腧穴针灸图经》及《类经图翼》均警告针此穴可致不孕。现代针灸文献未提及此警告。[CV5 石门](point/CV5.md)调子宫及月经的功能还见于其治疗恶露不尽、腹中瘕块、子宫出血及带下的指征。  
 
-虽指用于虚劳及下元虚寒，但与邻近的[CV4 关元](./CV4.md)及[CV6 气海](./CV6.md)相比，[CV5 石门](./CV5.md)虚证指征少，主要用于实证。  
+虽指用于虚劳及下元虚寒，但与邻近的[CV4 关元](point/CV4.md)及[CV6 气海](point/CV6.md)相比，[CV5 石门](point/CV5.md)虚证指征少，主要用于实证。  
 
 #### 1.7. 临床应用总结
 
@@ -103,14 +103,14 @@ Finally, although indicated for deficiency-taxation and lower origin (yuan) defi
 
 #### 1.8. 配伍
 
-- 尿不出：[CV5 石门](./CV5.md) + [CV4 关元](./CV4.md) + [SP6 三阴交](./SP6.md) + [CV3 中极](./CV3.md) + [CV2 曲骨](./CV2.md)（《补命》）。  
-- 下腹硬痛放射至生殖器伴尿不出：[CV5 石门](./CV5.md) + [BL39 委阳](./BL39.md) + [CV7 阴交](./CV7.md)（《补命》）。  
-- 下腹痛放射至生殖器：[CV5 石门](./CV5.md) + [SP5 商丘](./SP5.md)（《千金方》）。  
-- 下腹痉挛痛：[CV5 石门](./CV5.md) + [CV9 水分](./CV9.md)（《千金方》）。  
-- 下腹疝病：[CV5 石门](./CV5.md) + [ST25 天枢](./ST25.md) + [CV8 神阙](./CV8.md) + [CV6 气海](./CV6.md)（《千金方》）。  
-- 脐周疝病：[CV5 石门](./CV5.md) + [CV8 神阙](./CV8.md) + [ST25 天枢](./ST25.md)（《补命》）。  
-- 女子多产：[CV5 石门](./CV5.md) + [SP6 三阴交](./SP6.md)（《大成》）。  
-- 子宫出血不止：[CV5 石门](./CV5.md) + [CV7 阴交](./CV7.md)（《补命》）。  
-- 子宫出血不止：[CV5 石门](./CV5.md) + [CV3 中极](./CV3.md) + [MCA18 子宫](./MCA18.md) + [BL23 肾俞](./BL23.md)（《大成》）。  
-- 奔豚气：[CV5 石门](./CV5.md) + [LIV13 章门](./LIV13.md) + [SP6 三阴交](./SP6.md)（《千金方》）。  
-- 女子奔豚气：[CV5 石门](./CV5.md) + [CV3 中极](./CV3.md) + [CV4 关元](./CV4.md) + [LIV14 期门](./LIV14.md) + [SP6 三阴交](./SP6.md) + [SP10 血海](./SP10.md)（《补命》）。  
+- 尿不出：[CV5 石门](point/CV5.md) + [CV4 关元](point/CV4.md) + [SP6 三阴交](point/SP6.md) + [CV3 中极](point/CV3.md) + [CV2 曲骨](point/CV2.md)（《补命》）。  
+- 下腹硬痛放射至生殖器伴尿不出：[CV5 石门](point/CV5.md) + [BL39 委阳](point/BL39.md) + [CV7 阴交](point/CV7.md)（《补命》）。  
+- 下腹痛放射至生殖器：[CV5 石门](point/CV5.md) + [SP5 商丘](point/SP5.md)（《千金方》）。  
+- 下腹痉挛痛：[CV5 石门](point/CV5.md) + [CV9 水分](point/CV9.md)（《千金方》）。  
+- 下腹疝病：[CV5 石门](point/CV5.md) + [ST25 天枢](point/ST25.md) + [CV8 神阙](point/CV8.md) + [CV6 气海](point/CV6.md)（《千金方》）。  
+- 脐周疝病：[CV5 石门](point/CV5.md) + [CV8 神阙](point/CV8.md) + [ST25 天枢](point/ST25.md)（《补命》）。  
+- 女子多产：[CV5 石门](point/CV5.md) + [SP6 三阴交](point/SP6.md)（《大成》）。  
+- 子宫出血不止：[CV5 石门](point/CV5.md) + [CV7 阴交](point/CV7.md)（《补命》）。  
+- 子宫出血不止：[CV5 石门](point/CV5.md) + [CV3 中极](point/CV3.md) + [MCA18 子宫](point/MCA18.md) + [BL23 肾俞](point/BL23.md)（《大成》）。  
+- 奔豚气：[CV5 石门](point/CV5.md) + [LIV13 章门](point/LIV13.md) + [SP6 三阴交](point/SP6.md)（《千金方》）。  
+- 女子奔豚气：[CV5 石门](point/CV5.md) + [CV3 中极](point/CV3.md) + [CV4 关元](point/CV4.md) + [LIV14 期门](point/LIV14.md) + [SP6 三阴交](point/SP6.md) + [SP10 血海](point/SP10.md)（《补命》）。  

@@ -45,12 +45,12 @@ The Small Intestine primary and sinew channels connect with the outer canthus, a
 - Dimness of vision: Yǎnglǎo SI-6, [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4) and [Qūchāi BL-4](https://app.amanualofacupuncture.com/point/BL-4) (Supplementing Life).
 
 ---
-### **[SI6 养老](./SI6.md)** (YǍNGLǍO)
+### **[SI6 养老](point/SI6.md)** (YǍNGLǍO)
 
 * **英文名称：** Support the Aged
 * **中文名称：** 养老
 * **国际代码：** SI-6
-* **穴位属性：** **[SI6 养老](./SI6.md)** 是小肠经的郄穴。
+* **穴位属性：** **[SI6 养老](point/SI6.md)** 是小肠经的郄穴。
 
 #### **定位 (Location)**
 
@@ -77,9 +77,9 @@ The Small Intestine primary and sinew channels connect with the outer canthus, a
 
 #### **阐释 (Commentary)**
 
-**[SI6 养老](./SI6.md)** 是小肠经的郄穴。郄穴是气血从井穴沿经脉相对浅层流注到此聚集并深入的地方。郄穴通常主治急性病症和疼痛。**[SI6 养老](./SI6.md)** 尤其用于治疗肩部、肩胛和手臂的剧烈疼痛，疼痛感犹如骨折或脱臼。此作用延伸至其相表里的足太阳（膀胱）经，因此 **[SI6 养老](./SI6.md)** 也可作为远端穴位用于治疗急性腰扭伤，以及筋脉挛缩和足部痹痛。
+**[SI6 养老](point/SI6.md)** 是小肠经的郄穴。郄穴是气血从井穴沿经脉相对浅层流注到此聚集并深入的地方。郄穴通常主治急性病症和疼痛。**[SI6 养老](point/SI6.md)** 尤其用于治疗肩部、肩胛和手臂的剧烈疼痛，疼痛感犹如骨折或脱臼。此作用延伸至其相表里的足太阳（膀胱）经，因此 **[SI6 养老](point/SI6.md)** 也可作为远端穴位用于治疗急性腰扭伤，以及筋脉挛缩和足部痹痛。
 
-小肠经正经和经筋都与外眼角相连，正经也与内眼角相连。**[SI6 养老](./SI6.md)** 因其在治疗以视物模糊和视力减退为特征的虚证眼疾方面的应用而闻名，大多数医家以此作用来解释此穴名称“养老”。
+小肠经正经和经筋都与外眼角相连，正经也与内眼角相连。**[SI6 养老](point/SI6.md)** 因其在治疗以视物模糊和视力减退为特征的虚证眼疾方面的应用而闻名，大多数医家以此作用来解释此穴名称“养老”。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -88,9 +88,9 @@ The Small Intestine primary and sinew channels connect with the outer canthus, a
 
 #### **穴位组合 (Combinations)**
 
-* 肩痛如折：**[SI6 养老](./SI6.md)** 和 **[BL10 天柱](./BL10.md)**（《千金方》）。
-* 腰膝疼痛：**[SI6 养老](./SI6.md)**，**[GB30 环跳](./GB30.md)**，**[GB34 阳陵泉](./GB34.md)**，**[BL60 昆仑](./BL60.md)** 和 **[BL62 申脉](./BL62.md)**（《图翼》）。
-* 视力模糊：**[SI6 养老](./SI6.md)** 和 **[BL10 天柱](./BL10.md)**（《百症赋》）。
-* 视物模糊：**[SI6 养老](./SI6.md)**，**[LI4 合谷](./LI4.md)** 和 **[BL4 曲差](./BL4.md)**（《资生经》）。
+* 肩痛如折：**[SI6 养老](point/SI6.md)** 和 **[BL10 天柱](point/BL10.md)**（《千金方》）。
+* 腰膝疼痛：**[SI6 养老](point/SI6.md)**，**[GB30 环跳](point/GB30.md)**，**[GB34 阳陵泉](point/GB34.md)**，**[BL60 昆仑](point/BL60.md)** 和 **[BL62 申脉](point/BL62.md)**（《图翼》）。
+* 视力模糊：**[SI6 养老](point/SI6.md)** 和 **[BL10 天柱](point/BL10.md)**（《百症赋》）。
+* 视物模糊：**[SI6 养老](point/SI6.md)**，**[LI4 合谷](point/LI4.md)** 和 **[BL4 曲差](point/BL4.md)**（《资生经》）。
 
 ---

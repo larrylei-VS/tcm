@@ -29,7 +29,7 @@ Oblique distal or proximal insertion, 0.5 to 1 cun, avoiding the brachial artery
 - Pain of the shoulder and upper arm: Qīnglíng HE-2, [Jiānyú LI-15](https://app.amanualofacupuncture.com/point/LI-15) and [Qūchí LI-11](https://app.amanualofacupuncture.com/point/LI-11).
 
 ---
-### **[HE2 青灵](./HE2.md)** (QĪNGLÍNG)
+### **[HE2 青灵](point/HE2.md)** (QĪNGLÍNG)
 
 * **英文名称：** Green Spirit
 * **中文名称：** 青灵
@@ -37,11 +37,11 @@ Oblique distal or proximal insertion, 0.5 to 1 cun, avoiding the brachial artery
 
 #### **定位 (Location)**
 
-位于肘横纹内侧端上方3寸，在连接 **[HE1 极泉](./HE1.md)** 与 **[HE3 少海](./HE3.md)** 的连线上。
+位于肘横纹内侧端上方3寸，在连接 **[HE1 极泉](point/HE1.md)** 与 **[HE3 少海](point/HE3.md)** 的连线上。
 
 * **定位要点 (Location Notes):**
     * 屈肘时定位；
-    * 此穴位于肱二头肌内侧沟中，距 **[HE3 少海](./HE3.md)** 上方一横掌处。
+    * 此穴位于肱二头肌内侧沟中，距 **[HE3 少海](point/HE3.md)** 上方一横掌处。
 
 #### **针刺方法 (Needling)**
 
@@ -58,7 +58,7 @@ Oblique distal or proximal insertion, 0.5 to 1 cun, avoiding the brachial artery
 
 #### **阐释 (Commentary)**
 
-**[HE2 青灵](./HE2.md)** 位于心经循行路线上，其名称“青灵”可能暗示其在肝（青色）与心神（灵）之间的联系，或在疏通经络、活血止痛方面的作用。
+**[HE2 青灵](point/HE2.md)** 位于心经循行路线上，其名称“青灵”可能暗示其在肝（青色）与心神（灵）之间的联系，或在疏通经络、活血止痛方面的作用。
 
 此穴主要用于治疗肩臂部经络循行所过之处的疼痛、肿胀和活动不利。它主治不能抬肩抬臂，肩部肿痛红赤，以及腋窝疼痛。此外，它对头痛伴恶寒发抖、眼睛发黄和胁肋部疼痛也有一定的治疗作用，这些都可能与经络气血不畅或热邪相关。传统上，它也被用于治疗瘰疬。
 
@@ -70,6 +70,6 @@ Oblique distal or proximal insertion, 0.5 to 1 cun, avoiding the brachial artery
 
 #### **穴位组合 (Combinations)**
 
-* 肩臂疼痛：**[HE2 青灵](./HE2.md)**，**[LI15 肩髃](./LI15.md)** 和 **[LI11 曲池](./LI11.md)**。
+* 肩臂疼痛：**[HE2 青灵](point/HE2.md)**，**[LI15 肩髃](point/LI15.md)** 和 **[LI11 曲池](point/LI11.md)**。
 
 ---
